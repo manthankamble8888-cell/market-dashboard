@@ -1,0 +1,33 @@
+{
+  "Nifty 50": {
+    "price": 24207.75,
+    "change": -126.8,
+    "pct": -0.52
+  },
+  "Sensex": {
+    "price": 77472.94,
+    "change": -183.16,
+    "pct": -0.24
+  },
+  "Dow Jones": {
+    "price": 53433.43,
+    "change": -143.97,
+    "pct": -0.27
+  },
+  "Nasdaq": {
+    "price": 26057.44,
+    "change": -93.86,
+    "pct": -0.36
+  },
+  "Crude Oil (Brent)": {
+    "price": 88.05,
+    "change": -0.53,
+    "pct": -0.6
+  },
+  "USD/INR": {
+    "price": 95.4,
+    "change": -0.32,
+    "pct": -0.34
+  },
+  "last_updated": "2026-08-26 16:34 UTC"
+}
