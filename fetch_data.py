@@ -4,11 +4,17 @@ from datetime import datetime
 
 tickers = {
     "Nifty 50": "^NSEI",
+    "Bank Nifty": "^NSEBANK",
     "Sensex": "^BSESN",
+    "India VIX": "^INDIAVIX",
     "Dow Jones": "^DJI",
     "Nasdaq": "^IXIC",
+    "S&P 500": "^GSPC",
     "Crude Oil (Brent)": "BZ=F",
+    "Crude Oil (WTI)": "CL=F",
+    "Gold": "GC=F",
     "USD/INR": "INR=X",
+    "US 10Y Yield": "^TNX",
 }
 
 data = {}
