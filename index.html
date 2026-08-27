@@ -9,7 +9,11 @@
 body{font-family:sans-serif;background:#0f172a;color:#fff;margin:0;padding:16px}
 h2{font-size:15px;color:#94a3b8;margin:20px 0 8px;text-transform:uppercase;letter-spacing:1px}
 .card{background:#1e293b;border-radius:12px;padding:16px;margin-bottom:10px;display:flex;justify-content:space-between;align-items:center}
+.left{display:flex;flex-direction:column}
 .name{font-size:14px;color:#cbd5e1}
+.badge{font-size:11px;margin-top:4px;width:fit-content;padding:2px 8px;border-radius:8px}
+.open{background:#14532d;color:#4ade80}
+.closed{background:#450a0a;color:#f87171}
 .price{font-size:20px;font-weight:bold}
 .up{color:#22c55e}.down{color:#ef4444}
 #updated{font-size:12px;color:#64748b;margin-top:20px}
@@ -24,6 +28,33 @@ const groups = {
   "Commodities & Currency": ["Crude Oil (Brent)","Crude Oil (WTI)","Gold","USD/INR"],
   "Bonds": ["US 10Y Yield"]
 };
+
+function getISTParts(){
+  const now = new Date();
+  const ist = new Date(now.toLocaleString("en-US",{timeZone:"Asia/Kolkata"}));
+  return {day: ist.getDay(), mins: ist.getHours()*60 + ist.getMinutes()};
+}
+
+function isOpen(key){
+  const {day, mins} = getISTParts();
+  const isWeekday = day>=1 && day<=5;
+  if(["Nifty 50","Bank Nifty","Sensex","India VIX"].includes(key)){
+    return isWeekday && mins>=555 && mins<=930; // 9:15AM-3:30PM
+  }
+  if(["Dow Jones","Nasdaq","S&P 500","US 10Y Yield"].includes(key)){
+    // ~7:00PM - 1:30AM IST, weekdays (US session)
+    return isWeekday && (mins>=1140 || mins<=90);
+  }
+  if(["Crude Oil (Brent)","Crude Oil (WTI)","Gold"].includes(key)){
+    // near 24hrs, closed roughly 3:30AM-4:00AM IST
+    return !(mins>=210 && mins<=240);
+  }
+  if(key==="USD/INR"){
+    return isWeekday && mins>=540 && mins<=1020; // 9AM-5PM
+  }
+  return true;
+}
+
 async function loadData(){
   try{
     const res = await fetch('data.json?t='+Date.now());
@@ -34,12 +65,20 @@ async function loadData(){
       groups[groupName].forEach(key=>{
         const item = data[key];
         if(!item) return;
+        if(item.error){
+          c.innerHTML += `<div class="card"><span class="name">${key}</span><span style="color:#64748b">N/A</span></div>`;
+          return;
+        }
         const dir = item.pct>=0?'up':'down';
         const arrow = item.pct>=0?'▲':'▼';
-        c.innerHTML += `<div class="card"><span class="name">${key}</span><span><span class="price">${item.price??'N/A'}</span> <span class="${dir}">${arrow} ${item.pct??''}%</span></span></div>`;
+        const open = isOpen(key);
+        c.innerHTML += `<div class="card">
+          <div class="left"><span class="name">${key}</span><span class="badge ${open?'open':'closed'}">${open?'OPEN':'CLOSED'}</span></div>
+          <span><span class="price">${item.price}</span> <span class="${dir}">${arrow} ${item.pct}%</span></span>
+        </div>`;
       });
     }
-    document.getElementById('updated').innerText='Last updated: '+data.last_updated;
+    document.getElementById('updated').innerText='Last updated: '+data.last_updated+' (IST = UTC+5:30)';
   }catch(e){document.getElementById('cards').innerText='Failed to load data.';}
 }
 loadData(); setInterval(loadData,60000);
