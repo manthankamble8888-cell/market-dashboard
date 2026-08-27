@@ -19,9 +19,17 @@
     "change": -0.51,
     "pct": -4.6
   },
+  "Nifty IT": {
+    "price": 30318.85,
+    "change": -452.95,
+    "pct": -1.47
+  },
+  "Nifty Midcap": {
+    "error": "single positional indexer is out-of-bounds"
+  },
   "Dow Jones": {
-    "price": 53463.88,
-    "change": -113.52,
+    "price": 53463.9,
+    "change": -113.5,
     "pct": -0.21
   },
   "Nasdaq": {
@@ -34,30 +42,92 @@
     "change": -1.58,
     "pct": -0.02
   },
+  "Nikkei 225": {
+    "price": 66164.19,
+    "change": -97.97,
+    "pct": -0.15
+  },
+  "Hang Seng": {
+    "price": 25524.83,
+    "change": -128.14,
+    "pct": -0.5
+  },
   "Crude Oil (Brent)": {
-    "price": 86.17,
-    "change": -2.41,
-    "pct": -2.72
+    "price": 86.37,
+    "change": -2.21,
+    "pct": -2.49
   },
   "Crude Oil (WTI)": {
-    "price": 81.51,
-    "change": -0.85,
-    "pct": -1.03
+    "price": 81.71,
+    "change": -0.65,
+    "pct": -0.79
   },
   "Gold": {
-    "price": 4683.2,
-    "change": 45.1,
-    "pct": 0.97
+    "price": 4684.5,
+    "change": 46.4,
+    "pct": 1.0
+  },
+  "Silver": {
+    "price": 69.21,
+    "change": 0.57,
+    "pct": 0.83
   },
   "USD/INR": {
     "price": 95.4,
     "change": 1.85,
     "pct": 1.98
   },
+  "Dollar Index": {
+    "price": 99.13,
+    "change": 0.21,
+    "pct": 0.22
+  },
   "US 10Y Yield": {
     "price": 4.66,
     "change": 0.03,
     "pct": 0.54
   },
-  "last_updated": "2026-08-27 03:10 UTC"
+  "news": [
+    {
+      "title": "India equity outlook cut again as foreign funds seek value elsewhere in Asia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWTVVWDR5MlJvdy1zdjJfbXRtbjJrSHhENXMzam55clN5OFlPWTRWYlJxSmR3NUdNU09vY2VTNEU5ZXhkUzhxZEpqWGtlcjh6UEE2RVJhQjJGanZJQ2V3OHRfTnZMNjlLMm9kdk1XNDlfU01MMnRqeUpjVVNIZW82SFE4Z1NoSnFVNUhjemsyV2lkcU50SEl3SmpnbkRIelhMNlVtRTZjMXFlb3Bka0Y4Q294SWtGa3J3TkE?oc=5",
+      "published": "Wed, 26 Aug 2026 17:32:04 GMT"
+    },
+    {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Wed, 26 Aug 2026 07:51:45 GMT"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 27 August - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOT1FnbUJXbnBzMm14d2swOFNsZVVIVm53S1BYeE1UNFpWcEZrWU1ybHB6RWU4X2phc1ZWNEpacjVoVjQwRmZwZFh5YWc3M3NrOURHNUNFekthd3ZrZ0h5d1ZobWtsMDJIdFhUTWVDOFZWQTNaZFo3NFZINjYzbFNDSEJ0Ml9Rc0pBYmtjLW5PZHJsMm9WNG5pVmtnZ1lNeUI5V1NEWGFWTUFMTDBkSVo5Z29oZ0Y5SDJlNThETVZfSGFLMW5hX0hQNjJDQzB1dUdlSDhMVFdaeHg2RnJUMXBaaDJrallLLXZWWHp6RmVUcFFGcGsxdTIxdy1n0gH_AUFVX3lxTE42Mm1DVl84Ums1Rzd4TXc1endPVnVMVnJiandvb282Sm0wSklYdkRxaHNYQVk5RnV6MFRhc1ZhNDUtTFNyOWFDOVRsTDZIaVhmeGowekFzYU11M1pSY25QRTFKZXRXSUhYY19GNnhGTHFTMUFFQldHVkg0cWZuQUthNmZ0bnBjdXFOZ0pPazI5ZFh6WnFSempVclRZUHd0OVRHbDEyVlR2TUFOTlEyRHdHNkEwVTFNRXM5emgxMURqVldLZU1FNUswVUtfdTRYV0l3VXEwNXR2QXhTLTAycFE4aUlBRVByYnFMSmhDeS1McWJxbHotUEJUdTc1X2VEVQ?oc=5",
+      "published": "Thu, 27 Aug 2026 02:07:57 GMT"
+    },
+    {
+      "title": "NBCC Receives Rajasthan School Education Project | Sai Parenterals Arm Extends OTC Supply Agreement | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWVh5SWpwdGEwYjNXRnpYVU1UM3dVeU1CR2hObUtSYVRaejZneV9CUGFmX2tjWE03XzRHZGduRHFZNGNNMDNlSWlWc1p6RGF2T2hqbEdVMHk2WGg2ZzJ4UHlvT08taWlQV1hoY2VDZXlRZWpaZEx4Rm9fTUVXamNnUGgyZHNGSmlXRDIwV3dhWTBGMmkwa1NUYk9XT0pqZ2hzZDVvNnlCT1RwUjNXVk9aYXNjdGNrdWhTM0VJTFhYcklhT2dsNlFIUVJydTZDUzhtSVFyME9kbU5HbVFaNnlYY2RvaFp1MzNRZUdZZ1pnR0VOXy0zVnFSX2ViZVh0ZVlJNFNNNG5kdjBwUWY1cGgtU0FB?oc=5",
+      "published": "Thu, 27 Aug 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Asian markets rally, India buckles under pressure: A tale of diverging trends - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZnBIZkRlQkFUUFNjdmpLWE5hYmpwNG5KLU5xMFlESGZxMFJuX1RhNjlzXzJwYzBhN0R2VTgyNnBQZkZzQm1xMExTTDdORmpiVVAtYUVkN3g4NVlYblN1eHZMUHpQUFhlc3FucGtLOUFLRUpEV1c4U1FUSGtvWm8tbnc5VW9fRGtKZzZmOWM1SVF3SEpCUGEwSnU2eFBhNGNVaXA3WElFOXpsc2NWS05LMG1iSVRnMWl1NERLYzNLNjNscDIxRUh6S9IB1gFBVV95cUxPbTVmT0tUTHNsUXNPdTRSUUQ4cHlSendIV0VyTmVrWDdMbTdtSFgxOUxfOC1FWFpUNnZHUjYxNGFsRGtSczhPYlA4dURNc0VBUnRUZ3Q0SG12eU9DV2FDclFQNXB1eHB1bVRsYzBwalowcGFDSkI1RkszOUQ5V2U4VTRad1BRcTBHbzNrUGRlVWxyZ1kxMDlOZ1BYUGpzMkt0eU5ZdEd2OVlsdWxEYkctVDRXcGRYWXdJVkc3RFktSFlza2JvWFhGS2l1czF4V1ZKWFNYSXJB?oc=5",
+      "published": "Wed, 26 Aug 2026 13:22:26 GMT"
+    },
+    {
+      "title": "Inside India newsletter: U.S., Russia vie for a bigger slice of the world\u2019s third-largest energy market - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1azhYYUV1S2M3dTRYZ0FzWldPVXJjdzRBME40QktGTUVITzhQRmttNW9uM2tJRlhfR25leU90WENSelc5M1dOb290d3cxMEtXdW9OZ3YwQzZUbjJSaFNtSVZoMlVsUy1VUHVFdXp6c3Bnb0puTEgzOE9B0gF_QVVfeXFMUE12NnhWNVllbHA3VVJPQTZPdFJSRTktelR2Vzh5V0kzdm5RQklGRVQzQzEzQ0ZUcG1PLWZFUENORnVSdHlKbXp3ZnVmMEdVcTFYa2JwM1F5TXRrWkViY3hTaVNDUFc0WG5SdGNzWnNTa0xLLTNTbVg3N2dHS1VJNA?oc=5",
+      "published": "Thu, 27 Aug 2026 00:03:00 GMT"
+    },
+    {
+      "title": "From Gift Nifty to Nvidia earnings, crude oil prices: 7 key things that changed for Indian stock market overnight - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOandrODVWWmk2Z0pkNDduNjlMcVdCSUhhTkJvM1JqakJGcmVEajdCSG5HZzFqQ0c4X09BNG9fMmJvUlJBNFYxWThIZ2pJN21ncUpIZTA5UjFsWGkyczk1X2hJRkdiUHNsZ3hMa3FUWE54ZE1IY0dQR1I4b3RON3p0VFhVVjl1eGRKS1hQb05qWU9lX0YxaHBnUE9aU0RZQ3Y4cVUyeEJuUTRJMzFwOU9RZEJQT2VvMFNGOUFxc2MycVdQMGwwQUJabllYOXdtZXVhRlF0OERNc0tLZlJyMXhPZTNoemh1T05nS1pfTThqZ3FFSkptWHU0TFZQUnI5RWNOc0hDOVN5R1JMR1V3M2fSAZMCQVVfeXFMUDVUYXZsZ2xMNTBLXzhZZzRTSF93NmNjRHhnVFU4VzFmdHZ3WXgtZnAyOXBuRDhtM2xGcWFXRlM1UG1RdXdvYjdaVVVHb2Q5Zk5EZWlvUldTYVNMeEJ1SWlab01hakJyUmRNSEFuOXlEMkdPd2xEeHJLR2dsWDhfbHoxY21HTnNNeEFDYXBKLTZwQl8zcWZNZlpycmZMYmRmMzVXZlpIXzlJZVZGMmRHWm0yTWtnQ0dPVHYydXJHamlGeXh2d2t1djllcW5fTGVhUHVWTUlZSXVUSmpiUUtjUUdDMlJQRm5IRmNOTmgwQzZ0bVl5eVZjSjFZNGM0dmN1dno5dlBodzNfcXA4ZF9sU1kxOUE?oc=5",
+      "published": "Thu, 27 Aug 2026 01:47:29 GMT"
+    },
+    {
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
+      "published": "Wed, 26 Aug 2026 07:33:37 GMT"
+    }
+  ],
+  "last_updated": "2026-08-27 03:21 UTC"
 }
