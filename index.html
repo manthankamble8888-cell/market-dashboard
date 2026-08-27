@@ -16,6 +16,9 @@ h2{font-size:15px;color:#94a3b8;margin:20px 0 8px;text-transform:uppercase;lette
 .closed{background:#450a0a;color:#f87171}
 .price{font-size:20px;font-weight:bold}
 .up{color:#22c55e}.down{color:#ef4444}
+.news-item{background:#1e293b;border-radius:10px;padding:12px;margin-bottom:8px}
+.news-item a{color:#e2e8f0;font-size:14px;text-decoration:none}
+.news-time{color:#64748b;font-size:11px;margin-top:4px;display:block}
 #updated{font-size:12px;color:#64748b;margin-top:20px}
 </style></head><body>
 <h1>📊 Market Dashboard</h1>
@@ -23,9 +26,10 @@ h2{font-size:15px;color:#94a3b8;margin:20px 0 8px;text-transform:uppercase;lette
 <div id="updated"></div>
 <script>
 const groups = {
-  "Indian Indices": ["Nifty 50","Bank Nifty","Sensex","India VIX"],
+  "Indian Indices": ["Nifty 50","Bank Nifty","Sensex","India VIX","Nifty IT","Nifty Midcap"],
+  "Asian Markets": ["Nikkei 225","Hang Seng"],
   "Global Cues": ["Dow Jones","Nasdaq","S&P 500"],
-  "Commodities & Currency": ["Crude Oil (Brent)","Crude Oil (WTI)","Gold","USD/INR"],
+  "Commodities & Currency": ["Crude Oil (Brent)","Crude Oil (WTI)","Gold","Silver","USD/INR","Dollar Index"],
   "Bonds": ["US 10Y Yield"]
 };
 
@@ -34,24 +38,15 @@ function getISTParts(){
   const ist = new Date(now.toLocaleString("en-US",{timeZone:"Asia/Kolkata"}));
   return {day: ist.getDay(), mins: ist.getHours()*60 + ist.getMinutes()};
 }
-
 function isOpen(key){
   const {day, mins} = getISTParts();
   const isWeekday = day>=1 && day<=5;
-  if(["Nifty 50","Bank Nifty","Sensex","India VIX"].includes(key)){
-    return isWeekday && mins>=555 && mins<=930; // 9:15AM-3:30PM
-  }
-  if(["Dow Jones","Nasdaq","S&P 500","US 10Y Yield"].includes(key)){
-    // ~7:00PM - 1:30AM IST, weekdays (US session)
-    return isWeekday && (mins>=1140 || mins<=90);
-  }
-  if(["Crude Oil (Brent)","Crude Oil (WTI)","Gold"].includes(key)){
-    // near 24hrs, closed roughly 3:30AM-4:00AM IST
-    return !(mins>=210 && mins<=240);
-  }
-  if(key==="USD/INR"){
-    return isWeekday && mins>=540 && mins<=1020; // 9AM-5PM
-  }
+  if(["Nifty 50","Bank Nifty","Sensex","India VIX","Nifty IT","Nifty Midcap"].includes(key)) return isWeekday && mins>=555 && mins<=930;
+  if(["Dow Jones","Nasdaq","S&P 500","US 10Y Yield"].includes(key)) return isWeekday && (mins>=1140 || mins<=90);
+  if(["Nikkei 225"].includes(key)) return isWeekday && mins>=330 && mins<=690;
+  if(["Hang Seng"].includes(key)) return isWeekday && mins>=390 && mins<=750;
+  if(["Crude Oil (Brent)","Crude Oil (WTI)","Gold","Silver"].includes(key)) return !(mins>=210 && mins<=240);
+  if(["USD/INR","Dollar Index"].includes(key)) return isWeekday && mins>=540 && mins<=1020;
   return true;
 }
 
@@ -76,6 +71,12 @@ async function loadData(){
           <div class="left"><span class="name">${key}</span><span class="badge ${open?'open':'closed'}">${open?'OPEN':'CLOSED'}</span></div>
           <span><span class="price">${item.price}</span> <span class="${dir}">${arrow} ${item.pct}%</span></span>
         </div>`;
+      });
+    }
+    if(data.news && data.news.length){
+      c.innerHTML += `<h2>Market News</h2>`;
+      data.news.forEach(n=>{
+        c.innerHTML += `<div class="news-item"><a href="${n.link}" target="_blank">${n.title}</a><span class="news-time">${n.published}</span></div>`;
       });
     }
     document.getElementById('updated').innerText='Last updated: '+data.last_updated+' (IST = UTC+5:30)';
