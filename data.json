@@ -53,24 +53,24 @@
     "pct": 0.07
   },
   "Crude Oil (Brent)": {
-    "price": 89.31,
-    "change": -0.39,
-    "pct": -0.43
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Crude Oil (WTI)": {
-    "price": 83.4,
-    "change": -0.13,
-    "pct": -0.16
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Gold": {
-    "price": 4478.1,
-    "change": -131.6,
-    "pct": -2.85
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Silver": {
-    "price": 67.0,
-    "change": -2.43,
-    "pct": -3.51
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "USD/INR": {
     "price": 95.38,
@@ -109,14 +109,14 @@
       "published": "Sat, 29 Aug 2026 14:28:10 GMT"
     },
     {
-      "title": "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjlKRE8ydDhmUnJweXl3WTZHd2RjOXBTazAtbzJEcHlFMUY5aDdpNkxlRk9lOTB0cnhtelJyQkg4bXdXWV9HWkUxZU4tdjRiOU1sU1JfbXpRTDRqd0N2bTQ0dWZnc0RmclIwc1JuQWlqR0Q5VmZ1X2tRM04zTFB6UjM3c2JMWjNLc3hLRVFKc2EycVRxTHZTOU5peVdEUGtKNGQyRXJLdzNrd3haelg1eC1lZm02US01ZWNFelllRGNnV0J2aHdKbGZMQmZ6bnhlMW9pTFQxZ2hza3Bhb1hyc1lmbG5zZ2dfdmpnUXRQY0xieWxnblhGS2hTYWgxb2dFUW95VzlHWVJBbnFFZ0FvZ2pB0gGXAkFVX3lxTE00WWR3Z3ZYYVB2ZGtvTjFTMm16Zkl3empFR1RxYVc1WlZiZHRvdUJRSjZqekhtQ0dHdm9WOHY4U01VS1lFTkxBYkNHVGxMWnhQYkZYT1p2clZPWDJRc1kycnhSV2hOdmRIQ25ZZGlqel9HbFdvZnZHUnJpMWdUdXJfc3VmbXdpbm5LQlMzdDQtYzN2Rlcxa2tmX0dNc3ZGdXVGelMwaE55MFlLZFNfb0t1MXEyYncwUHRFMERHUUdpMW9YQ2R4WmFSbHFXSWdiamFBdTVvSFFtNTR0Z3ZLaXZ1VEQwczVvLXNHZmw1WWZLMC1HeHNhTjQtbDk1VUlxQURzc09vZjFCQjdWS3h1aDExUXhrTW5tSQ?oc=5",
-      "published": "Sat, 29 Aug 2026 04:06:38 GMT"
-    },
-    {
       "title": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHNXazJwRlJyWHgzV0RpdlY2QW9hNHhfeENLZWYzd3puVnBOd1N1NjNnRF9ZMGRYeEhxLVVWMWxHQ0xoQ0FpcHBFenlxX29taGJhb2VtLUdPTnVIaHdlRXNSa0lrNERrSF93dVU4bmRUZ1NWYVc4OWF6al9ONkI0bjhkYllKUlAybDlfM3FKb3Q1c2RIUWlXb3RUbTJlMXF5OXg4UnBEZUlGdVpBdVAtemplVXpiWlMxVzVEbGFvVElHcXJMa2p2LTJGUlg3UGNlRWdLOHNHVVVQeXdzUHc?oc=5",
       "published": "Sat, 29 Aug 2026 08:38:31 GMT"
+    },
+    {
+      "title": "US Fed Chair Kevin Warsh Jackson Hole speech impact on Indian stock market, gold-silver rates | Prediction for Monday - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUjlKRE8ydDhmUnJweXl3WTZHd2RjOXBTazAtbzJEcHlFMUY5aDdpNkxlRk9lOTB0cnhtelJyQkg4bXdXWV9HWkUxZU4tdjRiOU1sU1JfbXpRTDRqd0N2bTQ0dWZnc0RmclIwc1JuQWlqR0Q5VmZ1X2tRM04zTFB6UjM3c2JMWjNLc3hLRVFKc2EycVRxTHZTOU5peVdEUGtKNGQyRXJLdzNrd3haelg1eC1lZm02US01ZWNFelllRGNnV0J2aHdKbGZMQmZ6bnhlMW9pTFQxZ2hza3Bhb1hyc1lmbG5zZ2dfdmpnUXRQY0xieWxnblhGS2hTYWgxb2dFUW95VzlHWVJBbnFFZ0FvZ2pB0gGXAkFVX3lxTE00WWR3Z3ZYYVB2ZGtvTjFTMm16Zkl3empFR1RxYVc1WlZiZHRvdUJRSjZqekhtQ0dHdm9WOHY4U01VS1lFTkxBYkNHVGxMWnhQYkZYT1p2clZPWDJRc1kycnhSV2hOdmRIQ25ZZGlqel9HbFdvZnZHUnJpMWdUdXJfc3VmbXdpbm5LQlMzdDQtYzN2Rlcxa2tmX0dNc3ZGdXVGelMwaE55MFlLZFNfb0t1MXEyYncwUHRFMERHUUdpMW9YQ2R4WmFSbHFXSWdiamFBdTVvSFFtNTR0Z3ZLaXZ1VEQwczVvLXNHZmw1WWZLMC1HeHNhTjQtbDk1VUlxQURzc09vZjFCQjdWS3h1aDExUXhrTW5tSQ?oc=5",
+      "published": "Sat, 29 Aug 2026 04:06:38 GMT"
     },
     {
       "title": "India\u2019s Market Is No Longer Just A Foreigners\u2019 Game - Outlook Money",
@@ -129,5 +129,5 @@
       "published": "Thu, 27 Aug 2026 05:29:00 GMT"
     }
   ],
-  "last_updated": "2026-08-29 22:18 UTC"
+  "last_updated": "2026-08-29 22:33 UTC"
 }
