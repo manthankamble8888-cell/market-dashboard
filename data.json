@@ -73,9 +73,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.74,
-    "change": 0.02,
-    "pct": 0.47
+    "price": 4.75,
+    "change": 0.03,
+    "pct": 0.72
   },
   "news": [
     {
@@ -119,5 +119,5 @@
       "published": "Mon, 31 Aug 2026 10:26:51 GMT"
     }
   ],
-  "last_updated": "2026-08-31 12:48 UTC"
+  "last_updated": "2026-08-31 13:03 UTC"
 }
