@@ -1,28 +1,26 @@
 {
   "Nifty 50": {
-    "price": 24175.65,
-    "change": 84.8,
-    "pct": 0.35
+    "price": 24054.95,
+    "change": -120.7,
+    "pct": -0.5
   },
   "Bank Nifty": {
-    "price": 57496.3,
-    "change": -13.65,
-    "pct": -0.02
+    "price": 57381.9,
+    "change": -114.4,
+    "pct": -0.2
   },
   "Sensex": {
-    "price": 77264.51,
-    "change": 330.91,
-    "pct": 0.43
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 10.68,
-    "change": -0.39,
-    "pct": -3.52
+    "price": 11.24,
+    "change": 0.56,
+    "pct": 5.29
   },
   "Nifty IT": {
-    "price": 31281.7,
-    "change": 1060.55,
-    "pct": 3.51
+    "price": 30783.95,
+    "change": -497.75,
+    "pct": -1.59
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +41,44 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 65361.6,
-    "change": -1043.96,
-    "pct": -1.57
+    "price": 65658.85,
+    "change": -746.71,
+    "pct": -1.12
   },
   "Hang Seng": {
-    "price": 25381.46,
-    "change": -203.33,
-    "pct": -0.79
+    "price": 25413.4,
+    "change": -171.39,
+    "pct": -0.67
   },
   "Crude Oil (Brent)": {
-    "price": 90.08,
-    "change": 0.77,
-    "pct": 0.86
+    "price": 90.17,
+    "change": 0.86,
+    "pct": 0.96
   },
   "Crude Oil (WTI)": {
-    "price": 84.99,
-    "change": 1.59,
-    "pct": 1.91
+    "price": 85.05,
+    "change": 1.65,
+    "pct": 1.98
   },
   "Gold": {
-    "price": 4481.3,
-    "change": 3.2,
-    "pct": 0.07
+    "price": 4470.8,
+    "change": -7.3,
+    "pct": -0.16
   },
   "Silver": {
-    "price": 67.0,
-    "change": 0.0,
-    "pct": 0.01
+    "price": 66.85,
+    "change": -0.15,
+    "pct": -0.22
   },
   "USD/INR": {
-    "price": 95.47,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 95.4,
+    "change": -0.07,
+    "pct": -0.07
   },
   "Dollar Index": {
-    "price": 99.58,
-    "change": -0.12,
-    "pct": -0.12
+    "price": 99.6,
+    "change": -0.1,
+    "pct": -0.1
   },
   "US 10Y Yield": {
     "price": 4.72,
@@ -99,19 +97,19 @@
       "published": "Mon, 31 Aug 2026 01:42:47 GMT"
     },
     {
-      "title": "Stock Market LIVE Updates, Sensex Today: Markets Likely To Open In Red As Iran Hits US Bases In Jordan - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkY0cllaQzhiTlo1RVN2YU0wRWJTRVpNZDU1WU03WW9HYXROdmtGTzlKWDk5b3RMME41ZGw0WEx2QmFSQXJFRWROb0x3TnpsN2VPWnZoOFpBU2J0VkN3TU5Ob3l3WnFxX25tUzNBSXJYTTJTeDlDTHRja05iMDB1bUxKNmkya1lJR3Bkd0ZFZmZiUFhyMHZLb0tqb2JDZW13bGxFak5jbTZRMjdqS01lUWE3NzJaUEo5TjlHLTNwTFJDMlJ2OGJ0WnctLU9FMzTSAdcBQVVfeXFMTnotY3J4TERyaHZfRzRLOTBsY2tNMHIwRV9aUHNXcVRYQmZ1ZTlYNXBkbVRrV0pxQXlNX2x1cGcwdnpidERldjhsalFyejVnbFFRNjBxYVdyQkl4ckxrYkJTQlA0ZWZaNURjWlNYZzRyVy1NVTlBUmZaWDgxdXFCN2EzaGpnNGtTWDY2OXdwNlBPdloxREtMVTd6ZUl5YUE4NEEyNkpTTUlsQUJORThRMmd1R1ZnOFVFWEJqQ2Foa1FLNGRGT1h2WkdQZ1FzQXVOb0o0SUVOLWc?oc=5",
-      "published": "Mon, 31 Aug 2026 02:29:34 GMT"
-    },
-    {
-      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzh4eDN0QmJjSVdabVc5V0pXMDFVVjJEWWFveWdYUEVaZHdNV3JKRkV0QnFzZWFFSkZUUGdPLWJsNXp3Y1cwWEhMOUpFaWd6dktneVNBdHZia2xLUWx6WHVRT1FiZHFtLWJ6TzFxMXZpR1lqTEFXWnBFWGh1Rlh4MjlROFp1MlI0RWN1VXRpNkhJaGp2MUlyeXlVLUQzWTNMbV9SUDBXOHZoejA1bmd5RkhOb1NraE40Q2tYdDV6aFF6NGJfRmRDcktFM1hfM0Y4bmRjVDBadWhPN2ttWjNHV1RvNkV6aXpXVmNDWEhkZnd6UGZOSXEwLUFxdlFoMWM?oc=5",
-      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
+      "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
     {
       "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
+    },
+    {
+      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzh4eDN0QmJjSVdabVc5V0pXMDFVVjJEWWFveWdYUEVaZHdNV3JKRkV0QnFzZWFFSkZUUGdPLWJsNXp3Y1cwWEhMOUpFaWd6dktneVNBdHZia2xLUWx6WHVRT1FiZHFtLWJ6TzFxMXZpR1lqTEFXWnBFWGh1Rlh4MjlROFp1MlI0RWN1VXRpNkhJaGp2MUlyeXlVLUQzWTNMbV9SUDBXOHZoejA1bmd5RkhOb1NraE40Q2tYdDV6aFF6NGJfRmRDcktFM1hfM0Y4bmRjVDBadWhPN2ttWjNHV1RvNkV6aXpXVmNDWEhkZnd6UGZOSXEwLUFxdlFoMWM?oc=5",
+      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
@@ -124,10 +122,10 @@
       "published": "Mon, 31 Aug 2026 02:35:00 GMT"
     },
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
-      "published": "Sat, 29 Aug 2026 10:14:40 GMT"
+      "title": "Stock Market This Week: Kevin Warsh\u2019s Speech, GDP, And US Jobs Data In Focus - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3p3Y2dqemtSeFB1R0F5WUZJa3V6cm1RejNKRnVMS19OQWphaUkxNlh5RTNTRW10R0k5dS1Sa216cmdZelFEcDdjcHB4b1NpeW5HVWxyXzVsZ3dBeDM1NUM4elJTZk1GMG5NUWdCa3VvZHM3VktGc2tESEF6WGJfVk9jUTdzaE9COFQyLTNDUXVJRzJteG5sQnR2eFptZDYwQ0lGZ0Rna2FlVnJL0gG6AUFVX3lxTE9NeXFXdFZDSENTY25aU2cxTlhKM3c5a3VfV1RmOGh4czRRMU92dEdPOGtKaUlRbjROVmRKajF0dHJSVVJINFczMm92WFB5djlBRUk3TXBTcEpPVzFjVkRNNHQ3NTFEa1pOS1IzdEM1ZjBSSWVuS205MktOWjdmamlMaENVN2NqU0x2NnZDR3c0RDU4TXVVQXhhZlBQMHhCcnRtOXM5ZXFSVW5aaFN0RDZVNzRzTndRaUNUQQ?oc=5",
+      "published": "Mon, 31 Aug 2026 03:04:18 GMT"
     }
   ],
-  "last_updated": "2026-08-31 03:33 UTC"
+  "last_updated": "2026-08-31 03:48 UTC"
 }
