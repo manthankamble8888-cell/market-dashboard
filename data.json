@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24066.55,
-    "change": -109.1,
-    "pct": -0.45
+    "price": 24070.95,
+    "change": -104.7,
+    "pct": -0.43
   },
   "Bank Nifty": {
-    "price": 57397.75,
-    "change": -98.55,
-    "pct": -0.17
+    "price": 57425.3,
+    "change": -71.0,
+    "pct": -0.12
   },
   "Sensex": {
-    "price": 76995.22,
-    "change": -269.29,
+    "price": 76994.45,
+    "change": -270.05,
     "pct": -0.35
   },
   "India VIX": {
-    "price": 11.22,
-    "change": 0.54,
-    "pct": 5.06
+    "price": 11.18,
+    "change": 0.5,
+    "pct": 4.66
   },
   "Nifty IT": {
-    "price": 30817.2,
-    "change": -464.5,
-    "pct": -1.48
+    "price": 30844.05,
+    "change": -437.65,
+    "pct": -1.4
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,9 +48,9 @@
     "pct": -0.14
   },
   "Hang Seng": {
-    "price": 25541.07,
-    "change": -43.72,
-    "pct": -0.17
+    "price": 25529.31,
+    "change": -55.48,
+    "pct": -0.22
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.26,
-    "change": -0.21,
-    "pct": -0.22
+    "price": 95.17,
+    "change": -0.31,
+    "pct": -0.32
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -79,9 +79,9 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Sun, 30 Aug 2026 15:42:01 GMT"
+      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
+      "published": "Sat, 29 Aug 2026 10:14:40 GMT"
     },
     {
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
@@ -114,10 +114,10 @@
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
     },
     {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
-      "published": "Sat, 29 Aug 2026 06:19:28 GMT"
+      "title": "Sensex Today Trades Lower | Nifty Below 24,100 | Tata Steel & Infosys Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczZ6LWdwWUhvek1GaWF0di1nRWpzam9Rc0NjSEkxS21EQU5Td2hJNURkWm9NWWFBMlcwUGZXTUM2SHFJdl9zMGxhWHYzRzlqV0wzUjI3MkZ1REt5LWNjS3NQSGdkQjlZTlNFMXFfNjN2ZnNxM3gzb3owS0JrejR1YmsxVnJWcUJWS3F4eE5QeG9ScndESmwyeGN2LUI4VzNoNVZ1M0Z4czJOVmptZHl2emN3UEVWcHh3UGV5NFhYSmpMR1c5Nzl5U2dJWU90SHZBcFE?oc=5",
+      "published": "Mon, 31 Aug 2026 04:38:36 GMT"
     }
   ],
-  "last_updated": "2026-08-31 07:48 UTC"
+  "last_updated": "2026-08-31 08:03 UTC"
 }
