@@ -43,9 +43,9 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 65236.15,
-    "change": -1169.41,
-    "pct": -1.76
+    "price": 65047.79,
+    "change": -1357.77,
+    "pct": -2.04
   },
   "Hang Seng": {
     "price": 25584.79,
@@ -53,32 +53,32 @@
     "pct": 0.07
   },
   "Crude Oil (Brent)": {
-    "price": 89.45,
-    "change": 0.14,
-    "pct": 0.16
+    "price": 89.31,
+    "change": 0.0,
+    "pct": 0.0
   },
   "Crude Oil (WTI)": {
-    "price": 84.58,
-    "change": 1.18,
-    "pct": 1.41
+    "price": 84.37,
+    "change": 0.97,
+    "pct": 1.16
   },
   "Gold": {
-    "price": 4506.6,
-    "change": 28.5,
-    "pct": 0.64
+    "price": 4508.0,
+    "change": 29.9,
+    "pct": 0.67
   },
   "Silver": {
-    "price": 67.05,
-    "change": 0.06,
-    "pct": 0.08
+    "price": 67.22,
+    "change": 0.22,
+    "pct": 0.34
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 99.61,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 99.63,
+    "change": -0.07,
+    "pct": -0.07
   },
   "US 10Y Yield": {
     "price": 4.72,
@@ -102,6 +102,11 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
     {
+      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOX2QzbGJDQ1BCckU0YnhWWlpnTFZjc2lzU2gzYldtYVpzQlBtdkVwT2hUQ195Y0tJWVBVd3ZCZjB3ZXd1a042aGl4NkJlOGJDRjFRYjhDbkJ3ZFctNGNlQ1haeFMyMWJvTG9NdUtQVGdsX2d1Rm5nNmN2Y2ZRbklubWZ3Z3ZtdER4dlFOQ3g0NzdIMDRCRUVqRXJBMjRLcjBVMjBXQmtJbS1JWW16b2dlOFBfMmoyMXQ2SlNmRUtvNTVxYWlfMGxXWkw2MVpHMHdUcHZPOWhJVlhPcHNBV21yWExUN2pDUzQwSHh1WldTVDNOc0lmNlBQd0g2SGQ2OUt5ZjY2Q3NlSWU1RTB1alVEVG5RU2lCWWhhSUg4UXM3SERvLUx0RlZXWDJTR0NfUnRITnByT1dlLTRIdEVwUURLaFNsTGI0b21VMXJmOVpOUndSN1c4UUk2dnRna2dUR201ZEpwM0U5Z0FBekpMSUpRVVZkdDRpSzNhX0V5OUVB?oc=5",
+      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+    },
+    {
       "title": "Buy or sell stocks: Sumeet Bagadia recommends three shares to buy on Monday \u2014 31 August 2026 - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM0ZNY0V0Z0s3eUdrQVBQd2lPcHVDcXUyb0FCRVA2SU5UX3Y3RFlabnlzZUpiT3d0RjBjSXpZVHJ3R2paWjd3Z3UtQkdZT3JHWU1ISF92MU1Ua0o2Wi1oOEk5OFNGNFRxbDExUXJLUENSVkd2MXdHNmNzMUNkRVU3cTZnc1A2ZjdQdWNkYl9XTWlYRnZKb1JCaUJXc1pvWmNBdWZ2Tk9JNldXcERqWjRnb2d1WE9MOVFCY3o5eWdUUFVuR252YzMxa2d5SWlWZXhHRUJnalZyd1liQjdQQ0xQVGlSRnNZTmNIWjU3UHNtbDDSAfYBQVVfeXFMTnY3d1VrOHFfQ3UtYWdBZ3VvMFEyOGdqRGttWHNFTGtGNENZbEFLbXhYZEZnNmpYUVlGRG83NkZZdGZxSFVYU1c4OEVyNURJVjF2eWJLMjZLRFRqeDNBb3N6YVZRVHU3MFF6Y1NYNVZ1U2ZiQmZWbF9Gdm52bGlINWZNLW5hcHBXUVJ2OTFySW0xNUkycXF0WXgwMFp4RWctMUhpdVAxeDFQV09zZ2JxLXd0SnpsdDFKY2pFdHQ0bjIzNjdZME9CalFBdWFQWlhhOTFoS3NranlLZll1RDNkMGhGUl9xM3NicExpbUp1TTV5VlRXTnVB?oc=5",
       "published": "Sun, 30 Aug 2026 07:16:50 GMT"
@@ -120,12 +125,7 @@
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 27 August - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNX3RQT1dOcGNYdjBoTC1iSEplWFBDN0RSNnBpdVEzYjFwSzNuQy1ieUNYQldnd1dieDhvMzloNmpaZ3FOWk9xLURyRy1CYUVkR3pMRGs0d1l3TGFDYmJSOV9TbkVFZDV2QjMybWZMcU1yNDBVX0JPcHNxbDdCMzZ6MjA3eHpTekpwNGZGUmhPQW1hemt3LWxyRVZpdWM5TDlsTkM3RVFPc1NjOHBYQWxFTXFJMThxTC1PREpyN0lUNm15b05uS0RVZW5FN1RSdW8zdXIwLW1EUDNDX3BYV3hGVUthN2tVOUV0?oc=5",
       "published": "Thu, 27 Aug 2026 05:29:00 GMT"
-    },
-    {
-      "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEdldTFMdXVwa2VfVUJuVzBfMmcyWG5LdVNKNjlKZG5YZmhRTWpEX2NzMjUtWllEUlk2RDUtQ19reHJUcjRRZVZaOHNRYWtCZzVGSVh0Y0RoR1dFRTZIWEt3WXZKQmV1UU11dl9LTGljQ241dmNobFNtSlJfWHNyNkxxdlBkcngzb0lTNGFDOXNLd21kdldZUA?oc=5",
-      "published": "Sat, 29 Aug 2026 10:12:50 GMT"
     }
   ],
-  "last_updated": "2026-08-31 00:18 UTC"
+  "last_updated": "2026-08-31 00:33 UTC"
 }
