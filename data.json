@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24050.25,
-    "change": -125.4,
-    "pct": -0.52
+    "price": 24080.4,
+    "change": -95.25,
+    "pct": -0.39
   },
   "Bank Nifty": {
-    "price": 57397.35,
-    "change": -98.95,
-    "pct": -0.17
+    "price": 58024.95,
+    "change": 528.65,
+    "pct": 0.92
   },
   "Sensex": {
-    "price": 76959.91,
-    "change": -304.6,
+    "price": 76963.25,
+    "change": -301.26,
     "pct": -0.39
   },
   "India VIX": {
-    "price": 11.3,
-    "change": 0.61,
-    "pct": 5.76
+    "price": 11.09,
+    "change": 0.41,
+    "pct": 3.84
   },
   "Nifty IT": {
-    "price": 30857.1,
-    "change": -424.6,
-    "pct": -1.36
+    "price": 31191.45,
+    "change": -90.25,
+    "pct": -0.29
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.16,
-    "change": -0.31,
-    "pct": -0.33
+    "price": 95.17,
+    "change": -0.3,
+    "pct": -0.31
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -119,5 +119,5 @@
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
     }
   ],
-  "last_updated": "2026-08-31 09:48 UTC"
+  "last_updated": "2026-08-31 10:03 UTC"
 }
