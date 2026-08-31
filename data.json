@@ -28,24 +28,22 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53200.79,
-    "change": -359.2,
-    "pct": -0.67
+    "price": 53223.02,
+    "change": -336.97,
+    "pct": -0.63
   },
   "Nasdaq": {
-    "price": 26287.04,
-    "change": -115.38,
-    "pct": -0.44
+    "price": 26284.77,
+    "change": -117.65,
+    "pct": -0.45
   },
   "S&P 500": {
-    "price": 7674.42,
-    "change": -37.34,
-    "pct": -0.48
+    "price": 7675.87,
+    "change": -35.89,
+    "pct": -0.47
   },
   "Nikkei 225": {
-    "price": 66311.93,
-    "change": -93.63,
-    "pct": -0.14
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "price": 25566.99,
@@ -104,14 +102,14 @@
       "published": "Mon, 31 Aug 2026 04:42:56 GMT"
     },
     {
-      "title": "Indian Stocks Fall as West Asia Tensions Push Crude Oil Higher - rediff.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT21YX1EtMF9fREdxYWZvWGx3LVp4MkRMNlRmWUFFNmd3VlJxcmlDb3B0MlA3cTVDVDN4eUFJTmtkektyaENmRGl0TGlNOGFfa3NCUW5jcVMtaGZOR3dSbXQwbXVmVUxHcE9NSmg1VWJJb014dDdwTi1rRWRyOGhEVVNYTVMwaEVnczRyYUxjMDRCSWxvQ0ZmbS1PbE1SSGh4WXRsS0ZDTDU5VjhXODhvSXN3b2NzajNpNElQUXU5REk1ZW9NUkNZ0gHKAUFVX3lxTE1pa3pzNk1kMElPYk45TlQ4dnhNNzFaaXlQQUNWekVUdHpmc0Y3a1duYUx5cFZBYzhEYjRIYWE5NHpZc0dmT09XdXMybHFDMG5CajB4RHpkUzkyQ29hQnFwc3RDM0NsNHRwbFgzcDNRaDFKc1UwWFJxS25oOUZnbFdzdnYyNFIyM2pwV3NlVEhMMGZVWXBVVThuN2kyQTNCZUQxNkV5eHlxMURfejJwbmsydDIwb25xdUZZSjRVcUVRMjNJa1c1ZW44MGc?oc=5",
-      "published": "Mon, 31 Aug 2026 10:51:40 GMT"
+      "title": "Foreign buying in Indian stocks hits 23-month high in August, RBI data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHFqREx4OGJ4T0NFMVlHaDZ4aDQ3VTE3ckFZX0JPVk1rRFBBSWxNX25fZkRuYTgyUnJfNlNUUmd1ampBUXZBQ1c4Y3JvYnRKMkh6eVdENFJSTWFQZ3FHVWZ3dDhBbUx1ZXlBY3ZjcEg3ZWNVVk9kNGowdENSZFNuSnRoLXkyNWNSQVpyVndFYUJyYl9kUVNGSDNybGtuZzNzc3laNHJya3ppNG91dDRWZE5SeVh5Vk82?oc=5",
+      "published": "Mon, 31 Aug 2026 14:46:01 GMT"
     },
     {
-      "title": "Indian shares slip on global woes; MSCI rejig spurs stock-specific volatility - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
-      "published": "Mon, 31 Aug 2026 02:54:00 GMT"
+      "title": "Indian Stocks Fall as West Asia Tensions Push Crude Oil Higher - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT21YX1EtMF9fREdxYWZvWGx3LVp4MkRMNlRmWUFFNmd3VlJxcmlDb3B0MlA3cTVDVDN4eUFJTmtkektyaENmRGl0TGlNOGFfa3NCUW5jcVMtaGZOR3dSbXQwbXVmVUxHcE9NSmg1VWJJb014dDdwTi1rRWRyOGhEVVNYTVMwaEVnczRyYUxjMDRCSWxvQ0ZmbS1PbE1SSGh4WXRsS0ZDTDU5VjhXODhvSXN3b2NzajNpNElQUXU5REk1ZW9NUkNZ0gHKAUFVX3lxTE1pa3pzNk1kMElPYk45TlQ4dnhNNzFaaXlQQUNWekVUdHpmc0Y3a1duYUx5cFZBYzhEYjRIYWE5NHpZc0dmT09XdXMybHFDMG5CajB4RHpkUzkyQ29hQnFwc3RDM0NsNHRwbFgzcDNRaDFKc1UwWFJxS25oOUZnbFdzdnYyNFIyM2pwV3NlVEhMMGZVWXBVVThuN2kyQTNCZUQxNkV5eHlxMURfejJwbmsydDIwb25xdUZZSjRVcUVRMjNJa1c1ZW44MGc?oc=5",
+      "published": "Mon, 31 Aug 2026 10:51:40 GMT"
     },
     {
       "title": "Sensex Today Ends 307 Points Lower | Nifty Below 24,100 | Precision Wires India Up 20% - Equitymaster",
@@ -119,5 +117,5 @@
       "published": "Mon, 31 Aug 2026 10:26:51 GMT"
     }
   ],
-  "last_updated": "2026-08-31 14:48 UTC"
+  "last_updated": "2026-08-31 15:03 UTC"
 }
