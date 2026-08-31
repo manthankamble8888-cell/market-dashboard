@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24007.8,
-    "change": -167.85,
-    "pct": -0.69
+    "price": 24010.55,
+    "change": -165.1,
+    "pct": -0.68
   },
   "Bank Nifty": {
-    "price": 57206.55,
-    "change": -289.75,
-    "pct": -0.5
+    "price": 57262.95,
+    "change": -233.35,
+    "pct": -0.41
   },
   "Sensex": {
-    "price": 76821.63,
-    "change": -442.88,
-    "pct": -0.57
+    "price": 76787.5,
+    "change": -477.01,
+    "pct": -0.62
   },
   "India VIX": {
-    "price": 11.23,
-    "change": 0.55,
-    "pct": 5.13
+    "price": 11.28,
+    "change": 0.6,
+    "pct": 5.59
   },
   "Nifty IT": {
-    "price": 30756.95,
-    "change": -524.75,
-    "pct": -1.68
+    "price": 30675.7,
+    "change": -606.0,
+    "pct": -1.94
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,14 +43,14 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 66152.1,
-    "change": -253.46,
-    "pct": -0.38
+    "price": 66216.88,
+    "change": -188.68,
+    "pct": -0.28
   },
   "Hang Seng": {
-    "price": 25442.16,
-    "change": -142.63,
-    "pct": -0.56
+    "price": 25433.94,
+    "change": -150.85,
+    "pct": -0.59
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -119,5 +119,5 @@
       "published": "Mon, 31 Aug 2026 03:21:08 GMT"
     }
   ],
-  "last_updated": "2026-08-31 05:18 UTC"
+  "last_updated": "2026-08-31 05:33 UTC"
 }
