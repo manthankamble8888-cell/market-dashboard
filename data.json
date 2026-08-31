@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24039.45,
-    "change": -136.2,
-    "pct": -0.56
+    "price": 24035.0,
+    "change": -140.65,
+    "pct": -0.58
   },
   "Bank Nifty": {
-    "price": 57330.65,
-    "change": -165.65,
-    "pct": -0.29
+    "price": 57319.7,
+    "change": -176.6,
+    "pct": -0.31
   },
   "Sensex": {
-    "price": 76946.44,
-    "change": -318.07,
-    "pct": -0.41
+    "price": 76897.43,
+    "change": -367.08,
+    "pct": -0.48
   },
   "India VIX": {
-    "price": 11.21,
-    "change": 0.53,
-    "pct": 4.99
+    "price": 11.23,
+    "change": 0.55,
+    "pct": 5.17
   },
   "Nifty IT": {
-    "price": 30826.2,
-    "change": -455.5,
-    "pct": -1.46
+    "price": 30830.05,
+    "change": -451.65,
+    "pct": -1.44
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -119,5 +119,5 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     }
   ],
-  "last_updated": "2026-08-31 08:33 UTC"
+  "last_updated": "2026-08-31 08:48 UTC"
 }
