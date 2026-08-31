@@ -43,34 +43,34 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 65273.36,
-    "change": -1132.2,
-    "pct": -1.7
+    "price": 65388.95,
+    "change": -1016.61,
+    "pct": -1.53
   },
   "Hang Seng": {
-    "price": 25327.5,
-    "change": -257.29,
-    "pct": -1.01
+    "price": 25328.39,
+    "change": -256.4,
+    "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 90.5,
-    "change": 1.19,
-    "pct": 1.33
+    "price": 90.41,
+    "change": 1.1,
+    "pct": 1.23
   },
   "Crude Oil (WTI)": {
-    "price": 85.49,
-    "change": 2.09,
-    "pct": 2.51
+    "price": 85.41,
+    "change": 2.01,
+    "pct": 2.41
   },
   "Gold": {
-    "price": 4482.6,
-    "change": 4.5,
-    "pct": 0.1
+    "price": 4473.2,
+    "change": -4.9,
+    "pct": -0.11
   },
   "Silver": {
-    "price": 66.86,
-    "change": -0.14,
-    "pct": -0.2
+    "price": 66.61,
+    "change": -0.38,
+    "pct": -0.57
   },
   "USD/INR": {
     "price": 95.36,
@@ -78,9 +78,9 @@
     "pct": -0.12
   },
   "Dollar Index": {
-    "price": 99.58,
-    "change": -0.12,
-    "pct": -0.12
+    "price": 99.59,
+    "change": -0.11,
+    "pct": -0.11
   },
   "US 10Y Yield": {
     "price": 4.72,
@@ -129,5 +129,5 @@
       "published": "Thu, 27 Aug 2026 05:29:00 GMT"
     }
   ],
-  "last_updated": "2026-08-31 02:18 UTC"
+  "last_updated": "2026-08-31 02:33 UTC"
 }
