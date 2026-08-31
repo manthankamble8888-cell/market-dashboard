@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24059.85,
-    "change": -115.8,
-    "pct": -0.48
+    "price": 24024.7,
+    "change": -150.95,
+    "pct": -0.62
   },
   "Bank Nifty": {
-    "price": 57472.25,
-    "change": -24.05,
-    "pct": -0.04
+    "price": 57346.85,
+    "change": -149.45,
+    "pct": -0.26
   },
   "Sensex": {
-    "price": 76979.08,
-    "change": -285.43,
-    "pct": -0.37
+    "price": 77008.93,
+    "change": -255.58,
+    "pct": -0.33
   },
   "India VIX": {
-    "price": 11.16,
-    "change": 0.48,
-    "pct": 4.49
+    "price": 11.13,
+    "change": 0.45,
+    "pct": 4.24
   },
   "Nifty IT": {
-    "price": 30775.8,
-    "change": -505.9,
-    "pct": -1.62
+    "price": 30640.1,
+    "change": -641.6,
+    "pct": -2.05
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,14 +43,14 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 65647.32,
-    "change": -758.24,
-    "pct": -1.14
+    "price": 65715.5,
+    "change": -690.06,
+    "pct": -1.04
   },
   "Hang Seng": {
-    "price": 25401.59,
-    "change": -183.2,
-    "pct": -0.72
+    "price": 25402.36,
+    "change": -182.43,
+    "pct": -0.71
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.42,
-    "change": -0.05,
-    "pct": -0.05
+    "price": 95.43,
+    "change": -0.04,
+    "pct": -0.04
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -99,14 +99,14 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
     {
+      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzh4eDN0QmJjSVdabVc5V0pXMDFVVjJEWWFveWdYUEVaZHdNV3JKRkV0QnFzZWFFSkZUUGdPLWJsNXp3Y1cwWEhMOUpFaWd6dktneVNBdHZia2xLUWx6WHVRT1FiZHFtLWJ6TzFxMXZpR1lqTEFXWnBFWGh1Rlh4MjlROFp1MlI0RWN1VXRpNkhJaGp2MUlyeXlVLUQzWTNMbV9SUDBXOHZoejA1bmd5RkhOb1NraE40Q2tYdDV6aFF6NGJfRmRDcktFM1hfM0Y4bmRjVDBadWhPN2ttWjNHV1RvNkV6aXpXVmNDWEhkZnd6UGZOSXEwLUFxdlFoMWM?oc=5",
+      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+    },
+    {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVNGN3VYM2dtbXNzc3lubE1xRmtZRjFFWmJta2p1RlVqRXJpbzd0aVZLV0VSMWJYTUZqN1RVNmx3aUdxTEdHYU1MODdTZVRtbmw3RjVsWDRDdW9oZVAxNGdhZEZwUS1rbHprdWxoWkFCUlk5ZE1XZ0NWdUFXdWhneGZtdkM0TTFjbThiQmxpUVYwOEhvMDVXSUVrbWRMckoyV0pYaldCZ0ItWFN0alI4WnROQUNXSUtHRTdsSk4tX0NaYWh1Z25pQzF2blh6Um95RHcxb1d5UkpidlV1bU9R0gHkAUFVX3lxTE1fQ2ctRnlqaWtOQm5PV2tUVFZrU1EwczUzR1hrMDlBQmdmMnpYU3RYbTBrNjUtV19EcVEtWDkwTVJxeFN4T19kenFEUk9iX0VQcUJqVXR3d1I3d3djTG5zYWViSFdtU0w3R0JBVkYyb1ZPNXNvS0I2c0s4WWNFRWRtcHRGam5wT2FSa2xuVm1xdXVnTjhqZTVPREZSbkU3QVFJQms3R3ZSdHBhRUFiWGZkLVFEd3Z2Ykh1OFRheEZKMlZURS1Bd3pEZ3lmMndNTVRvc2xVeGN2N3FYa2xtRnpFU09kZg?oc=5",
       "published": "Sun, 30 Aug 2026 11:26:00 GMT"
-    },
-    {
-      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUmJJeDJkZ0s2QjVHdEZGTmtVejR1U1RlUGN0Wl9qV0huWW9ZQXZmRm1NcW1faGVEcS11ckdIUjUwZS1yWjlWTE1EOVhjNXF6ZWxQZXhrWFdvTEZmTDJ3dTlVb1FhdmJDVkNDanp1MXpwWGhaZlItUUtCX3VIcVpDQWhuOWoyb3l4N3R5eUlFZFpJLTZEMUpGSGZvblhaT2VRUWQ5eWhQXzRRRTJwRjJuYlRrblR3Vm00T0M2YVpuRGx3WHJFNTJqS3MxRmJ1VDh0NVZRb2pxOGo4dHJnUkFwWUVXYUw5X25kTHpCcFFIaXpMR3RidmZyZWRvZHU2d0k?oc=5",
-      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
     },
     {
       "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
@@ -119,5 +119,5 @@
       "published": "Mon, 31 Aug 2026 03:04:18 GMT"
     }
   ],
-  "last_updated": "2026-08-31 04:03 UTC"
+  "last_updated": "2026-08-31 04:18 UTC"
 }
