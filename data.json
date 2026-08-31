@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53214.45,
-    "change": -345.54,
-    "pct": -0.65
+    "price": 53228.57,
+    "change": -331.42,
+    "pct": -0.62
   },
   "Nasdaq": {
-    "price": 26299.7,
-    "change": -102.72,
+    "price": 26298.52,
+    "change": -103.9,
     "pct": -0.39
   },
   "S&P 500": {
-    "price": 7674.85,
-    "change": -36.91,
-    "pct": -0.48
+    "price": 7673.79,
+    "change": -37.97,
+    "pct": -0.49
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -71,7 +71,7 @@
   "US 10Y Yield": {
     "price": 4.76,
     "change": 0.04,
-    "pct": 0.89
+    "pct": 0.85
   },
   "news": [
     {
@@ -80,7 +80,7 @@
       "published": "Sat, 29 Aug 2026 10:14:40 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - livemint.com",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcUszTWpqYVEwX0tNMVZEZlNnSFJ1SmdGVzVVOS1xdkhMYXA5d3ptNkJiNEpFd04tRlJSamU3SktjQWF2M2tGV0ZHcl9jVHc0ZWxUQ3luYjFCT1MtbmNFbzlBbjRqRC1QaUdTQzhMU19KbjIzR1V5bkd1WnhhRDhIbWpWd1h0YTNGejVDdWI5WG1iVFFiU2lBNkp4YWVTWFlYckZQT1ExdFRoRlNKU0JUQ1RfNC0tWExSeTdaY3IxMWFxT0J1S1ItNGxUSFRVNTNWVTJBSVRQMTljY3k3QWU0STZIUEY2UmVZVFdfSTl1M3lsaERhUFhTcmdR0gH_AUFVX3lxTE5ycmhZUG5wcXpVNkp3Z1FfdWhUbnZ5TmhYT3RjWXRnOGxSSV9lZUs5alpwMUNDMWluVmhWRnBpRWZuMVc0R3hGdGVreGhmTk1RSkhnR1ZjdThLQmxVYm5Wd3kxdWRpd1FLNDRQV1F1Q1YteVhzRzhKWFNWa3pOdkhPRlMwSjJYZ2JZekFuM0Z2aE5PUmhxQ1BocHF2cVYwZVNBUHJ1WnUwaXFRd0t4ejRsamM4Vlpad3M5ZEFQaEpWaUpmcUI0a1dfbl9DODhONHBBMDhLOEFRQ1JZRXVoOTJfVGs0cVZpWnc0TElJNmR3anZkRHFkUC0tdEFBMjRqdw?oc=5",
       "published": "Mon, 31 Aug 2026 01:42:47 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Mon, 31 Aug 2026 10:26:51 GMT"
     }
   ],
-  "last_updated": "2026-08-31 16:33 UTC"
+  "last_updated": "2026-08-31 16:48 UTC"
 }
