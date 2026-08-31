@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53243.89,
-    "change": -316.1,
-    "pct": -0.59
+    "price": 53193.9,
+    "change": -366.09,
+    "pct": -0.68
   },
   "Nasdaq": {
-    "price": 26296.34,
-    "change": -106.08,
-    "pct": -0.4
+    "price": 26265.45,
+    "change": -136.97,
+    "pct": -0.52
   },
   "S&P 500": {
-    "price": 7679.8,
-    "change": -31.96,
-    "pct": -0.41
+    "price": 7671.29,
+    "change": -40.47,
+    "pct": -0.52
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -61,7 +61,7 @@
   "US 10Y Yield": {
     "price": 4.76,
     "change": 0.04,
-    "pct": 0.81
+    "pct": 0.85
   },
   "news": [
     {
@@ -105,5 +105,5 @@
       "published": "Mon, 31 Aug 2026 10:51:40 GMT"
     }
   ],
-  "last_updated": "2026-08-31 18:33 UTC"
+  "last_updated": "2026-08-31 18:48 UTC"
 }
