@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53193.9,
-    "change": -366.09,
-    "pct": -0.68
+    "price": 53225.14,
+    "change": -334.85,
+    "pct": -0.63
   },
   "Nasdaq": {
-    "price": 26265.45,
-    "change": -136.97,
-    "pct": -0.52
+    "price": 26292.55,
+    "change": -109.87,
+    "pct": -0.42
   },
   "S&P 500": {
-    "price": 7671.29,
-    "change": -40.47,
-    "pct": -0.52
+    "price": 7676.41,
+    "change": -35.35,
+    "pct": -0.46
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -80,14 +80,14 @@
       "published": "Mon, 31 Aug 2026 14:46:01 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
-      "published": "Mon, 31 Aug 2026 01:35:19 GMT"
-    },
-    {
       "title": "India\u2019s Capital-Market Advantage in a Changing World - International Banker",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJMcGlXTC1zekZZSkVKV1lFRllJTk9pNlZHUndmVW13dmx2WEdrYmJEOTBVRVJ4bjdMUGthMS1odldZOU1ETzlMekFCQzM0YmwzWldMc1QwNGlHWUJWazBFWk5OVGtUSnZKb2pHU2Z6STJYeGdHQVZWRlF4QzhwaEpsRE5TQ1RxUGhnaXVZd2dzYzVVbzFn?oc=5",
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
+      "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
     {
       "title": "Indian stock market today: Sensex, Nifty fall as US-Iran tensions, higher yields weigh, HDFC Bank lead gains - BusinessLine",
@@ -105,5 +105,5 @@
       "published": "Mon, 31 Aug 2026 10:51:40 GMT"
     }
   ],
-  "last_updated": "2026-08-31 18:48 UTC"
+  "last_updated": "2026-08-31 19:03 UTC"
 }
