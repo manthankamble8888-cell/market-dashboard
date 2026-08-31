@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24025.45,
-    "change": -150.2,
-    "pct": -0.62
+    "price": 24014.3,
+    "change": -161.35,
+    "pct": -0.67
   },
   "Bank Nifty": {
-    "price": 57324.5,
-    "change": -171.8,
-    "pct": -0.3
+    "price": 57278.0,
+    "change": -218.3,
+    "pct": -0.38
   },
   "Sensex": {
-    "price": 76901.42,
-    "change": -363.09,
-    "pct": -0.47
+    "price": 76868.9,
+    "change": -395.61,
+    "pct": -0.51
   },
   "India VIX": {
-    "price": 11.23,
-    "change": 0.55,
-    "pct": 5.15
+    "price": 11.25,
+    "change": 0.57,
+    "pct": 5.36
   },
   "Nifty IT": {
-    "price": 30720.35,
-    "change": -561.35,
-    "pct": -1.79
+    "price": 30748.45,
+    "change": -533.25,
+    "pct": -1.7
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 65764.86,
-    "change": -640.7,
-    "pct": -0.96
+    "price": 65833.54,
+    "change": -572.02,
+    "pct": -0.86
   },
   "Hang Seng": {
     "price": 25402.36,
@@ -94,14 +94,14 @@
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
     {
+      "title": "Sensex Today Trades Lower | Nifty Below 24,100 | Tata Steel & Infosys Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPTUVnbDJMMUpQZ1BSYUVwVkRFYXRvMVR6X0RMcXBIVGpHVEU3bERhLU5DVmx2QTBySmNLTXQ1T0NGTnB2MzVQbDAzZXB2V3FBWW5KRWJxZmdTQklERDBjN1c5cWJWMVF5MFFhX09lV1ZVT2gySG1Xbk9hWWpkZG1kejdkM2RQdTkyRHN5R2ZjcnhhNjBEWUpUUFFQNzVISjRfb1BoVFR0ZVhNV1lidXVtQ2lLUi13NTliUmJqdTl4Y3lYcXFUZlN6OUI3LVhudTNNN0tNY21Qd3lJTEdvenRuQmlLSHIzZUdGUG1RbFhER0RoODNOeWlZblBObWZfblV3T0tSeVFIUWFvMXlOU2hSYzNEUUNIWmUtUC1ZQi04SlFjUDVNOGd3R0x1VWlzNksxR1JsVHN2dw?oc=5",
+      "published": "Mon, 31 Aug 2026 04:38:36 GMT"
+    },
+    {
       "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
-    },
-    {
-      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzh4eDN0QmJjSVdabVc5V0pXMDFVVjJEWWFveWdYUEVaZHdNV3JKRkV0QnFzZWFFSkZUUGdPLWJsNXp3Y1cwWEhMOUpFaWd6dktneVNBdHZia2xLUWx6WHVRT1FiZHFtLWJ6TzFxMXZpR1lqTEFXWnBFWGh1Rlh4MjlROFp1MlI0RWN1VXRpNkhJaGp2MUlyeXlVLUQzWTNMbV9SUDBXOHZoejA1bmd5RkhOb1NraE40Q2tYdDV6aFF6NGJfRmRDcktFM1hfM0Y4bmRjVDBadWhPN2ttWjNHV1RvNkV6aXpXVmNDWEhkZnd6UGZOSXEwLUFxdlFoMWM?oc=5",
-      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
     },
     {
       "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
@@ -119,5 +119,5 @@
       "published": "Mon, 31 Aug 2026 02:35:00 GMT"
     }
   ],
-  "last_updated": "2026-08-31 04:33 UTC"
+  "last_updated": "2026-08-31 04:48 UTC"
 }
