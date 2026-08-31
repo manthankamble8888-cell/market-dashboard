@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53214.34,
-    "change": -345.65,
-    "pct": -0.65
+    "price": 53234.4,
+    "change": -325.59,
+    "pct": -0.61
   },
   "Nasdaq": {
-    "price": 26312.21,
-    "change": -90.21,
-    "pct": -0.34
+    "price": 26305.88,
+    "change": -96.54,
+    "pct": -0.37
   },
   "S&P 500": {
-    "price": 7675.17,
-    "change": -36.59,
-    "pct": -0.47
+    "price": 7676.49,
+    "change": -35.27,
+    "pct": -0.46
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -71,11 +71,11 @@
   "US 10Y Yield": {
     "price": 4.76,
     "change": 0.04,
-    "pct": 0.85
+    "pct": 0.76
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Sat, 29 Aug 2026 10:14:40 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Mon, 31 Aug 2026 03:21:08 GMT"
     }
   ],
-  "last_updated": "2026-08-31 17:03 UTC"
+  "last_updated": "2026-08-31 17:18 UTC"
 }
