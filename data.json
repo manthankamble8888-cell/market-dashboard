@@ -48,29 +48,29 @@
     "pct": -1.57
   },
   "Hang Seng": {
-    "price": 25368.73,
-    "change": -216.06,
-    "pct": -0.84
+    "price": 25367.1,
+    "change": -217.69,
+    "pct": -0.85
   },
   "Crude Oil (Brent)": {
-    "price": 90.5,
-    "change": 1.19,
-    "pct": 1.33
+    "price": 90.34,
+    "change": 1.03,
+    "pct": 1.15
   },
   "Crude Oil (WTI)": {
-    "price": 85.42,
-    "change": 2.02,
-    "pct": 2.42
+    "price": 85.27,
+    "change": 1.87,
+    "pct": 2.24
   },
   "Gold": {
-    "price": 4456.5,
-    "change": -21.6,
-    "pct": -0.48
+    "price": 4464.2,
+    "change": -13.9,
+    "pct": -0.31
   },
   "Silver": {
-    "price": 66.6,
-    "change": -0.4,
-    "pct": -0.59
+    "price": 66.68,
+    "change": -0.31,
+    "pct": -0.46
   },
   "USD/INR": {
     "price": 95.36,
@@ -78,9 +78,9 @@
     "pct": -0.12
   },
   "Dollar Index": {
-    "price": 99.6,
-    "change": -0.1,
-    "pct": -0.1
+    "price": 99.58,
+    "change": -0.12,
+    "pct": -0.12
   },
   "US 10Y Yield": {
     "price": 4.72,
@@ -104,11 +104,6 @@
       "published": "Mon, 31 Aug 2026 02:29:34 GMT"
     },
     {
-      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTzh4eDN0QmJjSVdabVc5V0pXMDFVVjJEWWFveWdYUEVaZHdNV3JKRkV0QnFzZWFFSkZUUGdPLWJsNXp3Y1cwWEhMOUpFaWd6dktneVNBdHZia2xLUWx6WHVRT1FiZHFtLWJ6TzFxMXZpR1lqTEFXWnBFWGh1Rlh4MjlROFp1MlI0RWN1VXRpNkhJaGp2MUlyeXlVLUQzWTNMbV9SUDBXOHZoejA1bmd5RkhOb1NraE40Q2tYdDV6aFF6NGJfRmRDcktFM1hfM0Y4bmRjVDBadWhPN2ttWjNHV1RvNkV6aXpXVmNDWEhkZnd6UGZOSXEwLUFxdlFoMWM?oc=5",
-      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
-    },
-    {
       "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
@@ -119,15 +114,20 @@
       "published": "Sun, 30 Aug 2026 11:26:00 GMT"
     },
     {
+      "title": "Hero MotoCorp Increases Stake in Ather Energy | ACME Solar Secures SECI Power Project | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUmJJeDJkZ0s2QjVHdEZGTmtVejR1U1RlUGN0Wl9qV0huWW9ZQXZmRm1NcW1faGVEcS11ckdIUjUwZS1yWjlWTE1EOVhjNXF6ZWxQZXhrWFdvTEZmTDJ3dTlVb1FhdmJDVkNDanp1MXpwWGhaZlItUUtCX3VIcVpDQWhuOWoyb3l4N3R5eUlFZFpJLTZEMUpGSGZvblhaT2VRUWQ5eWhQXzRRRTJwRjJuYlRrblR3Vm00T0M2YVpuRGx3WHJFNTJqS3MxRmJ1VDh0NVZRb2pxOGo4dHJnUkFwWUVXYUw5X25kTHpCcFFIaXpMR3RidmZyZWRvZHU2d0k?oc=5",
+      "published": "Mon, 31 Aug 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11UC1TUVNmSU85cGI4cmlTMldPak1pWm5YN18wbDlYNER3QTFRR2xxMk90cVVkXzhvTTV6bDc3S2YzclY5OVRtX3Zjdks2OVBBdzQ0NU5nQTZ0VklVc3libFJWUXdETFdVVlB1VElzLUs2UFgxYVNEMXdpenQ1Z9IBgwFBVV95cUxObzRqSDlkYzNRRjIwTkdOQ014TmdsR09oZV83TDgyb3IzQmloM0tOZGUzcDRyTnVIc1NlTlNIaEJyemlUQ1RSVUw3SDBObTFHMzBjbnYtNG93b3BDX1VVc0dzMUtyb3JyMUhXR3hjMFFRLTZjQVItWmFmaTR4OWtsTElxMA?oc=5",
+      "published": "Mon, 31 Aug 2026 02:35:00 GMT"
+    },
+    {
       "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Sat, 29 Aug 2026 10:14:40 GMT"
-    },
-    {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
-      "published": "Fri, 28 Aug 2026 11:39:08 GMT"
     }
   ],
-  "last_updated": "2026-08-31 02:48 UTC"
+  "last_updated": "2026-08-31 03:03 UTC"
 }
