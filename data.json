@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24020.2,
-    "change": -155.45,
-    "pct": -0.64
+    "price": 24062.25,
+    "change": -113.4,
+    "pct": -0.47
   },
   "Bank Nifty": {
-    "price": 57334.4,
-    "change": -161.9,
-    "pct": -0.28
+    "price": 57397.5,
+    "change": -98.8,
+    "pct": -0.17
   },
   "Sensex": {
-    "price": 76824.7,
-    "change": -439.8,
-    "pct": -0.57
+    "price": 76857.17,
+    "change": -407.34,
+    "pct": -0.53
   },
   "India VIX": {
-    "price": 11.2,
-    "change": 0.52,
-    "pct": 4.92
+    "price": 11.22,
+    "change": 0.54,
+    "pct": 5.03
   },
   "Nifty IT": {
-    "price": 30738.9,
-    "change": -542.8,
-    "pct": -1.74
+    "price": 30750.3,
+    "change": -531.4,
+    "pct": -1.7
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,14 +43,14 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 66118.86,
-    "change": -286.7,
-    "pct": -0.43
+    "price": 66177.74,
+    "change": -227.82,
+    "pct": -0.34
   },
   "Hang Seng": {
-    "price": 25455.85,
-    "change": -128.94,
-    "pct": -0.5
+    "price": 25462.64,
+    "change": -122.15,
+    "pct": -0.48
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.44,
-    "change": -0.03,
-    "pct": -0.03
+    "price": 95.43,
+    "change": -0.04,
+    "pct": -0.04
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -94,6 +94,11 @@
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
     {
+      "title": "Indian shares fall on oil, Fed hike bets; HDFC Bank caps losses - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
+      "published": "Mon, 31 Aug 2026 02:54:00 GMT"
+    },
+    {
       "title": "India\u2019s Capital-Market Advantage in a Changing World - International Banker",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJMcGlXTC1zekZZSkVKV1lFRllJTk9pNlZHUndmVW13dmx2WEdrYmJEOTBVRVJ4bjdMUGthMS1odldZOU1ETzlMekFCQzM0YmwzWldMc1QwNGlHWUJWazBFWk5OVGtUSnZKb2pHU2Z6STJYeGdHQVZWRlF4QzhwaEpsRE5TQ1RxUGhnaXVZd2dzYzVVbzFn?oc=5",
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
@@ -102,11 +107,6 @@
       "title": "Indian stock market today: Sensex, Nifty fall as US-Iran tensions, higher yields weigh, HDFC Bank lead gains - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmxUekFqTlp6bW1YUHgxbzhsTFNfcmt2ejV0MTFpdDlUT0EzOG1BbHAwMjNxY05leUduVDVuUTFjUndEdEhoN3FidTlQVERVeEowUUdlb21IZTZJNkxGam1FNGxzMk0yMFEybWNxRHZGdGh4REt0ZjgzSUtYWXN1bFo5Yy1HQ2dGbmtOcktUeFVsM0lZQzAxU1c5OXlEZ0wtY3lOZnRoSmc3RmtsOGFtUVdiVE9IZEpNVC01eUhUdjhkU2ozR3BOdU9oMGtCbDRDZTdTUVFJeWk3VDBVenUySlM5WDVraFFRUGUtRWl5bGhueUM1NUUtejUzOGNtQdIBhAJBVV95cUxQaFhhTXFjTmFpOG1ZS0VXbDJRdFRsXy1MVklaZTFVYVlXeGRNdWtRbzU2LVpNOVEtazlDWU1wamszRENobmg1WGJXeWtiQWVoMGFoN0pxQjU5bUJEa2V3b3JzLTI3OXZEbjNsX3VUWHdDRDd3cVVpVDU3WXdIa0Z1SURPa0ZxY3ZYRVpXSjRTbTN5cWFZM2J2RlJvWXJNQmpRajJWa29zXzVRbEVTNzhDUmJsQzFEaXUtYm1vQXZqSXhWcktCTDFXbGVmV190OURqdlFsYkFrMWlta0pMY0ZicUQxTHlSYk1wa05jVTVGRzcyMVZXYTJ5SHIwT09oekl4aGV3YQ?oc=5",
       "published": "Mon, 31 Aug 2026 04:42:56 GMT"
-    },
-    {
-      "title": "Indian shares fall on oil, Fed hike bets; HDFC Bank caps losses - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHhzUmFDRUhTV200UmE3NjFXbDJXVXNKQVlWV2FaN2l1dzUxM1dNZUtZaDJNblc4Q295TWN3S3R5M0xvVXRMZ3oyQzBuWHJkZnczM2dTQy1kQXlLcWRUTG96b19CNm1YbEhvdjdoVk84bnVzV0k1ZGh1T3lJRnZOanlRNjZwVVNkQ282bC1hQkJXWXliUGJsQUVwcVY3SkIyb3dHTjhCSzZQNkk?oc=5",
-      "published": "Mon, 31 Aug 2026 02:54:00 GMT"
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 24,100 | Tata Steel & Infosys Top Losers - Equitymaster",
@@ -119,5 +119,5 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     }
   ],
-  "last_updated": "2026-08-31 06:18 UTC"
+  "last_updated": "2026-08-31 06:33 UTC"
 }
