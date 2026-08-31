@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53202.28,
-    "change": -357.71,
-    "pct": -0.67
+    "price": 53228.61,
+    "change": -331.38,
+    "pct": -0.62
   },
   "Nasdaq": {
-    "price": 26282.51,
-    "change": -119.91,
-    "pct": -0.45
+    "price": 26315.6,
+    "change": -86.82,
+    "pct": -0.33
   },
   "S&P 500": {
-    "price": 7672.13,
-    "change": -39.63,
-    "pct": -0.51
+    "price": 7680.72,
+    "change": -31.04,
+    "pct": -0.4
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -75,7 +75,7 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
+      "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Sat, 29 Aug 2026 10:14:40 GMT"
     },
@@ -95,7 +95,7 @@
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
     },
     {
-      "title": "Indian stock market today: Sensex, Nifty fall as US-Iran tensions, higher yields weigh, HDFC Bank lead gains - BusinessLine",
+      "title": "Indian stock market today: Sensex, Nifty fall as US-Iran tensions, higher yields weigh, HDFC Bank lead gains - thehindubusinessline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQmxUekFqTlp6bW1YUHgxbzhsTFNfcmt2ejV0MTFpdDlUT0EzOG1BbHAwMjNxY05leUduVDVuUTFjUndEdEhoN3FidTlQVERVeEowUUdlb21IZTZJNkxGam1FNGxzMk0yMFEybWNxRHZGdGh4REt0ZjgzSUtYWXN1bFo5Yy1HQ2dGbmtOcktUeFVsM0lZQzAxU1c5OXlEZ0wtY3lOZnRoSmc3RmtsOGFtUVdiVE9IZEpNVC01eUhUdjhkU2ozR3BOdU9oMGtCbDRDZTdTUVFJeWk3VDBVenUySlM5WDVraFFRUGUtRWl5bGhueUM1NUUtejUzOGNtQdIBhAJBVV95cUxQaFhhTXFjTmFpOG1ZS0VXbDJRdFRsXy1MVklaZTFVYVlXeGRNdWtRbzU2LVpNOVEtazlDWU1wamszRENobmg1WGJXeWtiQWVoMGFoN0pxQjU5bUJEa2V3b3JzLTI3OXZEbjNsX3VUWHdDRDd3cVVpVDU3WXdIa0Z1SURPa0ZxY3ZYRVpXSjRTbTN5cWFZM2J2RlJvWXJNQmpRajJWa29zXzVRbEVTNzhDUmJsQzFEaXUtYm1vQXZqSXhWcktCTDFXbGVmV190OURqdlFsYkFrMWlta0pMY0ZicUQxTHlSYk1wa05jVTVGRzcyMVZXYTJ5SHIwT09oekl4aGV3YQ?oc=5",
       "published": "Mon, 31 Aug 2026 04:42:56 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Mon, 31 Aug 2026 03:21:08 GMT"
     }
   ],
-  "last_updated": "2026-08-31 17:33 UTC"
+  "last_updated": "2026-08-31 17:48 UTC"
 }
