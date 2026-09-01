@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.02,
-    "change": 4.53,
-    "pct": 5.01
+    "price": 95.14,
+    "change": 4.65,
+    "pct": 5.14
   },
   "Crude Oil (WTI)": {
-    "price": 90.53,
-    "change": 4.77,
-    "pct": 5.56
+    "price": 90.65,
+    "change": 4.89,
+    "pct": 5.7
   },
   "Gold": {
-    "price": 4375.0,
-    "change": -56.1,
-    "pct": -1.27
+    "price": 4375.4,
+    "change": -55.7,
+    "pct": -1.26
   },
   "Silver": {
-    "price": 64.68,
-    "change": -1.55,
-    "pct": -2.33
+    "price": 64.67,
+    "change": -1.56,
+    "pct": -2.35
   },
   "USD/INR": {
     "price": 94.94,
@@ -75,12 +75,12 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Tue, 01 Sep 2026 13:25:24 GMT"
     },
@@ -90,9 +90,9 @@
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRFM5alE2TW5wWHB1RFZ2OGdScWtNVUVkd3RtRFVyWktscTVrc055SUw3WTU1QXVlMjQ4VGVqZmhnOGNjcEIzMWFyM2RBd05lUTg0bXNDREFUTGx0cXA4dG5McHRaTmZoTlJRUWg3ckdIUjJiYjRIS0ljX095Q0UtMjVIbjJEMDFwM2x2dk5UTWZ5Wl8ySUdWMWhRdDBoU2RxM1ZtQ1dfanlLM0hBY1hXeHZrUWQ3UjNibWljSWRSWE4yeWFWbUp0TDczeTlqTVp0OFprNFloZnlqa0d5WE5UWmlNSlJHblZHWDNhMEpJRzdDS2tNZ0p6TWpiZjnSAYICQVVfeXFMTWRhOHktWjF0NWdzbEJYZXNiVHVGa0o5RFJsRXVQNEFQODY0dURxRG94WTg4ZFpTU0hRWlgydndqVHcxeGtDX1hoNGFFMFdnbG02M3JFc3R2NW0tRTB4b2M0ZFF3bENRWlNweDh1UmR5S0dQdTlzLTJHTF9QQl9ZdjlRZDZHb1J2Q2ZvWWlSUjQxMGR0blNKN2gyUGxxcmQwdmRKREoxNUp0elBNNE96Vkh5OG1CNlBkbkdFa3VVR0p1aVNzd1JWT3NlWHUzY1luTmRSRVozLW1MalphM0hMejZHamFFWTh3c05UUGFKTktLSDVPTUl6dFNhOGNUSnhsUUpB?oc=5",
-      "published": "Tue, 01 Sep 2026 01:36:03 GMT"
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 September - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPczhHcFRlSS1vNGJfTTVHdmxJTkw4T3F2Y1lRbjF4SDhoMjdNM3J3UjZSZ1h1c0lWS09YSjlfNzVsS1lqMThyMGtwcHhrdHJlUDdBQ2wzV2d0VWgtVlFnRDRGejZkSjJBN1E2TW9DR3hwcGJEN2M0SHNrcTNSelB6OHl5ekRtVnQtcy1FSUthdHdVRk1PeTNSNEJ5Zk1lRHhURnNsN1B2Z0xmS2xVYzdOV0xHUldmWThWNWwwdG4wUW01bmMtcGo5Y0ozenlTNXF5Q05kR2xvVl80cTdCRmpJbVl2SDBfQzFNQTA0?oc=5",
+      "published": "Tue, 01 Sep 2026 04:52:00 GMT"
     },
     {
       "title": "Why Japan's 30-year high bond yields should worry Indian stock market investors - The Economic Times",
@@ -105,15 +105,15 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
     {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcUszTWpqYVEwX0tNMVZEZlNnSFJ1SmdGVzVVOS1xdkhMYXA5d3ptNkJiNEpFd04tRlJSamU3SktjQWF2M2tGV0ZHcl9jVHc0ZWxUQ3luYjFCT1MtbmNFbzlBbjRqRC1QaUdTQzhMU19KbjIzR1V5bkd1WnhhRDhIbWpWd1h0YTNGejVDdWI5WG1iVFFiU2lBNkp4YWVTWFlYckZQT1ExdFRoRlNKU0JUQ1RfNC0tWExSeTdaY3IxMWFxT0J1S1ItNGxUSFRVNTNWVTJBSVRQMTljY3k3QWU0STZIUEY2UmVZVFdfSTl1M3lsaERhUFhTcmdR0gH_AUFVX3lxTE5ycmhZUG5wcXpVNkp3Z1FfdWhUbnZ5TmhYT3RjWXRnOGxSSV9lZUs5alpwMUNDMWluVmhWRnBpRWZuMVc0R3hGdGVreGhmTk1RSkhnR1ZjdThLQmxVYm5Wd3kxdWRpd1FLNDRQV1F1Q1YteVhzRzhKWFNWa3pOdkhPRlMwSjJYZ2JZekFuM0Z2aE5PUmhxQ1BocHF2cVYwZVNBUHJ1WnUwaXFRd0t4ejRsamM4Vlpad3M5ZEFQaEpWaUpmcUI0a1dfbl9DODhONHBBMDhLOEFRQ1JZRXVoOTJfVGs0cVZpWnc0TElJNmR3anZkRHFkUC0tdEFBMjRqdw?oc=5",
+      "published": "Mon, 31 Aug 2026 01:42:47 GMT"
+    },
+    {
       "title": "Indian Stocks Open Lower as Oil Prices Surge and Rupee Strengthens - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSE1FNVl1ZzhKY0Npd1d4aG5JdHJ6Rl9wS0VPUFNQbFJ1V2hQc1FMYm5UQU9KRDI5MUlZT2k2RjhsTFJ0VU13QjltanREMVNnQ29kTi1kWDNtaHdaVEpra1dsVzN5WUxwLVZ5LV8zbGRnYU1SeWJMTl9maXlNQi1aVEw3WjdJMGdib3NLUGVzVUFkZ2FSNnVxbE5jSVdGc0UxVnBGMEFvcHV0UGQtOFA1enVNWkNBUmI0a0xacGxLTQ?oc=5",
       "published": "Tue, 01 Sep 2026 04:04:08 GMT"
-    },
-    {
-      "title": "Market Wrap: Sensex Slips, Nifty Holds 24,050: Top Market Triggers & Stock Highlights Today - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzdYVC0tQnA4V3c5M3Z4ODItUkpxZVBzY09FMzgxQWhlY0ZZOXBuVVhUal9xclB3R2p5T1Q3NXBIN0lSTWJWRTNpQjY3YURmMUp5Q3RDaWFpUldpaTJHazctM3NUaEVQTXRPVnBIUnF3c212V0FJUFZPaDFhZVVzVU44ZktiOGdTd2owYnBUQVdUVldfMkk3WDdPdDlXd0dkVWg0N1N3Y21HWjJtQUpEZ0gyNA?oc=5",
-      "published": "Tue, 01 Sep 2026 15:46:00 GMT"
     }
   ],
-  "last_updated": "2026-09-01 20:55 UTC"
+  "last_updated": "2026-09-01 21:06 UTC"
 }
