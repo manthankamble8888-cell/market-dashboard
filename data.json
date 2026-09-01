@@ -27,14 +27,14 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
-    "price": 66169.85,
-    "change": -142.08,
-    "pct": -0.21
+    "price": 66148.82,
+    "change": -163.11,
+    "pct": -0.25
   },
   "Hang Seng": {
-    "price": 25299.84,
-    "change": -267.15,
-    "pct": -1.04
+    "price": 25294.75,
+    "change": -272.24,
+    "pct": -1.06
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -89,7 +89,7 @@
       "published": "Mon, 31 Aug 2026 10:51:40 GMT"
     },
     {
-      "title": "Indian Stock Market Next Week, April 13-17: Sensex, Nifty May Consolidate; US-Iran Talks, Q4 Results in Focus - goodreturns.in",
+      "title": "Indian Stock Market Next Week, April 13-17: Sensex, Nifty May Consolidate; US-Iran Talks, Q4 Results in Focus - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUJIcVlJRlZRVXRpZW1TalBBWWNWTm1UTFZxaVRDZ0s3MDNCdGNtTy1jemRJcXl2bExYTy1ocDFtQThKYk1WdDF0RXBhdGpHUVpHS0VnM0RzWEpGYmhkRkYzbFBMRnBnUDhqUEFmYjBaNlpHUy1idjBGcHgzVFZTQ1RuZ2ZIU1pLd2FnSjJ5MGZ2Yy02TG1JX2NhQW16R2RYbl9tdHpRR25UMHFWUDNvV21iOXp0UUxSeEh0Um56V3N6Y0xLb09nTzdobnd5QTlpd1o1N0dqTzNNeGJn?oc=5",
       "published": "Mon, 31 Aug 2026 12:26:00 GMT"
     },
@@ -99,5 +99,5 @@
       "published": "Mon, 31 Aug 2026 06:00:21 GMT"
     }
   ],
-  "last_updated": "2026-09-01 02:24 UTC"
+  "last_updated": "2026-09-01 02:37 UTC"
 }
