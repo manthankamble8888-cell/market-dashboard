@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52780.26,
-    "change": -405.64,
-    "pct": -0.76
+    "price": 52773.54,
+    "change": -412.36,
+    "pct": -0.78
   },
   "Nasdaq": {
-    "price": 26133.01,
-    "change": -237.88,
-    "pct": -0.9
+    "price": 26113.93,
+    "change": -256.96,
+    "pct": -0.97
   },
   "S&P 500": {
-    "price": 7637.62,
-    "change": -48.52,
-    "pct": -0.63
+    "price": 7633.72,
+    "change": -52.42,
+    "pct": -0.68
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 94.08,
-    "change": 3.59,
-    "pct": 3.97
+    "price": 94.42,
+    "change": 3.93,
+    "pct": 4.34
   },
   "Crude Oil (WTI)": {
-    "price": 89.58,
-    "change": 3.82,
-    "pct": 4.45
+    "price": 89.92,
+    "change": 4.16,
+    "pct": 4.85
   },
   "Gold": {
-    "price": 4395.0,
-    "change": -36.1,
-    "pct": -0.81
+    "price": 4396.8,
+    "change": -34.3,
+    "pct": -0.77
   },
   "Silver": {
-    "price": 65.4,
-    "change": -0.82,
-    "pct": -1.24
+    "price": 65.41,
+    "change": -0.81,
+    "pct": -1.22
   },
   "USD/INR": {
     "price": 94.94,
@@ -74,9 +74,9 @@
     "pct": -0.46
   },
   "Dollar Index": {
-    "price": 99.67,
-    "change": 0.24,
-    "pct": 0.24
+    "price": 99.68,
+    "change": 0.25,
+    "pct": 0.25
   },
   "US 10Y Yield": {
     "price": 4.79,
@@ -115,15 +115,15 @@
       "published": "Tue, 01 Sep 2026 12:01:54 GMT"
     },
     {
-      "title": "Indian Stocks Open Lower as Oil Prices Surge and Rupee Strengthens - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSE1FNVl1ZzhKY0Npd1d4aG5JdHJ6Rl9wS0VPUFNQbFJ1V2hQc1FMYm5UQU9KRDI5MUlZT2k2RjhsTFJ0VU13QjltanREMVNnQ29kTi1kWDNtaHdaVEpra1dsVzN5WUxwLVZ5LV8zbGRnYU1SeWJMTl9maXlNQi1aVEw3WjdJMGdib3NLUGVzVUFkZ2FSNnVxbE5jSVdGc0UxVnBGMEFvcHV0UGQtOFA1enVNWkNBUmI0a0xacGxLTQ?oc=5",
-      "published": "Tue, 01 Sep 2026 04:04:08 GMT"
-    },
-    {
       "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
+    },
+    {
+      "title": "Indian Stocks Open Lower as Oil Prices Surge and Rupee Strengthens - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSE1FNVl1ZzhKY0Npd1d4aG5JdHJ6Rl9wS0VPUFNQbFJ1V2hQc1FMYm5UQU9KRDI5MUlZT2k2RjhsTFJ0VU13QjltanREMVNnQ29kTi1kWDNtaHdaVEpra1dsVzN5WUxwLVZ5LV8zbGRnYU1SeWJMTl9maXlNQi1aVEw3WjdJMGdib3NLUGVzVUFkZ2FSNnVxbE5jSVdGc0UxVnBGMEFvcHV0UGQtOFA1enVNWkNBUmI0a0xacGxLTQ?oc=5",
+      "published": "Tue, 01 Sep 2026 04:04:08 GMT"
     }
   ],
-  "last_updated": "2026-09-01 17:35 UTC"
+  "last_updated": "2026-09-01 17:48 UTC"
 }
