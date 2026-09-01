@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53150.27,
-    "change": -35.63,
+    "price": 53147.0,
+    "change": -38.9,
     "pct": -0.07
   },
   "Nasdaq": {
-    "price": 26151.68,
-    "change": -219.21,
-    "pct": -0.83
+    "price": 26173.97,
+    "change": -196.92,
+    "pct": -0.75
   },
   "S&P 500": {
-    "price": 7655.3,
-    "change": -30.84,
-    "pct": -0.4
+    "price": 7659.6,
+    "change": -26.54,
+    "pct": -0.35
   },
   "Nikkei 225": {
     "price": 66215.34,
@@ -53,24 +53,24 @@
     "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 92.01,
-    "change": 1.52,
-    "pct": 1.68
+    "price": 92.08,
+    "change": 1.59,
+    "pct": 1.76
   },
   "Crude Oil (WTI)": {
-    "price": 87.67,
-    "change": 1.91,
-    "pct": 2.23
+    "price": 87.64,
+    "change": 1.88,
+    "pct": 2.19
   },
   "Gold": {
-    "price": 4418.6,
-    "change": -12.5,
-    "pct": -0.28
+    "price": 4416.2,
+    "change": -14.9,
+    "pct": -0.34
   },
   "Silver": {
-    "price": 65.62,
-    "change": -0.6,
-    "pct": -0.91
+    "price": 65.56,
+    "change": -0.66,
+    "pct": -1.0
   },
   "USD/INR": {
     "price": 94.94,
@@ -78,14 +78,14 @@
     "pct": -0.46
   },
   "Dollar Index": {
-    "price": 99.51,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 99.55,
+    "change": 0.12,
+    "pct": 0.12
   },
   "US 10Y Yield": {
     "price": 4.76,
-    "change": 0.01,
-    "pct": 0.13
+    "change": -0.0,
+    "pct": -0.04
   },
   "news": [
     {
@@ -104,7 +104,7 @@
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     },
     {
-      "title": "Sensex Today Trades Lower | Nifty Below 24,050 | SBI & Titan Company Top Losers - Equitymaster",
+      "title": "Sensex Today Trades Lower | Nifty Below 24,050 | SBI & Titan Company Top Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGwyTk1TWGRSMjQ4UHYxQ0xSQWhMR2VBV2Fpb3dYYVlncWFXcWVtQUM4SGhQMFlGbkVoSkJVVFlKYlFDUWs3WVJ3OER3VW4xRl9DU3N0aV9sMUU1RWJUN0I1Y3AtZ2xUNmRGTno0X093bG1ZUHlTeUdEVkxuRlZ0ZTBTR0pNYWMyNVdfaTVZR1c4R3NDdGQtN0k2VncyMF9BeUJTMXZ2b0hSN25INEZxUmZHRGxKNm5TaUFUb3o0bi1lbGJqTndvcnhaY0o0cXM?oc=5",
       "published": "Tue, 01 Sep 2026 04:34:17 GMT"
     },
@@ -114,20 +114,20 @@
       "published": "Tue, 01 Sep 2026 12:01:54 GMT"
     },
     {
-      "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list - The Times of India",
+      "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQa0tIUERYLWFyYU1EbUFZYkgzRFdyT1h5XzNNbWRzSzhmUHJITlhFaHBuRFBVdGZsT0tGWElROTRtcnVZR3p5YlhhbUU2VktpUGIwTkprYmxUdlF2NVFyT3ZXWHZOWEgtSVQ3cHRaa0kzSE1qa0NCYTJKT0U3MEd6ODZUNzhKZTJYNTR1ZjFhZThZa3hzVVlwdnJZOS15XzZwcWVjMEFZX01ZYTJUeTRual9MaXFWYTUyeXlnYkVTeGlyNmd1bzZvaXZabWF6YWh6S1BZRVYwQWZfSlc3RDFHOU1CNFNuUk83MjVVTzlRdzdTdjdBOHFubEcyNTZtUmhSeTVSTjFFWTBJZE9zLTdScExzQkU1UWlLVDhoczk3VGhHOEVtN1VWR2FyUDRUYk1DdWZzMlo5eVpnRTR4QWd3TU9abng1T1BlOXpMWENob244by1Tbl9iYmF1cHN2QdIB4wJBVV95cUxQQVBSbm5hcmtQNmtTZVJfNlc5eTZkcXJUMlMyWkF1YzRmZTlqN1N3Zlh6eFE2VWMxRERfZkV0TnhIeFdWSGp0d1pFUWhOekhscnNLZmpXSTdqWVhoY180Wm5vSmw2QTNvZkROVVpXeXNDa2tMZ1JPRm9vbHFkMUJLWGZJQlR0VXUzRXc5V29jOERLcklqelZqZTFlZVA2bG5XbXZaV19xaDE5WEZQY3dFQnd2RjQ5ckFaVTVNcEFRTnU0YloycnNCWWQyX1BVSlFFX083d0ZDNy1wbXJ2YjJLeHNPdTA0T2s3SXBWUlBZNTNEaHNYV0c2YVNKY3lFc1VJbmRnRER1dmpMajdSWmd1cmh2cFJ2MFNiVl83b2FpYl9aQ2pwbzRlR09qRHRnaHJ5TXZYYTlIb3JVUEhJZXhhMUtrVkdrWVJFQ1pPTUpUTnQwMWRtNmZMYmFDak10Q0g0NmQ0?oc=5",
       "published": "Tue, 01 Sep 2026 03:21:00 GMT"
+    },
+    {
+      "title": "Indian Stocks Open Lower as Oil Prices Surge and Rupee Strengthens - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSE1FNVl1ZzhKY0Npd1d4aG5JdHJ6Rl9wS0VPUFNQbFJ1V2hQc1FMYm5UQU9KRDI5MUlZT2k2RjhsTFJ0VU13QjltanREMVNnQ29kTi1kWDNtaHdaVEpra1dsVzN5WUxwLVZ5LV8zbGRnYU1SeWJMTl9maXlNQi1aVEw3WjdJMGdib3NLUGVzVUFkZ2FSNnVxbE5jSVdGc0UxVnBGMEFvcHV0UGQtOFA1enVNWkNBUmI0a0xacGxLTQ?oc=5",
+      "published": "Tue, 01 Sep 2026 04:04:08 GMT"
     },
     {
       "title": "The IPO India Has Been Waiting For: Why Jio\u2019s Market Debut Could Rewrite Stock Market History - Open Magazine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1RfVzVkZ2RSMzYyN1c4VDc1d2hKNEU3eWwtU21ycjdKRk1CbTZGOFVzT1RscVVQZWFXS2FUU2t1V2FsY0tTcERqMU9iTmg3MHpQTUZUbFhXZDM3WlhaSm50WVBkMWprU0t6eldEWkxXdFhLY2RsQWhnNTJFTW9rdXM4NTVyQnJKVUgxeHhYWFdlQ0xucXNIa3FtSkdxUVZmNmY1emMxZmpHYUpmN1MwREQySldpY2V5WndFSjBLUHpRUkd4VTdz?oc=5",
       "published": "Tue, 01 Sep 2026 05:49:55 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.10% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNDJHLWRqTER4QUo0ZkxQOVpzcEtnc2pZeDVSYU83LV9JakJSaUszZXJOcmxOUGJMdktwQkVEQzhQclUyUThqQzlTRS1DZlBUVmJyOVFnbUw1VW1jY2lDT3pUdHFZaV83V29zQURYT1hmbU1JYVplWEQxbWlFVVVKX0ZxVXh2ak9Pb3hiSmZWMzFObTZqY20yekp1cmFtSlZ3ZWhfUExTNm96OGxrVWEzOQ?oc=5",
-      "published": "Tue, 01 Sep 2026 10:38:26 GMT"
     }
   ],
-  "last_updated": "2026-09-01 14:25 UTC"
+  "last_updated": "2026-09-01 14:39 UTC"
 }
