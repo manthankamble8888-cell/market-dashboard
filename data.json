@@ -1,46 +1,40 @@
 {
   "Nifty 50": {
-    "price": 23999.9,
-    "change": -80.5,
-    "pct": -0.33
+    "price": 23969.8,
+    "change": -110.6,
+    "pct": -0.46
   },
   "Bank Nifty": {
-    "price": 57273.15,
-    "change": -751.8,
-    "pct": -1.3
+    "price": 57190.9,
+    "change": -834.05,
+    "pct": -1.44
   },
   "Sensex": {
-    "price": 76886.35,
-    "change": -70.92,
-    "pct": -0.09
+    "price": 76769.4,
+    "change": -187.88,
+    "pct": -0.24
   },
   "India VIX": {
-    "price": 11.48,
-    "change": 0.29,
-    "pct": 2.55
+    "price": 11.68,
+    "change": 0.49,
+    "pct": 4.33
   },
   "Nifty IT": {
-    "price": 31416.25,
-    "change": 224.8,
-    "pct": 0.72
+    "price": 31356.4,
+    "change": 164.95,
+    "pct": 0.53
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53185.9,
-    "change": -374.09,
-    "pct": -0.7
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nasdaq": {
-    "price": 26370.89,
-    "change": -31.53,
-    "pct": -0.12
+    "error": "single positional indexer is out-of-bounds"
   },
   "S&P 500": {
-    "price": 7686.14,
-    "change": -25.62,
-    "pct": -0.33
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
     "price": 66215.34,
@@ -53,39 +47,37 @@
     "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 92.04,
-    "change": 1.55,
-    "pct": 1.71
+    "price": 92.23,
+    "change": 1.74,
+    "pct": 1.92
   },
   "Crude Oil (WTI)": {
-    "price": 87.3,
-    "change": 1.54,
-    "pct": 1.8
+    "price": 87.57,
+    "change": 1.81,
+    "pct": 2.11
   },
   "Gold": {
-    "price": 4447.7,
-    "change": 16.6,
-    "pct": 0.37
+    "price": 4426.1,
+    "change": -5.0,
+    "pct": -0.11
   },
   "Silver": {
-    "price": 66.58,
-    "change": 0.36,
-    "pct": 0.55
+    "price": 65.65,
+    "change": -0.57,
+    "pct": -0.86
   },
   "USD/INR": {
-    "price": 94.94,
-    "change": -0.44,
-    "pct": -0.46
+    "price": 94.93,
+    "change": -0.46,
+    "pct": -0.48
   },
   "Dollar Index": {
-    "price": 99.62,
-    "change": 0.19,
-    "pct": 0.2
+    "price": 99.61,
+    "change": 0.18,
+    "pct": 0.18
   },
   "US 10Y Yield": {
-    "price": 4.76,
-    "change": 0.04,
-    "pct": 0.81
+    "error": "single positional indexer is out-of-bounds"
   },
   "news": [
     {
@@ -95,7 +87,7 @@
     },
     {
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRFM5alE2TW5wWHB1RFZ2OGdScWtNVUVkd3RtRFVyWktscTVrc055SUw3WTU1QXVlMjQ4VGVqZmhnOGNjcEIzMWFyM2RBd05lUTg0bXNDREFUTGx0cXA4dG5McHRaTmZoTlJRUWg3ckdIUjJiYjRIS0ljX095Q0UtMjVIbjJEMDFwM2x2dk5UTWZ5Wl8ySUdWMWhRdDBoU2RxM1ZtQ1dfanlLM0hBY1hXeHZrUWQ3UjNibWljSWRSWE4yeWFWbUp0TDczeTlqTVp0OFprNFloZnlqa0d5WE5UWmlNSlJHblZHWDNhMEpJRzdDS2tNZ0p6TWpiZjk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRFM5alE2TW5wWHB1RFZ2OGdScWtNVUVkd3RtRFVyWktscTVrc055SUw3WTU1QXVlMjQ4VGVqZmhnOGNjcEIzMWFyM2RBd05lUTg0bXNDREFUTGx0cXA4dG5McHRaTmZoTlJRUWg3ckdIUjJiYjRIS0ljX095Q0UtMjVIbjJEMDFwM2x2dk5UTWZ5Wl8ySUdWMWhRdDBoU2RxM1ZtQ1dfanlLM0hBY1hXeHZrUWQ3UjNibWljSWRSWE4yeWFWbUp0TDczeTlqTVp0OFprNFloZnlqa0d5WE5UWmlNSlJHblZHWDNhMEpJRzdDS2tNZ0p6TWpiZjnSAYICQVVfeXFMTWRhOHktWjF0NWdzbEJYZXNiVHVGa0o5RFJsRXVQNEFQODY0dURxRG94WTg4ZFpTU0hRWlgydndqVHcxeGtDX1hoNGFFMFdnbG02M3JFc3R2NW0tRTB4b2M0ZFF3bENRWlNweDh1UmR5S0dQdTlzLTJHTF9QQl9ZdjlRZDZHb1J2Q2ZvWWlSUjQxMGR0blNKN2gyUGxxcmQwdmRKREoxNUp0elBNNE96Vkh5OG1CNlBkbkdFa3VVR0p1aVNzd1JWT3NlWHUzY1luTmRSRVozLW1MalphM0hMejZHamFFWTh3c05UUGFKTktLSDVPTUl6dFNhOGNUSnhsUUpB?oc=5",
       "published": "Tue, 01 Sep 2026 01:36:03 GMT"
     },
     {
@@ -104,7 +96,7 @@
       "published": "Tue, 01 Sep 2026 04:34:17 GMT"
     },
     {
-      "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list - timesofindia.indiatimes.com",
+      "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQa0tIUERYLWFyYU1EbUFZYkgzRFdyT1h5XzNNbWRzSzhmUHJITlhFaHBuRFBVdGZsT0tGWElROTRtcnVZR3p5YlhhbUU2VktpUGIwTkprYmxUdlF2NVFyT3ZXWHZOWEgtSVQ3cHRaa0kzSE1qa0NCYTJKT0U3MEd6ODZUNzhKZTJYNTR1ZjFhZThZa3hzVVlwdnJZOS15XzZwcWVjMEFZX01ZYTJUeTRual9MaXFWYTUyeXlnYkVTeGlyNmd1bzZvaXZabWF6YWh6S1BZRVYwQWZfSlc3RDFHOU1CNFNuUk83MjVVTzlRdzdTdjdBOHFubEcyNTZtUmhSeTVSTjFFWTBJZE9zLTdScExzQkU1UWlLVDhoczk3VGhHOEVtN1VWR2FyUDRUYk1DdWZzMlo5eVpnRTR4QWd3TU9abng1T1BlOXpMWENob244by1Tbl9iYmF1cHN2QdIB4wJBVV95cUxQQVBSbm5hcmtQNmtTZVJfNlc5eTZkcXJUMlMyWkF1YzRmZTlqN1N3Zlh6eFE2VWMxRERfZkV0TnhIeFdWSGp0d1pFUWhOekhscnNLZmpXSTdqWVhoY180Wm5vSmw2QTNvZkROVVpXeXNDa2tMZ1JPRm9vbHFkMUJLWGZJQlR0VXUzRXc5V29jOERLcklqelZqZTFlZVA2bG5XbXZaV19xaDE5WEZQY3dFQnd2RjQ5ckFaVTVNcEFRTnU0YloycnNCWWQyX1BVSlFFX083d0ZDNy1wbXJ2YjJLeHNPdTA0T2s3SXBWUlBZNTNEaHNYV0c2YVNKY3lFc1VJbmRnRER1dmpMajdSWmd1cmh2cFJ2MFNiVl83b2FpYl9aQ2pwbzRlR09qRHRnaHJ5TXZYYTlIb3JVUEhJZXhhMUtrVkdrWVJFQ1pPTUpUTnQwMWRtNmZMYmFDak10Q0g0NmQ0?oc=5",
       "published": "Tue, 01 Sep 2026 03:21:00 GMT"
     },
@@ -112,6 +104,11 @@
       "title": "The IPO India Has Been Waiting For: Why Jio\u2019s Market Debut Could Rewrite Stock Market History - Open Magazine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY1RfVzVkZ2RSMzYyN1c4VDc1d2hKNEU3eWwtU21ycjdKRk1CbTZGOFVzT1RscVVQZWFXS2FUU2t1V2FsY0tTcERqMU9iTmg3MHpQTUZUbFhXZDM3WlhaSm50WVBkMWprU0t6eldEWkxXdFhLY2RsQWhnNTJFTW9rdXM4NTVyQnJKVUgxeHhYWFdlQ0xucXNIa3FtSkdxUVZmNmY1emMxZmpHYUpmN1MwREQySldpY2V5WndFSjBLUHpRUkd4VTdz?oc=5",
       "published": "Tue, 01 Sep 2026 05:49:55 GMT"
+    },
+    {
+      "title": "India Stock Auction Needs Market Makers as Price Swings Persist - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXBpYXlkZW54UUF5b1BXUm9EWUxLeWpDTFNjdy1BM1NYWXh0Rk5EVWJYSVdVU2VxQkFrVkNSOVY0NWF3Q0tKTE5qSkYzM2dKQUVGeDNhYWNEeTdGVWlnRmNDdWl6czlYaG5tTDNFd1Zwano0TU4yQ3JQTWJQRGFOSFBDdHZyNDJsbW15X3RPbDRwamh6NndILVdRUXZkZF9jUUZWTk4xYUVBdWZMZWxZTU02U2c?oc=5",
+      "published": "Tue, 01 Sep 2026 03:49:00 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty To India GDP Growth \u2014 Five Key Factors That May Drive Sensex, Nifty 50 on Sept 1 - NDTV Profit",
@@ -122,12 +119,7 @@
       "title": "India's Biggest Stock Market Booms And Busts - Rediff",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0hXOWF3U0w3TFRNZWpFYnBRaTR4cEN2Z3J3VVZyNUtOdkpPWXZPNVdhb18tUjJCdU5BT2FoV2JVZXYzT3pfNFg5b0tKdWhzWGZRU0xKV3hxdmVqS1QxUjdHWFRWV1g1Ynpqalk5NVBBRkN3ZUxvem9hTTkzMkhuTGotR3l0SndMOUQ0WXZsNnY2SEIzYzVmdk9ZZnTSAZ8BQVVfeXFMTjdwUVlndnhPbUI0aHFhYVBmc0hLalFhVXJkWGVhdlNhb0FXRnZGRF9td2VwaVZPY2dwZlYxRlJ4OE5TOGtkVmRoUjI2SU9LMF9uQzI5Rmk5YzljM2lMM2ZJMFRaTDNXbkZkLTNfcFpjODI0N2Mxa0hVTElyOUZfZWJKbGZDUDNidExrdUpaTzN3S0lwQTB6RW9HR1RCUzNn?oc=5",
       "published": "Tue, 01 Sep 2026 03:39:01 GMT"
-    },
-    {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
-      "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     }
   ],
-  "last_updated": "2026-09-01 08:27 UTC"
+  "last_updated": "2026-09-01 08:41 UTC"
 }
