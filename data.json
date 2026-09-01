@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24116.0,
-    "change": 35.6,
-    "pct": 0.15
+    "price": 24113.1,
+    "change": 32.7,
+    "pct": 0.14
   },
   "Bank Nifty": {
-    "price": 57679.1,
-    "change": -345.85,
-    "pct": -0.6
+    "price": 57627.3,
+    "change": -397.65,
+    "pct": -0.69
   },
   "Sensex": {
-    "price": 77192.42,
-    "change": 235.15,
-    "pct": 0.31
+    "price": 77167.08,
+    "change": 209.8,
+    "pct": 0.27
   },
   "India VIX": {
-    "price": 11.01,
-    "change": -0.18,
-    "pct": -1.61
+    "price": 10.99,
+    "change": -0.2,
+    "pct": -1.81
   },
   "Nifty IT": {
-    "price": 31247.65,
-    "change": 56.2,
-    "pct": 0.18
+    "price": 31435.25,
+    "change": 243.8,
+    "pct": 0.78
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -34,37 +34,39 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "S&P 500": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 7686.14,
+    "change": -25.62,
+    "pct": -0.33
   },
   "Nikkei 225": {
-    "price": 66431.26,
-    "change": 119.33,
-    "pct": 0.18
+    "price": 66395.11,
+    "change": 83.18,
+    "pct": 0.13
   },
   "Hang Seng": {
-    "price": 25329.23,
-    "change": -237.76,
-    "pct": -0.93
+    "price": 25308.06,
+    "change": -258.93,
+    "pct": -1.01
   },
   "Crude Oil (Brent)": {
-    "price": 88.57,
-    "change": -1.92,
-    "pct": -2.12
+    "price": 88.95,
+    "change": -1.54,
+    "pct": -1.7
   },
   "Crude Oil (WTI)": {
-    "price": 86.4,
-    "change": 0.64,
-    "pct": 0.75
+    "price": 86.58,
+    "change": 0.82,
+    "pct": 0.96
   },
   "Gold": {
-    "price": 4492.0,
-    "change": 60.9,
-    "pct": 1.37
+    "price": 4481.5,
+    "change": 50.4,
+    "pct": 1.14
   },
   "Silver": {
-    "price": 67.46,
-    "change": 1.23,
-    "pct": 1.86
+    "price": 67.32,
+    "change": 1.09,
+    "pct": 1.65
   },
   "USD/INR": {
     "price": 94.86,
@@ -72,12 +74,14 @@
     "pct": -0.55
   },
   "Dollar Index": {
-    "price": 99.49,
-    "change": 0.06,
-    "pct": 0.06
+    "price": 99.51,
+    "change": 0.08,
+    "pct": 0.08
   },
   "US 10Y Yield": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4.76,
+    "change": 0.04,
+    "pct": 0.81
   },
   "news": [
     {
@@ -106,14 +110,14 @@
       "published": "Tue, 01 Sep 2026 01:41:50 GMT"
     },
     {
-      "title": "India Stock Auction Needs Market Makers as Price Swings Persist - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXBpYXlkZW54UUF5b1BXUm9EWUxLeWpDTFNjdy1BM1NYWXh0Rk5EVWJYSVdVU2VxQkFrVkNSOVY0NWF3Q0tKTE5qSkYzM2dKQUVGeDNhYWNEeTdGVWlnRmNDdWl6czlYaG5tTDNFd1Zwano0TU4yQ3JQTWJQRGFOSFBDdHZyNDJsbW15X3RPbDRwamh6NndILVdRUXZkZF9jUUZWTk4xYUVBdWZMZWxZTU02U2c?oc=5",
-      "published": "Tue, 01 Sep 2026 03:49:00 GMT"
-    },
-    {
       "title": "India's Biggest Stock Market Booms And Busts - Rediff",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0hXOWF3U0w3TFRNZWpFYnBRaTR4cEN2Z3J3VVZyNUtOdkpPWXZPNVdhb18tUjJCdU5BT2FoV2JVZXYzT3pfNFg5b0tKdWhzWGZRU0xKV3hxdmVqS1QxUjdHWFRWV1g1Ynpqalk5NVBBRkN3ZUxvem9hTTkzMkhuTGotR3l0SndMOUQ0WXZsNnY2SEIzYzVmdk9ZZnTSAZ8BQVVfeXFMTjdwUVlndnhPbUI0aHFhYVBmc0hLalFhVXJkWGVhdlNhb0FXRnZGRF9td2VwaVZPY2dwZlYxRlJ4OE5TOGtkVmRoUjI2SU9LMF9uQzI5Rmk5YzljM2lMM2ZJMFRaTDNXbkZkLTNfcFpjODI0N2Mxa0hVTElyOUZfZWJKbGZDUDNidExrdUpaTzN3S0lwQTB6RW9HR1RCUzNn?oc=5",
       "published": "Tue, 01 Sep 2026 03:39:01 GMT"
+    },
+    {
+      "title": "India Stock Auction Needs Market Makers as Price Swings Persist - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXBpYXlkZW54UUF5b1BXUm9EWUxLeWpDTFNjdy1BM1NYWXh0Rk5EVWJYSVdVU2VxQkFrVkNSOVY0NWF3Q0tKTE5qSkYzM2dKQUVGeDNhYWNEeTdGVWlnRmNDdWl6czlYaG5tTDNFd1Zwano0TU4yQ3JQTWJQRGFOSFBDdHZyNDJsbW15X3RPbDRwamh6NndILVdRUXZkZF9jUUZWTk4xYUVBdWZMZWxZTU02U2c?oc=5",
+      "published": "Tue, 01 Sep 2026 03:49:00 GMT"
     },
     {
       "title": "The IPO India Has Been Waiting For: Why Jio\u2019s Market Debut Could Rewrite Stock Market History - Open Magazine",
@@ -121,5 +125,5 @@
       "published": "Tue, 01 Sep 2026 05:49:55 GMT"
     }
   ],
-  "last_updated": "2026-09-01 06:08 UTC"
+  "last_updated": "2026-09-01 06:31 UTC"
 }
