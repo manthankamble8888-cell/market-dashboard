@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24058.0,
-    "change": -22.4,
-    "pct": -0.09
+    "price": 24023.0,
+    "change": -57.4,
+    "pct": -0.24
   },
   "Bank Nifty": {
-    "price": 57450.15,
-    "change": -574.8,
-    "pct": -0.99
+    "price": 57370.35,
+    "change": -654.6,
+    "pct": -1.13
   },
   "Sensex": {
-    "price": 76884.08,
-    "change": -73.2,
+    "price": 76882.57,
+    "change": -74.7,
     "pct": -0.1
   },
   "India VIX": {
-    "price": 11.03,
-    "change": -0.16,
-    "pct": -1.41
+    "price": 11.22,
+    "change": 0.03,
+    "pct": 0.27
   },
   "Nifty IT": {
-    "price": 31222.3,
-    "change": 30.85,
-    "pct": 0.1
+    "price": 31143.6,
+    "change": -47.85,
+    "pct": -0.15
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -37,34 +37,44 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
-    "price": 66203.51,
-    "change": -108.42,
-    "pct": -0.16
+    "price": 66259.98,
+    "change": -51.95,
+    "pct": -0.08
   },
   "Hang Seng": {
-    "price": 25316.09,
-    "change": -250.9,
-    "pct": -0.98
+    "price": 25310.88,
+    "change": -256.11,
+    "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 88.9,
+    "change": -1.59,
+    "pct": -1.76
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 86.7,
+    "change": 0.94,
+    "pct": 1.1
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4480.5,
+    "change": 49.4,
+    "pct": 1.11
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 67.25,
+    "change": 1.03,
+    "pct": 1.55
   },
   "USD/INR": {
-    "price": 95.04,
-    "change": -0.34,
-    "pct": -0.35
+    "price": 94.87,
+    "change": -0.51,
+    "pct": -0.54
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 99.51,
+    "change": 0.08,
+    "pct": 0.08
   },
   "US 10Y Yield": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,7 +83,7 @@
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Mon, 31 Aug 2026 23:21:58 GMT"
+      "published": "Mon, 31 Aug 2026 15:19:59 GMT"
     },
     {
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 1 September - Livemint",
@@ -86,12 +96,17 @@
       "published": "Tue, 01 Sep 2026 01:41:50 GMT"
     },
     {
-      "title": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today - equitymaster.com",
+      "title": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOU052R0M0ZENBUXhjakEwTlpLOElSNTIxUURpQUdnT3hqVVM3YTFtQ0tFSWtjY182QWxxTEdaVUtCS3ZUSDdyVm5zQW91Ri1rRWR1OFN0eEdhMVdfX0JERHk2dnZNM2FDcEZMa25KS2YzR2pzeE9lN0xLUDNXQW5HN3ZnSjZNQl81a3dXaWE2Q1RjeGdtT1pTbTV0MlZOU01LdFRpM1dnR21yc0tXaHdETFNvejJrUlBWNXVIaHRHbU9KLUhzNm1CNlJGc3NyZjJQXzZNQXktREYzT2NRMk04SXJnRFAyTDZBY3dGRTVCdkw3a1ZvY1pFV19mYU1WV1Vqb1RVcXpRaGlBM0EwZmFCam53?oc=5",
       "published": "Tue, 01 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "India's Biggest Stock Market Booms And Busts - rediff.com",
+      "title": "India Stock Auction Needs Market Makers as Price Swings Persist - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXBpYXlkZW54UUF5b1BXUm9EWUxLeWpDTFNjdy1BM1NYWXh0Rk5EVWJYSVdVU2VxQkFrVkNSOVY0NWF3Q0tKTE5qSkYzM2dKQUVGeDNhYWNEeTdGVWlnRmNDdWl6czlYaG5tTDNFd1Zwano0TU4yQ3JQTWJQRGFOSFBDdHZyNDJsbW15X3RPbDRwamh6NndILVdRUXZkZF9jUUZWTk4xYUVBdWZMZWxZTU02U2c?oc=5",
+      "published": "Tue, 01 Sep 2026 03:49:00 GMT"
+    },
+    {
+      "title": "India's Biggest Stock Market Booms And Busts - Rediff",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ0hXOWF3U0w3TFRNZWpFYnBRaTR4cEN2Z3J3VVZyNUtOdkpPWXZPNVdhb18tUjJCdU5BT2FoV2JVZXYzT3pfNFg5b0tKdWhzWGZRU0xKV3hxdmVqS1QxUjdHWFRWV1g1Ynpqalk5NVBBRkN3ZUxvem9hTTkzMkhuTGotR3l0SndMOUQ0WXZsNnY2SEIzYzVmdk9ZZnQ?oc=5",
       "published": "Tue, 01 Sep 2026 03:39:01 GMT"
     },
@@ -103,13 +118,8 @@
     {
       "title": "Indian Stocks Open Lower as Oil Prices Surge and Rupee Strengthens - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSE1FNVl1ZzhKY0Npd1d4aG5JdHJ6Rl9wS0VPUFNQbFJ1V2hQc1FMYm5UQU9KRDI5MUlZT2k2RjhsTFJ0VU13QjltanREMVNnQ29kTi1kWDNtaHdaVEpra1dsVzN5WUxwLVZ5LV8zbGRnYU1SeWJMTl9maXlNQi1aVEw3WjdJMGdib3NLUGVzVUFkZ2FSNnVxbE5jSVdGc0UxVnBGMEFvcHV0UGQtOFA1enVNWkNBUmI0a0xacGxLTQ?oc=5",
-      "published": "Tue, 01 Sep 2026 04:03:39 GMT"
-    },
-    {
-      "title": "Indian Stock Market Next Week, April 13-17: Sensex, Nifty May Consolidate; US-Iran Talks, Q4 Results in Focus - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUJIcVlJRlZRVXRpZW1TalBBWWNWTm1UTFZxaVRDZ0s3MDNCdGNtTy1jemRJcXl2bExYTy1ocDFtQThKYk1WdDF0RXBhdGpHUVpHS0VnM0RzWEpGYmhkRkYzbFBMRnBnUDhqUEFmYjBaNlpHUy1idjBGcHgzVFZTQ1RuZ2ZIU1pLd2FnSjJ5MGZ2Yy02TG1JX2NhQW16R2RYbl9tdHpRR25UMHFWUDNvV21iOXp0UUxSeEh0Um56V3N6Y0xLb09nTzdobnd5QTlpd1o1N0dqTzNNeGJn?oc=5",
-      "published": "Mon, 31 Aug 2026 12:26:00 GMT"
+      "published": "Tue, 01 Sep 2026 04:04:08 GMT"
     }
   ],
-  "last_updated": "2026-09-01 04:06 UTC"
+  "last_updated": "2026-09-01 04:24 UTC"
 }
