@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52730.0,
-    "change": -455.9,
-    "pct": -0.86
+    "price": 52759.03,
+    "change": -426.87,
+    "pct": -0.8
   },
   "Nasdaq": {
-    "price": 26045.03,
-    "change": -325.86,
-    "pct": -1.24
+    "price": 26082.71,
+    "change": -288.18,
+    "pct": -1.09
   },
   "S&P 500": {
-    "price": 7618.56,
-    "change": -67.58,
-    "pct": -0.88
+    "price": 7626.68,
+    "change": -59.46,
+    "pct": -0.77
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 94.87,
-    "change": 4.38,
-    "pct": 4.84
+    "price": 95.02,
+    "change": 4.53,
+    "pct": 5.01
   },
   "Crude Oil (WTI)": {
-    "price": 90.42,
-    "change": 4.66,
-    "pct": 5.43
+    "price": 90.44,
+    "change": 4.68,
+    "pct": 5.46
   },
   "Gold": {
-    "price": 4376.8,
-    "change": -54.3,
-    "pct": -1.23
+    "price": 4378.2,
+    "change": -52.9,
+    "pct": -1.19
   },
   "Silver": {
-    "price": 64.83,
-    "change": -1.39,
-    "pct": -2.1
+    "price": 64.8,
+    "change": -1.42,
+    "pct": -2.15
   },
   "USD/INR": {
     "price": 94.94,
@@ -64,9 +64,9 @@
     "pct": -0.46
   },
   "Dollar Index": {
-    "price": 99.72,
-    "change": 0.29,
-    "pct": 0.29
+    "price": 99.69,
+    "change": 0.26,
+    "pct": 0.26
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -90,7 +90,7 @@
       "published": "Tue, 01 Sep 2026 01:36:03 GMT"
     },
     {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Tue, 01 Sep 2026 04:04:08 GMT"
     }
   ],
-  "last_updated": "2026-09-01 18:53 UTC"
+  "last_updated": "2026-09-01 19:05 UTC"
 }
