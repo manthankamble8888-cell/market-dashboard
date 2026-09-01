@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23980.55,
-    "change": -99.85,
-    "pct": -0.41
+    "price": 24055.8,
+    "change": -24.6,
+    "pct": -0.1
   },
   "Bank Nifty": {
-    "price": 57264.15,
-    "change": -760.8,
-    "pct": -1.31
+    "price": 57409.6,
+    "change": -615.35,
+    "pct": -1.06
   },
   "Sensex": {
-    "price": 76736.42,
-    "change": -220.85,
-    "pct": -0.29
+    "price": 76774.96,
+    "change": -182.31,
+    "pct": -0.24
   },
   "India VIX": {
-    "price": 11.61,
-    "change": 0.42,
-    "pct": 3.73
+    "price": 11.19,
+    "change": 0.0,
+    "pct": 0.0
   },
   "Nifty IT": {
-    "price": 31352.15,
-    "change": 160.7,
-    "pct": 0.52
+    "price": 31496.7,
+    "change": 305.25,
+    "pct": 0.98
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 92.19,
-    "change": 1.7,
-    "pct": 1.88
+    "price": 92.3,
+    "change": 1.81,
+    "pct": 2.0
   },
   "Crude Oil (WTI)": {
-    "price": 87.85,
-    "change": 2.09,
-    "pct": 2.44
+    "price": 88.01,
+    "change": 2.25,
+    "pct": 2.62
   },
   "Gold": {
-    "price": 4416.6,
-    "change": -14.5,
-    "pct": -0.33
+    "price": 4417.0,
+    "change": -14.1,
+    "pct": -0.32
   },
   "Silver": {
-    "price": 65.21,
-    "change": -1.01,
-    "pct": -1.52
+    "price": 65.28,
+    "change": -0.94,
+    "pct": -1.42
   },
   "USD/INR": {
-    "price": 94.93,
-    "change": -0.45,
-    "pct": -0.47
+    "price": 94.94,
+    "change": -0.44,
+    "pct": -0.46
   },
   "Dollar Index": {
-    "price": 99.54,
-    "change": 0.11,
-    "pct": 0.11
+    "price": 99.57,
+    "change": 0.14,
+    "pct": 0.14
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -114,9 +114,9 @@
       "published": "Tue, 01 Sep 2026 05:49:55 GMT"
     },
     {
-      "title": "India Stock Auction Needs Market Makers as Price Swings Persist - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXBpYXlkZW54UUF5b1BXUm9EWUxLeWpDTFNjdy1BM1NYWXh0Rk5EVWJYSVdVU2VxQkFrVkNSOVY0NWF3Q0tKTE5qSkYzM2dKQUVGeDNhYWNEeTdGVWlnRmNDdWl6czlYaG5tTDNFd1Zwano0TU4yQ3JQTWJQRGFOSFBDdHZyNDJsbW15X3RPbDRwamh6NndILVdRUXZkZF9jUUZWTk4xYUVBdWZMZWxZTU02U2c?oc=5",
-      "published": "Tue, 01 Sep 2026 03:49:00 GMT"
+      "title": "From Gift Nifty to fall in South Korea's Kospi, oil prices: 6 key things that changed for Indian stock market overnight - tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTTVRVkpTb0gxbnloY2MydjYzRHlOSm14SEFzUHVicnlhRml0SHdPRkdSaTVUSVZTUmVpeHlEUFAxX3BSTURGWm5uSXZka2F5X01iUDdYUlFkYnBKLWlJdG8xYWw1R3Z0SzNndkNiZTFrVDdtbjEzT2lDM3B6cjJBX2cyR1F3VmJLX2w2REwyX00wVXpaVHIwcUx3bG1YQVFmR0ZpVmhDNnNUYllqYVlkWS1UZ3F2Umg4SVBBcjV3aS14VU0yYmF4Ykl4MzZ0U1c2MmtDYmUtNlprMUhuaEpGaHBLYk50dFpHeEpzYW1OYlhGeWJFQkc5YVU3b19aeUlaY1hiQg?oc=5",
+      "published": "Tue, 01 Sep 2026 05:15:00 GMT"
     },
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
@@ -129,5 +129,5 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     }
   ],
-  "last_updated": "2026-09-01 09:52 UTC"
+  "last_updated": "2026-09-01 10:06 UTC"
 }
