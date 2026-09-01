@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24062.05,
-    "change": -18.35,
-    "pct": -0.08
+    "price": 24088.45,
+    "change": 8.05,
+    "pct": 0.03
   },
   "Bank Nifty": {
-    "price": 57445.8,
-    "change": -579.15,
-    "pct": -1.0
+    "price": 57521.7,
+    "change": -503.25,
+    "pct": -0.87
   },
   "Sensex": {
-    "price": 76912.44,
-    "change": -44.84,
-    "pct": -0.06
+    "price": 76993.54,
+    "change": 36.27,
+    "pct": 0.05
   },
   "India VIX": {
-    "price": 11.01,
-    "change": -0.18,
-    "pct": -1.63
+    "price": 11.06,
+    "change": -0.13,
+    "pct": -1.21
   },
   "Nifty IT": {
-    "price": 31219.5,
-    "change": 28.05,
-    "pct": 0.09
+    "price": 31270.1,
+    "change": 78.65,
+    "pct": 0.25
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -37,44 +37,44 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
-    "price": 66171.14,
-    "change": -140.79,
-    "pct": -0.21
+    "price": 66218.54,
+    "change": -93.39,
+    "pct": -0.14
   },
   "Hang Seng": {
-    "price": 25310.88,
-    "change": -256.11,
-    "pct": -1.0
+    "price": 25316.9,
+    "change": -250.09,
+    "pct": -0.98
   },
   "Crude Oil (Brent)": {
-    "price": 89.2,
-    "change": -1.29,
-    "pct": -1.43
+    "price": 89.16,
+    "change": -1.33,
+    "pct": -1.47
   },
   "Crude Oil (WTI)": {
-    "price": 87.04,
-    "change": 1.28,
-    "pct": 1.49
+    "price": 86.91,
+    "change": 1.15,
+    "pct": 1.34
   },
   "Gold": {
-    "price": 4477.1,
-    "change": 46.0,
-    "pct": 1.04
+    "price": 4478.6,
+    "change": 47.5,
+    "pct": 1.07
   },
   "Silver": {
-    "price": 67.05,
-    "change": 0.83,
-    "pct": 1.25
+    "price": 67.11,
+    "change": 0.89,
+    "pct": 1.35
   },
   "USD/INR": {
-    "price": 94.82,
-    "change": -0.56,
+    "price": 94.83,
+    "change": -0.55,
     "pct": -0.58
   },
   "Dollar Index": {
-    "price": 99.52,
-    "change": 0.09,
-    "pct": 0.09
+    "price": 99.49,
+    "change": 0.06,
+    "pct": 0.06
   },
   "US 10Y Yield": {
     "error": "single positional indexer is out-of-bounds"
@@ -97,7 +97,7 @@
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 24,050 | SBI & Titan Company Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd1ZwQ2xNWWxFV2J3a3pZRnhUa0dSYUpNLU92Y2plWG5sLWRnNkd2MHQtNl9fUlZwT25FTnA2akgtekhQeTNEQl9TcGJOSmRZR0FGeDdQeDZaNWJ6c1hJTlFiTGlPWmlBRUZLNDlCQzB3cXpXYWNKbVE4TWxIVENkUlBscldJM0RTb0tkMFZ5V0xleUlPcnViTkc1WDByaW5jdGxzTnBBelVNdnlHZU9JeTBuUVdWUmdSb0otV1NSdlQwLVNZMmowMXcycjBkclU?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGwyTk1TWGRSMjQ4UHYxQ0xSQWhMR2VBV2Fpb3dYYVlncWFXcWVtQUM4SGhQMFlGbkVoSkJVVFlKYlFDUWs3WVJ3OER3VW4xRl9DU3N0aV9sMUU1RWJUN0I1Y3AtZ2xUNmRGTno0X093bG1ZUHlTeUdEVkxuRlZ0ZTBTR0pNYWMyNVdfaTVZR1c4R3NDdGQtN0k2VncyMF9BeUJTMXZ2b0hSN25INEZxUmZHRGxKNm5TaUFUb3o0bi1lbGJqTndvcnhaY0o0cXM?oc=5",
       "published": "Tue, 01 Sep 2026 04:34:17 GMT"
     },
     {
@@ -116,10 +116,10 @@
       "published": "Tue, 01 Sep 2026 04:04:08 GMT"
     },
     {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
-      "published": "Sat, 29 Aug 2026 06:19:28 GMT"
+      "title": "Indian shares flat as strong growth data offsets Middle East jitters - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXRkdmRIdWdaMUpxYUIxQTQxeTRSZmNzaUVrcWxfSlU3LWFIMU5HbVVETmJjdndMYl96RXJLbkd0MTBlbHZhajlzbUdFOS1rX2UwT3FRYXRMVVNsS1RBZGxKMld5dU5TN3RtTkxwOHhzQk95a2p6VmZ3bGhFbzVXV3BDYW5QZUZWR2REZVNzNGZTMmYwS3d0RHFnZExvSk56WFh2ZkFzdGdaeDhfWTk0NEZFZUNpS2tQem05YVhDdnBiU2M?oc=5",
+      "published": "Tue, 01 Sep 2026 02:40:00 GMT"
     }
   ],
-  "last_updated": "2026-09-01 05:06 UTC"
+  "last_updated": "2026-09-01 05:24 UTC"
 }
