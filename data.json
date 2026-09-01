@@ -47,24 +47,24 @@
     "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 92.18,
-    "change": 1.69,
-    "pct": 1.87
+    "price": 91.95,
+    "change": 1.46,
+    "pct": 1.61
   },
   "Crude Oil (WTI)": {
-    "price": 87.87,
-    "change": 2.11,
-    "pct": 2.46
+    "price": 87.73,
+    "change": 1.97,
+    "pct": 2.3
   },
   "Gold": {
-    "price": 4430.0,
-    "change": -1.1,
-    "pct": -0.02
+    "price": 4430.6,
+    "change": -0.5,
+    "pct": -0.01
   },
   "Silver": {
-    "price": 65.63,
-    "change": -0.59,
-    "pct": -0.89
+    "price": 65.68,
+    "change": -0.55,
+    "pct": -0.82
   },
   "USD/INR": {
     "price": 94.94,
@@ -111,7 +111,7 @@
       "published": "Mon, 31 Aug 2026 23:21:58 GMT"
     },
     {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
+      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
@@ -121,5 +121,5 @@
       "published": "Tue, 01 Sep 2026 01:41:50 GMT"
     }
   ],
-  "last_updated": "2026-09-01 10:28 UTC"
+  "last_updated": "2026-09-01 10:42 UTC"
 }
