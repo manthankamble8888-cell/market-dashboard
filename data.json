@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 24107.05,
-    "change": 26.65,
-    "pct": 0.11
+    "price": 24112.2,
+    "change": 31.8,
+    "pct": 0.13
   },
   "Bank Nifty": {
-    "price": 57623.4,
-    "change": -401.55,
-    "pct": -0.69
+    "price": 57619.0,
+    "change": -405.95,
+    "pct": -0.7
   },
   "Sensex": {
-    "price": 77215.2,
-    "change": 257.93,
-    "pct": 0.34
+    "price": 77176.62,
+    "change": 219.34,
+    "pct": 0.29
   },
   "India VIX": {
-    "price": 10.96,
-    "change": -0.23,
-    "pct": -2.06
+    "price": 11.04,
+    "change": -0.15,
+    "pct": -1.36
   },
   "Nifty IT": {
-    "price": 31487.55,
-    "change": 296.1,
-    "pct": 0.95
+    "price": 31516.95,
+    "change": 325.5,
+    "pct": 1.04
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -42,39 +42,39 @@
     "pct": -0.15
   },
   "Hang Seng": {
-    "price": 25360.12,
-    "change": -206.87,
-    "pct": -0.81
+    "price": 25379.13,
+    "change": -187.86,
+    "pct": -0.73
   },
   "Crude Oil (Brent)": {
-    "price": 88.79,
-    "change": -1.7,
-    "pct": -1.88
+    "price": 88.86,
+    "change": -1.63,
+    "pct": -1.8
   },
   "Crude Oil (WTI)": {
-    "price": 86.4,
-    "change": 0.64,
-    "pct": 0.75
+    "price": 86.43,
+    "change": 0.67,
+    "pct": 0.78
   },
   "Gold": {
-    "price": 4482.3,
-    "change": 51.2,
-    "pct": 1.16
+    "price": 4479.1,
+    "change": 48.0,
+    "pct": 1.08
   },
   "Silver": {
-    "price": 67.25,
-    "change": 1.03,
-    "pct": 1.55
+    "price": 67.14,
+    "change": 0.92,
+    "pct": 1.4
   },
   "USD/INR": {
-    "price": 94.88,
-    "change": -0.51,
-    "pct": -0.53
+    "price": 94.89,
+    "change": -0.49,
+    "pct": -0.51
   },
   "Dollar Index": {
-    "price": 99.53,
-    "change": 0.1,
-    "pct": 0.1
+    "price": 99.52,
+    "change": 0.09,
+    "pct": 0.09
   },
   "US 10Y Yield": {
     "error": "single positional indexer is out-of-bounds"
@@ -121,5 +121,5 @@
       "published": "Tue, 01 Sep 2026 05:49:55 GMT"
     }
   ],
-  "last_updated": "2026-09-01 06:53 UTC"
+  "last_updated": "2026-09-01 07:06 UTC"
 }
