@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53003.59,
-    "change": 236.71,
-    "pct": 0.45
+    "price": 53018.6,
+    "change": 251.72,
+    "pct": 0.48
   },
   "Nasdaq": {
-    "price": 26186.8,
-    "change": 87.03,
-    "pct": 0.33
+    "price": 26202.57,
+    "change": 102.8,
+    "pct": 0.39
   },
   "S&P 500": {
-    "price": 7663.55,
-    "change": 32.08,
-    "pct": 0.42
+    "price": 7666.26,
+    "change": 34.79,
+    "pct": 0.46
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.26,
-    "change": 0.61,
-    "pct": 0.64
+    "price": 95.39,
+    "change": 0.74,
+    "pct": 0.78
   },
   "Crude Oil (WTI)": {
-    "price": 90.71,
-    "change": 0.49,
-    "pct": 0.54
+    "price": 90.78,
+    "change": 0.56,
+    "pct": 0.62
   },
   "Gold": {
-    "price": 4421.1,
-    "change": 73.1,
-    "pct": 1.68
+    "price": 4421.8,
+    "change": 73.8,
+    "pct": 1.7
   },
   "Silver": {
-    "price": 65.72,
-    "change": 1.11,
-    "pct": 1.71
+    "price": 65.71,
+    "change": 1.09,
+    "pct": 1.68
   },
   "USD/INR": {
     "price": 94.96,
@@ -69,9 +69,9 @@
     "pct": -0.08
   },
   "US 10Y Yield": {
-    "price": 4.79,
-    "change": -0.0,
-    "pct": -0.08
+    "price": 4.8,
+    "change": 0.0,
+    "pct": 0.04
   },
   "news": [
     {
@@ -88,11 +88,6 @@
       "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
       "published": "Wed, 02 Sep 2026 03:58:06 GMT"
-    },
-    {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDR0bURrdTEtNFFqREpHMW5oWm9fWkVvZDJxRm93d2Z1NFQyZnBDajFYX2huWFJXaVkyQ0hreVpGdlFxaTNiZktqV1prSjYtUG1GUGNzd2lCTzRzeG9NTmo3QUhRSHZKVjhWdDVUNzRyUTdNM05hdUhxRl8teXFsWWZMZTBoZ0lhTy0tRk5EMDVqTzR4WkdyOXUwemtXV3l3enVnRWxWeFNtRThqRnlHc2U2WG9zVkMzRklfUUIxdW90U3B1dDVxdzgwaDZZQ1M5czRndGN2OW40UlZob2drWDlvYWppYW9hZGxyYnNza19Cd2F2TVltelZmZm7SAYICQVVfeXFMTnFoVngwZFFPT1dPSk13c3V6cU9xaXhJLW1uNk1xUGVpeXhxckxfd0ZnY1dMNU9PWU1nTGRmc3FDZlFscFByM1FwSWJ0REszaHNrcDI0ajItZzhGLVcwT1g2TEpCR1BrT0VjV1hEcElLQndWeEVDd29FQnVTbEROeTEybHVBWTlHMWE2eDk3dHh4NUdFMTZIODdGR3ZqajlodDk2NndfbUtCZEpBV2ZNSUxhY2FrbTdHRDNfdk00Zk9jQm90Q1lsS1lFaTBqUmoxSjZwQkR6TkhZYl9JenlET1dYVzcwaE45ZUExckNnUEVGbjRyNUZIcFBQNFQ1ZTd6Z0l3?oc=5",
-      "published": "Wed, 02 Sep 2026 01:38:37 GMT"
     },
     {
       "title": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns",
@@ -113,7 +108,12 @@
       "title": "Nifty Sensex Today: Nifty Ends Near 23,900, Sensex Falls 374 Points as Crude Oil Surges - India Infoline",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlhkWTdSTnIxVG0xTmpyNjB3b3E1TjhKR0NRdkNlYTdRU0lteU1FWTcxbjlobHJsT2tYVnVObVNnM0dGUW5kcUJQZkc0Rm5tVXBvdm42Smg1dThzdnBPSHVTWUFnMUhwazIzeHBrX3VheGthT3FHOVFRU1RVbEw1dHRicGFRS3FNUk9wUWF4NHY0dy02cnY4V0JRTENtdWktUUl3YXl3bEg0MG9hUTZHOTdiVkQ1d0NOdjhlMGl2U1h6elN5ZEE?oc=5",
       "published": "Wed, 02 Sep 2026 10:54:01 GMT"
+    },
+    {
+      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 11:14:59 GMT"
     }
   ],
-  "last_updated": "2026-09-02 18:52 UTC"
+  "last_updated": "2026-09-02 19:05 UTC"
 }
