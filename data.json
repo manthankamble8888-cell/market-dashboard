@@ -53,24 +53,24 @@
     "pct": -0.07
   },
   "Crude Oil (Brent)": {
-    "price": 95.04,
-    "change": 0.39,
-    "pct": 0.41
+    "price": 94.64,
+    "change": -0.01,
+    "pct": -0.01
   },
   "Crude Oil (WTI)": {
-    "price": 90.3,
-    "change": 0.08,
-    "pct": 0.09
+    "price": 89.89,
+    "change": -0.33,
+    "pct": -0.37
   },
   "Gold": {
-    "price": 4354.9,
-    "change": 6.9,
-    "pct": 0.16
+    "price": 4364.7,
+    "change": 16.7,
+    "pct": 0.38
   },
   "Silver": {
-    "price": 64.22,
-    "change": -0.39,
-    "pct": -0.61
+    "price": 64.51,
+    "change": -0.11,
+    "pct": -0.17
   },
   "USD/INR": {
     "price": 94.96,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.85,
-    "change": 0.18,
-    "pct": 0.18
+    "price": 99.81,
+    "change": 0.14,
+    "pct": 0.14
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -89,19 +89,19 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
-      "published": "Tue, 01 Sep 2026 07:13:53 GMT"
-    },
-    {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - livemint.com",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDR0bURrdTEtNFFqREpHMW5oWm9fWkVvZDJxRm93d2Z1NFQyZnBDajFYX2huWFJXaVkyQ0hreVpGdlFxaTNiZktqV1prSjYtUG1GUGNzd2lCTzRzeG9NTmo3QUhRSHZKVjhWdDVUNzRyUTdNM05hdUhxRl8teXFsWWZMZTBoZ0lhTy0tRk5EMDVqTzR4WkdyOXUwemtXV3l3enVnRWxWeFNtRThqRnlHc2U2WG9zVkMzRklfUUIxdW90U3B1dDVxdzgwaDZZQ1M5czRndGN2OW40UlZob2drWDlvYWppYW9hZGxyYnNza19Cd2F2TVltelZmZm7SAYICQVVfeXFMTnFoVngwZFFPT1dPSk13c3V6cU9xaXhJLW1uNk1xUGVpeXhxckxfd0ZnY1dMNU9PWU1nTGRmc3FDZlFscFByM1FwSWJ0REszaHNrcDI0ajItZzhGLVcwT1g2TEpCR1BrT0VjV1hEcElLQndWeEVDd29FQnVTbEROeTEybHVBWTlHMWE2eDk3dHh4NUdFMTZIODdGR3ZqajlodDk2NndfbUtCZEpBV2ZNSUxhY2FrbTdHRDNfdk00Zk9jQm90Q1lsS1lFaTBqUmoxSjZwQkR6TkhZYl9JenlET1dYVzcwaE45ZUExckNnUEVGbjRyNUZIcFBQNFQ1ZTd6Z0l3?oc=5",
       "published": "Wed, 02 Sep 2026 01:38:37 GMT"
     },
     {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.59% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOW1ya2VLNXRzYnY3RldZeko0cGx0eGtqc1JWZy1DcUxMRzBvc1hOZ2lLLXhVa0JGbFhMMzFsT2NFMmcxODQ3RmtoM2E2U2VabW9BVnJTNVlJR3FwSy1ETlFzamVFeDNicEV6blpyOGhEZVU3bTdOT3dSeHFQRDYxNHRzdV9nZjRFVGhxQ2NCMVZzUGJuZUNtOUZ5bUE4R19RLW9wVkkxQVBGcHVkYVpYVw?oc=5",
-      "published": "Wed, 02 Sep 2026 10:37:37 GMT"
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
+      "published": "Tue, 01 Sep 2026 21:14:48 GMT"
+    },
+    {
+      "title": "Nifty Sensex Today: Nifty Ends Near 23,900, Sensex Falls 374 Points as Crude Oil Surges - India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlhkWTdSTnIxVG0xTmpyNjB3b3E1TjhKR0NRdkNlYTdRU0lteU1FWTcxbjlobHJsT2tYVnVObVNnM0dGUW5kcUJQZkc0Rm5tVXBvdm42Smg1dThzdnBPSHVTWUFnMUhwazIzeHBrX3VheGthT3FHOVFRU1RVbEw1dHRicGFRS3FNUk9wUWF4NHY0dy02cnY4V0JRTENtdWktUUl3YXl3bEg0MG9hUTZHOTdiVkQ1d0NOdjhlMGl2U1h6elN5ZEE?oc=5",
+      "published": "Wed, 02 Sep 2026 10:54:01 GMT"
     },
     {
       "title": "Sensex Today Ends 374 Points Lower | Nifty Below 24,000 | HDFC Bank & HCL Tech Top Losers - Equitymaster",
@@ -114,20 +114,20 @@
       "published": "Wed, 02 Sep 2026 02:27:00 GMT"
     },
     {
+      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 11:14:59 GMT"
+    },
+    {
+      "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
+      "published": "Wed, 02 Sep 2026 04:25:24 GMT"
+    },
+    {
       "title": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQT0Jyc2F3TkhNcDEtdjVhdFltTkMyUXRsSUZpQjMyOHRBNDloeFlrdF84YUJtWlF4UXhFbVhHbnk1N0F3c0xiZVBTSUZyZnZOcFJmOXNaTmpXQUhIUW84WURDd3kzVndrV0l5eDl6UEVfNTZTOUZHcy13TUllbFZHei1qNWFSdFlOV056aFYtQU1LYkNkTHNmelRfUmw1ZDRuRUpnMmtURm1GTGZTcnlqOTFUZmt6UG13dFVwaUFrVnBDcFhrS0gtQzByZ1I3Ykt6aUJUZkdhT3hwaHExOUxKdUdHbHJSNTZuTU9EVy0tcDFvbXBlb1pUbk5B0gH_AUFVX3lxTE1Md3R3cHlYa01MRVQxVXZlX0tUQlFfM2o5ejR4a2IzWXB5cktScTF2VG82NTJhV2lOb2otVERWNmswYUU5UkJTb0dnRllNRjdLWUJvR2lEeUd6RjU5THBkbTlHZk1nRGhWa0V3YWJoQXBQeHpFcHFzRTRib1hGcHNaMWZENXdRZ09FZEU0WjBNcXZ3QnpBN1lYdWJVMXNwVzA5ay1Dd09HblhtRVkxMjFrOE94YjM4blE5bmh4dkVmZHJKYUd0RzBsZDd0TnNyby1XMkZtM3Q0R0JyUmtkdnE3dlRBSDRpcllMci0tQWVFdU5PcGtJbmQtNVhaczNYbw?oc=5",
       "published": "Wed, 02 Sep 2026 07:45:27 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Sink on US-Iran Crisis - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGxKUzhBUS1iZ3dzYVpjOVR2ajRmLTVrZXR5UDNjQXVZMDltcG1uZWFfbXpMS05oUzJGY052RWJEQ21BemV0WkVHbEVZN1l3V0VhZ2Jlb3RTakdKUk0waGdDNm10Y0FPcldVdWVSTnlvblBoN3pNSG5ibUVHamJlSkt6NlQxVk83WkpoWlJUel9ncExDSTZMX0FWXzQtSjNnbEFld3dKRGRYY3VQNG5hQzZKdk5qZEZleVBCYmNLX1JtQ1ctVlNyTjRETVotYnFj?oc=5",
-      "published": "Wed, 02 Sep 2026 04:54:36 GMT"
-    },
-    {
-      "title": "Stock market today: Gift Nifty signals a negative start amid rising yields; 8 stocks to buy on Wednesday, 2 September - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdWJheGNaaXY3TFprUlZ1dFJIY0U4QzhFMTBIMVJhOXE5UFpPc0xPNzhVWDAtdnB0QlluNEhUc2lFQWdwN0I1SGZZb0dMS0tFMld6b210MWRYVU5tMU42OXh2LUNBNVpWemNEdjdOc0JuemtNOVFMNVFRTHJsV2Z4R2JIdVd5QjhhaXBXdUxrTXhvY3Awcjd0N19wMTNFVXNLdnRGM0ZXU0t5UWtfTTctWHF2NW1BMTRWcVg2NzZMMVUyYm1ERkZUbjdiUGdxaUYyQkVjYkh3Y2FWdDZoV2VHSHZONUtETktlWVRlMWxvWmw0dHJyY3pzek15WTdYd2FOdWdXWHJrVjlRWURjMGx2LVVB0gGXAkFVX3lxTFBxUm44azJ6NDBUcTVELUZmNG5jYmpxU1U5ZDJleXdOT2lUQ09tQld6LUh4dkh0clJsb0k3TDZmNmtLM2JBOEJnV183anROM3ExSnp2NmFCLVczOEdZR19WV1NaY2o5UDJmT2djUEFSS1pEUHZqYmpKcl9aa3lEek1WZXJZZ1p5cDkxdlo2UkFua2lDWDJteHBiNHNFQTRMQ0lIcXdWdjVudVh4QUt3NzJubGRuekFSYjRpTGxtS1AtRXJPanF2QW56SnhzOE1JSmkxYkVtc0tlbl9LcE1iSXRhcWRVaHpNYWl2cDNvdkhJMTFZVV9qT3RuT1JoTVdKWWZPUUNvNUcyRnNZWEtaZ3JRTFBoVDZqZw?oc=5",
-      "published": "Wed, 02 Sep 2026 01:34:40 GMT"
     }
   ],
-  "last_updated": "2026-09-02 11:06 UTC"
+  "last_updated": "2026-09-02 11:24 UTC"
 }
