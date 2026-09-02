@@ -1,28 +1,26 @@
 {
   "Nifty 50": {
-    "price": 24055.8,
-    "change": -24.6,
-    "pct": -0.1
+    "price": 23821.7,
+    "change": -234.1,
+    "pct": -0.97
   },
   "Bank Nifty": {
-    "price": 57409.6,
-    "change": -615.35,
-    "pct": -1.06
+    "price": 56940.5,
+    "change": -469.1,
+    "pct": -0.82
   },
   "Sensex": {
-    "price": 76944.28,
-    "change": -12.99,
-    "pct": -0.02
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 11.49,
-    "change": 0.3,
-    "pct": 2.68
+    "price": 11.82,
+    "change": 0.33,
+    "pct": 2.89
   },
   "Nifty IT": {
-    "price": 31496.7,
-    "change": 305.25,
-    "pct": 0.98
+    "price": 30706.6,
+    "change": -790.1,
+    "pct": -2.51
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +41,44 @@
     "pct": -0.71
   },
   "Nikkei 225": {
-    "price": 64473.16,
-    "change": -1742.18,
-    "pct": -2.63
+    "price": 64403.91,
+    "change": -1811.43,
+    "pct": -2.74
   },
   "Hang Seng": {
-    "price": 25060.98,
-    "change": -268.75,
-    "pct": -1.06
+    "price": 25073.25,
+    "change": -256.48,
+    "pct": -1.01
   },
   "Crude Oil (Brent)": {
-    "price": 95.35,
-    "change": 4.86,
-    "pct": 5.37
+    "price": 95.38,
+    "change": 4.89,
+    "pct": 5.4
   },
   "Crude Oil (WTI)": {
-    "price": 90.69,
-    "change": 4.93,
-    "pct": 5.75
+    "price": 90.66,
+    "change": 4.9,
+    "pct": 5.71
   },
   "Gold": {
-    "price": 4344.4,
-    "change": -86.7,
-    "pct": -1.96
+    "price": 4338.0,
+    "change": -93.1,
+    "pct": -2.1
   },
   "Silver": {
-    "price": 64.32,
-    "change": -1.9,
-    "pct": -2.86
+    "price": 64.16,
+    "change": -2.06,
+    "pct": -3.11
   },
   "USD/INR": {
-    "price": 94.94,
-    "change": -0.17,
-    "pct": -0.18
+    "price": 94.93,
+    "change": -0.18,
+    "pct": -0.19
   },
   "Dollar Index": {
-    "price": 99.76,
-    "change": 0.33,
-    "pct": 0.33
+    "price": 99.77,
+    "change": 0.34,
+    "pct": 0.34
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -94,12 +92,7 @@
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDR0bURrdTEtNFFqREpHMW5oWm9fWkVvZDJxRm93d2Z1NFQyZnBDajFYX2huWFJXaVkyQ0hreVpGdlFxaTNiZktqV1prSjYtUG1GUGNzd2lCTzRzeG9NTmo3QUhRSHZKVjhWdDVUNzRyUTdNM05hdUhxRl8teXFsWWZMZTBoZ0lhTy0tRk5EMDVqTzR4WkdyOXUwemtXV3l3enVnRWxWeFNtRThqRnlHc2U2WG9zVkMzRklfUUIxdW90U3B1dDVxdzgwaDZZQ1M5czRndGN2OW40UlZob2drWDlvYWppYW9hZGxyYnNza19Cd2F2TVltelZmZm7SAYICQVVfeXFMTnFoVngwZFFPT1dPSk13c3V6cU9xaXhJLW1uNk1xUGVpeXhxckxfd0ZnY1dMNU9PWU1nTGRmc3FDZlFscFByM1FwSWJ0REszaHNrcDI0ajItZzhGLVcwT1g2TEpCR1BrT0VjV1hEcElLQndWeEVDd29FQnVTbEROeTEybHVBWTlHMWE2eDk3dHh4NUdFMTZIODdGR3ZqajlodDk2NndfbUtCZEpBV2ZNSUxhY2FrbTdHRDNfdk00Zk9jQm90Q1lsS1lFaTBqUmoxSjZwQkR6TkhZYl9JenlET1dYVzcwaE45ZUExckNnUEVGbjRyNUZIcFBQNFQ1ZTd6Z0l3?oc=5",
-      "published": "Wed, 02 Sep 2026 01:38:37 GMT"
-    },
-    {
-      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - theprint.in",
+      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
       "published": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
@@ -119,7 +112,12 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcUszTWpqYVEwX0tNMVZEZlNnSFJ1SmdGVzVVOS1xdkhMYXA5d3ptNkJiNEpFd04tRlJSamU3SktjQWF2M2tGV0ZHcl9jVHc0ZWxUQ3luYjFCT1MtbmNFbzlBbjRqRC1QaUdTQzhMU19KbjIzR1V5bkd1WnhhRDhIbWpWd1h0YTNGejVDdWI5WG1iVFFiU2lBNkp4YWVTWFlYckZQT1ExdFRoRlNKU0JUQ1RfNC0tWExSeTdaY3IxMWFxT0J1S1ItNGxUSFRVNTNWVTJBSVRQMTljY3k3QWU0STZIUEY2UmVZVFdfSTl1M3lsaERhUFhTcmdR0gH_AUFVX3lxTE5ycmhZUG5wcXpVNkp3Z1FfdWhUbnZ5TmhYT3RjWXRnOGxSSV9lZUs5alpwMUNDMWluVmhWRnBpRWZuMVc0R3hGdGVreGhmTk1RSkhnR1ZjdThLQmxVYm5Wd3kxdWRpd1FLNDRQV1F1Q1YteVhzRzhKWFNWa3pOdkhPRlMwSjJYZ2JZekFuM0Z2aE5PUmhxQ1BocHF2cVYwZVNBUHJ1WnUwaXFRd0t4ejRsamM4Vlpad3M5ZEFQaEpWaUpmcUI0a1dfbl9DODhONHBBMDhLOEFRQ1JZRXVoOTJfVGs0cVZpWnc0TElJNmR3anZkRHFkUC0tdEFBMjRqdw?oc=5",
+      "published": "Mon, 31 Aug 2026 01:42:47 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - ndtvprofit.com",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
@@ -129,5 +127,5 @@
       "published": "Tue, 01 Sep 2026 03:21:00 GMT"
     }
   ],
-  "last_updated": "2026-09-02 03:37 UTC"
+  "last_updated": "2026-09-02 03:50 UTC"
 }
