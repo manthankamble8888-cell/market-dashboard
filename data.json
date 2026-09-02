@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52766.88,
-    "change": -419.02,
-    "pct": -0.79
+    "price": 53039.96,
+    "change": 273.08,
+    "pct": 0.52
   },
   "Nasdaq": {
-    "price": 26099.77,
-    "change": -271.12,
-    "pct": -1.03
+    "price": 26076.48,
+    "change": -23.29,
+    "pct": -0.09
   },
   "S&P 500": {
-    "price": 7631.47,
-    "change": -54.67,
-    "pct": -0.71
+    "price": 7639.08,
+    "change": 7.61,
+    "pct": 0.1
   },
   "Nikkei 225": {
     "price": 64325.64,
@@ -53,24 +53,24 @@
     "pct": -0.07
   },
   "Crude Oil (Brent)": {
-    "price": 94.51,
-    "change": -0.14,
-    "pct": -0.15
+    "price": 94.33,
+    "change": -0.32,
+    "pct": -0.34
   },
   "Crude Oil (WTI)": {
-    "price": 89.86,
-    "change": -0.36,
-    "pct": -0.4
+    "price": 89.63,
+    "change": -0.59,
+    "pct": -0.65
   },
   "Gold": {
-    "price": 4385.3,
-    "change": 37.3,
-    "pct": 0.86
+    "price": 4402.6,
+    "change": 54.6,
+    "pct": 1.26
   },
   "Silver": {
-    "price": 65.24,
-    "change": 0.62,
-    "pct": 0.96
+    "price": 65.52,
+    "change": 0.9,
+    "pct": 1.4
   },
   "USD/INR": {
     "price": 94.96,
@@ -78,18 +78,18 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.75,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 99.56,
+    "change": -0.11,
+    "pct": -0.11
   },
   "US 10Y Yield": {
     "price": 4.79,
     "change": -0.01,
-    "pct": -0.13
+    "pct": -0.17
   },
   "news": [
     {
-      "title": "Indian shares join global slide as Mideast woes mount - Reuters",
+      "title": "Indian shares join global slide as Mideast woes mount - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
       "published": "Wed, 02 Sep 2026 02:23:00 GMT"
     },
@@ -109,6 +109,11 @@
       "published": "Wed, 02 Sep 2026 01:38:37 GMT"
     },
     {
+      "title": "Sensex, Nifty fall sharply: 6 reasons why stock market turned weak today - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3hrcS1SbFhNemJOX2hWRUxMc1BTUEZzZzZEMy11LUhJTVlTOVR4bDd0d0NTRU9BbzhzeWJFclRYMkY5MlZST0ZFMmUwZy10QjdIQ2J3LVFIY3EwbzhRZ2hnRVVQRXp4cGttWjBHNlk3Qkthb3hMWmNGQzVRWThiM0g0TFhTOFZqUnFxYUM0eDNIRVFBbzNSbzRqNFVWZUdJZ19zSVlNTWhrdkRBY05rZVpCMVVaZ9IBuwFBVV95cUxQMjZIMjFxMXNBYThtaXFvUzJ4UXJMNkNmTFBET00xT3Z3Vmo0NlFGN2I0U2IxNng3OHFpZHE4bmJoZC1yeks0ekhyOTU0emtvZjFfQWNLSkZZcmJ2Uzg1dDFZQl91WUFvNjRRM2d5RVNqZzlodlZyN3dvblNjUTltS3V0RElUOGdwM2JSRnFMSXZsajdaZi1YRkFINzFEVFZLYTVQM3I4Q3pUNm1mTUU5MDMxUHhmTU1jNUtR?oc=5",
+      "published": "Wed, 02 Sep 2026 10:17:24 GMT"
+    },
+    {
       "title": "Nifty Sensex Today: Nifty Ends Near 23,900, Sensex Falls 374 Points as Crude Oil Surges - India Infoline",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlhkWTdSTnIxVG0xTmpyNjB3b3E1TjhKR0NRdkNlYTdRU0lteU1FWTcxbjlobHJsT2tYVnVObVNnM0dGUW5kcUJQZkc0Rm5tVXBvdm42Smg1dThzdnBPSHVTWUFnMUhwazIzeHBrX3VheGthT3FHOVFRU1RVbEw1dHRicGFRS3FNUk9wUWF4NHY0dy02cnY4V0JRTENtdWktUUl3YXl3bEg0MG9hUTZHOTdiVkQ1d0NOdjhlMGl2U1h6elN5ZEE?oc=5",
       "published": "Wed, 02 Sep 2026 10:54:01 GMT"
@@ -122,12 +127,7 @@
       "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
       "published": "Wed, 02 Sep 2026 11:14:59 GMT"
-    },
-    {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 02, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1lYMDJpdjJJTnlkRHFiTk5rRmFzYU9paU1GMW9aZ01vMzZoR1Z1Tm5HcHhvQVBoSXBVVk5kNGpTUlV0eXV5djFVMnJienhwRjJsSFNyXzlvQVlVaGxQNXpBTF9IT3o2N3NRRGtfS2VvV3pnVnRyZjVLcnVBemg1dHI1Q1d1VEltYU5tb0VVR29vQXZTS0lMZEpmSTc4bm43enA5R3ljWVJmZEI1eUMwNFdqMXF2Y0dTdmF5MVMzdw?oc=5",
-      "published": "Wed, 02 Sep 2026 11:18:09 GMT"
     }
   ],
-  "last_updated": "2026-09-02 13:26 UTC"
+  "last_updated": "2026-09-02 13:39 UTC"
 }
