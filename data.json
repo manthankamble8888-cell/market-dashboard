@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52999.64,
-    "change": 232.76,
-    "pct": 0.44
-  },
-  "Nasdaq": {
-    "price": 26208.9,
-    "change": 109.13,
+    "price": 52987.91,
+    "change": 221.03,
     "pct": 0.42
   },
+  "Nasdaq": {
+    "price": 26195.46,
+    "change": 95.69,
+    "pct": 0.37
+  },
   "S&P 500": {
-    "price": 7667.59,
-    "change": 36.12,
-    "pct": 0.47
+    "price": 7664.36,
+    "change": 32.89,
+    "pct": 0.43
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.68,
-    "change": 1.03,
-    "pct": 1.09
+    "price": 95.75,
+    "change": 1.1,
+    "pct": 1.16
   },
   "Crude Oil (WTI)": {
-    "price": 90.93,
-    "change": 0.71,
-    "pct": 0.79
+    "price": 91.06,
+    "change": 0.84,
+    "pct": 0.93
   },
   "Gold": {
-    "price": 4414.6,
-    "change": 66.6,
-    "pct": 1.53
+    "price": 4413.8,
+    "change": 65.8,
+    "pct": 1.51
   },
   "Silver": {
-    "price": 65.61,
-    "change": 0.99,
-    "pct": 1.54
+    "price": 65.51,
+    "change": 0.89,
+    "pct": 1.38
   },
   "USD/INR": {
     "price": 94.96,
@@ -74,56 +74,15 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.56,
-    "change": -0.11,
-    "pct": -0.11
+    "price": 99.55,
+    "change": -0.12,
+    "pct": -0.12
   },
   "US 10Y Yield": {
     "price": 4.8,
-    "change": 0.01,
-    "pct": 0.17
+    "change": 0.0,
+    "pct": 0.04
   },
-  "news": [
-    {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
-    },
-    {
-      "title": "Indian shares join global slide as Mideast woes mount - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
-    },
-    {
-      "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
-      "published": "Wed, 02 Sep 2026 03:58:06 GMT"
-    },
-    {
-      "title": "Stock Market prediction tomorrow, September 3: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Thursday - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMHMxaFBkZmZDREpvdkJHMTRibUdoQVY5OWw1WGY0RmI0dlJHbU5oYXZIQnhpajZ2RkIzTjEtLW5uVGZ4WUgxX2tJdHRzNHlCdUpHTGNlX1F3amhsYkk4Sl9BVW0zTDRBRTZ4emVXTG1rR0NXbXh5N24yY1o3RFRSYzNubWFBMUN3bjFKVWFnSXZOaGF3ZnNuS0MxaldBT01jOS1DVHRRbVZOcmg0Uy1BdU5LRU9PbVM0am85ZTctVHNKZFBZMEczS0tLMTZXX3FFWC1BMFJ6ajRtdDZMZXRXenZ6SDhPeU5lSktkWXRiNlJWQU1hWThjaEpxNmt4M21MQmlFalFCcFZkVjJPY20zR9IBlgJBVV95cUxNRnBiNEg1U3ZiZFhiYllyVDhENS15NVZhSzhSYXVvZmtJR2RXTlFScFR5UElnTTl6VzNzQUwxSUQ2cWxwa0R1Nm8wOHVzQWtXbGFWUURpQWFyUXE3c3lBaEpQZTc3VXZkaE5kUENuZGo0LXZDSWNwYTlJdHhOYmREM3hFT3FZWlZtRnRwM0RCMlJuN1NDTzZBRHRXOEtISnpqRS0xRTk4cGRXY1JqV21UX19mOERJbUh5WFpIQ1U5UEp5UnlWR0M2R1duTTFOdHVkNHo0eUl1d3JCY3Q4dzljY1FwVjNFNHd3VG1xeG41WkRES1JCdUlncmtZQktQUUhIc2pONVBseENtRC12R1pwVzFCaWxfUQ?oc=5",
-      "published": "Wed, 02 Sep 2026 10:11:08 GMT"
-    },
-    {
-      "title": "Every Time FPIs Panicked During Major Market Crashes, Indian Equities Bounced Back Stronger - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVZHTXdGQWNlSHg1X3Yyamd2NEY5bHB0RUFhM1dDWnJkTHNMVXYwMDYzTzVpVndiakdqYUdxeFYtSXdpVi1QX0dNMTdjOXB1MFo5LVhUSGU5YnVJVkkzLWJZcmFORDR3NWNyUm1TYXdTZzNKenlUM244ZXUtaVlCNWgwRFlUUlNTVXlsWG9hbDQzc0pNMGRUWtIBpgFBVV95cUxOQjZQMkdvMWUtYmVlLWhwdFhCT1I1aW0ycXFSQS0xRVpNZkVyRlBfMU1NbWRQRklEMF9xSkhFTmtCNzRPVDRfYXB4MU9jWFZzU29KRENWemNxZHN5dm5GRXljbWtKa2VNZmNidXBwZDhlRFJxWE1HRmtqUUpydXo1VzV0dUVCdzFvWlhwNXJVWHo5Wl9YM0c2ZGJsX2ZZMjRuSFlwVmZR?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:24 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.59% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOW1ya2VLNXRzYnY3RldZeko0cGx0eGtqc1JWZy1DcUxMRzBvc1hOZ2lLLXhVa0JGbFhMMzFsT2NFMmcxODQ3RmtoM2E2U2VabW9BVnJTNVlJR3FwSy1ETlFzamVFeDNicEV6blpyOGhEZVU3bTdOT3dSeHFQRDYxNHRzdV9nZjRFVGhxQ2NCMVZzUGJuZUNtOUZ5bUE4R19RLW9wVkkxQVBGcHVkYVpYVw?oc=5",
-      "published": "Wed, 02 Sep 2026 10:37:37 GMT"
-    },
-    {
-      "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
-      "published": "Wed, 02 Sep 2026 04:25:24 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 374 Points Lower | Nifty Below 24,000 | HDFC Bank & HCL Tech Top Losers - equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeG1oek54aVRDSmQ4ZWNBV1g1NVNNZUtTQlhWWmg5TDVBWU0yQ0RYRUVKREtOTzNxd3ZaUXgwaTh3bTdUbmtaa0pROFBJd0x5NFZJYVgwRDdXQXdmMXpaTTFjQVJDNTY4N3BobFNFY2VzVHBUajlaMVVWWTVLTWw3SjVubDZqZ2p3Rno0RzF2T2Y3Y2FXY2VkUG1RV1IxMEEwM05Ba3pjcnFEeEVQbGhMNWdYM0EtTDF1MV9sS3RId3Z6bFp6Q3FNckM2bzRVYy1yVnlNSTJtYnN4YWJu?oc=5",
-      "published": "Wed, 02 Sep 2026 10:24:40 GMT"
-    }
-  ],
-  "last_updated": "2026-09-02 16:39 UTC"
+  "news": [],
+  "last_updated": "2026-09-02 16:52 UTC"
 }
