@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23863.0,
-    "change": -192.8,
+    "price": 23863.7,
+    "change": -192.1,
     "pct": -0.8
   },
   "Bank Nifty": {
-    "price": 57121.65,
-    "change": -287.95,
-    "pct": -0.5
+    "price": 57083.95,
+    "change": -325.65,
+    "pct": -0.57
   },
   "Sensex": {
-    "price": 76380.64,
-    "change": -563.64,
-    "pct": -0.73
+    "price": 76407.4,
+    "change": -536.88,
+    "pct": -0.7
   },
   "India VIX": {
-    "price": 11.7,
-    "change": 0.21,
-    "pct": 1.83
+    "price": 11.67,
+    "change": 0.18,
+    "pct": 1.57
   },
   "Nifty IT": {
-    "price": 31017.4,
-    "change": -479.3,
-    "pct": -1.52
+    "price": 31047.2,
+    "change": -449.5,
+    "pct": -1.43
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,34 +48,34 @@
     "pct": -2.85
   },
   "Hang Seng": {
-    "price": 25276.22,
-    "change": -53.51,
-    "pct": -0.21
+    "price": 25248.43,
+    "change": -81.3,
+    "pct": -0.32
   },
   "Crude Oil (Brent)": {
-    "price": 94.99,
-    "change": 0.34,
-    "pct": 0.36
+    "price": 94.78,
+    "change": 0.13,
+    "pct": 0.14
   },
   "Crude Oil (WTI)": {
-    "price": 90.23,
-    "change": 0.01,
-    "pct": 0.01
+    "price": 90.12,
+    "change": -0.1,
+    "pct": -0.11
   },
   "Gold": {
-    "price": 4373.3,
-    "change": 25.3,
-    "pct": 0.58
+    "price": 4374.8,
+    "change": 26.8,
+    "pct": 0.62
   },
   "Silver": {
-    "price": 64.66,
-    "change": 0.04,
-    "pct": 0.07
+    "price": 64.64,
+    "change": 0.02,
+    "pct": 0.03
   },
   "USD/INR": {
-    "price": 94.88,
-    "change": -0.24,
-    "pct": -0.25
+    "price": 94.89,
+    "change": -0.23,
+    "pct": -0.24
   },
   "Dollar Index": {
     "price": 99.76,
@@ -89,12 +89,12 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - Equitymaster",
+      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXoxUk5RN2dZMlRTZmI0aWdjcnJwSnlpNEk2Y0xtRjFESXpOS0ZYQ3Y1YzRYUm16SnpYZE1uQXZiSkdCQUE1UW9jZ2xnNEI0LUNoNmRnMnNFdnhQNnRObm9kMHNYTXVyZGRmYkt3RHFFR1U3Y1dxQTJpNk9aWXF3NGR4Q0NpTzZQN2Q2REFpRmlHTzlYLVB5SGU5VkNsbE1CbHg0SDVpSGJRaThGT0lFQnptNEd5SEt2aFRkTVV1aVJEN3gtRFBxb3ZvSkR0QjJKbTZsdmhfbw?oc=5",
       "published": "Wed, 02 Sep 2026 04:55:27 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     }
   ],
-  "last_updated": "2026-09-02 07:25 UTC"
+  "last_updated": "2026-09-02 07:37 UTC"
 }
