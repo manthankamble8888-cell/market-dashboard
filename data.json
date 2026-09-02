@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53088.71,
-    "change": 321.83,
-    "pct": 0.61
+    "price": 53135.87,
+    "change": 368.99,
+    "pct": 0.7
   },
   "Nasdaq": {
-    "price": 26145.38,
-    "change": 45.61,
-    "pct": 0.17
+    "price": 26203.86,
+    "change": 104.09,
+    "pct": 0.4
   },
   "S&P 500": {
-    "price": 7655.45,
-    "change": 23.98,
-    "pct": 0.31
+    "price": 7669.21,
+    "change": 37.74,
+    "pct": 0.49
   },
   "Nikkei 225": {
     "price": 64325.64,
@@ -53,24 +53,24 @@
     "pct": -0.07
   },
   "Crude Oil (Brent)": {
-    "price": 94.2,
-    "change": -0.45,
-    "pct": -0.48
+    "price": 94.32,
+    "change": -0.33,
+    "pct": -0.35
   },
   "Crude Oil (WTI)": {
-    "price": 89.5,
-    "change": -0.72,
-    "pct": -0.8
+    "price": 89.55,
+    "change": -0.67,
+    "pct": -0.74
   },
   "Gold": {
-    "price": 4419.7,
-    "change": 71.7,
-    "pct": 1.65
+    "price": 4436.0,
+    "change": 88.0,
+    "pct": 2.02
   },
   "Silver": {
-    "price": 65.88,
-    "change": 1.26,
-    "pct": 1.95
+    "price": 65.93,
+    "change": 1.32,
+    "pct": 2.04
   },
   "USD/INR": {
     "price": 94.96,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.5,
-    "change": -0.17,
-    "pct": -0.17
+    "price": 99.53,
+    "change": -0.14,
+    "pct": -0.14
   },
   "US 10Y Yield": {
     "price": 4.79,
@@ -94,11 +94,6 @@
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
-      "published": "Wed, 02 Sep 2026 03:58:06 GMT"
-    },
-    {
       "title": "Sensex, Nifty fall sharply: 6 reasons why stock market turned weak today - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3hrcS1SbFhNemJOX2hWRUxMc1BTUEZzZzZEMy11LUhJTVlTOVR4bDd0d0NTRU9BbzhzeWJFclRYMkY5MlZST0ZFMmUwZy10QjdIQ2J3LVFIY3EwbzhRZ2hnRVVQRXp4cGttWjBHNlk3Qkthb3hMWmNGQzVRWThiM0g0TFhTOFZqUnFxYUM0eDNIRVFBbzNSbzRqNFVWZUdJZ19zSVlNTWhrdkRBY05rZVpCMVVaZ9IBuwFBVV95cUxQMjZIMjFxMXNBYThtaXFvUzJ4UXJMNkNmTFBET00xT3Z3Vmo0NlFGN2I0U2IxNng3OHFpZHE4bmJoZC1yeks0ekhyOTU0emtvZjFfQWNLSkZZcmJ2Uzg1dDFZQl91WUFvNjRRM2d5RVNqZzlodlZyN3dvblNjUTltS3V0RElUOGdwM2JSRnFMSXZsajdaZi1YRkFINzFEVFZLYTVQM3I4Q3pUNm1mTUU5MDMxUHhmTU1jNUtR?oc=5",
       "published": "Wed, 02 Sep 2026 10:17:24 GMT"
@@ -109,12 +104,12 @@
       "published": "Wed, 02 Sep 2026 10:24:40 GMT"
     },
     {
-      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
+      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - rediff.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
       "published": "Wed, 02 Sep 2026 11:14:59 GMT"
     },
     {
-      "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - ndtvprofit.com",
+      "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
       "published": "Wed, 02 Sep 2026 04:25:24 GMT"
     },
@@ -127,7 +122,12 @@
       "title": "FIIs Invest Rs 29,631 Crore in Indian Stocks, Highest in 23 Months - NiftyTrader",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTm13dTI4M1B0ZUF0UHZaX1UwdjdiX3ZwWEZLRlVUSEZpdlNiQXQwc0IwTnJwUGpheUNwaDFGX2NST3Noc1g2bnE2QlFvUHUtWF9XdlR2OUhOdkhaNG5uYzRUdWYyLTVDRjRZWkNKbUdwUDlNSkVNdlltRW5TLUI2WndpYkI?oc=5",
       "published": "Wed, 02 Sep 2026 11:15:40 GMT"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcUszTWpqYVEwX0tNMVZEZlNnSFJ1SmdGVzVVOS1xdkhMYXA5d3ptNkJiNEpFd04tRlJSamU3SktjQWF2M2tGV0ZHcl9jVHc0ZWxUQ3luYjFCT1MtbmNFbzlBbjRqRC1QaUdTQzhMU19KbjIzR1V5bkd1WnhhRDhIbWpWd1h0YTNGejVDdWI5WG1iVFFiU2lBNkp4YWVTWFlYckZQT1ExdFRoRlNKU0JUQ1RfNC0tWExSeTdaY3IxMWFxT0J1S1ItNGxUSFRVNTNWVTJBSVRQMTljY3k3QWU0STZIUEY2UmVZVFdfSTl1M3lsaERhUFhTcmdR0gH_AUFVX3lxTE5ycmhZUG5wcXpVNkp3Z1FfdWhUbnZ5TmhYT3RjWXRnOGxSSV9lZUs5alpwMUNDMWluVmhWRnBpRWZuMVc0R3hGdGVreGhmTk1RSkhnR1ZjdThLQmxVYm5Wd3kxdWRpd1FLNDRQV1F1Q1YteVhzRzhKWFNWa3pOdkhPRlMwSjJYZ2JZekFuM0Z2aE5PUmhxQ1BocHF2cVYwZVNBUHJ1WnUwaXFRd0t4ejRsamM4Vlpad3M5ZEFQaEpWaUpmcUI0a1dfbl9DODhONHBBMDhLOEFRQ1JZRXVoOTJfVGs0cVZpWnc0TElJNmR3anZkRHFkUC0tdEFBMjRqdw?oc=5",
+      "published": "Mon, 31 Aug 2026 01:42:47 GMT"
     }
   ],
-  "last_updated": "2026-09-02 14:06 UTC"
+  "last_updated": "2026-09-02 14:25 UTC"
 }
