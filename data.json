@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.32,
-    "change": 0.67,
-    "pct": 0.71
+    "price": 95.3,
+    "change": 0.65,
+    "pct": 0.69
   },
   "Crude Oil (WTI)": {
-    "price": 90.72,
-    "change": 0.5,
-    "pct": 0.55
+    "price": 90.78,
+    "change": 0.56,
+    "pct": 0.62
   },
   "Gold": {
-    "price": 4434.0,
-    "change": 86.0,
-    "pct": 1.98
+    "price": 4435.8,
+    "change": 87.8,
+    "pct": 2.02
   },
   "Silver": {
-    "price": 65.92,
-    "change": 1.3,
-    "pct": 2.01
+    "price": 65.93,
+    "change": 1.31,
+    "pct": 2.02
   },
   "USD/INR": {
     "price": 94.96,
@@ -64,9 +64,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.55,
-    "change": -0.12,
-    "pct": -0.12
+    "price": 99.56,
+    "change": -0.11,
+    "pct": -0.11
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -100,7 +100,7 @@
       "published": "Wed, 02 Sep 2026 13:33:26 GMT"
     },
     {
-      "title": "Kwala Intel: Machines Have Already Changed the Indian Stock Market. Now This Indian AI Is Bringing Market Intelligence to Intraday Traders - Business Standard",
+      "title": "Kwala Intel: Machines Have Already Changed the Indian Stock Market. Now This Indian AI Is Bringing Market Intelligence to Intraday Traders - business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPVXBuMjZWV0cyUHJSRklSODU5TDBDTk1CcFZFb2FoOWxjY0MxbEVORkNPUVBiSDRhUFI4UWZNS1RoUVN4ckViWXFsUnNnSGE0SnUxTWZhQWpLb2RvMlI2bFhmOUk1YzlCME1SdnBPVy0yX2FVei1qZGowZElxdFhodEcxSEJOWWdwTmJDRE9OUG85RTdSQ1MwRlhaSGtfMjdYbGx2OEozUHdQTktMWXZKb2h0ak44ZFljaVFCV091TDhJc1NhYTlPLUVZU1NpYnNTT0t0M2UtVnFHYkZxUnFYNzdPQjg2am85a0hXNzhQRTh4Vk9Md0c1MWRFNmRWcVQxRDlOcklRMWhaR0hrR0tUTk5FMVhYU1p5bWktclY3X2steDNkSUlDb1M3dGhHbHdDemlraWhzY2trYmdjbFHSAcMCQVVfeXFMTU56cUtScjhBQjJyYW5qRXRyS2FkT1NLRWtBZGNpaUJWT3BJVnVDR1gtRG9zeXhtd2FzVVQ2RC1fV0x4NVFUSVRaOXcxRDVQTXBZeEs2YVp4QWxua2J0TG90VVltZXdzOUViWTdGdHJiRWFzaHZpYkotLURQc1pTYk9WbUpVczdYUkVVckp2ZWZRQVVyVEZPOGgtak9kbUQwS2ZKMnlzTlMyZUh1aFBhRVJDbHdiYldOTU04UEVLdGxGQ2NwWnZOQzd2WnplVDJ2LWloZVROeVRQY29DVktoN1dRdkJRVDdWclZGc3FVSFVycmk5Nnh5S21ZcnZnbUFuU2pHb0ZtSEJmbFp3Y250Zm1sOHFUYTRiSTZhNXVUcE9EYjVoaXl1enB4aE5YRzlUVTBfTmhBaFdIUTVTRS05X0ZmdTA?oc=5",
       "published": "Wed, 02 Sep 2026 19:05:07 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Wed, 02 Sep 2026 10:37:37 GMT"
     }
   ],
-  "last_updated": "2026-09-02 20:37 UTC"
+  "last_updated": "2026-09-02 20:50 UTC"
 }
