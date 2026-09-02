@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23802.15,
-    "change": -253.65,
-    "pct": -1.05
+    "price": 23824.6,
+    "change": -231.2,
+    "pct": -0.96
   },
   "Bank Nifty": {
-    "price": 56983.0,
-    "change": -426.6,
-    "pct": -0.74
+    "price": 56995.35,
+    "change": -414.25,
+    "pct": -0.72
   },
   "Sensex": {
-    "price": 76262.67,
-    "change": -681.61,
-    "pct": -0.89
+    "price": 76263.98,
+    "change": -680.3,
+    "pct": -0.88
   },
   "India VIX": {
-    "price": 11.91,
-    "change": 0.42,
-    "pct": 3.66
+    "price": 11.85,
+    "change": 0.36,
+    "pct": 3.18
   },
   "Nifty IT": {
-    "price": 31008.5,
-    "change": -488.2,
-    "pct": -1.55
+    "price": 31045.7,
+    "change": -451.0,
+    "pct": -1.43
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,39 +43,39 @@
     "pct": -0.71
   },
   "Nikkei 225": {
-    "price": 64353.48,
-    "change": -1861.86,
-    "pct": -2.81
+    "price": 64325.64,
+    "change": -1889.7,
+    "pct": -2.85
   },
   "Hang Seng": {
-    "price": 25236.25,
-    "change": -93.48,
-    "pct": -0.37
+    "price": 25253.71,
+    "change": -76.02,
+    "pct": -0.3
   },
   "Crude Oil (Brent)": {
-    "price": 95.64,
-    "change": 0.99,
-    "pct": 1.05
+    "price": 95.38,
+    "change": 0.73,
+    "pct": 0.77
   },
   "Crude Oil (WTI)": {
-    "price": 90.77,
-    "change": 0.55,
-    "pct": 0.61
+    "price": 90.64,
+    "change": 0.42,
+    "pct": 0.47
   },
   "Gold": {
-    "price": 4371.8,
-    "change": 23.8,
-    "pct": 0.55
+    "price": 4371.2,
+    "change": 23.2,
+    "pct": 0.53
   },
   "Silver": {
-    "price": 64.57,
-    "change": -0.04,
-    "pct": -0.07
+    "price": 64.62,
+    "change": 0.0,
+    "pct": 0.0
   },
   "USD/INR": {
     "price": 94.96,
-    "change": -0.15,
-    "pct": -0.16
+    "change": -0.16,
+    "pct": -0.17
   },
   "Dollar Index": {
     "price": 99.71,
@@ -89,24 +89,19 @@
   },
   "news": [
     {
-      "title": "Indian shares decline as oil prices surge on US-Iran strikes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
-    },
-    {
       "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDR0bURrdTEtNFFqREpHMW5oWm9fWkVvZDJxRm93d2Z1NFQyZnBDajFYX2huWFJXaVkyQ0hreVpGdlFxaTNiZktqV1prSjYtUG1GUGNzd2lCTzRzeG9NTmo3QUhRSHZKVjhWdDVUNzRyUTdNM05hdUhxRl8teXFsWWZMZTBoZ0lhTy0tRk5EMDVqTzR4WkdyOXUwemtXV3l3enVnRWxWeFNtRThqRnlHc2U2WG9zVkMzRklfUUIxdW90U3B1dDVxdzgwaDZZQ1M5czRndGN2OW40UlZob2drWDlvYWppYW9hZGxyYnNza19Cd2F2TVltelZmZm7SAYICQVVfeXFMTnFoVngwZFFPT1dPSk13c3V6cU9xaXhJLW1uNk1xUGVpeXhxckxfd0ZnY1dMNU9PWU1nTGRmc3FDZlFscFByM1FwSWJ0REszaHNrcDI0ajItZzhGLVcwT1g2TEpCR1BrT0VjV1hEcElLQndWeEVDd29FQnVTbEROeTEybHVBWTlHMWE2eDk3dHh4NUdFMTZIODdGR3ZqajlodDk2NndfbUtCZEpBV2ZNSUxhY2FrbTdHRDNfdk00Zk9jQm90Q1lsS1lFaTBqUmoxSjZwQkR6TkhZYl9JenlET1dYVzcwaE45ZUExckNnUEVGbjRyNUZIcFBQNFQ1ZTd6Z0l3?oc=5",
-      "published": "Wed, 02 Sep 2026 01:38:37 GMT"
-    },
-    {
-      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - Equitymaster",
+      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXoxUk5RN2dZMlRTZmI0aWdjcnJwSnlpNEk2Y0xtRjFESXpOS0ZYQ3Y1YzRYUm16SnpYZE1uQXZiSkdCQUE1UW9jZ2xnNEI0LUNoNmRnMnNFdnhQNnRObm9kMHNYTXVyZGRmYkt3RHFFR1U3Y1dxQTJpNk9aWXF3NGR4Q0NpTzZQN2Q2REFpRmlHTzlYLVB5SGU5VkNsbE1CbHg0SDVpSGJRaThGT0lFQnptNEd5SEt2aFRkTVV1aVJEN3gtRFBxb3ZvSkR0QjJKbTZsdmhfbw?oc=5",
       "published": "Wed, 02 Sep 2026 04:55:27 GMT"
+    },
+    {
+      "title": "Stock Market prediction today: Sensex, Nifty outlook for Wednesday | Kospi, Taiwan Index, Nikkei cues to watch - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQl8wVmxpQjRvM1VoMVQ0QzZqck16dG9PUTFPV2tGSVNvQ0JsMTh1V010VUo5a3lSRWIyaXZiYXNsZXVuZXhNUmlwNU5MbXZybkZ4MUlJR05PLVpZRjBsUFViOEdhcVJfOGhNQ2ZsUjlSV1k3ZUJaaTgtc1paeTRxWU9BeGl5TG1RekJqOWdsU1JyXy1Ub1Y4YmJpbWkyVC1GR01JNTlTaWlsZzBmcEtxNWNmOFBDTld0ZVBFeE1xdEk5ZzVIeGw3V0lCLWVQX1JCUVhtM3drTzF0c3N3djcxT013WUN5Ukp6VVdCaFBjdzUwZ9IB9wFBVV95cUxOV2x4Y1pJdFAzLUN0dDVzay02NEduenhoT0hSbjY1OXRYdEZwa05iVE5nWE5YUTAzNXdQaDc1WVZtQjlyUXJxbTNZRTZXOTJWQ1ZaRGdrWEhRbHFidVFTT25hRjRZbndEa2pLbWdzbFZVSUwwNWVZb09jLUt5OWhFVVRnSzJuYjZhcWVuSDZjZ3JmM1RiWUR3OHFpN201c3I2LTNBcDRSdm5GLVVyMzV1WkdPVjFVOGtmZGJVcENEYThXaE9JSnVVZFVOTldtWmpIUjV3cWZTOTBOdXJMTVpMcV9IMkF0N0hrZHJoTjh5ZWNwNGlMWXQw?oc=5",
+      "published": "Tue, 01 Sep 2026 11:22:02 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty Sink on US-Iran Crisis - Rediff",
@@ -127,7 +122,12 @@
       "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
+    },
+    {
+      "title": "FII inflows into Indian equities hit two-year high of \u20b929,631 cr in August - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUy1IcjZXMzRzc3JCZkhMaE5reUlaZ19uZkM2R1dreGhqUlRuUElOX3ZTUVZYUEItVjEzQWl1bG9rRG9HQTJkTng0V0s4b1dVSThHY1kzbjduQXRScDBtLU55MEk0dGZ5TlJSUFduMFNWNllVS0w3N3ZkNE16dVVjRnM3blZYeGJfc05ySVRQU19neUxHOHVOcFlvNU1TMkF4c0pPWl9zSUFuX0o2VWw3R2lLOXlWZ0FmSGphMm1IV0JUdlJw0gHLAUFVX3lxTFA1MERHNUcwUHVGWGlTVnNGeF9nejZQNjRwMndsQUMxQ29nWjh5LVJHcjdsZEtZZGN3ZS15a0dxTjlzdS1yZVMtTEJGTzREQm5ZY25LY3ExUjBNUmM0OEJmcVQ4UTdXTkQ4RUhsNFJsQzN0SWdicmVIb2piNGJ0dFNsdk1qOG5WbjBaUUhpVFNOcGtDVFMxU0pVeTZ5UkVQX1Vmd0ROMXJQQlZTTlNJYnQ5ekY3TnhKalFTbDlwamN6LUc4RXNKRXJ3V21B?oc=5",
+      "published": "Mon, 31 Aug 2026 15:11:32 GMT"
     }
   ],
-  "last_updated": "2026-09-02 06:34 UTC"
+  "last_updated": "2026-09-02 06:54 UTC"
 }
