@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53072.25,
-    "change": 305.37,
-    "pct": 0.58
+    "price": 53061.95,
+    "change": 295.07,
+    "pct": 0.56
   },
   "Nasdaq": {
-    "price": 26219.63,
-    "change": 119.86,
-    "pct": 0.46
+    "price": 26217.83,
+    "change": 118.06,
+    "pct": 0.45
   },
   "S&P 500": {
-    "price": 7669.56,
-    "change": 38.09,
-    "pct": 0.5
+    "price": 7666.6,
+    "change": 35.13,
+    "pct": 0.46
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.52,
-    "change": 0.87,
-    "pct": 0.92
-  },
-  "Crude Oil (WTI)": {
-    "price": 90.91,
-    "change": 0.69,
+    "price": 95.37,
+    "change": 0.72,
     "pct": 0.76
   },
+  "Crude Oil (WTI)": {
+    "price": 90.77,
+    "change": 0.55,
+    "pct": 0.61
+  },
   "Gold": {
-    "price": 4429.7,
-    "change": 81.7,
-    "pct": 1.88
+    "price": 4433.5,
+    "change": 85.5,
+    "pct": 1.97
   },
   "Silver": {
-    "price": 65.81,
-    "change": 1.19,
-    "pct": 1.84
+    "price": 65.86,
+    "change": 1.24,
+    "pct": 1.92
   },
   "USD/INR": {
     "price": 94.96,
@@ -75,7 +75,7 @@
   },
   "news": [
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
@@ -83,6 +83,11 @@
       "title": "Indian shares join global slide as Mideast woes mount - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
       "published": "Wed, 02 Sep 2026 02:23:00 GMT"
+    },
+    {
+      "title": "Stock Market prediction tomorrow, September 3: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Thursday - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMHMxaFBkZmZDREpvdkJHMTRibUdoQVY5OWw1WGY0RmI0dlJHbU5oYXZIQnhpajZ2RkIzTjEtLW5uVGZ4WUgxX2tJdHRzNHlCdUpHTGNlX1F3amhsYkk4Sl9BVW0zTDRBRTZ4emVXTG1rR0NXbXh5N24yY1o3RFRSYzNubWFBMUN3bjFKVWFnSXZOaGF3ZnNuS0MxaldBT01jOS1DVHRRbVZOcmg0Uy1BdU5LRU9PbVM0am85ZTctVHNKZFBZMEczS0tLMTZXX3FFWC1BMFJ6ajRtdDZMZXRXenZ6SDhPeU5lSktkWXRiNlJWQU1hWThjaEpxNmt4M21MQmlFalFCcFZkVjJPY20zR9IBlgJBVV95cUxNRnBiNEg1U3ZiZFhiYllyVDhENS15NVZhSzhSYXVvZmtJR2RXTlFScFR5UElnTTl6VzNzQUwxSUQ2cWxwa0R1Nm8wOHVzQWtXbGFWUURpQWFyUXE3c3lBaEpQZTc3VXZkaE5kUENuZGo0LXZDSWNwYTlJdHhOYmREM3hFT3FZWlZtRnRwM0RCMlJuN1NDTzZBRHRXOEtISnpqRS0xRTk4cGRXY1JqV21UX19mOERJbUh5WFpIQ1U5UEp5UnlWR0M2R1duTTFOdHVkNHo0eUl1d3JCY3Q4dzljY1FwVjNFNHd3VG1xeG41WkRES1JCdUlncmtZQktQUUhIc2pONVBseENtRC12R1pwVzFCaWxfUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 10:11:08 GMT"
     },
     {
       "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - The Economic Times",
@@ -108,12 +113,7 @@
       "title": "India stocks lower at close of trade; Nifty 50 down 0.59% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOW1ya2VLNXRzYnY3RldZeko0cGx0eGtqc1JWZy1DcUxMRzBvc1hOZ2lLLXhVa0JGbFhMMzFsT2NFMmcxODQ3RmtoM2E2U2VabW9BVnJTNVlJR3FwSy1ETlFzamVFeDNicEV6blpyOGhEZVU3bTdOT3dSeHFQRDYxNHRzdV9nZjRFVGhxQ2NCMVZzUGJuZUNtOUZ5bUE4R19RLW9wVkkxQVBGcHVkYVpYVw?oc=5",
       "published": "Wed, 02 Sep 2026 10:37:37 GMT"
-    },
-    {
-      "title": "Sensex, Nifty fall sharply: 6 reasons why stock market turned weak today - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3hrcS1SbFhNemJOX2hWRUxMc1BTUEZzZzZEMy11LUhJTVlTOVR4bDd0d0NTRU9BbzhzeWJFclRYMkY5MlZST0ZFMmUwZy10QjdIQ2J3LVFIY3EwbzhRZ2hnRVVQRXp4cGttWjBHNlk3Qkthb3hMWmNGQzVRWThiM0g0TFhTOFZqUnFxYUM0eDNIRVFBbzNSbzRqNFVWZUdJZ19zSVlNTWhrdkRBY05rZVpCMVVaZ9IBuwFBVV95cUxQMjZIMjFxMXNBYThtaXFvUzJ4UXJMNkNmTFBET00xT3Z3Vmo0NlFGN2I0U2IxNng3OHFpZHE4bmJoZC1yeks0ekhyOTU0emtvZjFfQWNLSkZZcmJ2Uzg1dDFZQl91WUFvNjRRM2d5RVNqZzlodlZyN3dvblNjUTltS3V0RElUOGdwM2JSRnFMSXZsajdaZi1YRkFINzFEVFZLYTVQM3I4Q3pUNm1mTUU5MDMxUHhmTU1jNUtR?oc=5",
-      "published": "Wed, 02 Sep 2026 10:17:24 GMT"
     }
   ],
-  "last_updated": "2026-09-02 19:48 UTC"
+  "last_updated": "2026-09-02 20:06 UTC"
 }
