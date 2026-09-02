@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23824.6,
-    "change": -231.2,
-    "pct": -0.96
+    "price": 23849.8,
+    "change": -206.0,
+    "pct": -0.86
   },
   "Bank Nifty": {
-    "price": 56995.35,
-    "change": -414.25,
-    "pct": -0.72
+    "price": 57063.5,
+    "change": -346.1,
+    "pct": -0.6
   },
   "Sensex": {
-    "price": 76263.98,
-    "change": -680.3,
-    "pct": -0.88
+    "price": 76274.77,
+    "change": -669.51,
+    "pct": -0.87
   },
   "India VIX": {
-    "price": 11.85,
-    "change": 0.36,
-    "pct": 3.18
+    "price": 11.73,
+    "change": 0.24,
+    "pct": 2.07
   },
   "Nifty IT": {
-    "price": 31045.7,
-    "change": -451.0,
-    "pct": -1.43
+    "price": 31079.3,
+    "change": -417.4,
+    "pct": -1.33
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": -2.85
   },
   "Hang Seng": {
-    "price": 25253.71,
-    "change": -76.02,
-    "pct": -0.3
+    "price": 25219.65,
+    "change": -110.08,
+    "pct": -0.43
   },
   "Crude Oil (Brent)": {
-    "price": 95.38,
-    "change": 0.73,
-    "pct": 0.77
+    "price": 95.57,
+    "change": 0.92,
+    "pct": 0.97
   },
   "Crude Oil (WTI)": {
-    "price": 90.64,
-    "change": 0.42,
-    "pct": 0.47
+    "price": 90.72,
+    "change": 0.5,
+    "pct": 0.55
   },
   "Gold": {
-    "price": 4371.2,
-    "change": 23.2,
-    "pct": 0.53
+    "price": 4364.8,
+    "change": 16.8,
+    "pct": 0.39
   },
   "Silver": {
-    "price": 64.62,
-    "change": 0.0,
-    "pct": 0.0
+    "price": 64.53,
+    "change": -0.09,
+    "pct": -0.14
   },
   "USD/INR": {
-    "price": 94.96,
-    "change": -0.16,
-    "pct": -0.17
+    "price": 94.94,
+    "change": -0.17,
+    "pct": -0.18
   },
   "Dollar Index": {
-    "price": 99.71,
-    "change": 0.04,
-    "pct": 0.04
+    "price": 99.77,
+    "change": 0.1,
+    "pct": 0.1
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -89,12 +89,12 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - equitymaster.com",
+      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXoxUk5RN2dZMlRTZmI0aWdjcnJwSnlpNEk2Y0xtRjFESXpOS0ZYQ3Y1YzRYUm16SnpYZE1uQXZiSkdCQUE1UW9jZ2xnNEI0LUNoNmRnMnNFdnhQNnRObm9kMHNYTXVyZGRmYkt3RHFFR1U3Y1dxQTJpNk9aWXF3NGR4Q0NpTzZQN2Q2REFpRmlHTzlYLVB5SGU5VkNsbE1CbHg0SDVpSGJRaThGT0lFQnptNEd5SEt2aFRkTVV1aVJEN3gtRFBxb3ZvSkR0QjJKbTZsdmhfbw?oc=5",
       "published": "Wed, 02 Sep 2026 04:55:27 GMT"
     },
@@ -109,9 +109,9 @@
       "published": "Wed, 02 Sep 2026 04:54:36 GMT"
     },
     {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
-      "published": "Sat, 29 Aug 2026 06:19:28 GMT"
+      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "India's stock market getting smarter: This Indian startup plans to put market intelligence in traders' hands - India.com",
@@ -119,15 +119,15 @@
       "published": "Wed, 02 Sep 2026 04:58:35 GMT"
     },
     {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
-      "published": "Tue, 01 Sep 2026 08:29:55 GMT"
+      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
+      "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     },
     {
-      "title": "FII inflows into Indian equities hit two-year high of \u20b929,631 cr in August - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUy1IcjZXMzRzc3JCZkhMaE5reUlaZ19uZkM2R1dreGhqUlRuUElOX3ZTUVZYUEItVjEzQWl1bG9rRG9HQTJkTng0V0s4b1dVSThHY1kzbjduQXRScDBtLU55MEk0dGZ5TlJSUFduMFNWNllVS0w3N3ZkNE16dVVjRnM3blZYeGJfc05ySVRQU19neUxHOHVOcFlvNU1TMkF4c0pPWl9zSUFuX0o2VWw3R2lLOXlWZ0FmSGphMm1IV0JUdlJw0gHLAUFVX3lxTFA1MERHNUcwUHVGWGlTVnNGeF9nejZQNjRwMndsQUMxQ29nWjh5LVJHcjdsZEtZZGN3ZS15a0dxTjlzdS1yZVMtTEJGTzREQm5ZY25LY3ExUjBNUmM0OEJmcVQ4UTdXTkQ4RUhsNFJsQzN0SWdicmVIb2piNGJ0dFNsdk1qOG5WbjBaUUhpVFNOcGtDVFMxU0pVeTZ5UkVQX1Vmd0ROMXJQQlZTTlNJYnQ5ekY3TnhKalFTbDlwamN6LUc4RXNKRXJ3V21B?oc=5",
-      "published": "Mon, 31 Aug 2026 15:11:32 GMT"
+      "title": "Sensex, Nifty Extend Three-Day Slide on September 2 as Brent at $92.63 Fans India\u2019s Oil Inflation Fears - The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDZucGROX2NCOW1QaEo3dExncW5zTHhSd3lfUXRFcGI1NG93SXhxZmhUSjZ4RmxwcWFwSldYUXJwc0ZIdkZQMzVLR3ZyY1pzLWJoa1hLNE9pa0tVWmQ2Nlg3Q282S293YnozaDJxeERRSVE1Nk03Wm5CR3JrNUZLWG8xaGk1ejRPa25ubnE2VlNHNkhCN1E?oc=5",
+      "published": "Wed, 02 Sep 2026 05:29:02 GMT"
     }
   ],
-  "last_updated": "2026-09-02 06:54 UTC"
+  "last_updated": "2026-09-02 07:06 UTC"
 }
