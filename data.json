@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53034.67,
-    "change": 267.79,
-    "pct": 0.51
+    "price": 52978.85,
+    "change": 211.97,
+    "pct": 0.4
   },
   "Nasdaq": {
-    "price": 26232.83,
-    "change": 133.06,
-    "pct": 0.51
+    "price": 26209.86,
+    "change": 110.09,
+    "pct": 0.42
   },
   "S&P 500": {
-    "price": 7674.51,
-    "change": 43.04,
-    "pct": 0.56
+    "price": 7666.88,
+    "change": 35.41,
+    "pct": 0.46
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.63,
-    "change": 0.98,
-    "pct": 1.04
+    "price": 95.62,
+    "change": 0.97,
+    "pct": 1.02
   },
   "Crude Oil (WTI)": {
-    "price": 90.81,
-    "change": 0.59,
-    "pct": 0.65
+    "price": 90.79,
+    "change": 0.57,
+    "pct": 0.63
   },
   "Gold": {
-    "price": 4418.3,
-    "change": 70.3,
-    "pct": 1.62
+    "price": 4415.4,
+    "change": 67.4,
+    "pct": 1.55
   },
   "Silver": {
-    "price": 65.64,
-    "change": 1.02,
-    "pct": 1.58
+    "price": 65.62,
+    "change": 1.01,
+    "pct": 1.56
   },
   "USD/INR": {
     "price": 94.96,
@@ -74,14 +74,14 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.55,
-    "change": -0.12,
-    "pct": -0.12
+    "price": 99.54,
+    "change": -0.13,
+    "pct": -0.13
   },
   "US 10Y Yield": {
     "price": 4.8,
-    "change": 0.0,
-    "pct": 0.04
+    "change": 0.01,
+    "pct": 0.17
   },
   "news": [
     {
@@ -115,15 +115,15 @@
       "published": "Wed, 02 Sep 2026 10:37:37 GMT"
     },
     {
-      "title": "Sensex, Nifty fall sharply: 6 reasons why stock market turned weak today - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3hrcS1SbFhNemJOX2hWRUxMc1BTUEZzZzZEMy11LUhJTVlTOVR4bDd0d0NTRU9BbzhzeWJFclRYMkY5MlZST0ZFMmUwZy10QjdIQ2J3LVFIY3EwbzhRZ2hnRVVQRXp4cGttWjBHNlk3Qkthb3hMWmNGQzVRWThiM0g0TFhTOFZqUnFxYUM0eDNIRVFBbzNSbzRqNFVWZUdJZ19zSVlNTWhrdkRBY05rZVpCMVVaZ9IBuwFBVV95cUxQMjZIMjFxMXNBYThtaXFvUzJ4UXJMNkNmTFBET00xT3Z3Vmo0NlFGN2I0U2IxNng3OHFpZHE4bmJoZC1yeks0ekhyOTU0emtvZjFfQWNLSkZZcmJ2Uzg1dDFZQl91WUFvNjRRM2d5RVNqZzlodlZyN3dvblNjUTltS3V0RElUOGdwM2JSRnFMSXZsajdaZi1YRkFINzFEVFZLYTVQM3I4Q3pUNm1mTUU5MDMxUHhmTU1jNUtR?oc=5",
-      "published": "Wed, 02 Sep 2026 10:17:24 GMT"
-    },
-    {
       "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
       "published": "Wed, 02 Sep 2026 04:25:24 GMT"
+    },
+    {
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 02, 2026 - blog.liquide.life",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd1lYMDJpdjJJTnlkRHFiTk5rRmFzYU9paU1GMW9aZ01vMzZoR1Z1Tm5HcHhvQVBoSXBVVk5kNGpTUlV0eXV5djFVMnJienhwRjJsSFNyXzlvQVlVaGxQNXpBTF9IT3o2N3NRRGtfS2VvV3pnVnRyZjVLcnVBemg1dHI1Q1d1VEltYU5tb0VVR29vQXZTS0lMZEpmSTc4bm43enA5R3ljWVJmZEI1eUMwNFdqMXF2Y0dTdmF5MVMzdw?oc=5",
+      "published": "Wed, 02 Sep 2026 11:18:09 GMT"
     }
   ],
-  "last_updated": "2026-09-02 16:06 UTC"
+  "last_updated": "2026-09-02 16:26 UTC"
 }
