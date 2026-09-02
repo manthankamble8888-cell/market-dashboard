@@ -18,18 +18,18 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53052.19,
-    "change": 285.31,
-    "pct": 0.54
+    "price": 53078.28,
+    "change": 311.4,
+    "pct": 0.59
   },
   "Nasdaq": {
-    "price": 26211.7,
-    "change": 111.93,
-    "pct": 0.43
+    "price": 26207.46,
+    "change": 107.7,
+    "pct": 0.41
   },
   "S&P 500": {
-    "price": 7669.26,
-    "change": 37.79,
+    "price": 7669.43,
+    "change": 37.96,
     "pct": 0.5
   },
   "Nikkei 225": {
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.39,
-    "change": 0.74,
-    "pct": 0.78
+    "price": 95.57,
+    "change": 0.92,
+    "pct": 0.97
   },
   "Crude Oil (WTI)": {
-    "price": 90.81,
-    "change": 0.59,
-    "pct": 0.65
+    "price": 90.97,
+    "change": 0.75,
+    "pct": 0.83
   },
   "Gold": {
-    "price": 4423.5,
-    "change": 75.5,
-    "pct": 1.74
+    "price": 4426.1,
+    "change": 78.1,
+    "pct": 1.8
   },
   "Silver": {
     "price": 65.76,
-    "change": 1.15,
-    "pct": 1.78
+    "change": 1.14,
+    "pct": 1.77
   },
   "USD/INR": {
     "price": 94.96,
@@ -64,9 +64,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.61,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 99.59,
+    "change": -0.08,
+    "pct": -0.08
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -110,10 +110,10 @@
       "published": "Wed, 02 Sep 2026 10:37:37 GMT"
     },
     {
-      "title": "Nifty Sensex Today: Nifty Ends Near 23,900, Sensex Falls 374 Points as Crude Oil Surges - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYlhkWTdSTnIxVG0xTmpyNjB3b3E1TjhKR0NRdkNlYTdRU0lteU1FWTcxbjlobHJsT2tYVnVObVNnM0dGUW5kcUJQZkc0Rm5tVXBvdm42Smg1dThzdnBPSHVTWUFnMUhwazIzeHBrX3VheGthT3FHOVFRU1RVbEw1dHRicGFRS3FNUk9wUWF4NHY0dy02cnY4V0JRTENtdWktUUl3YXl3bEg0MG9hUTZHOTdiVkQ1d0NOdjhlMGl2U1h6elN5ZEE?oc=5",
-      "published": "Wed, 02 Sep 2026 10:54:01 GMT"
+      "title": "Sensex, Nifty fall sharply: 6 reasons why stock market turned weak today - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3hrcS1SbFhNemJOX2hWRUxMc1BTUEZzZzZEMy11LUhJTVlTOVR4bDd0d0NTRU9BbzhzeWJFclRYMkY5MlZST0ZFMmUwZy10QjdIQ2J3LVFIY3EwbzhRZ2hnRVVQRXp4cGttWjBHNlk3Qkthb3hMWmNGQzVRWThiM0g0TFhTOFZqUnFxYUM0eDNIRVFBbzNSbzRqNFVWZUdJZ19zSVlNTWhrdkRBY05rZVpCMVVaZ9IBuwFBVV95cUxQMjZIMjFxMXNBYThtaXFvUzJ4UXJMNkNmTFBET00xT3Z3Vmo0NlFGN2I0U2IxNng3OHFpZHE4bmJoZC1yeks0ekhyOTU0emtvZjFfQWNLSkZZcmJ2Uzg1dDFZQl91WUFvNjRRM2d5RVNqZzlodlZyN3dvblNjUTltS3V0RElUOGdwM2JSRnFMSXZsajdaZi1YRkFINzFEVFZLYTVQM3I4Q3pUNm1mTUU5MDMxUHhmTU1jNUtR?oc=5",
+      "published": "Wed, 02 Sep 2026 10:17:24 GMT"
     }
   ],
-  "last_updated": "2026-09-02 19:22 UTC"
+  "last_updated": "2026-09-02 19:34 UTC"
 }
