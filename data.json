@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23864.8,
-    "change": -191.0,
-    "pct": -0.79
+    "price": 23831.0,
+    "change": -224.8,
+    "pct": -0.93
   },
   "Bank Nifty": {
-    "price": 57143.35,
-    "change": -266.25,
-    "pct": -0.46
+    "price": 57036.1,
+    "change": -373.5,
+    "pct": -0.65
   },
   "Sensex": {
-    "price": 76425.92,
-    "change": -518.36,
-    "pct": -0.67
+    "price": 76385.01,
+    "change": -559.27,
+    "pct": -0.73
   },
   "India VIX": {
-    "price": 11.77,
-    "change": 0.28,
-    "pct": 2.48
+    "price": 11.91,
+    "change": 0.43,
+    "pct": 3.7
   },
   "Nifty IT": {
-    "price": 31109.7,
-    "change": -387.0,
-    "pct": -1.23
+    "price": 31024.95,
+    "change": -471.75,
+    "pct": -1.5
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +43,44 @@
     "pct": -0.71
   },
   "Nikkei 225": {
-    "price": 64347.35,
-    "change": -1867.99,
-    "pct": -2.82
+    "price": 64428.59,
+    "change": -1786.75,
+    "pct": -2.7
   },
   "Hang Seng": {
-    "price": 25112.75,
-    "change": -216.98,
-    "pct": -0.86
+    "price": 25146.89,
+    "change": -182.84,
+    "pct": -0.72
   },
   "Crude Oil (Brent)": {
-    "price": 95.42,
-    "change": 0.77,
-    "pct": 0.81
+    "price": 95.34,
+    "change": 0.69,
+    "pct": 0.73
   },
   "Crude Oil (WTI)": {
-    "price": 90.58,
-    "change": 0.36,
-    "pct": 0.4
+    "price": 90.57,
+    "change": 0.35,
+    "pct": 0.39
   },
   "Gold": {
-    "price": 4358.6,
-    "change": 10.6,
-    "pct": 0.24
+    "price": 4364.7,
+    "change": 16.7,
+    "pct": 0.38
   },
   "Silver": {
-    "price": 64.37,
-    "change": -0.25,
-    "pct": -0.38
+    "price": 64.59,
+    "change": -0.03,
+    "pct": -0.04
   },
   "USD/INR": {
-    "price": 94.96,
+    "price": 94.95,
     "change": -0.16,
-    "pct": -0.16
+    "pct": -0.17
   },
   "Dollar Index": {
-    "price": 99.76,
-    "change": 0.09,
-    "pct": 0.09
+    "price": 99.74,
+    "change": 0.07,
+    "pct": 0.07
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -88,11 +88,6 @@
     "pct": 0.8
   },
   "news": [
-    {
-      "title": "Indian shares open lower as widening Iran conflict sends oil higher - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
-    },
     {
       "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
@@ -104,12 +99,17 @@
       "published": "Wed, 02 Sep 2026 01:38:37 GMT"
     },
     {
-      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
-      "published": "Wed, 02 Sep 2026 04:48:24 GMT"
+      "title": "Why is market falling today? Sensex plunges over 750 pts, Nifty below 23,800. 5 key factors behind Rs 5 la - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
+      "published": "Wed, 02 Sep 2026 03:58:06 GMT"
     },
     {
-      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - Equitymaster",
+      "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
+      "published": "Wed, 02 Sep 2026 04:25:24 GMT"
+    },
+    {
+      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSXoxUk5RN2dZMlRTZmI0aWdjcnJwSnlpNEk2Y0xtRjFESXpOS0ZYQ3Y1YzRYUm16SnpYZE1uQXZiSkdCQUE1UW9jZ2xnNEI0LUNoNmRnMnNFdnhQNnRObm9kMHNYTXVyZGRmYkt3RHFFR1U3Y1dxQTJpNk9aWXF3NGR4Q0NpTzZQN2Q2REFpRmlHTzlYLVB5SGU5VkNsbE1CbHg0SDVpSGJRaThGT0lFQnptNEd5SEt2aFRkTVV1aVJEN3gtRFBxb3ZvSkR0QjJKbTZsdmhfbw?oc=5",
       "published": "Wed, 02 Sep 2026 04:55:27 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
-      "published": "Mon, 31 Aug 2026 01:35:19 GMT"
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
+      "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     }
   ],
-  "last_updated": "2026-09-02 05:27 UTC"
+  "last_updated": "2026-09-02 05:40 UTC"
 }
