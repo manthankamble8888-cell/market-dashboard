@@ -39,9 +39,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.32,
-    "change": 0.67,
-    "pct": 0.71
+    "price": 95.3,
+    "change": 0.65,
+    "pct": 0.69
   },
   "Crude Oil (WTI)": {
     "price": 90.7,
@@ -49,14 +49,14 @@
     "pct": 0.53
   },
   "Gold": {
-    "price": 4431.9,
-    "change": 83.9,
-    "pct": 1.93
+    "price": 4428.2,
+    "change": 80.2,
+    "pct": 1.84
   },
   "Silver": {
-    "price": 65.91,
-    "change": 1.29,
-    "pct": 2.0
+    "price": 65.83,
+    "change": 1.22,
+    "pct": 1.88
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -83,9 +83,14 @@
       "published": "Wed, 02 Sep 2026 13:33:26 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 31 August - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcUszTWpqYVEwX0tNMVZEZlNnSFJ1SmdGVzVVOS1xdkhMYXA5d3ptNkJiNEpFd04tRlJSamU3SktjQWF2M2tGV0ZHcl9jVHc0ZWxUQ3luYjFCT1MtbmNFbzlBbjRqRC1QaUdTQzhMU19KbjIzR1V5bkd1WnhhRDhIbWpWd1h0YTNGejVDdWI5WG1iVFFiU2lBNkp4YWVTWFlYckZQT1ExdFRoRlNKU0JUQ1RfNC0tWExSeTdaY3IxMWFxT0J1S1ItNGxUSFRVNTNWVTJBSVRQMTljY3k3QWU0STZIUEY2UmVZVFdfSTl1M3lsaERhUFhTcmdR0gH_AUFVX3lxTE5ycmhZUG5wcXpVNkp3Z1FfdWhUbnZ5TmhYT3RjWXRnOGxSSV9lZUs5alpwMUNDMWluVmhWRnBpRWZuMVc0R3hGdGVreGhmTk1RSkhnR1ZjdThLQmxVYm5Wd3kxdWRpd1FLNDRQV1F1Q1YteVhzRzhKWFNWa3pOdkhPRlMwSjJYZ2JZekFuM0Z2aE5PUmhxQ1BocHF2cVYwZVNBUHJ1WnUwaXFRd0t4ejRsamM4Vlpad3M5ZEFQaEpWaUpmcUI0a1dfbl9DODhONHBBMDhLOEFRQ1JZRXVoOTJfVGs0cVZpWnc0TElJNmR3anZkRHFkUC0tdEFBMjRqdw?oc=5",
-      "published": "Mon, 31 Aug 2026 01:42:47 GMT"
+      "title": "Stock market today: Gift Nifty signals a negative start amid rising yields; 8 stocks to buy on Wednesday, 2 September - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdWJheGNaaXY3TFprUlZ1dFJIY0U4QzhFMTBIMVJhOXE5UFpPc0xPNzhVWDAtdnB0QlluNEhUc2lFQWdwN0I1SGZZb0dMS0tFMld6b210MWRYVU5tMU42OXh2LUNBNVpWemNEdjdOc0JuemtNOVFMNVFRTHJsV2Z4R2JIdVd5QjhhaXBXdUxrTXhvY3Awcjd0N19wMTNFVXNLdnRGM0ZXU0t5UWtfTTctWHF2NW1BMTRWcVg2NzZMMVUyYm1ERkZUbjdiUGdxaUYyQkVjYkh3Y2FWdDZoV2VHSHZONUtETktlWVRlMWxvWmw0dHJyY3pzek15WTdYd2FOdWdXWHJrVjlRWURjMGx2LVVB0gGXAkFVX3lxTFBxUm44azJ6NDBUcTVELUZmNG5jYmpxU1U5ZDJleXdOT2lUQ09tQld6LUh4dkh0clJsb0k3TDZmNmtLM2JBOEJnV183anROM3ExSnp2NmFCLVczOEdZR19WV1NaY2o5UDJmT2djUEFSS1pEUHZqYmpKcl9aa3lEek1WZXJZZ1p5cDkxdlo2UkFua2lDWDJteHBiNHNFQTRMQ0lIcXdWdjVudVh4QUt3NzJubGRuekFSYjRpTGxtS1AtRXJPanF2QW56SnhzOE1JSmkxYkVtc0tlbl9LcE1iSXRhcWRVaHpNYWl2cDNvdkhJMTFZVV9qT3RuT1JoTVdKWWZPUUNvNUcyRnNZWEtaZ3JRTFBoVDZqZw?oc=5",
+      "published": "Wed, 02 Sep 2026 01:34:40 GMT"
+    },
+    {
+      "title": "Every Time FPIs Panicked During Major Market Crashes, Indian Equities Bounced Back Stronger - outlookmoney.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVZHTXdGQWNlSHg1X3Yyamd2NEY5bHB0RUFhM1dDWnJkTHNMVXYwMDYzTzVpVndiakdqYUdxeFYtSXdpVi1QX0dNMTdjOXB1MFo5LVhUSGU5YnVJVkkzLWJZcmFORDR3NWNyUm1TYXdTZzNKenlUM244ZXUtaVlCNWgwRFlUUlNTVXlsWG9hbDQzc0pNMGRUWtIBpgFBVV95cUxOQjZQMkdvMWUtYmVlLWhwdFhCT1I1aW0ycXFSQS0xRVpNZkVyRlBfMU1NbWRQRklEMF9xSkhFTmtCNzRPVDRfYXB4MU9jWFZzU29KRENWemNxZHN5dm5GRXljbWtKa2VNZmNidXBwZDhlRFJxWE1HRmtqUUpydXo1VzV0dUVCdzFvWlhwNXJVWHo5Wl9YM0c2ZGJsX2ZZMjRuSFlwVmZR?oc=5",
+      "published": "Wed, 02 Sep 2026 12:50:24 GMT"
     },
     {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.59% - Investing.com",
@@ -93,25 +98,20 @@
       "published": "Wed, 02 Sep 2026 10:37:37 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYWUzMDZjX1RBMzhRcmx1aEp6bEtqUHZHOWo3M29kb19FRGNSZTdYdG9wcTdrLUpuYUJ1Ukg3d3dUMWVsbEdRUHdTakZha01FRlhUbVY5Z2x0S3hVYjBieDhOWHZXYnJ2N2hPcndWTTYtM1FtbU5iVi13ZEdhTFZOeVJBSG5HRTR2QnZpR2FseXJYX3o5UlRoTHJxMEZ4Vjhod0l3WnUycnZGM2VfYm40bnVYOE1FNUxSV3FDcjZTc2VkZDV6cEIyM1NKY2pxQVJyeDdBdmNNemg0Ti11Um5KcGNn0gHnAUFVX3lxTE9TNGdwRDM3Rl9IUHRPdFRjYnNMWGdqYVc1cW1fY2M0dTB0RVIyUVkwMm04WFVQSlRYLUFJRDR6TXNvdk01LVRIckFsZExJeFltOG8xWFI1RDNYUXVuekR3N1prS0pkTTBfV0FJanR1MG5iQmY3M0pJVkwtY0NlcmZuZ29ra0xvVWJZSDJNU3hpUUt3Vk9TRU9hUm5ZdGJXaTltcXlDbFd6QnF1TmdhSGV6TkcwbzE2dG1EdlpCeVFuMnNZcXRUMm5CWnVUVDdHUG5CbW1lQ21oekh1a2J5UW9oZ3dOa3FCcw?oc=5",
-      "published": "Wed, 02 Sep 2026 15:55:59 GMT"
-    },
-    {
       "title": "Stock Market Crash: Sensex Sides, Nifty Below 24,000 \u2014 Three Reasons Why Dalal Street Is Under Pressure - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXZBV0VCWE90bHY4T0I1Q3NENTZSU1lQZDBRVlVWSVdyblhkT21BaDVPTjcwRzY1aDVydkFZWmJ6QzRSc2RGVThqNVdreVVmbVAyOWJuM2tEMUhxX0dOQWFxOTRfOHM5bk0wTEJqM3EzZ2V3SGpzdmhXd3hzWjhNUGtuZ0hzOWFFVm1rLVMzNWJFdWlhM0dUd3l1SWt3U3JpTmNhTWtwTEhwdldSNks3Q3lUU3R5US0zOTdpQU9YVDZRMnRwUWZMWEQxM1FEUURBZjJFaHNldGxULW_SAeMBQVVfeXFMUGZXeFg2c3BFNGUzb19ibGtpNDduRnFEcTRBUFlWT0lELXBsX1dQbFA2ZGVvRWlXQnkwb04wa0FvV2hNOEpjVUc3N0lwUnlQZ25BczJ4cW5MRHpjbGpPbFN6TEZXUkNrVDB6QVFtN1VsdXQ3Ykl1VTRkTVEzTlR5dFZ0dm1MYl9MRktUX2c1NnV4a3RSdjVNRkx6dFZYdFJuQ0ZxZjBkLVdET1VqR3ZUWkdyb04xNWYtN3NYVE1Za3RBemM4ek51eEVOdmFvd1prZWVGYUFmOVQ4YjNjZkl5ZHpYV2s?oc=5",
       "published": "Wed, 02 Sep 2026 04:25:24 GMT"
     },
     {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYWUzMDZjX1RBMzhRcmx1aEp6bEtqUHZHOWo3M29kb19FRGNSZTdYdG9wcTdrLUpuYUJ1Ukg3d3dUMWVsbEdRUHdTakZha01FRlhUbVY5Z2x0S3hVYjBieDhOWHZXYnJ2N2hPcndWTTYtM1FtbU5iVi13ZEdhTFZOeVJBSG5HRTR2QnZpR2FseXJYX3o5UlRoTHJxMEZ4Vjhod0l3WnUycnZGM2VfYm40bnVYOE1FNUxSV3FDcjZTc2VkZDV6cEIyM1NKY2pxQVJyeDdBdmNNemg0Ti11Um5KcGNn0gHnAUFVX3lxTE9TNGdwRDM3Rl9IUHRPdFRjYnNMWGdqYVc1cW1fY2M0dTB0RVIyUVkwMm04WFVQSlRYLUFJRDR6TXNvdk01LVRIckFsZExJeFltOG8xWFI1RDNYUXVuekR3N1prS0pkTTBfV0FJanR1MG5iQmY3M0pJVkwtY0NlcmZuZ29ra0xvVWJZSDJNU3hpUUt3Vk9TRU9hUm5ZdGJXaTltcXlDbFd6QnF1TmdhSGV6TkcwbzE2dG1EdlpCeVFuMnNZcXRUMm5CWnVUVDdHUG5CbW1lQ21oekh1a2J5UW9oZ3dOa3FCcw?oc=5",
+      "published": "Wed, 02 Sep 2026 15:55:59 GMT"
+    },
+    {
       "title": "Sensex Today Ends 374 Points Lower | Nifty Below 24,000 | HDFC Bank & HCL Tech Top Losers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeG1oek54aVRDSmQ4ZWNBV1g1NVNNZUtTQlhWWmg5TDVBWU0yQ0RYRUVKREtOTzNxd3ZaUXgwaTh3bTdUbmtaa0pROFBJd0x5NFZJYVgwRDdXQXdmMXpaTTFjQVJDNTY4N3BobFNFY2VzVHBUajlaMVVWWTVLTWw3SjVubDZqZ2p3Rno0RzF2T2Y3Y2FXY2VkUG1RV1IxMEEwM05Ba3pjcnFEeEVQbGhMNWdYM0EtTDF1MV9sS3RId3Z6bFp6Q3FNckM2bzRVYy1yVnlNSTJtYnN4YWJu?oc=5",
       "published": "Wed, 02 Sep 2026 10:24:40 GMT"
-    },
-    {
-      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
-      "published": "Wed, 02 Sep 2026 11:14:59 GMT"
     }
   ],
-  "last_updated": "2026-09-02 23:21 UTC"
+  "last_updated": "2026-09-02 23:34 UTC"
 }
