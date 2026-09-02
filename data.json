@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23835.85,
-    "change": -219.95,
-    "pct": -0.91
+    "price": 23844.0,
+    "change": -211.8,
+    "pct": -0.88
   },
   "Bank Nifty": {
-    "price": 57045.6,
-    "change": -364.0,
-    "pct": -0.63
+    "price": 57071.05,
+    "change": -338.55,
+    "pct": -0.59
   },
   "Sensex": {
-    "price": 76207.76,
-    "change": -736.52,
-    "pct": -0.96
+    "price": 76316.39,
+    "change": -627.89,
+    "pct": -0.82
   },
   "India VIX": {
-    "price": 11.88,
-    "change": 0.39,
-    "pct": 3.42
+    "price": 11.96,
+    "change": 0.47,
+    "pct": 4.09
   },
   "Nifty IT": {
-    "price": 31055.5,
-    "change": -441.2,
-    "pct": -1.4
+    "price": 31110.45,
+    "change": -386.25,
+    "pct": -1.23
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,34 +43,44 @@
     "pct": -0.71
   },
   "Nikkei 225": {
-    "price": 64380.64,
-    "change": -1834.7,
-    "pct": -2.77
+    "price": 64228.77,
+    "change": -1986.57,
+    "pct": -3.0
   },
   "Hang Seng": {
-    "price": 25079.6,
-    "change": -250.13,
-    "pct": -0.99
+    "price": 25087.22,
+    "change": -242.51,
+    "pct": -0.96
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 95.47,
+    "change": 0.82,
+    "pct": 0.87
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 90.75,
+    "change": 0.53,
+    "pct": 0.59
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4350.9,
+    "change": 2.9,
+    "pct": 0.07
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 64.28,
+    "change": -0.34,
+    "pct": -0.52
   },
   "USD/INR": {
-    "price": 94.94,
-    "change": -0.17,
-    "pct": -0.18
+    "price": 94.96,
+    "change": -0.15,
+    "pct": -0.16
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 99.78,
+    "change": 0.11,
+    "pct": 0.11
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -79,9 +89,24 @@
   },
   "news": [
     {
+      "title": "Indian shares open lower as widening Iran conflict sends oil higher - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
+      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
+    },
+    {
       "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRDR0bURrdTEtNFFqREpHMW5oWm9fWkVvZDJxRm93d2Z1NFQyZnBDajFYX2huWFJXaVkyQ0hreVpGdlFxaTNiZktqV1prSjYtUG1GUGNzd2lCTzRzeG9NTmo3QUhRSHZKVjhWdDVUNzRyUTdNM05hdUhxRl8teXFsWWZMZTBoZ0lhTy0tRk5EMDVqTzR4WkdyOXUwemtXV3l3enVnRWxWeFNtRThqRnlHc2U2WG9zVkMzRklfUUIxdW90U3B1dDVxdzgwaDZZQ1M5czRndGN2OW40UlZob2drWDlvYWppYW9hZGxyYnNza19Cd2F2TVltelZmZm7SAYICQVVfeXFMTnFoVngwZFFPT1dPSk13c3V6cU9xaXhJLW1uNk1xUGVpeXhxckxfd0ZnY1dMNU9PWU1nTGRmc3FDZlFscFByM1FwSWJ0REszaHNrcDI0ajItZzhGLVcwT1g2TEpCR1BrT0VjV1hEcElLQndWeEVDd29FQnVTbEROeTEybHVBWTlHMWE2eDk3dHh4NUdFMTZIODdGR3ZqajlodDk2NndfbUtCZEpBV2ZNSUxhY2FrbTdHRDNfdk00Zk9jQm90Q1lsS1lFaTBqUmoxSjZwQkR6TkhZYl9JenlET1dYVzcwaE45ZUExckNnUEVGbjRyNUZIcFBQNFQ1ZTd6Z0l3?oc=5",
+      "published": "Wed, 02 Sep 2026 01:38:37 GMT"
+    },
+    {
+      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
+      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
       "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
@@ -94,30 +119,15 @@
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     },
     {
-      "title": "Stock market today: Gift Nifty signals a negative start amid rising yields; 8 stocks to buy on Wednesday, 2 September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdWJheGNaaXY3TFprUlZ1dFJIY0U4QzhFMTBIMVJhOXE5UFpPc0xPNzhVWDAtdnB0QlluNEhUc2lFQWdwN0I1SGZZb0dMS0tFMld6b210MWRYVU5tMU42OXh2LUNBNVpWemNEdjdOc0JuemtNOVFMNVFRTHJsV2Z4R2JIdVd5QjhhaXBXdUxrTXhvY3Awcjd0N19wMTNFVXNLdnRGM0ZXU0t5UWtfTTctWHF2NW1BMTRWcVg2NzZMMVUyYm1ERkZUbjdiUGdxaUYyQkVjYkh3Y2FWdDZoV2VHSHZONUtETktlWVRlMWxvWmw0dHJyY3pzek15WTdYd2FOdWdXWHJrVjlRWURjMGx2LVVB0gGXAkFVX3lxTFBxUm44azJ6NDBUcTVELUZmNG5jYmpxU1U5ZDJleXdOT2lUQ09tQld6LUh4dkh0clJsb0k3TDZmNmtLM2JBOEJnV183anROM3ExSnp2NmFCLVczOEdZR19WV1NaY2o5UDJmT2djUEFSS1pEUHZqYmpKcl9aa3lEek1WZXJZZ1p5cDkxdlo2UkFua2lDWDJteHBiNHNFQTRMQ0lIcXdWdjVudVh4QUt3NzJubGRuekFSYjRpTGxtS1AtRXJPanF2QW56SnhzOE1JSmkxYkVtc0tlbl9LcE1iSXRhcWRVaHpNYWl2cDNvdkhJMTFZVV9qT3RuT1JoTVdKWWZPUUNvNUcyRnNZWEtaZ3JRTFBoVDZqZw?oc=5",
-      "published": "Wed, 02 Sep 2026 01:34:40 GMT"
+      "title": "India Stocks Open Lower as Crude Surge Weighs on Sentiment - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQnFlZHhBV0VYZmVGSDZSRk9NQVQ1b1hpUlVQSXZ0NXVhWU8xZWVkOTNPNWZ0dFpBLWRhRmhsWjBRem1CWXZZdkJIcHFvc3hGMUVFWXRHRHBlMlRRWWgyMjYtXzNlM0NfZm5qVm1BQzhvdXpuampMcVB6REtkNVNWc0dua0NKblRXYUNvaFpibVlLdVcyS0Y0VjFyTlI5MXZtemNpc1JFRXRIZVM3Y1RwVDZpWHQ?oc=5",
+      "published": "Wed, 02 Sep 2026 04:18:45 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On August 31 - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVZxVGQ5RHBiSVJJRVF3OVJCWjg3ZHRVcUxyaUxteEFZRG9jSDR1a0I5eElHR1BwWG1CTnR4WGRtSW5PNFVsV1Z4czN5N0pnWE5IZWxkRGdhVVRpcXJHMDVIU0xraVljZGgwY1Y1UmtCNjBGcVlBUGNsQXQ2VjlpY0lEQnhCV19MbVlUbmV4RWdIRkxncGNYSC16SkdKSlROYVQ2bThEXzVpMElmamVKaHNlUXpTQlJIUEtNeC1wS2h3c2xnankyamN5WjJBSk84Njc1ZnZCVTE0UkQ3bm5DQU0yVWlnUGtWcG15OFVSYU9sYWJQczQzajZNSjnSAYQCQVVfeXFMTWduZEEyVDE4ZWs1d3BpQng2V29TaGJKOGVnWlp5eGFjUFJqZ2FsQWF6RGI0OUtUREhZQUNQamdYZkZWZVZ5ODllczc3QXZvYllRMkd1SkE3T3pCa3dib0F5Ukd0N0VwY2JGSkR6MTdpam82SjNpcm9vQ3dNZWs3Q21OdFNsQWp4TURNSHZoUldGaG9CSDFZZHlJX1lmeXpRZWQ5c3BGTTVzSEVWS2JzUVZZQVVLQ1dIcDdhX25aczRXUDZTSVdMaEY3SWxBVU9iTWd2Umw4LTdwaWxWT2xqN0NaZ2VySHplRHV2OUlIWTFFOTlGQnJUVDdFcDJjNWdXN21sc1c?oc=5",
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
-    },
-    {
-      "title": "FII inflows into Indian equities hit two-year high of \u20b929,631 cr in August - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUy1IcjZXMzRzc3JCZkhMaE5reUlaZ19uZkM2R1dreGhqUlRuUElOX3ZTUVZYUEItVjEzQWl1bG9rRG9HQTJkTng0V0s4b1dVSThHY1kzbjduQXRScDBtLU55MEk0dGZ5TlJSUFduMFNWNllVS0w3N3ZkNE16dVVjRnM3blZYeGJfc05ySVRQU19neUxHOHVOcFlvNU1TMkF4c0pPWl9zSUFuX0o2VWw3R2lLOXlWZ0FmSGphMm1IV0JUdlJw0gHLAUFVX3lxTFA1MERHNUcwUHVGWGlTVnNGeF9nejZQNjRwMndsQUMxQ29nWjh5LVJHcjdsZEtZZGN3ZS15a0dxTjlzdS1yZVMtTEJGTzREQm5ZY25LY3ExUjBNUmM0OEJmcVQ4UTdXTkQ4RUhsNFJsQzN0SWdicmVIb2piNGJ0dFNsdk1qOG5WbjBaUUhpVFNOcGtDVFMxU0pVeTZ5UkVQX1Vmd0ROMXJQQlZTTlNJYnQ5ekY3TnhKalFTbDlwamN6LUc4RXNKRXJ3V21B?oc=5",
-      "published": "Mon, 31 Aug 2026 15:11:32 GMT"
-    },
-    {
-      "title": "India\u2019s Capital-Market Advantage in a Changing World - internationalbanker.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUJMcGlXTC1zekZZSkVKV1lFRllJTk9pNlZHUndmVW13dmx2WEdrYmJEOTBVRVJ4bjdMUGthMS1odldZOU1ETzlMekFCQzM0YmwzWldMc1QwNGlHWUJWazBFWk5OVGtUSnZKb2pHU2Z6STJYeGdHQVZWRlF4QzhwaEpsRE5TQ1RxUGhnaXVZd2dzYzVVbzFn?oc=5",
-      "published": "Mon, 31 Aug 2026 06:00:21 GMT"
-    },
-    {
-      "title": "Market Wrap: Sensex Slips, Nifty Holds 24,050: Top Market Triggers & Stock Highlights Today - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzdYVC0tQnA4V3c5M3Z4ODItUkpxZVBzY09FMzgxQWhlY0ZZOXBuVVhUal9xclB3R2p5T1Q3NXBIN0lSTWJWRTNpQjY3YURmMUp5Q3RDaWFpUldpaTJHazctM3NUaEVQTXRPVnBIUnF3c212V0FJUFZPaDFhZVVzVU44ZktiOGdTd2owYnBUQVdUVldfMkk3WDdPdDlXd0dkVWg0N1N3Y21HWjJtQUpEZ0gyNA?oc=5",
-      "published": "Tue, 01 Sep 2026 15:46:00 GMT"
     }
   ],
-  "last_updated": "2026-09-02 04:06 UTC"
+  "last_updated": "2026-09-02 04:26 UTC"
 }
