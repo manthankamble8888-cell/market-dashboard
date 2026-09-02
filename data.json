@@ -39,27 +39,29 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.23,
-    "change": 4.74,
-    "pct": 5.24
+    "price": 95.3,
+    "change": 4.81,
+    "pct": 5.32
   },
   "Crude Oil (WTI)": {
-    "price": 90.78,
-    "change": 5.02,
-    "pct": 5.85
+    "price": 90.86,
+    "change": 5.1,
+    "pct": 5.95
   },
   "Gold": {
-    "price": 4374.5,
-    "change": -56.6,
-    "pct": -1.28
+    "price": 4377.8,
+    "change": -53.3,
+    "pct": -1.2
   },
   "Silver": {
-    "price": 64.71,
-    "change": -1.51,
-    "pct": -2.28
+    "price": 64.85,
+    "change": -1.37,
+    "pct": -2.07
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 94.94,
+    "change": -0.17,
+    "pct": -0.18
   },
   "Dollar Index": {
     "price": 99.68,
@@ -73,22 +75,22 @@
   },
   "news": [
     {
-      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
     },
     {
-      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
-      "published": "Wed, 19 Aug 2026 07:00:00 GMT"
+      "title": "Milky Mist Q1 Results | Leap India Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQMm5TdTlnMkpIWTVhSmZwNEFfYzFfWHVmaXAwOVhmUGxzcXNTaGU5ZTFybXBETGtxLXdKTk1FN0QyS1Z0MmlYTVJ2dTFna09XN08xdHVRSGlqRGtQd3BuTmNjUmlfMVhpVVJOTW5HNDI0TE9FM2RKRVZVODRhZ203MzJSQ2JDUUNqV0VZZnZtRUE0Ul9saUdtYXE0VHVDVVIxdjhnMXN1cTV3M1hkd1FhcjhheWxfRzc0eE9DNmQ2cVRzVTZBUWhWekZuTDdZWVZTZHNKTEVhR3hLcmFkUXloT204bGpBbFBmNHc2UmItQ1BKYTl5WWxjcGFxU0lrLXg0a3ZTSHR6TWlLZWd1cjV5TkN2eXlmTk1sV0NCVzJKUXBIcTEwaU1UcDZNRThpWlU?oc=5",
+      "published": "Wed, 02 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Tue, 01 Sep 2026 13:25:24 GMT"
     },
     {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
     },
@@ -113,5 +115,5 @@
       "published": "Mon, 31 Aug 2026 01:35:19 GMT"
     }
   ],
-  "last_updated": "2026-09-02 00:09 UTC"
+  "last_updated": "2026-09-02 00:33 UTC"
 }
