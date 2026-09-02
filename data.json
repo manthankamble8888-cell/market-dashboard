@@ -53,24 +53,24 @@
     "pct": -0.07
   },
   "Crude Oil (Brent)": {
-    "price": 94.8,
-    "change": 0.15,
-    "pct": 0.16
+    "price": 94.95,
+    "change": 0.3,
+    "pct": 0.32
   },
   "Crude Oil (WTI)": {
-    "price": 90.14,
-    "change": -0.08,
-    "pct": -0.09
+    "price": 90.27,
+    "change": 0.05,
+    "pct": 0.06
   },
   "Gold": {
-    "price": 4354.4,
-    "change": 6.4,
-    "pct": 0.15
+    "price": 4358.3,
+    "change": 10.3,
+    "pct": 0.24
   },
   "Silver": {
-    "price": 64.32,
-    "change": -0.29,
-    "pct": -0.45
+    "price": 64.38,
+    "change": -0.24,
+    "pct": -0.38
   },
   "USD/INR": {
     "price": 94.96,
@@ -88,6 +88,11 @@
     "pct": 0.8
   },
   "news": [
+    {
+      "title": "Indian shares decline as oil prices surge on US-Iran strikes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
+      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
+    },
     {
       "title": "Indian Stock Market Opens in Red Today - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
@@ -114,20 +119,15 @@
       "published": "Wed, 02 Sep 2026 02:27:00 GMT"
     },
     {
-      "title": "Sensex Today Tanks 629 Points | Nifty Below 23,850 | Eternal & Bharat Elec Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNNEhjMzdHS0RnNWozNmhNTE1qbjdjUHBQcmp0RUFSS19MS05XbkRnUHl3aUNrZGp3WTBLN2xNdDNZOWcyaDA1aC1uYjJBQWQtUFlYV3VmU2x3Q09HQ3FnSjFQNGFRd21XdUtscWRMeTdRaDFtUXEyUS1LRzV1NEJac0RjcUlrcjhSUlllRUxyQl9qWUt6R1VFMGF4dFprR2xPanh5SFdOMTJRUjZYYUdmWlRVdThkQXhld3lxWExMLVJUbkM5WnhlM2FVaUlrM2VEaWtPRi05Z25GaVVxa19JeGZxbUhYcUlsZ0o4eUxhM0hpalN2M3dTN2czV2dBSWc4VlpWRjFXZ1c5bjVxSTY3TWYzbUViZ0tFaXNaTVRINk9KM1ZxbDRnaVYtQjRua3ZWaERhUWZmTFY5b1FjeU5wWWNoTVlGYW9EU2dVbERxczAxQ0Z4b21F?oc=5",
-      "published": "Wed, 02 Sep 2026 04:55:27 GMT"
+      "title": "Sensex Today Ends 374 Points Lower | Nifty Below 24,000 | HDFC Bank & HCL Tech Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON25iWDhzcUhkYVN2c19iVnFDUFRsRENXamxCVzBycEpybmRKdkJIX0Njb1JnVEtpU0JfZ0hIMjl3V0dhTEtldlRWdDFEcFVJZDU3OVZlNThDa0tCRFk3d2tGWXpIRVZIYmRPX2tpWlJ0b2R4QXBtRU5pakFIYkF4ZVVvZzJvcDBJWkZSR2tnaEwyc1RTTHNlOFdJU2N5SHBQbHZsMmpkTkdDaC1ycm51dG5Jamd4SHhqYzZveVlhMVY0YlhIZk42SzZydEpZZlNQdWxGcE92encyVTdI?oc=5",
+      "published": "Wed, 02 Sep 2026 10:24:40 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty Sink on US-Iran Crisis - Rediff",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNGxKUzhBUS1iZ3dzYVpjOVR2ajRmLTVrZXR5UDNjQXVZMDltcG1uZWFfbXpMS05oUzJGY052RWJEQ21BemV0WkVHbEVZN1l3V0VhZ2Jlb3RTakdKUk0waGdDNm10Y0FPcldVdWVSTnlvblBoN3pNSG5ibUVHamJlSkt6NlQxVk83WkpoWlJUel9ncExDSTZMX0FWXzQtSjNnbEFld3dKRGRYY3VQNG5hQzZKdk5qZEZleVBCYmNLX1JtQ1ctVlNyTjRETVotYnFj?oc=5",
       "published": "Wed, 02 Sep 2026 04:54:36 GMT"
-    },
-    {
-      "title": "Indian Stock Market Ends Third Weekly Fall as Nifty IT Rallies 3.5%, Nifty Slips 0.3% - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9sRE9uak9XM1lIaE84bzBRcmdFVG5BeEVnNERkTW5ZQWZxUFY3VmlsZTNVWTBQY1VkMGVwbGxoa3JoT2MzeXFuLXJiZE93czgzVXJXOVM3MVQxM1hsQ3Y3TzZaZnBTandMdHJnNnV3RHlfcXNmOUd4TXdfdDY5Uk9HYjdDSW9DRVRfZTJ1R3Z3VlpoOU9vYm5mOFVUbW0zeTJ3UEQ2dWdEbFU5TlpUQXhpOFF1bjF6MGlvUjJn?oc=5",
-      "published": "Sat, 29 Aug 2026 06:19:28 GMT"
     }
   ],
-  "last_updated": "2026-09-02 10:26 UTC"
+  "last_updated": "2026-09-02 10:38 UTC"
 }
