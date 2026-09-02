@@ -28,8 +28,8 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52766.88,
-    "change": -419.02,
+    "price": 52766.9,
+    "change": -419.0,
     "pct": -0.79
   },
   "Nasdaq": {
@@ -48,29 +48,29 @@
     "pct": -2.63
   },
   "Hang Seng": {
-    "price": 25051.2,
-    "change": -278.53,
-    "pct": -1.1
+    "price": 25045.42,
+    "change": -284.31,
+    "pct": -1.12
   },
   "Crude Oil (Brent)": {
-    "price": 95.59,
-    "change": 5.1,
-    "pct": 5.64
+    "price": 95.47,
+    "change": 4.98,
+    "pct": 5.5
   },
   "Crude Oil (WTI)": {
-    "price": 90.86,
-    "change": 5.1,
-    "pct": 5.95
+    "price": 90.77,
+    "change": 5.01,
+    "pct": 5.84
   },
   "Gold": {
-    "price": 4351.6,
-    "change": -79.5,
-    "pct": -1.79
+    "price": 4347.2,
+    "change": -83.9,
+    "pct": -1.89
   },
   "Silver": {
-    "price": 64.25,
-    "change": -1.97,
-    "pct": -2.98
+    "price": 64.32,
+    "change": -1.9,
+    "pct": -2.86
   },
   "USD/INR": {
     "price": 94.94,
@@ -78,8 +78,8 @@
     "pct": -0.18
   },
   "Dollar Index": {
-    "price": 99.75,
-    "change": 0.32,
+    "price": 99.76,
+    "change": 0.33,
     "pct": 0.33
   },
   "US 10Y Yield": {
@@ -104,6 +104,11 @@
       "published": "Wed, 19 Aug 2026 07:00:00 GMT"
     },
     {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Tue, 01 Sep 2026 13:25:24 GMT"
+    },
+    {
       "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
       "published": "Tue, 01 Sep 2026 08:29:55 GMT"
@@ -122,12 +127,7 @@
       "title": "Top stocks to buy or sell today: Stock market recommendations for September 1, 2026 - check list - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQa0tIUERYLWFyYU1EbUFZYkgzRFdyT1h5XzNNbWRzSzhmUHJITlhFaHBuRFBVdGZsT0tGWElROTRtcnVZR3p5YlhhbUU2VktpUGIwTkprYmxUdlF2NVFyT3ZXWHZOWEgtSVQ3cHRaa0kzSE1qa0NCYTJKT0U3MEd6ODZUNzhKZTJYNTR1ZjFhZThZa3hzVVlwdnJZOS15XzZwcWVjMEFZX01ZYTJUeTRual9MaXFWYTUyeXlnYkVTeGlyNmd1bzZvaXZabWF6YWh6S1BZRVYwQWZfSlc3RDFHOU1CNFNuUk83MjVVTzlRdzdTdjdBOHFubEcyNTZtUmhSeTVSTjFFWTBJZE9zLTdScExzQkU1UWlLVDhoczk3VGhHOEVtN1VWR2FyUDRUYk1DdWZzMlo5eVpnRTR4QWd3TU9abng1T1BlOXpMWENob244by1Tbl9iYmF1cHN2QdIB4wJBVV95cUxQQVBSbm5hcmtQNmtTZVJfNlc5eTZkcXJUMlMyWkF1YzRmZTlqN1N3Zlh6eFE2VWMxRERfZkV0TnhIeFdWSGp0d1pFUWhOekhscnNLZmpXSTdqWVhoY180Wm5vSmw2QTNvZkROVVpXeXNDa2tMZ1JPRm9vbHFkMUJLWGZJQlR0VXUzRXc5V29jOERLcklqelZqZTFlZVA2bG5XbXZaV19xaDE5WEZQY3dFQnd2RjQ5ckFaVTVNcEFRTnU0YloycnNCWWQyX1BVSlFFX083d0ZDNy1wbXJ2YjJLeHNPdTA0T2s3SXBWUlBZNTNEaHNYV0c2YVNKY3lFc1VJbmRnRER1dmpMajdSWmd1cmh2cFJ2MFNiVl83b2FpYl9aQ2pwbzRlR09qRHRnaHJ5TXZYYTlIb3JVUEhJZXhhMUtrVkdrWVJFQ1pPTUpUTnQwMWRtNmZMYmFDak10Q0g0NmQ0?oc=5",
       "published": "Tue, 01 Sep 2026 03:21:00 GMT"
-    },
-    {
-      "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Wednesday | Kospi, Taiwan Index, Nikkei cues to watch - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQl8wVmxpQjRvM1VoMVQ0QzZqck16dG9PUTFPV2tGSVNvQ0JsMTh1V010VUo5a3lSRWIyaXZiYXNsZXVuZXhNUmlwNU5MbXZybkZ4MUlJR05PLVpZRjBsUFViOEdhcVJfOGhNQ2ZsUjlSV1k3ZUJaaTgtc1paeTRxWU9BeGl5TG1RekJqOWdsU1JyXy1Ub1Y4YmJpbWkyVC1GR01JNTlTaWlsZzBmcEtxNWNmOFBDTld0ZVBFeE1xdEk5ZzVIeGw3V0lCLWVQX1JCUVhtM3drTzF0c3N3djcxT013WUN5Ukp6VVdCaFBjdzUwZ9IB9wFBVV95cUxOV2x4Y1pJdFAzLUN0dDVzay02NEduenhoT0hSbjY1OXRYdEZwa05iVE5nWE5YUTAzNXdQaDc1WVZtQjlyUXJxbTNZRTZXOTJWQ1ZaRGdrWEhRbHFidVFTT25hRjRZbndEa2pLbWdzbFZVSUwwNWVZb09jLUt5OWhFVVRnSzJuYjZhcWVuSDZjZ3JmM1RiWUR3OHFpN201c3I2LTNBcDRSdm5GLVVyMzV1WkdPVjFVOGtmZGJVcENEYThXaE9JSnVVZFVOTldtWmpIUjV3cWZTOTBOdXJMTVpMcV9IMkF0N0hrZHJoTjh5ZWNwNGlMWXQw?oc=5",
-      "published": "Tue, 01 Sep 2026 11:22:02 GMT"
     }
   ],
-  "last_updated": "2026-09-02 03:05 UTC"
+  "last_updated": "2026-09-02 03:23 UTC"
 }
