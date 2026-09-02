@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23882.05,
-    "change": -173.75,
-    "pct": -0.72
+    "price": 23855.25,
+    "change": -200.55,
+    "pct": -0.83
   },
   "Bank Nifty": {
-    "price": 57075.85,
-    "change": -333.75,
-    "pct": -0.58
+    "price": 57035.15,
+    "change": -374.45,
+    "pct": -0.65
   },
   "Sensex": {
-    "price": 76537.63,
-    "change": -406.65,
-    "pct": -0.53
+    "price": 76475.66,
+    "change": -468.62,
+    "pct": -0.61
   },
   "India VIX": {
-    "price": 11.62,
-    "change": 0.13,
-    "pct": 1.13
+    "price": 11.65,
+    "change": 0.16,
+    "pct": 1.37
   },
   "Nifty IT": {
-    "price": 30995.45,
-    "change": -501.25,
-    "pct": -1.59
+    "price": 30934.45,
+    "change": -562.25,
+    "pct": -1.79
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,24 +53,24 @@
     "pct": -0.07
   },
   "Crude Oil (Brent)": {
-    "price": 95.0,
-    "change": 0.35,
-    "pct": 0.37
+    "price": 95.14,
+    "change": 0.49,
+    "pct": 0.52
   },
   "Crude Oil (WTI)": {
-    "price": 90.44,
-    "change": 0.22,
-    "pct": 0.24
+    "price": 90.61,
+    "change": 0.39,
+    "pct": 0.43
   },
   "Gold": {
-    "price": 4360.9,
-    "change": 12.9,
-    "pct": 0.3
+    "price": 4352.9,
+    "change": 4.9,
+    "pct": 0.11
   },
   "Silver": {
-    "price": 64.42,
-    "change": -0.2,
-    "pct": -0.31
+    "price": 64.24,
+    "change": -0.38,
+    "pct": -0.58
   },
   "USD/INR": {
     "price": 94.96,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.79,
-    "change": 0.12,
-    "pct": 0.12
+    "price": 99.8,
+    "change": 0.13,
+    "pct": 0.13
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -97,6 +97,11 @@
       "title": "Indian Stock Market Opens in Red Today - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
       "published": "Tue, 01 Sep 2026 07:13:53 GMT"
+    },
+    {
+      "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
+      "published": "Wed, 02 Sep 2026 03:58:06 GMT"
     },
     {
       "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 2 September - livemint.com",
@@ -119,15 +124,10 @@
       "published": "Wed, 02 Sep 2026 04:54:36 GMT"
     },
     {
-      "title": "India's stock market getting smarter: This Indian startup plans to put market intelligence in traders' hands - India.com",
+      "title": "India's stock market getting smarter: This Indian startup plans to put market intelligence in traders' hands - india.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN3JscThwUjZwVndvTVdTWFRBalJqOVotQ2NfNnF1SUF4dFBYXzVUNE41LTllYzZrSXVCemhwb1FKZDg2Z2UyTlJqNmJXcTVGV1NHYjI1ckVTaGZoR25SeUhBMUs1UWNTZ1FaRV9vWG5NNHJNVlpGbWpPUDl6a0F2a1ZDRXY1aE5DaDlKVFJZb2dnUnpVWGh0WHo4cFdyRmh1bXNmSWVfakEzM09pamFuR21BR0o3ZGFxZkNlM2xnX2Yyc1EzRGx2NUI5UTlrQklHUU5Ba1NrTlVGZ0VxWGfSAeMBQVVfeXFMT3luLUdVVVBDbjRRdWlNOXF2ZTZKU1BLTlFwbmlKRHFha0hmWC1sOWttdC1jUkJkRWRra1A5bzhWSTJPRDdGaVVacjZsc0d5VU8zc2lYQmQ0cTRuTzRUVUd5LWlBWEhrREo0em9TOFRROFdXTlRQazdONnI1WV9OYTA5bDhYa2dfaVppRU54bFhrWlJSWW55MmpqNTNQa0J3dFRaSksyY1RoZ05MX0ZVS2pPYUkwNzJxei1QeUNUa3R0M2hMT2wzdTYxWWxVTlE5U3lQTnExVDJzNEw0dUp1ZFpoNjg?oc=5",
       "published": "Wed, 02 Sep 2026 04:58:35 GMT"
-    },
-    {
-      "title": "FII inflows into Indian equities hit two-year high of \u20b929,631 cr in August - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUy1IcjZXMzRzc3JCZkhMaE5reUlaZ19uZkM2R1dreGhqUlRuUElOX3ZTUVZYUEItVjEzQWl1bG9rRG9HQTJkTng0V0s4b1dVSThHY1kzbjduQXRScDBtLU55MEk0dGZ5TlJSUFduMFNWNllVS0w3N3ZkNE16dVVjRnM3blZYeGJfc05ySVRQU19neUxHOHVOcFlvNU1TMkF4c0pPWl9zSUFuX0o2VWw3R2lLOXlWZ0FmSGphMm1IV0JUdlJw0gHLAUFVX3lxTFA1MERHNUcwUHVGWGlTVnNGeF9nejZQNjRwMndsQUMxQ29nWjh5LVJHcjdsZEtZZGN3ZS15a0dxTjlzdS1yZVMtTEJGTzREQm5ZY25LY3ExUjBNUmM0OEJmcVQ4UTdXTkQ4RUhsNFJsQzN0SWdicmVIb2piNGJ0dFNsdk1qOG5WbjBaUUhpVFNOcGtDVFMxU0pVeTZ5UkVQX1Vmd0ROMXJQQlZTTlNJYnQ5ekY3TnhKalFTbDlwamN6LUc4RXNKRXJ3V21B?oc=5",
-      "published": "Mon, 31 Aug 2026 15:11:32 GMT"
     }
   ],
-  "last_updated": "2026-09-02 09:25 UTC"
+  "last_updated": "2026-09-02 09:38 UTC"
 }
