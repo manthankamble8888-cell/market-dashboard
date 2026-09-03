@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53681.21,
-    "change": 619.26,
-    "pct": 1.17
+    "price": 53659.58,
+    "change": 597.63,
+    "pct": 1.13
   },
   "Nasdaq": {
-    "price": 26581.98,
-    "change": 364.15,
-    "pct": 1.39
+    "price": 26575.89,
+    "change": 358.06,
+    "pct": 1.37
   },
   "S&P 500": {
-    "price": 7745.48,
-    "change": 78.88,
-    "pct": 1.03
+    "price": 7744.5,
+    "change": 77.9,
+    "pct": 1.02
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.63,
-    "change": 0.0,
-    "pct": 0.0
+    "price": 95.54,
+    "change": -0.09,
+    "pct": -0.09
   },
   "Crude Oil (WTI)": {
-    "price": 91.56,
-    "change": 0.55,
-    "pct": 0.6
+    "price": 91.33,
+    "change": 0.32,
+    "pct": 0.35
   },
   "Gold": {
-    "price": 4535.9,
-    "change": 169.6,
-    "pct": 3.88
+    "price": 4535.4,
+    "change": 169.1,
+    "pct": 3.87
   },
   "Silver": {
-    "price": 67.67,
-    "change": 2.94,
-    "pct": 4.55
+    "price": 67.64,
+    "change": 2.92,
+    "pct": 4.51
   },
   "USD/INR": {
     "price": 94.47,
@@ -74,56 +74,15 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.87,
-    "change": -0.69,
-    "pct": -0.7
+    "price": 98.84,
+    "change": -0.72,
+    "pct": -0.72
   },
   "US 10Y Yield": {
     "price": 4.75,
     "change": -0.05,
     "pct": -0.96
   },
-  "news": [
-    {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
-    },
-    {
-      "title": "Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGdPMkprNnlfZnZuVk5KYkYzMXliMVk4STEtSkV1ZlBaa1hKRlpQUWlFTFNEUE1zVGx1NTJKQ284d00xZ1JCQlVvdGJlT0VsV2dYUUhXOHlMTV9HOGJRZEZTOW9tbW9kTk5LRnFCSmZHRXU5R1NKdWc5U2YyLVBSWkp3QVpNRk9lZXE1Mi1qeS1hU0JRVVZVd0hkQ05tRXZ4emdrTnlIeGxBRUhMMnBkczdoUUswNUdJMDVyeWQ3R2dRU2dnU2Z3YzhnQkVteEozS2FncFh4VXRVN2ctQS1LelM2SkNGUjJobTBLN1BZLTBPRTFJc2wyUm8wUWNPY2PSAYQCQVVfeXFMUGRtLUZzclVBSFhRTkV2ZkVFbGlzNFRYbV85YVpKcWU0V0g1SWNxT09VODBIZ3MzWmJhVkdQRTh0WmNHSzFFTF9DNDB2UjFpOVlJVU9RaG52ZjhKSm5meUFaand2U3hoMERsZ1ItSzFBMjNSazN2dTMxWlF0Znd0Q29jNlhYRmxhdmJVaHRmOXBobXNOdFFGY0xWMXNYd2ZXVG1oYVhXOGFMTjRxWUdjeWZ3QU1MRmF2OHRTczZvb19zXzh5X2RCb241ckJtM3FyQ09TTmZ5dnJ5WXNHTzBlNE9iUENfTExzOHZ4aWRWcU54ZGY5SE43RzNsMFVLZ0RLc0E5OWw?oc=5",
-      "published": "Thu, 03 Sep 2026 10:16:47 GMT"
-    },
-    {
-      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
-      "published": "Thu, 03 Sep 2026 15:59:00 GMT"
-    },
-    {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
-    },
-    {
-      "title": "Gift Nifty Live Today: Nifty Sensex likely to open Positive signals Gift Nifty - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2MzU0NHNVRTSHZadFRnYlA5TG5tbzdwSW9ISDV3MFVONVdxVEUwVEJSdlhhVk5pdFdEanpwaklyMkpndVZsRmE2N1F2RlpQX05KNnRIeVFrMWszNDZWai1LbFA3ellDMjMzWmNoVS1oNzJQd1oyYWkxNEk1UGlFcGpkbHI5Q1lJR1pBYk5XcXQ0UlRmN0pFckRTbkpvMFBGT2g1MklKSTR0NFFjY0NEWXZUeUpzSmk2YU9hMw?oc=5",
-      "published": "Thu, 03 Sep 2026 03:02:44 GMT"
-    },
-    {
-      "title": "India's market regulator to review derivatives settlement methodology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkdiZlZOdmk4ajBZQVVkckgxa3V5WlFHM3JWODBNVXB5dXl6Y3I0MUxYRnA0Um41dFFpa19XdmFhZ1JJM0pqck9uY1o0RHVJRlNNZm5BQnUyMS1Gby1ya1F5dG5lQ2E3VzB0dDB2TDhTYlZQUVJEMlFMbmhlY2lLY1F1MEVEU2tabWdmZmJEdWliQ2JMYTVqT1ZGbDdUN3BzekFzRF8zbmdINUloRkxmZ1F4Yw?oc=5",
-      "published": "Thu, 03 Sep 2026 16:15:49 GMT"
-    },
-    {
-      "title": "Stock Market Today: Gift Nifty, Nasdaq To Gold Rates \u2014 Five Key Factors That May Drive Sensex, Nifty 50 on September 3 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeTQxcF9KVW5zc3djV3dpdklXSk5nOWhWNXNOWVpzbTQ5a3QwUDZfT05sazQ0dHo0WTBWZm9rX1J1dERxcGY0M2pqaXVJc3RaYUF5VWdwUG5BeG40cll2Zkx3ODcweVZzbXUzN0FvbnNSa3E4ME1IOHhSX0xUOEZrbnpsMG9OS3g5VVRFeEZPWUFod2YyNkxMVmppN2c4dTIybVhoLXdKTi1KVWd2aG1iczJER0FING83LU9acDh6UWRtSUYyT0o1czFGNS1tWUwxbGlnWm5Fb1pDejRLcHZHSUxoUHVRNUNSR0JOX9IB9AFBVV95cUxNSlM2eGN4VnJ0X2F6dHRZb2tjckkyRjNZMGdDeGVKV1F4LXBTbThJc25GaEliNlItRFN2Vkx3MHJ2OXhZVjNYQUpQUTF2bUtuakYzbkU1cGNUUXFfaEd2QkZtQVozTF96TkZ5YUc1QWlzR1lBY2NTX1VXeGU3bVotWXRWWGdxQ2t0cVhEOGZfWGNKdS0tel9YdjZHd3JFSnJQZDF6Q1RNVjRQc2NqWU93NmVHNXpUQVJqWXJOUENmOVR4YUlyM1dZbC1aMmZTNTJIRXdxNGpsczhBZTYzWks5Y0x3dGJXOGMyQ0h4eF9PQTN1R0xt?oc=5",
-      "published": "Thu, 03 Sep 2026 01:21:25 GMT"
-    },
-    {
-      "title": "Sensex Today | Stock Market Live: Sensex, Nifty erase all gains, turn flat; smallcaps jump over 1% - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU1pwZlF4ekszbW9wWmNrZXV5VEdIV3dDNGM2OE8ycS1jUlZXc0tHeV92eHpmand6QkVWODJreTlrUk8zTWM5bW9Ic0pTYk8zUmd3NzVuTWw1N0ktUlVfQkYzLXRpOVRJOVI3TkZnUXlZa1VfOHNDaEJrTkxHZ0RkbWZuVjZJVmE5RUtSRmhueXRWN2RONjl4STNCa0dvSWt4OGwwTm5VWlkwRFh6aWN6TWtkcWNsSXJmTEVheW45ekRtajk1b1E?oc=5",
-      "published": "Thu, 03 Sep 2026 10:57:52 GMT"
-    }
-  ],
-  "last_updated": "2026-09-03 16:52 UTC"
+  "news": [],
+  "last_updated": "2026-09-03 17:06 UTC"
 }
