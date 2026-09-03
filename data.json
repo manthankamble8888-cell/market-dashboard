@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.86,
-    "change": 0.23,
-    "pct": 0.24
+    "price": 95.82,
+    "change": 0.19,
+    "pct": 0.2
   },
   "Crude Oil (WTI)": {
-    "price": 91.69,
-    "change": 0.68,
-    "pct": 0.75
+    "price": 91.67,
+    "change": 0.66,
+    "pct": 0.73
   },
   "Gold": {
-    "price": 4520.7,
-    "change": 154.4,
-    "pct": 3.54
+    "price": 4520.3,
+    "change": 154.0,
+    "pct": 3.53
   },
   "Silver": {
-    "price": 67.6,
-    "change": 2.88,
-    "pct": 4.45
+    "price": 67.58,
+    "change": 2.86,
+    "pct": 4.42
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,9 +64,9 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.99,
-    "change": -0.57,
-    "pct": -0.57
+    "price": 98.98,
+    "change": -0.58,
+    "pct": -0.58
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -74,11 +74,6 @@
     "pct": -0.71
   },
   "news": [
-    {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Thu, 03 Sep 2026 18:52:43 GMT"
-    },
     {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
@@ -100,7 +95,7 @@
       "published": "Thu, 03 Sep 2026 12:50:59 GMT"
     },
     {
-      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - Equitymaster",
+      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFZzQS15Zl9WYWhMU1h3eloteGczRTFpMVlOWTc0NzBfWGRtbUVxTFN3UTNiaTI0d3JGN25JUzRCdGdBdW1PNUpHU3NldXBoZG1rek5seVJyc042bXhVenA4SHpDdmFpcE5pRTdPMVBzU0dOWHVJa3BEN2VRYWlkWDNBaDJCb1B2bG9OM1hjWDhST2VBX2VYVU5YblFYQmotOU5GcVRqUzdJck1ldGdVR01nRTZkMWh3V2VXX1NUZGQzLW1pOHJsTG02RQ?oc=5",
       "published": "Thu, 03 Sep 2026 11:08:22 GMT"
     },
@@ -110,10 +105,15 @@
       "published": "Wed, 02 Sep 2026 10:13:32 GMT"
     },
     {
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
+      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
+    },
+    {
       "title": "Nifty, Sensex Today: Markets End Lower as Expiry Volatility Offsets Banking Rally; Sensex Falls 417 Points - India Infoline",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTlROalIzcVB6R3lfaTJxd0FVYk03U0dZTk5PVkVOS2N2eVN1aUJoLS1vTHUtaWJ3MHBPNWNveUNvUDhVUXVjakc4M0E1STZ6TS1CRlZrdkNvdDZHZ2VNS21JUjYzZGljZFJCdGxHWkZSZVJyWlpxU1p5N1ppakNnRDVHNXFvbXBuZ054N0xJdDY4U29mdmppT0lmRlhfNlR5emdOLVp5MlE2YXdhQWJxdWN0NzB6ckhDY0FMQzQxb3luTklZaTY1RW5iZ05fQ1JOQTZBYWFsSTBuZTFOcnVZ?oc=5",
       "published": "Thu, 03 Sep 2026 13:07:30 GMT"
     }
   ],
-  "last_updated": "2026-09-03 21:06 UTC"
+  "last_updated": "2026-09-03 21:23 UTC"
 }
