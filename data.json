@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53513.56,
-    "change": 451.61,
-    "pct": 0.85
+    "price": 53337.29,
+    "change": 275.34,
+    "pct": 0.52
   },
   "Nasdaq": {
-    "price": 26458.9,
-    "change": 241.07,
-    "pct": 0.92
+    "price": 26395.22,
+    "change": 177.39,
+    "pct": 0.68
   },
   "S&P 500": {
-    "price": 7714.58,
-    "change": 47.98,
-    "pct": 0.63
+    "price": 7698.42,
+    "change": 31.82,
+    "pct": 0.42
   },
   "Nikkei 225": {
     "price": 64214.48,
@@ -53,24 +53,24 @@
     "pct": -0.39
   },
   "Crude Oil (Brent)": {
-    "price": 96.13,
-    "change": 0.5,
-    "pct": 0.52
+    "price": 96.21,
+    "change": 0.58,
+    "pct": 0.61
   },
   "Crude Oil (WTI)": {
-    "price": 91.85,
-    "change": 0.84,
-    "pct": 0.92
+    "price": 91.81,
+    "change": 0.8,
+    "pct": 0.88
   },
   "Gold": {
-    "price": 4518.5,
-    "change": 152.2,
-    "pct": 3.49
+    "price": 4514.0,
+    "change": 147.7,
+    "pct": 3.38
   },
   "Silver": {
-    "price": 66.82,
-    "change": 2.09,
-    "pct": 3.23
+    "price": 66.97,
+    "change": 2.25,
+    "pct": 3.48
   },
   "USD/INR": {
     "price": 94.47,
@@ -78,15 +78,15 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 99.06,
-    "change": -0.5,
-    "pct": -0.51
+    "price": 99.0,
+    "change": -0.56,
+    "pct": -0.57
   },
   "US 10Y Yield": {
     "price": 4.75,
-    "change": -0.05,
-    "pct": -1.0
+    "change": -0.04,
+    "pct": -0.92
   },
   "news": [],
-  "last_updated": "2026-09-03 13:51 UTC"
+  "last_updated": "2026-09-03 14:06 UTC"
 }
