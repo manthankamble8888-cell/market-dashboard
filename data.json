@@ -1,27 +1,27 @@
 {
   "Nifty 50": {
-    "price": 23927.0,
-    "change": 12.55,
-    "pct": 0.05
+    "price": 23927.7,
+    "change": 13.25,
+    "pct": 0.06
   },
   "Bank Nifty": {
-    "price": 57545.1,
-    "change": 373.1,
-    "pct": 0.65
+    "price": 57572.7,
+    "change": 400.7,
+    "pct": 0.7
   },
   "Sensex": {
-    "price": 76654.46,
-    "change": 84.11,
-    "pct": 0.11
+    "price": 76667.47,
+    "change": 97.12,
+    "pct": 0.13
   },
   "India VIX": {
-    "price": 11.27,
-    "change": -0.32,
-    "pct": -2.72
+    "price": 11.18,
+    "change": -0.41,
+    "pct": -3.58
   },
   "Nifty IT": {
-    "price": 30854.95,
-    "change": -247.95,
+    "price": 30854.65,
+    "change": -248.25,
     "pct": -0.8
   },
   "Nifty Midcap": {
@@ -48,39 +48,39 @@
     "pct": -0.17
   },
   "Hang Seng": {
-    "price": 25180.62,
-    "change": -130.59,
-    "pct": -0.52
+    "price": 25162.71,
+    "change": -148.5,
+    "pct": -0.59
   },
   "Crude Oil (Brent)": {
-    "price": 94.88,
-    "change": -0.75,
-    "pct": -0.78
+    "price": 95.02,
+    "change": -0.61,
+    "pct": -0.64
   },
   "Crude Oil (WTI)": {
-    "price": 90.33,
-    "change": -0.68,
-    "pct": -0.75
+    "price": 90.43,
+    "change": -0.58,
+    "pct": -0.64
   },
   "Gold": {
-    "price": 4475.7,
-    "change": 109.4,
-    "pct": 2.51
+    "price": 4474.9,
+    "change": 108.6,
+    "pct": 2.49
   },
   "Silver": {
-    "price": 66.57,
-    "change": 1.84,
-    "pct": 2.85
+    "price": 66.47,
+    "change": 1.75,
+    "pct": 2.7
   },
   "USD/INR": {
-    "price": 94.48,
-    "change": -0.48,
-    "pct": -0.5
+    "price": 94.46,
+    "change": -0.5,
+    "pct": -0.52
   },
   "Dollar Index": {
-    "price": 99.3,
-    "change": -0.26,
-    "pct": -0.26
+    "price": 99.28,
+    "change": -0.28,
+    "pct": -0.28
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September - livemint.com",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHpQb2lYbkNWOWhmLU1lMHlnS3ZhN2U2YkRaUDNhV0FkNW5BTXNDUkQxbk01ZDRNR2tGS3ZPVFlwN2xjQXVLMlIyQkVXSjl2dmJGQS1YREtFSFNxbXlBaXl3M1QxNnhjRG1pSUtVUVExUERxbUFQd2Zfbno2dU4zT0lINkcyblBqVjhxTUVtNWw1ai1MbDNvQWJSaUhpSExsX0RNYlFvRk5FWHcySWh4OGJYQmxubE1SSkJFNHgyRTVhcDJLdXJCcUlXb2JSUXRkZFNjMEk2bnpPSTBwT1JFZUVIdnhNRDI5Mnhkc1RGcXNKWE12V3VyVUR0UnLSAYICQVVfeXFMTjdZWUZZYXRmVmZpM2YxTWppTE5BWmpOaThBRWtjUlZQTkt6UXZiMnBGVWlqSFEwajAtSFF6X2JwTmYxQU1qQW96YmYtSVVNVW9HN01kZWF5SlJPZ0hoa0RNZFM4VjVkYmtCVmVSQk44clFJQS1uUzl0STBGUVozT052aUxmVXQ0akRHTWVLdmgyUHVOUVhaa2ZERENpOURMU1JpcE5XOC0zd0RvYTdxWHR2SXlUMUtNT3JHV25tLTNWM2hwZkdKczlnM1dmYXdYTkxDRFh4Q0FUVTBsXzVmUmY2cHV2V3NTdEJuT2YtcE04QUZZczNhY1lTQVNNbHd4WGVn?oc=5",
       "published": "Thu, 03 Sep 2026 01:53:13 GMT"
     },
@@ -104,17 +104,17 @@
       "published": "Wed, 02 Sep 2026 10:13:32 GMT"
     },
     {
-      "title": "Gift Nifty Live Today: Nifty Sensex likely to open Positive signals Gift Nifty - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2MzU0NHNVRTSHZadFRnYlA5TG5tbzdwSW9ISDV3MFVONVdxVEUwVEJSdlhhVk5pdFdEanpwaklyMkpndVZsRmE2N1F2RlpQX05KNnRIeVFrMWszNDZWai1LbFA3ellDMjMzWmNoVS1oNzJQd1oyYWkxNEk1UGlFcGpkbHI5Q1lJR1pBYk5XcXQ0UlRmN0pFckRTbkpvMFBGT2g1MklKSTR0NFFjY0NEWXZUeUpzSmk2YU9hMw?oc=5",
-      "published": "Thu, 03 Sep 2026 03:02:44 GMT"
-    },
-    {
       "title": "Wipro Renews Digital Workplace Deal with ABB | Tata Motors Records Strong CV Sales Growth | Top Buzzing Stocks Today - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ295QVVrRVVJS1VHRjZlOTRtSTBaYzhGN1lleTdLZW1iekpPZzFnZzg5M3U3Y011cUQwZU16QWE3VVN1X3F6ci04dDdad1ZPaWhxVjQxRGpmVml4VnJRWnRtX3o0M0pEejF4bUpvZHQ2MUZSTFU1RjZBdFRjV0ZWREJEYXdJMWU5SmdjWHZPQjN4Z2tFQmhVd2U1WEtwVEJNaDhoaUVHMklJaGRoOFhBQjhDc3RXYTNBWWdRWU9lNHVOcWNMSHpnZWpPdVpWQWtLRGlNTkw4cFJ2c1BBWDRRMUhUUXFPRUUtSWJxM3FQT2wySTV0bnF0bmcxdzU1QnotX2xv?oc=5",
       "published": "Thu, 03 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 3 September - livemint.com",
+      "title": "Nominal GDP growth set to surge to 12%. Why the stock market may still struggle to rally - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVFFYRTNjUFMxeFpTSnRZNjRxOTR5S3BsSDNDS29Jc0RNT09XaldkMUVIWnJXTldVeUN4eTJuTWFhVE5EeWlLOGRpWWllbHdVN3FIcVZpRlZmUTUzeG1xRVg3aUtJTUd6T1k2Qy11NUpsd01WM3UwLV9EeDJZRTRMMjlraHZ0M0tCLVZjSC15LURGRDhiSnhyQ3FGd3JSTENVRm13MVExOFRBblhTTXdPRXJpNllBTENjSFJOZ3NuUUh5dEx3dlJueG9HanR6RDI4LUkyUkR0TFF1U0kweW5rd0hQaUZzZUZjRnFTRldxRWpBdw?oc=5",
+      "published": "Thu, 03 Sep 2026 05:53:58 GMT"
+    },
+    {
+      "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 3 September - Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYlhnVFN4WTg5UjNIR2pXTkdnZ3ZnMlluRXY1OXVMQzMtbEE4dTIyY184MWlacGdyV1Q0SkVCY1RWUWRZVGV3WENocDhWNGNhcHVFbVVwX2ZQdnZ4ak5hb0NXeXkzN1lIOXdKa2JCVXVia1lNakVkc3BwSkhLMG1ReXNUekVKYjJBckU1RFl6WXExaS0zMmMtWEpPOHNUaHUzYkRjSUVCRkNqTUFMMUYxb0ZyRjRXYVF3ZDJTTUlBeDlVM0NWU093Mkp2dXJyb3Fxb3M5SUNyY2JFazllaXQ2MGVnQlN2WnpDeGpqbFo3WE5wWG9WMWhZdVFuTGkycEtYUzFONG1nbTZ3Z9IBjwJBVV95cUxNLUVNREpLb25UR2lFekpsSEZIcUZOVlN2TTExRndTZnU4aTZzZXBrQ2NWcXlqWjFLZjMweldHV21LN010Q3Bvc01zUkZfVHRZbE1vbGljVWhqSkpIYXpQZjhWdjhvbGx4bUQyWEhhZWxDUmx4OEhPUER6OVMyOEJnRVE1Rm9fdnBvN29BY1BSR0NTeGx0TFpONkdqR01yeEVjS2xjTFpFUDZjSWFnZC1nRy00US1FcTJ3dmxUZGRxc0JHalFZdUJNc2dOdWtMbi1tZ0ZweGthc0FzOXBiRDVPaWY4RjlubzdTMldvZHJjWGdmSnJIZ1l1Ukl5SmlMTW9rMDg2WmR0SGZkUWtYRnhZ?oc=5",
       "published": "Thu, 03 Sep 2026 02:41:00 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Wed, 02 Sep 2026 04:14:47 GMT"
     },
     {
-      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-      "published": "Wed, 02 Sep 2026 14:40:58 GMT"
+      "title": "FII inflows into Indian equities hit two-year high of \u20b929,631 cr in August - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUy1IcjZXMzRzc3JCZkhMaE5reUlaZ19uZkM2R1dreGhqUlRuUElOX3ZTUVZYUEItVjEzQWl1bG9rRG9HQTJkTng0V0s4b1dVSThHY1kzbjduQXRScDBtLU55MEk0dGZ5TlJSUFduMFNWNllVS0w3N3ZkNE16dVVjRnM3blZYeGJfc05ySVRQU19neUxHOHVOcFlvNU1TMkF4c0pPWl9zSUFuX0o2VWw3R2lLOXlWZ0FmSGphMm1IV0JUdlJw0gHLAUFVX3lxTFA1MERHNUcwUHVGWGlTVnNGeF9nejZQNjRwMndsQUMxQ29nWjh5LVJHcjdsZEtZZGN3ZS15a0dxTjlzdS1yZVMtTEJGTzREQm5ZY25LY3ExUjBNUmM0OEJmcVQ4UTdXTkQ4RUhsNFJsQzN0SWdicmVIb2piNGJ0dFNsdk1qOG5WbjBaUUhpVFNOcGtDVFMxU0pVeTZ5UkVQX1Vmd0ROMXJQQlZTTlNJYnQ5ekY3TnhKalFTbDlwamN6LUc4RXNKRXJ3V21B?oc=5",
+      "published": "Mon, 31 Aug 2026 15:11:32 GMT"
     }
   ],
-  "last_updated": "2026-09-03 07:51 UTC"
+  "last_updated": "2026-09-03 08:06 UTC"
 }
