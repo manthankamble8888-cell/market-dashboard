@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53672.83,
-    "change": 610.88,
-    "pct": 1.15
+    "price": 53680.25,
+    "change": 618.3,
+    "pct": 1.17
   },
   "Nasdaq": {
-    "price": 26615.57,
-    "change": 397.74,
+    "price": 26617.54,
+    "change": 399.71,
     "pct": 1.52
   },
   "S&P 500": {
-    "price": 7752.01,
-    "change": 85.41,
-    "pct": 1.11
+    "price": 7752.68,
+    "change": 86.08,
+    "pct": 1.12
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.53,
-    "change": -0.1,
-    "pct": -0.1
+    "price": 95.64,
+    "change": 0.01,
+    "pct": 0.01
   },
   "Crude Oil (WTI)": {
-    "price": 91.42,
-    "change": 0.41,
-    "pct": 0.45
+    "price": 91.55,
+    "change": 0.54,
+    "pct": 0.59
   },
   "Gold": {
-    "price": 4528.4,
-    "change": 162.1,
-    "pct": 3.71
+    "price": 4522.0,
+    "change": 155.7,
+    "pct": 3.57
   },
   "Silver": {
-    "price": 67.57,
-    "change": 2.84,
-    "pct": 4.39
+    "price": 67.49,
+    "change": 2.76,
+    "pct": 4.27
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,9 +64,9 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.92,
-    "change": -0.64,
-    "pct": -0.64
+    "price": 98.91,
+    "change": -0.65,
+    "pct": -0.65
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -90,22 +90,22 @@
       "published": "Thu, 03 Sep 2026 12:50:59 GMT"
     },
     {
-      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - theindianawaaz.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
-      "published": "Thu, 03 Sep 2026 15:59:00 GMT"
+      "title": "Indian shares join global slide as Mideast woes mount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
+      "published": "Wed, 02 Sep 2026 10:13:32 GMT"
     },
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "India's market regulator to review derivatives settlement methodology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkdiZlZOdmk4ajBZQVVkckgxa3V5WlFHM3JWODBNVXB5dXl6Y3I0MUxYRnA0Um41dFFpa19XdmFhZ1JJM0pqck9uY1o0RHVJRlNNZm5BQnUyMS1Gby1ya1F5dG5lQ2E3VzB0dDB2TDhTYlZQUVJEMlFMbmhlY2lLY1F1MEVEU2tabWdmZmJEdWliQ2JMYTVqT1ZGbDdUN3BzekFzRF8zbmdINUloRkxmZ1F4Yw?oc=5",
-      "published": "Thu, 03 Sep 2026 16:15:49 GMT"
+      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
+      "published": "Thu, 03 Sep 2026 15:59:00 GMT"
     },
     {
-      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - equitymaster.com",
+      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFZzQS15Zl9WYWhMU1h3eloteGczRTFpMVlOWTc0NzBfWGRtbUVxTFN3UTNiaTI0d3JGN25JUzRCdGdBdW1PNUpHU3NldXBoZG1rek5seVJyc042bXhVenA4SHpDdmFpcE5pRTdPMVBzU0dOWHVJa3BEN2VRYWlkWDNBaDJCb1B2bG9OM1hjWDhST2VBX2VYVU5YblFYQmotOU5GcVRqUzdJck1ldGdVR01nRTZkMWh3V2VXX1NUZGQzLW1pOHJsTG02RQ?oc=5",
       "published": "Thu, 03 Sep 2026 11:08:22 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Thu, 03 Sep 2026 03:02:44 GMT"
     }
   ],
-  "last_updated": "2026-09-03 18:54 UTC"
+  "last_updated": "2026-09-03 19:05 UTC"
 }
