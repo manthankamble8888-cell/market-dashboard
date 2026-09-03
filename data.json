@@ -39,32 +39,32 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.24,
-    "change": 0.59,
-    "pct": 0.62
+    "price": 95.26,
+    "change": 0.61,
+    "pct": 0.64
   },
   "Crude Oil (WTI)": {
-    "price": 90.67,
-    "change": 0.45,
-    "pct": 0.5
+    "price": 90.83,
+    "change": 0.61,
+    "pct": 0.68
   },
   "Gold": {
-    "price": 4430.9,
-    "change": 82.9,
-    "pct": 1.91
+    "price": 4432.8,
+    "change": 84.8,
+    "pct": 1.95
   },
   "Silver": {
-    "price": 65.91,
-    "change": 1.29,
-    "pct": 2.0
+    "price": 65.93,
+    "change": 1.31,
+    "pct": 2.03
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 99.61,
-    "change": -0.06,
-    "pct": -0.07
+    "price": 99.57,
+    "change": -0.1,
+    "pct": -0.1
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -93,7 +93,7 @@
       "published": "Mon, 31 Aug 2026 01:42:47 GMT"
     },
     {
-      "title": "Every Time FPIs Panicked During Major Market Crashes, Indian Equities Bounced Back Stronger - outlookmoney.com",
+      "title": "Every Time FPIs Panicked During Major Market Crashes, Indian Equities Bounced Back Stronger - Outlook Money",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVZHTXdGQWNlSHg1X3Yyamd2NEY5bHB0RUFhM1dDWnJkTHNMVXYwMDYzTzVpVndiakdqYUdxeFYtSXdpVi1QX0dNMTdjOXB1MFo5LVhUSGU5YnVJVkkzLWJZcmFORDR3NWNyUm1TYXdTZzNKenlUM244ZXUtaVlCNWgwRFlUUlNTVXlsWG9hbDQzc0pNMGRUWtIBpgFBVV95cUxOQjZQMkdvMWUtYmVlLWhwdFhCT1I1aW0ycXFSQS0xRVpNZkVyRlBfMU1NbWRQRklEMF9xSkhFTmtCNzRPVDRfYXB4MU9jWFZzU29KRENWemNxZHN5dm5GRXljbWtKa2VNZmNidXBwZDhlRFJxWE1HRmtqUUpydXo1VzV0dUVCdzFvWlhwNXJVWHo5Wl9YM0c2ZGJsX2ZZMjRuSFlwVmZR?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:24 GMT"
     },
@@ -113,5 +113,5 @@
       "published": "Wed, 02 Sep 2026 11:14:59 GMT"
     }
   ],
-  "last_updated": "2026-09-03 00:10 UTC"
+  "last_updated": "2026-09-03 00:34 UTC"
 }
