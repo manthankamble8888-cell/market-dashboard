@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53407.2,
-    "change": 345.25,
-    "pct": 0.65
+    "price": 53448.25,
+    "change": 386.3,
+    "pct": 0.73
   },
   "Nasdaq": {
-    "price": 26395.42,
-    "change": 177.59,
-    "pct": 0.68
+    "price": 26397.8,
+    "change": 179.97,
+    "pct": 0.69
   },
   "S&P 500": {
-    "price": 7698.32,
-    "change": 31.72,
-    "pct": 0.41
+    "price": 7700.74,
+    "change": 34.14,
+    "pct": 0.45
   },
   "Nikkei 225": {
     "price": 64214.48,
@@ -53,24 +53,24 @@
     "pct": -0.39
   },
   "Crude Oil (Brent)": {
-    "price": 96.51,
-    "change": 0.88,
-    "pct": 0.92
+    "price": 96.76,
+    "change": 1.13,
+    "pct": 1.18
   },
   "Crude Oil (WTI)": {
-    "price": 92.13,
-    "change": 1.12,
-    "pct": 1.23
+    "price": 92.35,
+    "change": 1.34,
+    "pct": 1.47
   },
   "Gold": {
-    "price": 4523.1,
-    "change": 156.8,
-    "pct": 3.59
+    "price": 4515.8,
+    "change": 149.5,
+    "pct": 3.42
   },
   "Silver": {
-    "price": 67.12,
-    "change": 2.4,
-    "pct": 3.7
+    "price": 66.96,
+    "change": 2.24,
+    "pct": 3.46
   },
   "USD/INR": {
     "price": 94.47,
@@ -78,15 +78,56 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 99.02,
-    "change": -0.54,
-    "pct": -0.55
+    "price": 99.1,
+    "change": -0.46,
+    "pct": -0.46
   },
   "US 10Y Yield": {
     "price": 4.76,
     "change": -0.04,
-    "pct": -0.83
+    "pct": -0.75
   },
-  "news": [],
-  "last_updated": "2026-09-03 14:39 UTC"
+  "news": [
+    {
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHpQb2lYbkNWOWhmLU1lMHlnS3ZhN2U2YkRaUDNhV0FkNW5BTXNDUkQxbk01ZDRNR2tGS3ZPVFlwN2xjQXVLMlIyQkVXSjl2dmJGQS1YREtFSFNxbXlBaXl3M1QxNnhjRG1pSUtVUVExUERxbUFQd2Zfbno2dU4zT0lINkcyblBqVjhxTUVtNWw1ai1MbDNvQWJSaUhpSExsX0RNYlFvRk5FWHcySWh4OGJYQmxubE1SSkJFNHgyRTVhcDJLdXJCcUlXb2JSUXRkZFNjMEk2bnpPSTBwT1JFZUVIdnhNRDI5Mnhkc1RGcXNKWE12V3VyVUR0UnLSAYICQVVfeXFMTjdZWUZZYXRmVmZpM2YxTWppTE5BWmpOaThBRWtjUlZQTkt6UXZiMnBGVWlqSFEwajAtSFF6X2JwTmYxQU1qQW96YmYtSVVNVW9HN01kZWF5SlJPZ0hoa0RNZFM4VjVkYmtCVmVSQk44clFJQS1uUzl0STBGUVozT052aUxmVXQ0akRHTWVLdmgyUHVOUVhaa2ZERENpOURMU1JpcE5XOC0zd0RvYTdxWHR2SXlUMUtNT3JHV25tLTNWM2hwZkdKczlnM1dmYXdYTkxDRFh4Q0FUVTBsXzVmUmY2cHV2V3NTdEJuT2YtcE04QUZZczNhY1lTQVNNbHd4WGVn?oc=5",
+      "published": "Thu, 03 Sep 2026 01:53:13 GMT"
+    },
+    {
+      "title": "Nifty, Sensex Today: Markets End Lower as Expiry Volatility Offsets Banking Rally; Sensex Falls 417 Points - India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTlROalIzcVB6R3lfaTJxd0FVYk03U0dZTk5PVkVOS2N2eVN1aUJoLS1vTHUtaWJ3MHBPNWNveUNvUDhVUXVjakc4M0E1STZ6TS1CRlZrdkNvdDZHZ2VNS21JUjYzZGljZFJCdGxHWkZSZVJyWlpxU1p5N1ppakNnRDVHNXFvbXBuZ054N0xJdDY4U29mdmppT0lmRlhfNlR5emdOLVp5MlE2YXdhQWJxdWN0NzB6ckhDY0FMQzQxb3luTklZaTY1RW5iZ05fQ1JOQTZBYWFsSTBuZTFOcnVZ?oc=5",
+      "published": "Thu, 03 Sep 2026 13:07:30 GMT"
+    },
+    {
+      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFZzQS15Zl9WYWhMU1h3eloteGczRTFpMVlOWTc0NzBfWGRtbUVxTFN3UTNiaTI0d3JGN25JUzRCdGdBdW1PNUpHU3NldXBoZG1rek5seVJyc042bXhVenA4SHpDdmFpcE5pRTdPMVBzU0dOWHVJa3BEN2VRYWlkWDNBaDJCb1B2bG9OM1hjWDhST2VBX2VYVU5YblFYQmotOU5GcVRqUzdJck1ldGdVR01nRTZkMWh3V2VXX1NUZGQzLW1pOHJsTG02RQ?oc=5",
+      "published": "Thu, 03 Sep 2026 11:08:22 GMT"
+    },
+    {
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
+      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
+    },
+    {
+      "title": "Indian benchmark shares subdued after recent drop as oil worries outweigh banking gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdmx3ekk2V0VXSlJYX04xM2x3WHVkOW1id2dsUlVJTDI5U1hWekdqeGZSRHlJUnR1U09RZ3FVRzFUa09uNFgyeng0Z0VuYjltTFFwMGVqb3dxRFlOaGZzTGtKS1FhN19vaWl5V3poemFDVFRwTWRuQlJPcnkxdTB0b19TS2VCQnR4NVZzaHU0NU9KMHR5TzdqSnBuR1oyTExNTmlXbFIzNWVtTHhBbV9ET0FzbjBpSjQ0MFpXT2hQOGJnZw?oc=5",
+      "published": "Thu, 03 Sep 2026 11:28:09 GMT"
+    },
+    {
+      "title": "Taking Stock: Market extends fall on fourth day; Sensex down 417 pts, Nifty below 23,900 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRFVsNVp4ckNDa3hySExOMzU3T3lwUlh2bFBxeG0wa05ndkNnQTFVcWRkSUd0VzJiMXpvZ0VjQVJ6RXg4bEpUX1RNREUzOUsxWi1QWWlDVUpoeDlUaGZiX29lVTk2dFEydHcyRUJuN1VTMjA4ZE5KbFpiLWc1NTItZWk2dF9JcFpnUnJFYW01UmUzNzhnbDh0djN4X1AyUHVvM0JmMXNTT2QwOEtBMzZ4Zld5ZWZFS0VsZXZKTl9ERHBZckxRaldQZHlLZjRNU0hUN0J3ZFg1SzF3ZUJPcEUzSkY0N1fSAeoBQVVfeXFMT1ptY2RvS2JSdUlWZ2dwTTJnSHdxckJiRUthX3loWGtNb0xxSVJfQ2dKNTNiNlhXaldBNkFXaUl1OUZzMWxXMk5VVm9TRTdrV2N4XzNtTXU0NzE5Tk5KSlBnai1zcDVUeG1UaEhWUkxqQW9hMnQtM2s1VFlmZlRocmtyNnpZcGh0M1h6eGJESFpTamd1STVRT3luQTlWQ2tFQnRoRGkySlZsbTFpSTVJNF81VVQ0NVFnU0Jacm1JdEd5Ujk3a3Q5ZHktZlVZXzFFeEo0aUUwdFo2LXhBR085VmZjbjlPUE5rRzRB?oc=5",
+      "published": "Thu, 03 Sep 2026 10:35:09 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Nasdaq To Gold Rates \u2014 Five Key Factors That May Drive Sensex, Nifty 50 on September 3 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeTQxcF9KVW5zc3djV3dpdklXSk5nOWhWNXNOWVpzbTQ5a3QwUDZfT05sazQ0dHo0WTBWZm9rX1J1dERxcGY0M2pqaXVJc3RaYUF5VWdwUG5BeG40cll2Zkx3ODcweVZzbXUzN0FvbnNSa3E4ME1IOHhSX0xUOEZrbnpsMG9OS3g5VVRFeEZPWUFod2YyNkxMVmppN2c4dTIybVhoLXdKTi1KVWd2aG1iczJER0FING83LU9acDh6UWRtSUYyT0o1czFGNS1tWUwxbGlnWm5Fb1pDejRLcHZHSUxoUHVRNUNSR0JOX9IB9AFBVV95cUxNSlM2eGN4VnJ0X2F6dHRZb2tjckkyRjNZMGdDeGVKV1F4LXBTbThJc25GaEliNlItRFN2Vkx3MHJ2OXhZVjNYQUpQUTF2bUtuakYzbkU1cGNUUXFfaEd2QkZtQVozTF96TkZ5YUc1QWlzR1lBY2NTX1VXeGU3bVotWXRWWGdxQ2t0cVhEOGZfWGNKdS0tel9YdjZHd3JFSnJQZDF6Q1RNVjRQc2NqWU93NmVHNXpUQVJqWXJOUENmOVR4YUlyM1dZbC1aMmZTNTJIRXdxNGpsczhBZTYzWks5Y0x3dGJXOGMyQ0h4eF9PQTN1R0xt?oc=5",
+      "published": "Thu, 03 Sep 2026 01:21:25 GMT"
+    }
+  ],
+  "last_updated": "2026-09-03 14:52 UTC"
 }
