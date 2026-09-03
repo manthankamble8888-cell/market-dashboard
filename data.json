@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.82,
-    "change": 0.19,
-    "pct": 0.2
+    "price": 95.86,
+    "change": 0.23,
+    "pct": 0.24
   },
   "Crude Oil (WTI)": {
-    "price": 91.75,
-    "change": 0.74,
-    "pct": 0.81
+    "price": 91.69,
+    "change": 0.68,
+    "pct": 0.75
   },
   "Gold": {
-    "price": 4518.6,
-    "change": 152.3,
-    "pct": 3.49
+    "price": 4520.7,
+    "change": 154.4,
+    "pct": 3.54
   },
   "Silver": {
-    "price": 67.56,
-    "change": 2.83,
-    "pct": 4.38
+    "price": 67.6,
+    "change": 2.88,
+    "pct": 4.45
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,9 +64,9 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.98,
-    "change": -0.58,
-    "pct": -0.58
+    "price": 98.99,
+    "change": -0.57,
+    "pct": -0.57
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -75,12 +75,12 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Thu, 03 Sep 2026 18:52:43 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Thu, 03 Sep 2026 13:07:30 GMT"
     }
   ],
-  "last_updated": "2026-09-03 20:49 UTC"
+  "last_updated": "2026-09-03 21:06 UTC"
 }
