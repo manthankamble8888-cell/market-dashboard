@@ -53,24 +53,24 @@
     "pct": -0.39
   },
   "Crude Oil (Brent)": {
-    "price": 95.97,
-    "change": 0.34,
-    "pct": 0.36
+    "price": 96.1,
+    "change": 0.47,
+    "pct": 0.49
   },
   "Crude Oil (WTI)": {
-    "price": 91.68,
-    "change": 0.67,
-    "pct": 0.74
+    "price": 91.66,
+    "change": 0.65,
+    "pct": 0.71
   },
   "Gold": {
-    "price": 4538.9,
-    "change": 172.6,
-    "pct": 3.95
+    "price": 4533.1,
+    "change": 166.8,
+    "pct": 3.82
   },
   "Silver": {
-    "price": 67.24,
-    "change": 2.52,
-    "pct": 3.89
+    "price": 67.13,
+    "change": 2.41,
+    "pct": 3.72
   },
   "USD/INR": {
     "price": 94.47,
@@ -78,9 +78,9 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.98,
-    "change": -0.58,
-    "pct": -0.58
+    "price": 98.99,
+    "change": -0.57,
+    "pct": -0.57
   },
   "US 10Y Yield": {
     "price": 4.74,
@@ -88,5 +88,5 @@
     "pct": -1.13
   },
   "news": [],
-  "last_updated": "2026-09-03 13:06 UTC"
+  "last_updated": "2026-09-03 13:25 UTC"
 }
