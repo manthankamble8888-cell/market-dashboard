@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23914.45,
-    "change": -141.35,
-    "pct": -0.59
+    "price": 23970.85,
+    "change": 56.4,
+    "pct": 0.24
   },
   "Bank Nifty": {
-    "price": 57172.0,
-    "change": -237.6,
-    "pct": -0.41
+    "price": 57572.3,
+    "change": 400.3,
+    "pct": 0.7
   },
   "Sensex": {
-    "price": 76570.35,
-    "change": -373.93,
-    "pct": -0.49
+    "price": 76842.55,
+    "change": 272.2,
+    "pct": 0.36
   },
   "India VIX": {
-    "price": 11.59,
-    "change": 0.1,
-    "pct": 0.87
+    "price": 11.14,
+    "change": -0.45,
+    "pct": -3.93
   },
   "Nifty IT": {
-    "price": 31102.9,
-    "change": -393.8,
-    "pct": -1.25
+    "price": 30872.7,
+    "change": -230.2,
+    "pct": -0.74
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +43,44 @@
     "pct": 0.46
   },
   "Nikkei 225": {
-    "price": 64352.3,
-    "change": 26.66,
-    "pct": 0.04
+    "price": 64496.65,
+    "change": 171.01,
+    "pct": 0.27
   },
   "Hang Seng": {
-    "price": 25471.31,
-    "change": 160.1,
-    "pct": 0.63
+    "price": 25317.49,
+    "change": 6.28,
+    "pct": 0.02
   },
   "Crude Oil (Brent)": {
-    "price": 95.87,
-    "change": NaN,
-    "pct": NaN
+    "price": 95.06,
+    "change": -0.57,
+    "pct": -0.6
   },
   "Crude Oil (WTI)": {
-    "price": 91.42,
-    "change": NaN,
-    "pct": NaN
+    "price": 90.58,
+    "change": -0.43,
+    "pct": -0.47
   },
   "Gold": {
-    "price": 4455.7,
-    "change": NaN,
-    "pct": NaN
+    "price": 4481.1,
+    "change": 114.8,
+    "pct": 2.63
   },
   "Silver": {
-    "price": 66.29,
-    "change": NaN,
-    "pct": NaN
+    "price": 66.72,
+    "change": 2.0,
+    "pct": 3.09
   },
   "USD/INR": {
-    "price": 94.96,
-    "change": 0.0,
-    "pct": 0.01
+    "price": 94.48,
+    "change": -0.48,
+    "pct": -0.5
   },
   "Dollar Index": {
-    "price": 99.55,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 99.42,
+    "change": -0.14,
+    "pct": -0.14
   },
   "US 10Y Yield": {
     "price": 4.8,
@@ -89,9 +89,14 @@
   },
   "news": [
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
+      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
+      "published": "Wed, 02 Sep 2026 15:45:38 GMT"
+    },
+    {
+      "title": "Stock market today: Gift Nifty hints a positive start; eight day trading stocks to buy on Thursday, 3 September - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYlhnVFN4WTg5UjNIR2pXTkdnZ3ZnMlluRXY1OXVMQzMtbEE4dTIyY184MWlacGdyV1Q0SkVCY1RWUWRZVGV3WENocDhWNGNhcHVFbVVwX2ZQdnZ4ak5hb0NXeXkzN1lIOXdKa2JCVXVia1lNakVkc3BwSkhLMG1ReXNUekVKYjJBckU1RFl6WXExaS0zMmMtWEpPOHNUaHUzYkRjSUVCRkNqTUFMMUYxb0ZyRjRXYVF3ZDJTTUlBeDlVM0NWU093Mkp2dXJyb3Fxb3M5SUNyY2JFazllaXQ2MGVnQlN2WnpDeGpqbFo3WE5wWG9WMWhZdVFuTGkycEtYUzFONG1nbTZ3Z9IBjwJBVV95cUxNLUVNREpLb25UR2lFekpsSEZIcUZOVlN2TTExRndTZnU4aTZzZXBrQ2NWcXlqWjFLZjMweldHV21LN010Q3Bvc01zUkZfVHRZbE1vbGljVWhqSkpIYXpQZjhWdjhvbGx4bUQyWEhhZWxDUmx4OEhPUER6OVMyOEJnRVE1Rm9fdnBvN29BY1BSR0NTeGx0TFpONkdqR01yeEVjS2xjTFpFUDZjSWFnZC1nRy00US1FcTJ3dmxUZGRxc0JHalFZdUJNc2dOdWtMbi1tZ0ZweGthc0FzOXBiRDVPaWY4RjlubzdTMldvZHJjWGdmSnJIZ1l1Ukl5SmlMTW9rMDg2WmR0SGZkUWtYRnhZ?oc=5",
+      "published": "Thu, 03 Sep 2026 02:41:00 GMT"
     },
     {
       "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
@@ -99,35 +104,30 @@
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMHpQb2lYbkNWOWhmLU1lMHlnS3ZhN2U2YkRaUDNhV0FkNW5BTXNDUkQxbk01ZDRNR2tGS3ZPVFlwN2xjQXVLMlIyQkVXSjl2dmJGQS1YREtFSFNxbXlBaXl3M1QxNnhjRG1pSUtVUVExUERxbUFQd2Zfbno2dU4zT0lINkcyblBqVjhxTUVtNWw1ai1MbDNvQWJSaUhpSExsX0RNYlFvRk5FWHcySWh4OGJYQmxubE1SSkJFNHgyRTVhcDJLdXJCcUlXb2JSUXRkZFNjMEk2bnpPSTBwT1JFZUVIdnhNRDI5Mnhkc1RGcXNKWE12V3VyVUR0UnLSAYICQVVfeXFMTjdZWUZZYXRmVmZpM2YxTWppTE5BWmpOaThBRWtjUlZQTkt6UXZiMnBGVWlqSFEwajAtSFF6X2JwTmYxQU1qQW96YmYtSVVNVW9HN01kZWF5SlJPZ0hoa0RNZFM4VjVkYmtCVmVSQk44clFJQS1uUzl0STBGUVozT052aUxmVXQ0akRHTWVLdmgyUHVOUVhaa2ZERENpOURMU1JpcE5XOC0zd0RvYTdxWHR2SXlUMUtNT3JHV25tLTNWM2hwZkdKczlnM1dmYXdYTkxDRFh4Q0FUVTBsXzVmUmY2cHV2V3NTdEJuT2YtcE04QUZZczNhY1lTQVNNbHd4WGVn?oc=5",
-      "published": "Thu, 03 Sep 2026 01:53:13 GMT"
-    },
-    {
       "title": "Wipro Renews Digital Workplace Deal with ABB | Tata Motors Records Strong CV Sales Growth | Top Buzzing Stocks Today - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZ295QVVrRVVJS1VHRjZlOTRtSTBaYzhGN1lleTdLZW1iekpPZzFnZzg5M3U3Y011cUQwZU16QWE3VVN1X3F6ci04dDdad1ZPaWhxVjQxRGpmVml4VnJRWnRtX3o0M0pEejF4bUpvZHQ2MUZSTFU1RjZBdFRjV0ZWREJEYXdJMWU5SmdjWHZPQjN4Z2tFQmhVd2U1WEtwVEJNaDhoaUVHMklJaGRoOFhBQjhDc3RXYTNBWWdRWU9lNHVOcWNMSHpnZWpPdVpWQWtLRGlNTkw4cFJ2c1BBWDRRMUhUUXFPRUUtSWJxM3FQT2wySTV0bnF0bmcxdzU1QnotX2xv?oc=5",
       "published": "Thu, 03 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Why is market falling today? Sensex, Nifty selloff wipes out Rs 5 lakh crore investor wealth: 5 key factor - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPV1haNDl4LUdpMFdTYW52WG9uQzhIaEJnaUZBaE9tWTRtRWNSaktQam1aRWlQTV9jV0JNOXBTWE1LU3lPcjlZTU5mYWJRTzZuWHZXTjlFYUVEU3U5OFVlbXQyNWpheWRVU3lkcmVWSVVNSnNqWkVaQ2E5MXZOdnRoSllBZDhNWW1NZ3lBd2htNHdkY3RYWnlyVFU1ZHE2N0RHRVFzX21HUkItMk16b2Nhc3dEZjVOcmxZcGFvYktfY1NmLUVfTDNMdkxuVDItQU5feDI4RHpFVHhpdC0wb2xmeU1id3hFb0pRa29yMDBiVlJvVUtrWURvbi1jQXFxS0pLa3BoNlB2U2hpSjRwNjNQWXNuQ1YyN0IxWlHSAZ8CQVVfeXFMT3pwZ2h3a2VqLVdUTnYyd3llUVVCZ1ROT2kxNG93bGtUTzlSMGZCOWFWZFpCOWlkUEdPQjhaakhEelZnbWRvQ3BIOUN2bEMzZzYzeGkxR2FOU2FER3I3VWRkcWNlMkI1N3Rqc2VYTG9McFFjNVRQV1JWYmdvb0IxZ3R0X0ZCaWd1VkJRbzRxcW9rX09oM2xVU054TlI2RG9aVkNLbzcxSkZlczRyU3VUdXpxTXN0ZGRSU0FaVm1HRGJvUGJlY0VUaFl6MUhQVDdWZGFSMjUxU3h6TXRwdXhiemExN0JsOVV0TnY3NEs4U0JfQ1ZaVy02RERmWl96UWxWbUxnQ0VBV0EwTW5FejFrT3F2X2JXaU81OGtlcVc2WFU?oc=5",
-      "published": "Wed, 02 Sep 2026 03:58:06 GMT"
+      "title": "Indian Markets Open Higher as Rupee Strengthens and Gold Surges - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNnJ6WXZoR1FxU3BLMjlCSjlLS2lLS25BWVliMW5vUlBOd3JGRHlfM3lLQTA3RV82eGl1bml4V1M4UGdMVk5wa1NuaEhkSzBKMXNsNmNxVzlBWmZhX1ppSWpVOS1hdkgyYlUwYjFuVEVLREkzU0Y5X01TTllzbnkyMGdFVE92YzZVQU1hX3JndG5DVDBPdkhsY0ptT3E1VHNuSmU4Q1Foa0tNUmNrbGtTb2Z4cWx3LTEzU2Fv?oc=5",
+      "published": "Thu, 03 Sep 2026 04:00:55 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHNXazJwRlJyWHgzV0RpdlY2QW9hNHhfeENLZWYzd3puVnBOd1N1NjNnRF9ZMGRYeEhxLVVWMWxHQ0xoQ0FpcHBFenlxX29taGJhb2VtLUdPTnVIaHdlRXNSa0lrNERrSF93dVU4bmRUZ1NWYVc4OWF6al9ONkI0bjhkYllKUlAybDlfM3FKb3Q1c2RIUWlXb3RUbTJlMXF5OXg4UnBEZUlGdVpBdVAtemplVXpiWlMxVzVEbGFvVElHcXJMa2p2LTJGUlg3UGNlRWdLOHNHVVVQeXdzUHc?oc=5",
-      "published": "Wed, 02 Sep 2026 13:33:26 GMT"
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
+      "published": "Wed, 02 Sep 2026 04:14:47 GMT"
     },
     {
-      "title": "Indian Equities Extend Losses as West Asia Tensions Fuel Oil Price Hike - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSWFrWE1rSVYzRmZrWDFTQkFoLVhxLVRFT1RIcUc2RUR4cncyNmd0Q2pJMHZHR1RxclkxTldpMzJVVUNMbm0xRXl0aW50Tng5emtVbGZXMTVKTE9CMDRXQkV6LURQQTZ4bnNUN1JlUVJFM3RNV3BNVFkteFh2UlNNa3ZxZ3hVajVsWTlmWGQ1bWhJaElCTUVaZzdIY1R1R3N5TC1iNFJWSWhOeExsaExfQWUwUlNzbjg0S0dhZ2xhTVdNLU9LRGFrclhoVdIBzgFBVV95cUxQTUxHZEpIbnVSSWxaa3NNYWhkZmlWRWtLbnR3QU1jaUdRUFZYcU5ZNjVNcVZkSWJ3ekdERVFjVDZySEZQMzFoVnNkcFNpdVc5ejVETURrZUV4RUJhZDZnRlliQi1tR0VmVU5VWlJtR3Y1VlhaVE0zSkZNb2IxU0NZNlB1R2g0NDFGaVE5S3FILWpIT2ZNUHc4UGxqOG1EVFM2ZVMxZDVhYjZldUZyRmZXNWE2dzUtUXZLRGI3M0trbWJGWFNqUlIxR19Pbi1kUQ?oc=5",
-      "published": "Wed, 02 Sep 2026 11:14:59 GMT"
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
+      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "Every Time FPIs Panicked During Major Market Crashes, Indian Equities Bounced Back Stronger - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVZHTXdGQWNlSHg1X3Yyamd2NEY5bHB0RUFhM1dDWnJkTHNMVXYwMDYzTzVpVndiakdqYUdxeFYtSXdpVi1QX0dNMTdjOXB1MFo5LVhUSGU5YnVJVkkzLWJZcmFORDR3NWNyUm1TYXdTZzNKenlUM244ZXUtaVlCNWgwRFlUUlNTVXlsWG9hbDQzc0pNMGRUWtIBpgFBVV95cUxOQjZQMkdvMWUtYmVlLWhwdFhCT1I1aW0ycXFSQS0xRVpNZkVyRlBfMU1NbWRQRklEMF9xSkhFTmtCNzRPVDRfYXB4MU9jWFZzU29KRENWemNxZHN5dm5GRXljbWtKa2VNZmNidXBwZDhlRFJxWE1HRmtqUUpydXo1VzV0dUVCdzFvWlhwNXJVWHo5Wl9YM0c2ZGJsX2ZZMjRuSFlwVmZR?oc=5",
-      "published": "Wed, 02 Sep 2026 12:50:24 GMT"
+      "title": "Stock Market prediction today, September 3: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Thursday - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPMHMxaFBkZmZDREpvdkJHMTRibUdoQVY5OWw1WGY0RmI0dlJHbU5oYXZIQnhpajZ2RkIzTjEtLW5uVGZ4WUgxX2tJdHRzNHlCdUpHTGNlX1F3amhsYkk4Sl9BVW0zTDRBRTZ4emVXTG1rR0NXbXh5N24yY1o3RFRSYzNubWFBMUN3bjFKVWFnSXZOaGF3ZnNuS0MxaldBT01jOS1DVHRRbVZOcmg0Uy1BdU5LRU9PbVM0am85ZTctVHNKZFBZMEczS0tLMTZXX3FFWC1BMFJ6ajRtdDZMZXRXenZ6SDhPeU5lSktkWXRiNlJWQU1hWThjaEpxNmt4M21MQmlFalFCcFZkVjJPY20zR9IBlgJBVV95cUxNRnBiNEg1U3ZiZFhiYllyVDhENS15NVZhSzhSYXVvZmtJR2RXTlFScFR5UElnTTl6VzNzQUwxSUQ2cWxwa0R1Nm8wOHVzQWtXbGFWUURpQWFyUXE3c3lBaEpQZTc3VXZkaE5kUENuZGo0LXZDSWNwYTlJdHhOYmREM3hFT3FZWlZtRnRwM0RCMlJuN1NDTzZBRHRXOEtISnpqRS0xRTk4cGRXY1JqV21UX19mOERJbUh5WFpIQ1U5UEp5UnlWR0M2R1duTTFOdHVkNHo0eUl1d3JCY3Q4dzljY1FwVjNFNHd3VG1xeG41WkRES1JCdUlncmtZQktQUUhIc2pONVBseENtRC12R1pwVzFCaWxfUQ?oc=5",
+      "published": "Wed, 02 Sep 2026 10:11:08 GMT"
     }
   ],
-  "last_updated": "2026-09-03 02:10 UTC"
+  "last_updated": "2026-09-03 05:06 UTC"
 }
