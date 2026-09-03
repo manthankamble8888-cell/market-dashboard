@@ -1,46 +1,36 @@
 {
   "Nifty 50": {
-    "price": 23873.45,
-    "change": -41.0,
-    "pct": -0.17
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 57380.6,
-    "change": 208.6,
-    "pct": 0.36
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 76152.86,
-    "change": -417.49,
-    "pct": -0.55
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 11.34,
-    "change": -0.25,
-    "pct": -2.18
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 30838.85,
-    "change": -264.05,
-    "pct": -0.85
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53689.27,
-    "change": 627.32,
-    "pct": 1.18
+    "price": 53668.36,
+    "change": 606.41,
+    "pct": 1.14
   },
   "Nasdaq": {
-    "price": 26625.78,
-    "change": 407.95,
-    "pct": 1.56
+    "price": 26623.04,
+    "change": 405.21,
+    "pct": 1.55
   },
   "S&P 500": {
-    "price": 7753.48,
-    "change": 86.88,
-    "pct": 1.13
+    "price": 7752.43,
+    "change": 85.83,
+    "pct": 1.12
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.16,
-    "change": -0.47,
-    "pct": -0.49
+    "price": 95.61,
+    "change": -0.02,
+    "pct": -0.02
   },
   "Crude Oil (WTI)": {
-    "price": 91.03,
-    "change": 0.02,
-    "pct": 0.02
+    "price": 91.41,
+    "change": 0.4,
+    "pct": 0.44
   },
   "Gold": {
-    "price": 4532.7,
-    "change": 166.4,
-    "pct": 3.81
+    "price": 4524.8,
+    "change": 158.5,
+    "pct": 3.63
   },
   "Silver": {
-    "price": 67.58,
-    "change": 2.86,
-    "pct": 4.41
+    "price": 67.5,
+    "change": 2.78,
+    "pct": 4.3
   },
   "USD/INR": {
     "price": 94.47,
@@ -74,14 +64,14 @@
     "pct": -0.51
   },
   "Dollar Index": {
-    "price": 98.89,
-    "change": -0.67,
-    "pct": -0.67
+    "price": 98.91,
+    "change": -0.65,
+    "pct": -0.66
   },
   "US 10Y Yield": {
-    "price": 4.75,
+    "price": 4.76,
     "change": -0.04,
-    "pct": -0.88
+    "pct": -0.83
   },
   "news": [
     {
@@ -95,12 +85,7 @@
       "published": "Thu, 03 Sep 2026 10:16:47 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 September - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeDZDaW5tMVpuNTc0UURqV0N2RlcwRlpIV2dKYlE5dFdzNUV5YUxPRUZNUGZBcFZUWDF6ZVQzTmtRb1hrQ2RZRFZyLS1oNlEtemZXeFM1QjB5akc0QkV2dFI2WGtlbGdWUHdCWXBDZE5RS1Q3cWtabjJyOUpia24zdFdGWHR4ZGtON1dydmYzZFZvWHJIMXYyWjR0UDh6VHlUZldOZjlPSl9TQ3dxbWxCWXRvVkpqNFdfMnBSU2RBb1FwT1Y3TXo5RThLQnpaazNnemNac1Y5ZnROWHBVVzFxWkw5eWZ2T1RXV0JV?oc=5",
-      "published": "Thu, 03 Sep 2026 05:15:00 GMT"
-    },
-    {
-      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - The Indian Awaaz",
+      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - theindianawaaz.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
       "published": "Thu, 03 Sep 2026 15:59:00 GMT"
     },
@@ -110,7 +95,7 @@
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - Equitymaster",
+      "title": "Sensex Today Ends 417 Points Lower | Nifty Below 23,900 | ITC & Trent Losers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFZzQS15Zl9WYWhMU1h3eloteGczRTFpMVlOWTc0NzBfWGRtbUVxTFN3UTNiaTI0d3JGN25JUzRCdGdBdW1PNUpHU3NldXBoZG1rek5seVJyc042bXhVenA4SHpDdmFpcE5pRTdPMVBzU0dOWHVJa3BEN2VRYWlkWDNBaDJCb1B2bG9OM1hjWDhST2VBX2VYVU5YblFYQmotOU5GcVRqUzdJck1ldGdVR01nRTZkMWh3V2VXX1NUZGQzLW1pOHJsTG02RQ?oc=5",
       "published": "Thu, 03 Sep 2026 11:08:22 GMT"
     },
@@ -120,10 +105,15 @@
       "published": "Thu, 03 Sep 2026 03:02:44 GMT"
     },
     {
-      "title": "India's market regulator to review derivatives settlement methodology - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkdiZlZOdmk4ajBZQVVkckgxa3V5WlFHM3JWODBNVXB5dXl6Y3I0MUxYRnA0Um41dFFpa19XdmFhZ1JJM0pqck9uY1o0RHVJRlNNZm5BQnUyMS1Gby1ya1F5dG5lQ2E3VzB0dDB2TDhTYlZQUVJEMlFMbmhlY2lLY1F1MEVEU2tabWdmZmJEdWliQ2JMYTVqT1ZGbDdUN3BzekFzRF8zbmdINUloRkxmZ1F4Yw?oc=5",
-      "published": "Thu, 03 Sep 2026 16:15:49 GMT"
+      "title": "India's new closing auction pushes options traders to smaller bets, heavier hedges - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEI1UnJ6ZG12aTJjbUZoUVNLR01DTEFoYjlkNVV4SWg3T3VvUW0xeXR1LVUtRzB2a20xemF6TC1FbHVYSmRmQW53MnlhNm1GTHlaX2FLM0xzd3BkNGNEZGQyUDJlSUhKRUU4T1JtYWlwWVV4MkJCYm1pWjN1N1huc3J1bGdjVkI3UGN2Zm9wZGVfei1iSDgxRDVxMm1XYnphdW80THMyTktRbkpSbjFIeWxGdktxaUU1djlnQkxBRzRBTWM?oc=5",
+      "published": "Thu, 03 Sep 2026 07:19:44 GMT"
+    },
+    {
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 03, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTVBCQU5sNDNBUXlBRUpkUFIwdzhsMVVBVnkzQU9VSVZfWkY1RG1xLVd0SFZ3MFk0VU1rT2tYS1ZZWkhMZkdRendxT2g0T3hsemF4Z3dnbi15NHNKYy1VQk9XcGo1UHgyZWRPZU8tNnpXTm1QcHA0My11dGNyVzhhR19wLUttYnhJbUdtQ0gwZkYxN01CUVFqU2pzcURBQWhZcmNaZ1BILVc5UWJpcVh5dkYxdGkxaEE?oc=5",
+      "published": "Thu, 03 Sep 2026 11:08:10 GMT"
     }
   ],
-  "last_updated": "2026-09-03 18:28 UTC"
+  "last_updated": "2026-09-03 18:43 UTC"
 }
