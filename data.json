@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53686.11,
-    "change": 624.16,
-    "pct": 1.18
+    "price": 53511.3,
+    "change": -174.81,
+    "pct": -0.33
   },
   "Nasdaq": {
-    "price": 26584.06,
-    "change": 366.23,
-    "pct": 1.4
+    "price": 26613.96,
+    "change": 29.9,
+    "pct": 0.11
   },
   "S&P 500": {
-    "price": 7747.71,
-    "change": 81.11,
-    "pct": 1.06
+    "price": 7740.71,
+    "change": -7.0,
+    "pct": -0.09
   },
   "Nikkei 225": {
     "price": 65020.94,
@@ -53,24 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 94.62,
-    "change": -0.9,
-    "pct": -0.94
+    "price": 94.49,
+    "change": -1.03,
+    "pct": -1.08
   },
   "Crude Oil (WTI)": {
-    "price": 90.28,
-    "change": -1.02,
-    "pct": -1.12
+    "price": 90.12,
+    "change": -1.18,
+    "pct": -1.29
   },
   "Gold": {
-    "price": 4440.2,
-    "change": -51.5,
-    "pct": -1.15
+    "price": 4454.4,
+    "change": -37.3,
+    "pct": -0.83
   },
   "Silver": {
-    "price": 65.91,
-    "change": -1.06,
-    "pct": -1.59
+    "price": 66.0,
+    "change": -0.97,
+    "pct": -1.45
   },
   "USD/INR": {
     "price": 94.47,
@@ -78,18 +78,18 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.23,
-    "change": 0.23,
-    "pct": 0.23
+    "price": 99.12,
+    "change": 0.12,
+    "pct": 0.12
   },
   "US 10Y Yield": {
-    "price": 4.79,
+    "price": 4.78,
     "change": 0.02,
-    "pct": 0.5
+    "pct": 0.38
   },
   "news": [
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -109,7 +109,7 @@
       "published": "Fri, 04 Sep 2026 01:28:40 GMT"
     },
     {
-      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - indiatoday.in",
+      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Fri, 04 Sep 2026 10:33:16 GMT"
     },
     {
-      "title": "Indian stocks climb after four-day losing streak; Sensex jumps 530 points - freepresskashmir.news",
+      "title": "Indian stocks climb after four-day losing streak; Sensex jumps 530 points - Free Press Kashmir",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk1aZjlDYjNLNVB3cUZlVnBrSWJsdzdLS1lOaFBDN19jMkhoUjlMYng4bGo5cjZNcEJFRDNmZ0UyeVU3VGZkejljQW1QVFd3WGNkQ0Z2THFSN1hXNzZPSjZjTW5FNDBtbEhwM0g3d1czMzR4VEZHVGo2b3lXYnhIQXJxUEEycU5uVW00MEU1VERzUTdSb1BOY3NuYmRMM1cyTnpwZnR1Zk5SdGRab2RpSVFrN3rSAboBQVVfeXFMT3F4TFVqWFd4c29tSldXR3Jhd1dzY1lrTGE2NHhQQXJ3a0I4WHF5bDZPQUdENDA4Z09UTHBGdnRDR1JkYzYyV01seWtOT2hOY1FzNkhfbXRtY0d3SzZLY0pyaUgxUlRMRjlFSHI2bXBpV1NLRnFqRHQ5eTVsUU92RTMwSmNDNURBWklXazlHMWpJUFlDZlUyMElwNFlPQ2dTNWY2c1IxSGNUR2J2cWRiaWtIZldGSmo4TVF3?oc=5",
       "published": "Fri, 04 Sep 2026 10:13:59 GMT"
     }
   ],
-  "last_updated": "2026-09-04 13:25 UTC"
+  "last_updated": "2026-09-04 13:38 UTC"
 }
