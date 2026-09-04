@@ -28,18 +28,18 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53307.68,
-    "change": -378.43,
-    "pct": -0.7
+    "price": 53321.25,
+    "change": -364.86,
+    "pct": -0.68
   },
   "Nasdaq": {
-    "price": 26464.39,
-    "change": -119.67,
+    "price": 26464.24,
+    "change": -119.82,
     "pct": -0.45
   },
   "S&P 500": {
-    "price": 7708.65,
-    "change": -39.06,
+    "price": 7708.95,
+    "change": -38.76,
     "pct": -0.5
   },
   "Nikkei 225": {
@@ -51,24 +51,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.13,
-    "change": -0.39,
-    "pct": -0.41
+    "price": 95.3,
+    "change": -0.22,
+    "pct": -0.23
   },
   "Crude Oil (WTI)": {
-    "price": 90.36,
-    "change": -0.94,
-    "pct": -1.03
+    "price": 90.59,
+    "change": -0.71,
+    "pct": -0.78
   },
   "Gold": {
-    "price": 4489.1,
-    "change": -2.6,
-    "pct": -0.06
+    "price": 4487.7,
+    "change": -4.0,
+    "pct": -0.09
   },
   "Silver": {
-    "price": 66.8,
-    "change": -0.17,
-    "pct": -0.26
+    "price": 66.77,
+    "change": -0.2,
+    "pct": -0.3
   },
   "USD/INR": {
     "price": 94.47,
@@ -83,7 +83,7 @@
   "US 10Y Yield": {
     "price": 4.77,
     "change": 0.01,
-    "pct": 0.25
+    "pct": 0.21
   },
   "news": [
     {
@@ -92,7 +92,7 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -122,10 +122,10 @@
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "Indian stocks climb after four-day losing streak; Sensex jumps 530 points - freepresskashmir.news",
+      "title": "Indian stocks climb after four-day losing streak; Sensex jumps 530 points - Free Press Kashmir",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRk1aZjlDYjNLNVB3cUZlVnBrSWJsdzdLS1lOaFBDN19jMkhoUjlMYng4bGo5cjZNcEJFRDNmZ0UyeVU3VGZkejljQW1QVFd3WGNkQ0Z2THFSN1hXNzZPSjZjTW5FNDBtbEhwM0g3d1czMzR4VEZHVGo2b3lXYnhIQXJxUEEycU5uVW00MEU1VERzUTdSb1BOY3NuYmRMM1cyTnpwZnR1Zk5SdGRab2RpSVFrN3rSAboBQVVfeXFMT3F4TFVqWFd4c29tSldXR3Jhd1dzY1lrTGE2NHhQQXJ3a0I4WHF5bDZPQUdENDA4Z09UTHBGdnRDR1JkYzYyV01seWtOT2hOY1FzNkhfbXRtY0d3SzZLY0pyaUgxUlRMRjlFSHI2bXBpV1NLRnFqRHQ5eTVsUU92RTMwSmNDNURBWklXazlHMWpJUFlDZlUyMElwNFlPQ2dTNWY2c1IxSGNUR2J2cWRiaWtIZldGSmo4TVF3?oc=5",
       "published": "Fri, 04 Sep 2026 10:13:59 GMT"
     }
   ],
-  "last_updated": "2026-09-04 15:25 UTC"
+  "last_updated": "2026-09-04 15:37 UTC"
 }
