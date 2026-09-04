@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23946.95,
-    "change": 73.5,
-    "pct": 0.31
+    "price": 23952.3,
+    "change": 78.85,
+    "pct": 0.33
   },
   "Bank Nifty": {
-    "price": 57541.0,
-    "change": 160.4,
+    "price": 57538.6,
+    "change": 158.0,
     "pct": 0.28
   },
   "Sensex": {
-    "price": 76674.67,
-    "change": 521.81,
-    "pct": 0.69
+    "price": 76702.48,
+    "change": 549.62,
+    "pct": 0.72
   },
   "India VIX": {
-    "price": 10.95,
-    "change": -0.39,
-    "pct": -3.4
+    "price": 10.92,
+    "change": -0.42,
+    "pct": -3.68
   },
   "Nifty IT": {
-    "price": 30736.75,
-    "change": -102.1,
-    "pct": -0.33
+    "price": 30723.55,
+    "change": -115.3,
+    "pct": -0.37
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,26 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.27,
-    "change": -0.25,
-    "pct": -0.26
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 90.77,
-    "change": -0.53,
-    "pct": -0.58
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4528.3,
-    "change": 36.6,
-    "pct": 0.81
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 67.72,
-    "change": 0.75,
-    "pct": 1.12
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.48,
+    "price": 94.47,
     "change": -0.01,
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.06,
-    "change": 0.06,
-    "pct": 0.06
+    "price": 99.07,
+    "change": 0.07,
+    "pct": 0.07
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -89,7 +81,7 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Thu, 03 Sep 2026 18:52:43 GMT"
     },
@@ -104,7 +96,7 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - equitymaster.com",
+      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDdRUHRjbXlKSC1PWHlXcDViTUdOYngxQnJiWkl5YXVlaFVtUWpsVm5ORG1YMEJUS016eDhzUHRtdFdCMnJQdFRkZ1Fuanh4VjllZkZQcUU1Vm9GVlRYb3RiR202ellEeS0zSlVyd1RVZkpTSHJxcGo4bHR3ZWFNclAxd2hadWJJTmUwMmZlOVB3NmdQYzVrenhzRmM4Y1BGVWNmak85MVpObHRmeG01TWJ3Wm01c2JMeEFaN0I4aG1tUlFnMGxiQ0UwOXNHY09LOWc?oc=5",
       "published": "Fri, 04 Sep 2026 04:41:42 GMT"
     },
@@ -129,5 +121,5 @@
       "published": "Fri, 04 Sep 2026 02:52:01 GMT"
     }
   ],
-  "last_updated": "2026-09-04 08:40 UTC"
+  "last_updated": "2026-09-04 08:52 UTC"
 }
