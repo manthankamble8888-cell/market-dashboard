@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53419.44,
-    "change": -266.67,
-    "pct": -0.5
+    "price": 53425.34,
+    "change": -260.77,
+    "pct": -0.49
   },
   "Nasdaq": {
-    "price": 26472.24,
-    "change": -111.82,
-    "pct": -0.42
+    "price": 26492.73,
+    "change": -91.33,
+    "pct": -0.34
   },
   "S&P 500": {
-    "price": 7713.9,
-    "change": -33.81,
-    "pct": -0.44
+    "price": 7717.14,
+    "change": -30.57,
+    "pct": -0.39
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 96.01,
-    "change": 0.49,
-    "pct": 0.51
+    "price": 96.29,
+    "change": 0.77,
+    "pct": 0.81
   },
   "Crude Oil (WTI)": {
-    "price": 91.21,
-    "change": -0.09,
-    "pct": -0.1
+    "price": 91.55,
+    "change": 0.25,
+    "pct": 0.27
   },
   "Gold": {
-    "price": 4474.0,
-    "change": -17.7,
-    "pct": -0.39
+    "price": 4471.9,
+    "change": -19.8,
+    "pct": -0.44
   },
   "Silver": {
-    "price": 66.6,
-    "change": -0.38,
-    "pct": -0.56
+    "price": 66.61,
+    "change": -0.36,
+    "pct": -0.54
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,14 +64,14 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.16,
-    "change": 0.16,
-    "pct": 0.16
+    "price": 99.17,
+    "change": 0.17,
+    "pct": 0.17
   },
   "US 10Y Yield": {
     "price": 4.78,
-    "change": 0.01,
-    "pct": 0.29
+    "change": 0.02,
+    "pct": 0.34
   },
   "news": [
     {
@@ -90,30 +90,30 @@
       "published": "Fri, 04 Sep 2026 15:50:00 GMT"
     },
     {
-      "title": "NSE IPO listing date, timeline: When Rs.30,000 cr issue is expected to hit Indian stock market exchanges - TradingView",
+      "title": "NSE IPO listing date, timeline: When Rs.30,000 cr issue is expected to hit Indian stock market exchanges - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbkszRDdTYzJFU3gxY0pUNE1LX250WDRKeEJ2ZS1Jc1ZLQU1fcWVpam9wNXBXaUVldk5sU0x5LWpWOFpubEIwS1NvbTFpbHpjdFF1RXVNTEFoeDhQZi1qbHJLQnl6c0E2dDlxLUlnT28wTTgwZm5VMEdNS1RlSjRUd2p2TFVUWDRSTXlVa2FudXZ0U0VraFFkZGVyQ0F5TFhSMDQ2R2p2YnlKV1A3YlA5VjVPcXE4Z3BoWG5maFl4V0lwY2ZUcUhqVmlpbEJUVFZTV0ZjSW9RcWRQM3NEYWdPSzZoLWV6VWVXVzRkVFB6STE?oc=5",
       "published": "Fri, 04 Sep 2026 17:50:43 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - Equitymaster",
+      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDdRUHRjbXlKSC1PWHlXcDViTUdOYngxQnJiWkl5YXVlaFVtUWpsVm5ORG1YMEJUS016eDhzUHRtdFdCMnJQdFRkZ1Fuanh4VjllZkZQcUU1Vm9GVlRYb3RiR202ellEeS0zSlVyd1RVZkpTSHJxcGo4bHR3ZWFNclAxd2hadWJJTmUwMmZlOVB3NmdQYzVrenhzRmM4Y1BGVWNmak85MVpObHRmeG01TWJ3Wm01c2JMeEFaN0I4aG1tUlFnMGxiQ0UwOXNHY09LOWc?oc=5",
       "published": "Fri, 04 Sep 2026 04:41:42 GMT"
     },
     {
-      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
+      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 September - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzdNckdKSk9mUmRDUklsU3VTZVZHM0F1Ti1jb2NLcU1WWVhlQ0FsekN3dHVFQ3E5MXBsZ0YzNi10RlROWWp4aWM5Q2MxVndibDNHNkJ3U3ZCQkxkd1JGUFJxbkRqSjZPZjY2N2xsd1NtYTRTUGJYcFFGUlo3M0xNOVNEZDF1SHpma2hmNmNxMkFTTGQxUDNGSDlOOXNjLVhWdTEtX2JOQThOd1NrbC1KY25TcEpJT0d6TDMyREVnVTY0TjVkbGxoTkZVd2R4S21KSTJPdW9fQW1fOGFHSVo1b0Fvck5hLUZlTDNqVmEzcTgyZk5mYnp1Q2NB0gH_AUFVX3lxTE1DdzJKTlFVOVJmc1p5QjdodG5lVFByMTJwY0FiRG5xMU42TmppQVBKem1OZTY2T3hjQ2RjOVpobWtnS2RnVUQtZXd2dGE1QkRtdEVjQW1BRS1JQi1SdnJHNFF6bUdqc1d3NzIxUDBUZ1JPYTVhb3RraUh5XzBwM3FNRXA2OTloeWVsQ21ES1JOV1E4ZlcxUDEyeWE2UmtPVms5M1BrbHEwSXVyWDFPTEZsYWs5SkxKM0xGa1dXTEhGcktWOWVhWll1S0Fhb1pQcktYU2ZUUTJCUEpHdFJDTXRGXzBqaVRjMkhxT2llVC0yc2pYSHktOWJLM2Z4NXN2MA?oc=5",
-      "published": "Fri, 04 Sep 2026 01:28:40 GMT"
+      "title": "Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGdPMkprNnlfZnZuVk5KYkYzMXliMVk4STEtSkV1ZlBaa1hKRlpQUWlFTFNEUE1zVGx1NTJKQ284d00xZ1JCQlVvdGJlT0VsV2dYUUhXOHlMTV9HOGJRZEZTOW9tbW9kTk5LRnFCSmZHRXU5R1NKdWc5U2YyLVBSWkp3QVpNRk9lZXE1Mi1qeS1hU0JRVVZVd0hkQ05tRXZ4emdrTnlIeGxBRUhMMnBkczdoUUswNUdJMDVyeWQ3R2dRU2dnU2Z3YzhnQkVteEozS2FncFh4VXRVN2ctQS1LelM2SkNGUjJobTBLN1BZLTBPRTFJc2wyUm8wUWNPY2PSAYQCQVVfeXFMUGRtLUZzclVBSFhRTkV2ZkVFbGlzNFRYbV85YVpKcWU0V0g1SWNxT09VODBIZ3MzWmJhVkdQRTh0WmNHSzFFTF9DNDB2UjFpOVlJVU9RaG52ZjhKSm5meUFaand2U3hoMERsZ1ItSzFBMjNSazN2dTMxWlF0Znd0Q29jNlhYRmxhdmJVaHRmOXBobXNOdFFGY0xWMXNYd2ZXVG1oYVhXOGFMTjRxWUdjeWZ3QU1MRmF2OHRTczZvb19zXzh5X2RCb241ckJtM3FyQ09TTmZ5dnJ5WXNHTzBlNE9iUENfTExzOHZ4aWRWcU54ZGY5SE43RzNsMFVLZ0RLc0E5OWw?oc=5",
+      "published": "Thu, 03 Sep 2026 10:16:47 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 04, 2026 - blog.liquide.life",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 04, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU3JjbDl5NkZWOHFrcHRLc0ZzT0RpcEI5VTRHRXRuSGdEb1gyeU51UE56cmV5d0pobEFPMmVJYVAtckhTYU1QNU45SExsUXVPZ0d2d0xQZ2I5MlFHTFlRWUxEUEZXRzJOM3BoY2FGSEQ4Smd6ZzNtSjhUbFIzdlY5d01OSloyNG14V3lPUUVPWURjX0ZuZkU4ektxSFJsMzJkSGljMDhtMVVTTzBKTUNB?oc=5",
       "published": "Fri, 04 Sep 2026 11:23:12 GMT"
     }
   ],
-  "last_updated": "2026-09-04 18:37 UTC"
+  "last_updated": "2026-09-04 18:50 UTC"
 }
