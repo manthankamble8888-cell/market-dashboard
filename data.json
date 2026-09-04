@@ -53,24 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.12,
-    "change": -0.4,
-    "pct": -0.42
+    "price": 94.87,
+    "change": -0.65,
+    "pct": -0.68
   },
   "Crude Oil (WTI)": {
-    "price": 90.62,
-    "change": -0.68,
-    "pct": -0.74
+    "price": 90.41,
+    "change": -0.89,
+    "pct": -0.97
   },
   "Gold": {
-    "price": 4519.4,
-    "change": 27.7,
-    "pct": 0.62
+    "price": 4520.4,
+    "change": 28.7,
+    "pct": 0.64
   },
   "Silver": {
-    "price": 67.39,
-    "change": 0.41,
-    "pct": 0.62
+    "price": 67.43,
+    "change": 0.46,
+    "pct": 0.69
   },
   "USD/INR": {
     "price": 94.49,
@@ -78,9 +78,9 @@
     "pct": -0.0
   },
   "Dollar Index": {
-    "price": 99.1,
-    "change": 0.1,
-    "pct": 0.1
+    "price": 99.08,
+    "change": 0.08,
+    "pct": 0.08
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -116,7 +116,7 @@
     {
       "title": "Indian Markets Open Higher as Sensex Gains 0.72% and Nifty Rises 0.38% - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHQ4YzdPdVpVMVZLS1ViblR6ekktMlJnVFBkQVlfbWQxQW1zbW1lZDB0Y0o5enVtUWcxdV9peTFqZXdtRjhuOFl1WHdiVGtUNV9mZzZyU2tiaG5EckgwUmVTbWFhUlRFVURrZW0tRGgtRDNmczFBLXpENk9HbEVaQ3ItZVlSdVdsbFRsLXNoWTIxdzlWaExlY2NkeWZ1a3kyU1Y0QjZBcFRuVEdRUzloSjNNR3pkaXpoVTM0NHVjMA?oc=5",
-      "published": "Fri, 04 Sep 2026 05:43:55 GMT"
+      "published": "Fri, 04 Sep 2026 05:50:51 GMT"
     },
     {
       "title": "Indian stocks climb after four-day losing streak; Sensex jumps 530 points - Free Press Kashmir",
@@ -124,10 +124,10 @@
       "published": "Fri, 04 Sep 2026 10:13:59 GMT"
     },
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     }
   ],
-  "last_updated": "2026-09-04 10:51 UTC"
+  "last_updated": "2026-09-04 11:06 UTC"
 }
