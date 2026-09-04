@@ -53,24 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.2,
-    "change": -0.32,
-    "pct": -0.34
+    "price": 95.12,
+    "change": -0.4,
+    "pct": -0.42
   },
   "Crude Oil (WTI)": {
-    "price": 90.71,
-    "change": -0.59,
-    "pct": -0.65
+    "price": 90.62,
+    "change": -0.68,
+    "pct": -0.74
   },
   "Gold": {
-    "price": 4516.3,
-    "change": 24.6,
-    "pct": 0.55
+    "price": 4519.4,
+    "change": 27.7,
+    "pct": 0.62
   },
   "Silver": {
-    "price": 67.36,
-    "change": 0.39,
-    "pct": 0.59
+    "price": 67.39,
+    "change": 0.41,
+    "pct": 0.62
   },
   "USD/INR": {
     "price": 94.49,
@@ -78,9 +78,9 @@
     "pct": -0.0
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": 0.11,
-    "pct": 0.11
+    "price": 99.1,
+    "change": 0.1,
+    "pct": 0.1
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -124,10 +124,10 @@
       "published": "Fri, 04 Sep 2026 10:13:59 GMT"
     },
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     }
   ],
-  "last_updated": "2026-09-04 10:37 UTC"
+  "last_updated": "2026-09-04 10:51 UTC"
 }
