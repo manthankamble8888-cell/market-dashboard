@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23951.75,
-    "change": 78.3,
-    "pct": 0.33
+    "price": 23949.1,
+    "change": 75.65,
+    "pct": 0.32
   },
   "Bank Nifty": {
-    "price": 57432.1,
-    "change": 51.5,
-    "pct": 0.09
+    "price": 57415.4,
+    "change": 34.8,
+    "pct": 0.06
   },
   "Sensex": {
-    "price": 76689.08,
-    "change": 536.22,
-    "pct": 0.7
+    "price": 76722.03,
+    "change": 569.17,
+    "pct": 0.75
   },
   "India VIX": {
-    "price": 11.01,
-    "change": -0.33,
-    "pct": -2.93
+    "price": 11.0,
+    "change": -0.34,
+    "pct": -3.02
   },
   "Nifty IT": {
-    "price": 30940.4,
-    "change": 101.55,
-    "pct": 0.33
+    "price": 30899.95,
+    "change": 61.1,
+    "pct": 0.2
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": 1.06
   },
   "Nikkei 225": {
-    "price": 64997.79,
-    "change": 783.31,
-    "pct": 1.22
+    "price": 65066.56,
+    "change": 852.08,
+    "pct": 1.33
   },
   "Hang Seng": {
     "price": 25737.6,
@@ -53,34 +53,34 @@
     "pct": 2.08
   },
   "Crude Oil (Brent)": {
-    "price": 95.93,
-    "change": 0.41,
-    "pct": 0.43
+    "price": 95.69,
+    "change": 0.17,
+    "pct": 0.18
   },
   "Crude Oil (WTI)": {
-    "price": 91.9,
-    "change": 0.6,
-    "pct": 0.66
+    "price": 91.75,
+    "change": 0.45,
+    "pct": 0.49
   },
   "Gold": {
-    "price": 4516.8,
-    "change": 25.1,
-    "pct": 0.56
+    "price": 4520.9,
+    "change": 29.2,
+    "pct": 0.65
   },
   "Silver": {
-    "price": 67.24,
-    "change": 0.26,
-    "pct": 0.39
+    "price": 67.3,
+    "change": 0.33,
+    "pct": 0.49
   },
   "USD/INR": {
-    "price": 94.48,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 94.49,
+    "change": -0.0,
+    "pct": -0.0
   },
   "Dollar Index": {
-    "price": 99.05,
-    "change": 0.05,
-    "pct": 0.05
+    "price": 99.02,
+    "change": 0.02,
+    "pct": 0.02
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -99,22 +99,22 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
     {
-      "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWNzTnpjcEtTaTVLcHZRWjdhcUhhODdtMW1CaWxVSVhiLTRvcGZobzN2UE5CVW1pQmxsamJmMDc3VHUxQWU3VUNyMV8tUWN2dVZGMU9RcmJhTnp1aWhVSS1zVl9MU3VBQ0UySFlaUjFpQVk5bXNnMFd2QlpnNUdQUTVRQi1hc2J0dUpnSUVKek03Q0k5UXhhSzBkUnRYbzh0Q1lMV2lYanlydjZiUE9iVVdR0gG6AUFVX3lxTFBwVGxfTzVOb2htNE1xc0Y5dDZodGV1eUFMWlBnS3NJMy1RLVB2ZHUydEtXMTExMW4yd2o2UTBVNjRILTZqX3hFSlYwcDZucHhqS0RONHNaNVM3QWZoNG80dHpPSXBIQk5YaEJSdU1sbURYclpuN0d2NWl6UC1pOHFFNWNLdHZrR25nQ0hQZ0I3MkkyUms4U2M5aHhDdTlDS2lFNlN2eGdsUGhoZ0x5WXlIT2p2M0pCTDkxdw?oc=5",
-      "published": "Fri, 04 Sep 2026 02:52:01 GMT"
-    },
-    {
-      "title": "Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday - Livemint",
+      "title": "Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGdPMkprNnlfZnZuVk5KYkYzMXliMVk4STEtSkV1ZlBaa1hKRlpQUWlFTFNEUE1zVGx1NTJKQ284d00xZ1JCQlVvdGJlT0VsV2dYUUhXOHlMTV9HOGJRZEZTOW9tbW9kTk5LRnFCSmZHRXU5R1NKdWc5U2YyLVBSWkp3QVpNRk9lZXE1Mi1qeS1hU0JRVVZVd0hkQ05tRXZ4emdrTnlIeGxBRUhMMnBkczdoUUswNUdJMDVyeWQ3R2dRU2dnU2Z3YzhnQkVteEozS2FncFh4VXRVN2ctQS1LelM2SkNGUjJobTBLN1BZLTBPRTFJc2wyUm8wUWNPY2PSAYQCQVVfeXFMUGRtLUZzclVBSFhRTkV2ZkVFbGlzNFRYbV85YVpKcWU0V0g1SWNxT09VODBIZ3MzWmJhVkdQRTh0WmNHSzFFTF9DNDB2UjFpOVlJVU9RaG52ZjhKSm5meUFaand2U3hoMERsZ1ItSzFBMjNSazN2dTMxWlF0Znd0Q29jNlhYRmxhdmJVaHRmOXBobXNOdFFGY0xWMXNYd2ZXVG1oYVhXOGFMTjRxWUdjeWZ3QU1MRmF2OHRTczZvb19zXzh5X2RCb241ckJtM3FyQ09TTmZ5dnJ5WXNHTzBlNE9iUENfTExzOHZ4aWRWcU54ZGY5SE43RzNsMFVLZ0RLc0E5OWw?oc=5",
       "published": "Thu, 03 Sep 2026 10:16:47 GMT"
     },
     {
-      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - indiatoday.in",
+      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMTVaR1p2TExyMGhKSmlWUDM3V29PT2tCTXY2eGFacVpRaHM2UlluUFFhd0NYakdJeXpCYkU2NGRScGZlNDhfWlZHUlQ2d3lvUVFVdEpkcmJlZWF2aGNqVVNHeE5JOGptMWJfUGl3d2p0STQ4ZURwV05GWjVXcWFFbWFSdHBMaFBBOTRKVnpUM0docldvMnkySDRXUl93SEU1UmpiMUZ6c2otMFAzRHZpcFRwX2c3bnpJSmFNZHJNclFxdnlvT2hSN2FRTDQ3RnctN3k2WUZQU3dPODlJMUVOV0ptaVFacFowNy1oTC0yamFWaTMzVmp0eFN3MjNtc1c2UXFaRTdqNExZUDdUT2t6X2pRVHNKenJycnJObDdydGlWd184T21FSThDTTlaT1YxRWxfTnRZcXE?oc=5",
+      "published": "Fri, 04 Sep 2026 04:41:42 GMT"
+    },
+    {
+      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Wed, 02 Sep 2026 02:23:00 GMT"
     },
     {
-      "title": "Kirloskar Oil Engines Collaborates with DEUTZ | Clean Max Enviro Energy Block Deal Update | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOXQyYmdIT3FTM3lDZnR5WGU4WWxvSGlqQjRZaHo1aFhpNDJPRm9xVjNDZVkxYmFvUm9tVGRYek5kX3FycGJPNEdLWDFWLXBQTks5dkxtcGhSTUU3RmRaZnl2bk9wNk5WLTR4Vi1hUC02WVk5T2o2VXpkT2piNGloSVNLSGVacjNQM2JjbGdVcm9tUWxxUXJydzR4ckFMMW5kRjZ3TU92aTdHSUY0ZFRleVE0ejNtSFp6cGtFWHppLWxyU1lLWF9nZXFlUlNSRTdrZkJxLUZlNThQd2E4ZmlQeGhXQnkwekFnQ1BUWHQ2clpmblVZV3JjT18xb0V0Ti15Rlpr?oc=5",
-      "published": "Fri, 04 Sep 2026 00:30:01 GMT"
+      "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWNzTnpjcEtTaTVLcHZRWjdhcUhhODdtMW1CaWxVSVhiLTRvcGZobzN2UE5CVW1pQmxsamJmMDc3VHUxQWU3VUNyMV8tUWN2dVZGMU9RcmJhTnp1aWhVSS1zVl9MU3VBQ0UySFlaUjFpQVk5bXNnMFd2QlpnNUdQUTVRQi1hc2J0dUpnSUVKek03Q0k5UXhhSzBkUnRYbzh0Q1lMV2lYanlydjZiUE9iVVdR0gG6AUFVX3lxTFBwVGxfTzVOb2htNE1xc0Y5dDZodGV1eUFMWlBnS3NJMy1RLVB2ZHUydEtXMTExMW4yd2o2UTBVNjRILTZqX3hFSlYwcDZucHhqS0RONHNaNVM3QWZoNG80dHpPSXBIQk5YaEJSdU1sbURYclpuN0d2NWl6UC1pOHFFNWNLdHZrR25nQ0hQZ0I3MkkyUms4U2M5aHhDdTlDS2lFNlN2eGdsUGhoZ0x5WXlIT2p2M0pCTDkxdw?oc=5",
+      "published": "Fri, 04 Sep 2026 02:52:01 GMT"
     }
   ],
-  "last_updated": "2026-09-04 04:38 UTC"
+  "last_updated": "2026-09-04 04:50 UTC"
 }
