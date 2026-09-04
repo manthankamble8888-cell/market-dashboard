@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23938.8,
-    "change": 65.35,
-    "pct": 0.27
+    "price": 23941.55,
+    "change": 68.1,
+    "pct": 0.29
   },
   "Bank Nifty": {
-    "price": 57594.15,
-    "change": 213.55,
-    "pct": 0.37
+    "price": 57547.8,
+    "change": 167.2,
+    "pct": 0.29
   },
   "Sensex": {
-    "price": 76725.61,
-    "change": 572.75,
-    "pct": 0.75
+    "price": 76678.39,
+    "change": 525.53,
+    "pct": 0.69
   },
   "India VIX": {
-    "price": 10.96,
-    "change": -0.38,
-    "pct": -3.35
+    "price": 10.97,
+    "change": -0.37,
+    "pct": -3.24
   },
   "Nifty IT": {
-    "price": 30751.35,
-    "change": -87.5,
-    "pct": -0.28
+    "price": 30737.5,
+    "change": -101.35,
+    "pct": -0.33
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,29 +48,21 @@
     "pct": 1.26
   },
   "Hang Seng": {
-    "price": 25673.23,
-    "change": 459.92,
-    "pct": 1.82
+    "price": 25650.87,
+    "change": 437.56,
+    "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.09,
-    "change": -0.43,
-    "pct": -0.45
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 90.78,
-    "change": -0.52,
-    "pct": -0.57
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4532.5,
-    "change": 40.8,
-    "pct": 0.91
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 67.57,
-    "change": 0.6,
-    "pct": 0.9
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
     "price": 94.48,
@@ -78,9 +70,9 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.06,
-    "change": 0.06,
-    "pct": 0.06
+    "price": 99.08,
+    "change": 0.08,
+    "pct": 0.08
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -94,7 +86,7 @@
       "published": "Thu, 03 Sep 2026 18:52:43 GMT"
     },
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -124,10 +116,10 @@
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
     {
-      "title": "Indian shares join global slide as Mideast woes mount - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
-      "published": "Wed, 02 Sep 2026 02:23:00 GMT"
+      "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWNzTnpjcEtTaTVLcHZRWjdhcUhhODdtMW1CaWxVSVhiLTRvcGZobzN2UE5CVW1pQmxsamJmMDc3VHUxQWU3VUNyMV8tUWN2dVZGMU9RcmJhTnp1aWhVSS1zVl9MU3VBQ0UySFlaUjFpQVk5bXNnMFd2QlpnNUdQUTVRQi1hc2J0dUpnSUVKek03Q0k5UXhhSzBkUnRYbzh0Q1lMV2lYanlydjZiUE9iVVdR0gG6AUFVX3lxTFBwVGxfTzVOb2htNE1xc0Y5dDZodGV1eUFMWlBnS3NJMy1RLVB2ZHUydEtXMTExMW4yd2o2UTBVNjRILTZqX3hFSlYwcDZucHhqS0RONHNaNVM3QWZoNG80dHpPSXBIQk5YaEJSdU1sbURYclpuN0d2NWl6UC1pOHFFNWNLdHZrR25nQ0hQZ0I3MkkyUms4U2M5aHhDdTlDS2lFNlN2eGdsUGhoZ0x5WXlIT2p2M0pCTDkxdw?oc=5",
+      "published": "Fri, 04 Sep 2026 02:52:01 GMT"
     }
   ],
-  "last_updated": "2026-09-04 08:06 UTC"
+  "last_updated": "2026-09-04 08:26 UTC"
 }
