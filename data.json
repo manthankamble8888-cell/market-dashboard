@@ -53,24 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.13,
-    "change": -0.39,
-    "pct": -0.41
+    "price": 94.81,
+    "change": -0.71,
+    "pct": -0.74
   },
   "Crude Oil (WTI)": {
-    "price": 90.71,
-    "change": -0.59,
-    "pct": -0.65
+    "price": 90.43,
+    "change": -0.87,
+    "pct": -0.95
   },
   "Gold": {
-    "price": 4515.1,
-    "change": 23.4,
-    "pct": 0.52
+    "price": 4512.4,
+    "change": 20.7,
+    "pct": 0.46
   },
   "Silver": {
-    "price": 67.57,
-    "change": 0.6,
-    "pct": 0.89
+    "price": 67.54,
+    "change": 0.56,
+    "pct": 0.84
   },
   "USD/INR": {
     "price": 94.49,
@@ -78,18 +78,16 @@
     "pct": -0.0
   },
   "Dollar Index": {
-    "price": 99.06,
-    "change": 0.06,
-    "pct": 0.06
+    "price": 99.05,
+    "change": 0.05,
+    "pct": 0.05
   },
   "US 10Y Yield": {
-    "price": 4.76,
-    "change": -0.03,
-    "pct": -0.71
+    "error": "single positional indexer is out-of-bounds"
   },
   "news": [
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -129,5 +127,5 @@
       "published": "Fri, 04 Sep 2026 10:13:59 GMT"
     }
   ],
-  "last_updated": "2026-09-04 12:08 UTC"
+  "last_updated": "2026-09-04 12:30 UTC"
 }
