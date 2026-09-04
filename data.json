@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.95,
-    "change": 0.32,
-    "pct": 0.33
+    "price": 96.05,
+    "change": 0.42,
+    "pct": 0.44
   },
   "Crude Oil (WTI)": {
-    "price": 91.84,
-    "change": 0.83,
-    "pct": 0.91
+    "price": 91.93,
+    "change": 0.92,
+    "pct": 1.01
   },
   "Gold": {
-    "price": 4521.6,
-    "change": 155.3,
-    "pct": 3.56
+    "price": 4520.0,
+    "change": 153.7,
+    "pct": 3.52
   },
   "Silver": {
-    "price": 67.35,
-    "change": 2.63,
-    "pct": 4.06
+    "price": 67.38,
+    "change": 2.66,
+    "pct": 4.11
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,9 +64,9 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 98.98,
-    "change": -0.58,
-    "pct": -0.58
+    "price": 99.0,
+    "change": -0.56,
+    "pct": -0.57
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -110,10 +110,10 @@
       "published": "Thu, 03 Sep 2026 12:50:59 GMT"
     },
     {
-      "title": "Market Wrap: Sensex, Nifty decline for fourth day as IT, auto stocks drag - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0FSVUZpZWZOMmlyZEp6VDJMSk92SFJVdUZwQjdsMDJaWUJiZDVZdEx4cW84VjhJVXdEWjFsRnNKSUdnS2pER2hhb2VSWGtOMUNwdk9QUXlYLVYxTW1uQUU1V2RtU2Uya2xwaVJkMkd6a3JpaTBMMU8zMFVnY1RnUmg0ZEpwbDlOMnNCdEcxc3ZKQWxMOGg2c1FjRG9sT2M?oc=5",
-      "published": "Thu, 03 Sep 2026 18:28:00 GMT"
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 September - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzdNckdKSk9mUmRDUklsU3VTZVZHM0F1Ti1jb2NLcU1WWVhlQ0FsekN3dHVFQ3E5MXBsZ0YzNi10RlROWWp4aWM5Q2MxVndibDNHNkJ3U3ZCQkxkd1JGUFJxbkRqSjZPZjY2N2xsd1NtYTRTUGJYcFFGUlo3M0xNOVNEZDF1SHpma2hmNmNxMkFTTGQxUDNGSDlOOXNjLVhWdTEtX2JOQThOd1NrbC1KY25TcEpJT0d6TDMyREVnVTY0TjVkbGxoTkZVd2R4S21KSTJPdW9fQW1fOGFHSVo1b0Fvck5hLUZlTDNqVmEzcTgyZk5mYnp1Q2NB0gH_AUFVX3lxTE1DdzJKTlFVOVJmc1p5QjdodG5lVFByMTJwY0FiRG5xMU42TmppQVBKem1OZTY2T3hjQ2RjOVpobWtnS2RnVUQtZXd2dGE1QkRtdEVjQW1BRS1JQi1SdnJHNFF6bUdqc1d3NzIxUDBUZ1JPYTVhb3RraUh5XzBwM3FNRXA2OTloeWVsQ21ES1JOV1E4ZlcxUDEyeWE2UmtPVms5M1BrbHEwSXVyWDFPTEZsYWs5SkxKM0xGa1dXTEhGcktWOWVhWll1S0Fhb1pQcktYU2ZUUTJCUEpHdFJDTXRGXzBqaVRjMkhxT2llVC0yc2pYSHktOWJLM2Z4NXN2MA?oc=5",
+      "published": "Fri, 04 Sep 2026 01:28:40 GMT"
     }
   ],
-  "last_updated": "2026-09-04 01:35 UTC"
+  "last_updated": "2026-09-04 01:50 UTC"
 }
