@@ -1,54 +1,76 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23938.8,
+    "change": 65.35,
+    "pct": 0.27
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 57594.15,
+    "change": 213.55,
+    "pct": 0.37
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 76725.61,
+    "change": 572.75,
+    "pct": 0.75
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 10.96,
+    "change": -0.38,
+    "pct": -3.35
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 30751.35,
+    "change": -87.5,
+    "pct": -0.28
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "price": 53686.11,
+    "change": 624.16,
+    "pct": 1.18
   },
   "Nasdaq": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "price": 26584.06,
+    "change": 366.23,
+    "pct": 1.4
   },
   "S&P 500": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "price": 7747.71,
+    "change": 81.11,
+    "pct": 1.06
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 65020.94,
+    "change": 806.46,
+    "pct": 1.26
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25673.23,
+    "change": 459.92,
+    "pct": 1.82
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 95.09,
+    "change": -0.43,
+    "pct": -0.45
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 90.78,
+    "change": -0.52,
+    "pct": -0.57
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4532.5,
+    "change": 40.8,
+    "pct": 0.91
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 67.57,
+    "change": 0.6,
+    "pct": 0.9
   },
   "USD/INR": {
     "price": 94.48,
@@ -56,10 +78,14 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 99.06,
+    "change": 0.06,
+    "pct": 0.06
   },
   "US 10Y Yield": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4.76,
+    "change": -0.03,
+    "pct": -0.71
   },
   "news": [
     {
@@ -68,7 +94,7 @@
       "published": "Thu, 03 Sep 2026 18:52:43 GMT"
     },
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -103,5 +129,5 @@
       "published": "Wed, 02 Sep 2026 02:23:00 GMT"
     }
   ],
-  "last_updated": "2026-09-04 07:51 UTC"
+  "last_updated": "2026-09-04 08:06 UTC"
 }
