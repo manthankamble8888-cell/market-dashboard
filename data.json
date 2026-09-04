@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53386.53,
-    "change": -299.58,
-    "pct": -0.56
+    "price": 53395.53,
+    "change": -290.58,
+    "pct": -0.54
   },
   "Nasdaq": {
-    "price": 26500.84,
-    "change": -83.22,
+    "price": 26502.0,
+    "change": -82.06,
     "pct": -0.31
   },
   "S&P 500": {
-    "price": 7715.43,
-    "change": -32.28,
-    "pct": -0.42
+    "price": 7716.74,
+    "change": -30.97,
+    "pct": -0.4
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 96.22,
-    "change": 0.7,
-    "pct": 0.73
+    "price": 96.19,
+    "change": 0.67,
+    "pct": 0.7
   },
   "Crude Oil (WTI)": {
-    "price": 91.47,
-    "change": 0.17,
-    "pct": 0.19
+    "price": 91.39,
+    "change": 0.09,
+    "pct": 0.1
   },
   "Gold": {
-    "price": 4477.5,
-    "change": -14.2,
-    "pct": -0.32
+    "price": 4482.6,
+    "change": -9.1,
+    "pct": -0.2
   },
   "Silver": {
-    "price": 66.71,
-    "change": -0.26,
-    "pct": -0.39
+    "price": 66.82,
+    "change": -0.16,
+    "pct": -0.24
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,8 +64,8 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.15,
-    "change": 0.15,
+    "price": 99.14,
+    "change": 0.14,
     "pct": 0.15
   },
   "US 10Y Yield": {
@@ -75,14 +75,14 @@
   },
   "news": [
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
-      "published": "Fri, 04 Sep 2026 02:24:00 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
+    },
+    {
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
+      "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
     {
       "title": "Stock Market Weekly Market Round-Up August 31-Sep 04 - The Indian Awaaz",
@@ -90,17 +90,12 @@
       "published": "Fri, 04 Sep 2026 15:50:00 GMT"
     },
     {
-      "title": "NSE IPO listing date, timeline: When Rs.30,000 cr issue is expected to hit Indian stock market exchanges - tradingview.com",
+      "title": "NSE IPO listing date, timeline: When Rs.30,000 cr issue is expected to hit Indian stock market exchanges - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbkszRDdTYzJFU3gxY0pUNE1LX250WDRKeEJ2ZS1Jc1ZLQU1fcWVpam9wNXBXaUVldk5sU0x5LWpWOFpubEIwS1NvbTFpbHpjdFF1RXVNTEFoeDhQZi1qbHJLQnl6c0E2dDlxLUlnT28wTTgwZm5VMEdNS1RlSjRUd2p2TFVUWDRSTXlVa2FudXZ0U0VraFFkZGVyQ0F5TFhSMDQ2R2p2YnlKV1A3YlA5VjVPcXE4Z3BoWG5maFl4V0lwY2ZUcUhqVmlpbEJUVFZTV0ZjSW9RcWRQM3NEYWdPSzZoLWV6VWVXVzRkVFB6STE?oc=5",
       "published": "Fri, 04 Sep 2026 17:50:43 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Fri, 04 Sep 2026 17:24:33 GMT"
-    },
-    {
-      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
+      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
@@ -113,7 +108,12 @@
       "title": "Stock market prediction for Sept 4: What will happen to Sensex, Nifty, Bank Nifty, KOSPI, Nikkei on Friday - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaGdPMkprNnlfZnZuVk5KYkYzMXliMVk4STEtSkV1ZlBaa1hKRlpQUWlFTFNEUE1zVGx1NTJKQ284d00xZ1JCQlVvdGJlT0VsV2dYUUhXOHlMTV9HOGJRZEZTOW9tbW9kTk5LRnFCSmZHRXU5R1NKdWc5U2YyLVBSWkp3QVpNRk9lZXE1Mi1qeS1hU0JRVVZVd0hkQ05tRXZ4emdrTnlIeGxBRUhMMnBkczdoUUswNUdJMDVyeWQ3R2dRU2dnU2Z3YzhnQkVteEozS2FncFh4VXRVN2ctQS1LelM2SkNGUjJobTBLN1BZLTBPRTFJc2wyUm8wUWNPY2PSAYQCQVVfeXFMUGRtLUZzclVBSFhRTkV2ZkVFbGlzNFRYbV85YVpKcWU0V0g1SWNxT09VODBIZ3MzWmJhVkdQRTh0WmNHSzFFTF9DNDB2UjFpOVlJVU9RaG52ZjhKSm5meUFaand2U3hoMERsZ1ItSzFBMjNSazN2dTMxWlF0Znd0Q29jNlhYRmxhdmJVaHRmOXBobXNOdFFGY0xWMXNYd2ZXVG1oYVhXOGFMTjRxWUdjeWZ3QU1MRmF2OHRTczZvb19zXzh5X2RCb241ckJtM3FyQ09TTmZ5dnJ5WXNHTzBlNE9iUENfTExzOHZ4aWRWcU54ZGY5SE43RzNsMFVLZ0RLc0E5OWw?oc=5",
       "published": "Thu, 03 Sep 2026 10:16:47 GMT"
+    },
+    {
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
+      "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     }
   ],
-  "last_updated": "2026-09-04 19:34 UTC"
+  "last_updated": "2026-09-04 19:48 UTC"
 }
