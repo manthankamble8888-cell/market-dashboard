@@ -1,56 +1,42 @@
 {
   "Nifty 50": {
-    "price": 23899.35,
-    "change": 25.9,
-    "pct": 0.11
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 57382.65,
-    "change": 2.05,
-    "pct": 0.0
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 76644.13,
-    "change": 491.27,
-    "pct": 0.65
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 11.09,
-    "change": -0.25,
-    "pct": -2.18
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 30980.7,
-    "change": 141.85,
-    "pct": 0.46
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 53686.11,
-    "change": 624.16,
-    "pct": 1.18
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Nasdaq": {
-    "price": 26584.06,
-    "change": 366.23,
-    "pct": 1.4
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "S&P 500": {
-    "price": 7747.71,
-    "change": 81.11,
-    "pct": 1.06
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Nikkei 225": {
-    "price": 64899.07,
-    "change": 684.59,
-    "pct": 1.07
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 25729.65,
-    "change": 516.34,
-    "pct": 2.05
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -84,14 +70,14 @@
       "published": "Thu, 03 Sep 2026 18:52:43 GMT"
     },
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
-      "published": "Fri, 04 Sep 2026 02:24:00 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
+    },
+    {
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
+      "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
     {
       "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
@@ -119,5 +105,5 @@
       "published": "Fri, 04 Sep 2026 00:30:01 GMT"
     }
   ],
-  "last_updated": "2026-09-04 04:06 UTC"
+  "last_updated": "2026-09-04 04:24 UTC"
 }
