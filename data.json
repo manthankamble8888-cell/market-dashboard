@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23955.75,
-    "change": 82.3,
-    "pct": 0.34
+    "price": 23938.2,
+    "change": 64.75,
+    "pct": 0.27
   },
   "Bank Nifty": {
-    "price": 57554.7,
-    "change": 174.1,
-    "pct": 0.3
+    "price": 57488.45,
+    "change": 107.85,
+    "pct": 0.19
   },
   "Sensex": {
-    "price": 76693.06,
-    "change": 540.2,
-    "pct": 0.71
+    "price": 76666.48,
+    "change": 513.62,
+    "pct": 0.67
   },
   "India VIX": {
-    "price": 10.9,
-    "change": -0.44,
-    "pct": -3.86
+    "price": 10.85,
+    "change": -0.49,
+    "pct": -4.34
   },
   "Nifty IT": {
-    "price": 30728.15,
-    "change": -110.7,
-    "pct": -0.36
+    "price": 30724.65,
+    "change": -114.2,
+    "pct": -0.37
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,29 +53,29 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.02,
-    "change": -0.5,
-    "pct": -0.52
+    "price": 95.37,
+    "change": -0.15,
+    "pct": -0.16
   },
   "Crude Oil (WTI)": {
-    "price": 90.56,
-    "change": -0.74,
-    "pct": -0.81
+    "price": 90.94,
+    "change": -0.36,
+    "pct": -0.39
   },
   "Gold": {
-    "price": 4523.9,
-    "change": 32.2,
-    "pct": 0.72
+    "price": 4515.2,
+    "change": 23.5,
+    "pct": 0.52
   },
   "Silver": {
-    "price": 67.63,
-    "change": 0.66,
-    "pct": 0.98
+    "price": 67.43,
+    "change": 0.45,
+    "pct": 0.67
   },
   "USD/INR": {
-    "price": 94.49,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 94.48,
+    "change": -0.01,
+    "pct": -0.01
   },
   "Dollar Index": {
     "price": 99.07,
@@ -87,6 +87,47 @@
     "change": -0.03,
     "pct": -0.71
   },
-  "news": [],
-  "last_updated": "2026-09-04 09:06 UTC"
+  "news": [
+    {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Thu, 03 Sep 2026 18:52:43 GMT"
+    },
+    {
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
+      "published": "Fri, 04 Sep 2026 02:24:00 GMT"
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Higher | Nifty Above 23,900 | Bharat Elec & Trent Top Gainers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWDdRUHRjbXlKSC1PWHlXcDViTUdOYngxQnJiWkl5YXVlaFVtUWpsVm5ORG1YMEJUS016eDhzUHRtdFdCMnJQdFRkZ1Fuanh4VjllZkZQcUU1Vm9GVlRYb3RiR202ellEeS0zSlVyd1RVZkpTSHJxcGo4bHR3ZWFNclAxd2hadWJJTmUwMmZlOVB3NmdQYzVrenhzRmM4Y1BGVWNmak85MVpObHRmeG01TWJ3Wm01c2JMeEFaN0I4aG1tUlFnMGxiQ0UwOXNHY09LOWc?oc=5",
+      "published": "Fri, 04 Sep 2026 04:41:42 GMT"
+    },
+    {
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 4 September - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzdNckdKSk9mUmRDUklsU3VTZVZHM0F1Ti1jb2NLcU1WWVhlQ0FsekN3dHVFQ3E5MXBsZ0YzNi10RlROWWp4aWM5Q2MxVndibDNHNkJ3U3ZCQkxkd1JGUFJxbkRqSjZPZjY2N2xsd1NtYTRTUGJYcFFGUlo3M0xNOVNEZDF1SHpma2hmNmNxMkFTTGQxUDNGSDlOOXNjLVhWdTEtX2JOQThOd1NrbC1KY25TcEpJT0d6TDMyREVnVTY0TjVkbGxoTkZVd2R4S21KSTJPdW9fQW1fOGFHSVo1b0Fvck5hLUZlTDNqVmEzcTgyZk5mYnp1Q2NB0gH_AUFVX3lxTE1DdzJKTlFVOVJmc1p5QjdodG5lVFByMTJwY0FiRG5xMU42TmppQVBKem1OZTY2T3hjQ2RjOVpobWtnS2RnVUQtZXd2dGE1QkRtdEVjQW1BRS1JQi1SdnJHNFF6bUdqc1d3NzIxUDBUZ1JPYTVhb3RraUh5XzBwM3FNRXA2OTloeWVsQ21ES1JOV1E4ZlcxUDEyeWE2UmtPVms5M1BrbHEwSXVyWDFPTEZsYWs5SkxKM0xGa1dXTEhGcktWOWVhWll1S0Fhb1pQcktYU2ZUUTJCUEpHdFJDTXRGXzBqaVRjMkhxT2llVC0yc2pYSHktOWJLM2Z4NXN2MA?oc=5",
+      "published": "Fri, 04 Sep 2026 01:28:40 GMT"
+    },
+    {
+      "title": "Why is the stock market falling today? 3 reasons behind Sensex, Nifty sell-off - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX3dVNXZzSFQyTkF5b2J2aUkzb240anVyQzhzVjRfQ3lFLVNleEZwZFpXdTgzVnpBTXpsWjVNRDcyT3dxR0xoc1N2ZHQ4Q1E2cTZuS0NqQmRuam9nZU56VWJ6dTZrZ01jc01rbnJTUHdGTkNEMXJqOUNXUVlmMjlTZDRPcVBtbFExQ21rc2MyeDZJQjZwcVRtbDhTcWNfTlZoWDBvWnVCNTJCREs5V3ROVmxoV2wwcU54ajRsQzNlMF9PWWpLZ2dkTktjUHVzY3haNHFpZWtGLXE2VW44Vng5OFRtSXVKdXPSAewBQVVfeXFMTUJ0eEVWWm5GTEF6bmVBV3NYRVZTdlJ1OGJUN2VnMnZUZGx6OGx0QnZacGYxSkNXTzlWWV9ZQUc2Y2V3aXY0LWxkRVRSdHdxT19OOWI4U1Jmcy0wOUk0Q0Q4Q3NxbFdYYkJsNnpVNEJ5YktsUlhzMGdVeE4wZmpPeDJwNldnTjVTNzNhbEpaT0NETlg3SmhJcUhpam03UUhfZ3AtaTVSVDI4cHk1R2xHMEw1LTdQQU52SW9OSXRGb1hhTWs1TzhhWkZpX3o1dzNLeEJQR3NtYTNtVFdmNVNZemlkR0ZSTm42bGt3RFo?oc=5",
+      "published": "Wed, 02 Sep 2026 04:48:24 GMT"
+    },
+    {
+      "title": "Indian Markets Open Higher as Sensex Gains 0.72% and Nifty Rises 0.38% - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVHQ4YzdPdVpVMVZLS1ViblR6ekktMlJnVFBkQVlfbWQxQW1zbW1lZDB0Y0o5enVtUWcxdV9peTFqZXdtRjhuOFl1WHdiVGtUNV9mZzZyU2tiaG5EckgwUmVTbWFhUlRFVURrZW0tRGgtRDNmczFBLXpENk9HbEVaQ3ItZVlSdVdsbFRsLXNoWTIxdzlWaExlY2NkeWZ1a3kyU1Y0QjZBcFRuVEdRUzloSjNNR3pkaXpoVTM0NHVjMA?oc=5",
+      "published": "Fri, 04 Sep 2026 05:43:55 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex jumps 660 pts, Nifty nears 24,000; Reliance, HDFC Bank lend - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREM1cnVFN2w5eW9JTy1YN1VWelAwZXRqN2tOMDZuaUZVbVJyM1BzUzd4Yk9ZbW4tbWpqM3FsV2k2NVpPVTQwcVpISjNleHJwci1kZ1FwS2E0T1lWaThSclo2T3lwdnVvR1NYM2pHSk9ZV0xmc1FLTmFHUVY3NVVBSkZYNC13alF4LUV2bkhhTUdRdjA1YW51bjhkZ19ndTNJcFU1YUQzVHVWZHJ6cURlS2FON24tM2cycFJuLTU1MTRRQmdiUXE5Vg?oc=5",
+      "published": "Fri, 04 Sep 2026 07:45:47 GMT"
+    }
+  ],
+  "last_updated": "2026-09-04 09:25 UTC"
 }
