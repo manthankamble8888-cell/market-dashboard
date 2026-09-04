@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.64,
-    "change": 0.01,
-    "pct": 0.01
+    "price": 95.52,
+    "change": -0.11,
+    "pct": -0.12
   },
   "Crude Oil (WTI)": {
-    "price": 91.58,
-    "change": 0.57,
-    "pct": 0.63
+    "price": 91.49,
+    "change": 0.48,
+    "pct": 0.53
   },
   "Gold": {
-    "price": 4524.9,
-    "change": 158.6,
-    "pct": 3.63
+    "price": 4527.9,
+    "change": 161.6,
+    "pct": 3.7
   },
   "Silver": {
-    "price": 67.54,
-    "change": 2.81,
-    "pct": 4.34
+    "price": 67.6,
+    "change": 2.87,
+    "pct": 4.44
   },
   "USD/INR": {
     "price": 94.47,
@@ -64,9 +64,9 @@
     "pct": -0.01
   },
   "Dollar Index": {
-    "price": 99.0,
-    "change": -0.56,
-    "pct": -0.57
+    "price": 98.95,
+    "change": -0.61,
+    "pct": -0.61
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -95,14 +95,14 @@
       "published": "Wed, 02 Sep 2026 04:48:24 GMT"
     },
     {
+      "title": "Kirloskar Oil Engines Collaborates with DEUTZ | Clean Max Enviro Energy Block Deal Update | Top Buzzing Stocks Today - equitymaster.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOXQyYmdIT3FTM3lDZnR5WGU4WWxvSGlqQjRZaHo1aFhpNDJPRm9xVjNDZVkxYmFvUm9tVGRYek5kX3FycGJPNEdLWDFWLXBQTks5dkxtcGhSTUU3RmRaZnl2bk9wNk5WLTR4Vi1hUC02WVk5T2o2VXpkT2piNGloSVNLSGVacjNQM2JjbGdVcm9tUWxxUXJydzR4ckFMMW5kRjZ3TU92aTdHSUY0ZFRleVE0ejNtSFp6cGtFWHppLWxyU1lLWF9nZXFlUlNSRTdrZkJxLUZlNThQd2E4ZmlQeGhXQnkwekFnQ1BUWHQ2clpmblVZV3JjT18xb0V0Ti15Rlpr?oc=5",
+      "published": "Fri, 04 Sep 2026 00:30:01 GMT"
+    },
+    {
       "title": "Indian shares join global slide as Mideast woes mount - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3NvTmc3Z2RhR2tVLUVxZjU4LTlUVjlTSHIybm13Z1YtQWxWdm5VOEs3enRCYnY3MEYtWkRNUnItaG5WOXE5cTdxamtmaGpTa3NBbVZ4anlZTkY1d2tDc0hKRlFVRDM5czBnNHpZV2FBWjBvUkNQWHpjaURwUnhIeVVDelZTWm1vc0hweGVtbVdPckstbHJaUFlxS09haU8tdGRNOE5ORVoxQQ?oc=5",
       "published": "Wed, 02 Sep 2026 10:13:32 GMT"
-    },
-    {
-      "title": "Kirloskar Oil Engines Collaborates with DEUTZ | Clean Max Enviro Energy Block Deal Update | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOXQyYmdIT3FTM3lDZnR5WGU4WWxvSGlqQjRZaHo1aFhpNDJPRm9xVjNDZVkxYmFvUm9tVGRYek5kX3FycGJPNEdLWDFWLXBQTks5dkxtcGhSTUU3RmRaZnl2bk9wNk5WLTR4Vi1hUC02WVk5T2o2VXpkT2piNGloSVNLSGVacjNQM2JjbGdVcm9tUWxxUXJydzR4ckFMMW5kRjZ3TU92aTdHSUY0ZFRleVE0ejNtSFp6cGtFWHppLWxyU1lLWF9nZXFlUlNSRTdrZkJxLUZlNThQd2E4ZmlQeGhXQnkwekFnQ1BUWHQ2clpmblVZV3JjT18xb0V0Ti15Rlpr?oc=5",
-      "published": "Fri, 04 Sep 2026 00:30:01 GMT"
     },
     {
       "title": "Understanding the final 15-minute volatility trend in the Indian stock market - theweek.in",
@@ -115,5 +115,5 @@
       "published": "Thu, 03 Sep 2026 18:28:00 GMT"
     }
   ],
-  "last_updated": "2026-09-04 00:52 UTC"
+  "last_updated": "2026-09-04 01:05 UTC"
 }
