@@ -10,14 +10,14 @@
     "pct": -0.02
   },
   "Sensex": {
-    "price": 76649.11,
-    "change": 496.25,
-    "pct": 0.65
+    "price": 76515.43,
+    "change": 362.57,
+    "pct": 0.48
   },
   "India VIX": {
-    "price": 10.63,
-    "change": -0.71,
-    "pct": -6.24
+    "price": 10.68,
+    "change": -0.66,
+    "pct": -5.82
   },
   "Nifty IT": {
     "price": 30695.1,
@@ -53,24 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "price": 95.45,
-    "change": -0.07,
-    "pct": -0.07
+    "price": 95.39,
+    "change": -0.13,
+    "pct": -0.14
   },
   "Crude Oil (WTI)": {
-    "price": 91.04,
-    "change": -0.26,
-    "pct": -0.28
+    "price": 90.92,
+    "change": -0.38,
+    "pct": -0.42
   },
   "Gold": {
-    "price": 4514.7,
-    "change": 23.0,
-    "pct": 0.51
+    "price": 4519.5,
+    "change": 27.8,
+    "pct": 0.62
   },
   "Silver": {
-    "price": 67.32,
-    "change": 0.35,
-    "pct": 0.53
+    "price": 67.43,
+    "change": 0.45,
+    "pct": 0.67
   },
   "USD/INR": {
     "price": 94.49,
@@ -78,9 +78,9 @@
     "pct": -0.0
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": 0.11,
-    "pct": 0.11
+    "price": 99.1,
+    "change": 0.1,
+    "pct": 0.1
   },
   "US 10Y Yield": {
     "price": 4.76,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - The Times of India",
+      "title": "Stock market operations on September 4: Are NSE, BSE open today on Janmashtami? - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzR1ampfVzlCUHNZSWRsWW1PMHl2eDZHSl8tbUJhRTNjNlFQS25VUi1GRndTcXd6cnBUenhyT1JoSXU3M1psZlVRdHhRc3JPV0F4cDFfRWh0M0I1RWZLcm9HdUhYeWZiUk9BbUJqaTJOZGpCX0N3Wk95cWUxTHpzcEx0d1p3ZW5OeWJqX1I5WmI3VzB0SGkybjJmSlJBMl85TG9EYUFrZ3Rmd29CZ1NnazJhSzlCX2xES1d3OTZDbXoyRDRRMkFpU0NnczN6ZkZpQ2dHbmJ5V0dwbVNWS3M2ZXdoVk1SeFNERVk5UXJSc0EtOTk2eEJHMTF4UF9WejdvdXRV0gGIAkFVX3lxTFBVazFCWFJKdHdMUWpacURIQWxoeHdiS2xoYjJmcnVBWW5oSVBFd1pfWmVlY1FzZjJQWFF3Uk1fUHl6S28tanhoZVJKTGtIanQ3LW1JQ3lCUE5oZkhkSTV2SzdfNnlwZHlRY1JONkxkbmdRaDRZYlA4c2FUV182ZktWbjlCQWtKVHNoNWlHUThNN3UzVGhkb00xZk92NU11N2tReDlmVzZ0ZlloNmtqZlA5ZXVoU3ZEdXpFa3l5cjRNRGU2dGZwZUUya29kUWtPOXhiUlVib3FZQnZQTW9CSGRXV29jZmdVWVl6d2pfU1Z6cERmeXdfVm50dHlXeTdSazRPWW0tajh4LQ?oc=5",
       "published": "Fri, 04 Sep 2026 02:24:00 GMT"
     },
@@ -119,15 +119,15 @@
       "published": "Fri, 04 Sep 2026 05:43:55 GMT"
     },
     {
-      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - newsonair.gov.in",
+      "title": "FPIs Invest \u20b930,919 Crore in Indian stock market in August so far - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHdFZ1g5VkdFeHpVWXVPdVhGa3BYSVlkOGpHczJtWG5QOTdKay1yWHVQQTdvbHZQSUtadlhLOTdCRmRPWmphMU9xSXE5MTVUTGZKVTF6aGpZdjZPM2ZtMW1YT0daczh1cEJ3dElueldYWmg5RnJFT20yam1WcGppZm1KXzlUUERQNEs1V2lqMWxqTFU4UERMYVI3S3VMSkU?oc=5",
       "published": "Wed, 02 Sep 2026 12:50:41 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Sensex jumps 660 pts, Nifty nears 24,000; Reliance, HDFC Bank lend - indiaipo.in",
+      "title": "Sensex Today | Stock Market Live: Sensex jumps 660 pts, Nifty nears 24,000; Reliance, HDFC Bank lend - IndiaIPO",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREM1cnVFN2w5eW9JTy1YN1VWelAwZXRqN2tOMDZuaUZVbVJyM1BzUzd4Yk9ZbW4tbWpqM3FsV2k2NVpPVTQwcVpISjNleHJwci1kZ1FwS2E0T1lWaThSclo2T3lwdnVvR1NYM2pHSk9ZV0xmc1FLTmFHUVY3NVVBSkZYNC13alF4LUV2bkhhTUdRdjA1YW51bjhkZ19ndTNJcFU1YUQzVHVWZHJ6cURlS2FON24tM2cycFJuLTU1MTRRQmdiUXE5Vg?oc=5",
       "published": "Fri, 04 Sep 2026 07:45:47 GMT"
     }
   ],
-  "last_updated": "2026-09-04 10:06 UTC"
+  "last_updated": "2026-09-04 10:25 UTC"
 }
