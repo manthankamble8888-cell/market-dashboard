@@ -53,16 +53,24 @@
     "pct": 1.74
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 96.28,
+    "change": 0.0,
+    "pct": 0.0
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 91.48,
+    "change": 0.0,
+    "pct": 0.0
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4476.6,
+    "change": 46.8,
+    "pct": 1.06
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 66.75,
+    "change": 0.7,
+    "pct": 1.06
   },
   "USD/INR": {
     "price": 94.47,
@@ -70,7 +78,9 @@
     "pct": -0.02
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 99.16,
+    "change": 0.0,
+    "pct": 0.0
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -89,7 +99,7 @@
       "published": "Sun, 06 Sep 2026 10:39:02 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
@@ -119,5 +129,5 @@
       "published": "Sun, 06 Sep 2026 08:04:11 GMT"
     }
   ],
-  "last_updated": "2026-09-06 22:05 UTC"
+  "last_updated": "2026-09-06 22:22 UTC"
 }
