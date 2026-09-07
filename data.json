@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23756.15,
-    "change": -141.55,
-    "pct": -0.59
+    "price": 23757.9,
+    "change": -139.8,
+    "pct": -0.58
   },
   "Bank Nifty": {
-    "price": 57053.3,
-    "change": -316.35,
-    "pct": -0.55
+    "price": 57064.7,
+    "change": -304.95,
+    "pct": -0.53
   },
   "Sensex": {
-    "price": 76028.5,
-    "change": -486.93,
-    "pct": -0.64
+    "price": 76051.14,
+    "change": -464.29,
+    "pct": -0.61
   },
   "India VIX": {
-    "price": 11.27,
-    "change": 0.59,
-    "pct": 5.5
+    "price": 11.28,
+    "change": 0.6,
+    "pct": 5.62
   },
   "Nifty IT": {
-    "price": 29894.9,
-    "change": -800.25,
-    "pct": -2.61
+    "price": 29862.5,
+    "change": -832.65,
+    "pct": -2.71
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,9 +48,9 @@
     "pct": 2.12
   },
   "Hang Seng": {
-    "price": 25406.09,
-    "change": -244.78,
-    "pct": -0.95
+    "price": 25409.51,
+    "change": -241.36,
+    "pct": -0.94
   },
   "Crude Oil (Brent)": {
     "price": 96.28,
@@ -74,13 +74,13 @@
   },
   "USD/INR": {
     "price": 94.46,
-    "change": -0.03,
+    "change": -0.04,
     "pct": -0.04
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": -0.05,
-    "pct": -0.05
+    "price": 99.06,
+    "change": -0.11,
+    "pct": -0.11
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
       "published": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
@@ -104,14 +104,14 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnVpSVBDdDZTV3k1ZWtZcTh5WVZWQm9jTzJIRDIzUXU4ZkZjZEZRZlF3cTlPb2poYzczRzc5NllaWEpNMVFpYy1ZVGpMZlFFREE3U25uZUxiT2tzdGlyLVNDUTJ1cDhpQ1BhQXdjQWtuSjRiRS0yV1FIZzhjTnpJT1FBYnZRdzkxSlA0dlM5MERmZ0N2aWp2RkE3Tk1vUTI3RFNmVkYteG9XejZwQUFvYnJUYmJsNlZQTWZaZ0VYRG9EYzVILUNhaHNOUy03eUs0VXVwTDlrbFM1VE41Xzh4VTBZZlZTY2JjS3BjYksxb9IB9AFBVV95cUxOUmp3WWpTVnlncG5ub2RVMmM1b0tqX2N4dkdHblFFeXhGRFdUUkwxRVhXZTg5NHo5R2RnZUZLOVFfb0pQZHA4WGFhc24xeEluRXFldWlJTlFhTjMtZlFEX2lMaUxlaEFDNE01djdUR2FiaTNnTXBJYW41dHJjaERQSjJUc2lqODNxWkJuaDJ2c1FXcVZoazRUVm5SdlBudFViOVlqWXpPZXpKUHg3bjdXdG9ERjlmNlNfSFJqaElHZ2QyUmlndXVkWl9VNFU1NzJGV05OUmZScHJFM2JKNWVtLTIwVHh6UHBRdnJnakE1enlwd3Ey?oc=5",
-      "published": "Mon, 07 Sep 2026 01:46:22 GMT"
-    },
-    {
       "title": "Why is stock market falling today despite positive fundamental factors? Here are 5 key reasons - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQQ?oc=5",
       "published": "Mon, 07 Sep 2026 03:59:51 GMT"
+    },
+    {
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnVpSVBDdDZTV3k1ZWtZcTh5WVZWQm9jTzJIRDIzUXU4ZkZjZEZRZlF3cTlPb2poYzczRzc5NllaWEpNMVFpYy1ZVGpMZlFFREE3U25uZUxiT2tzdGlyLVNDUTJ1cDhpQ1BhQXdjQWtuSjRiRS0yV1FIZzhjTnpJT1FBYnZRdzkxSlA0dlM5MERmZ0N2aWp2RkE3Tk1vUTI3RFNmVkYteG9XejZwQUFvYnJUYmJsNlZQTWZaZ0VYRG9EYzVILUNhaHNOUy03eUs0VXVwTDlrbFM1VE41Xzh4VTBZZlZTY2JjS3BjYksxb9IB9AFBVV95cUxOUmp3WWpTVnlncG5ub2RVMmM1b0tqX2N4dkdHblFFeXhGRFdUUkwxRVhXZTg5NHo5R2RnZUZLOVFfb0pQZHA4WGFhc24xeEluRXFldWlJTlFhTjMtZlFEX2lMaUxlaEFDNE01djdUR2FiaTNnTXBJYW41dHJjaERQSjJUc2lqODNxWkJuaDJ2c1FXcVZoazRUVm5SdlBudFViOVlqWXpPZXpKUHg3bjdXdG9ERjlmNlNfSFJqaElHZ2QyUmlndXVkWl9VNFU1NzJGV05OUmZScHJFM2JKNWVtLTIwVHh6UHBRdnJnakE1enlwd3Ey?oc=5",
+      "published": "Mon, 07 Sep 2026 01:46:22 GMT"
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 23,900 | Tech Mahindra & Infosys Top Losers - Equitymaster",
@@ -129,5 +129,5 @@
       "published": "Mon, 07 Sep 2026 02:27:00 GMT"
     }
   ],
-  "last_updated": "2026-09-07 07:54 UTC"
+  "last_updated": "2026-09-07 08:07 UTC"
 }
