@@ -43,9 +43,7 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 65020.94,
-    "change": 806.46,
-    "pct": 1.26
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "price": 25650.87,
@@ -78,9 +76,9 @@
     "pct": -0.02
   },
   "Dollar Index": {
-    "price": 99.13,
-    "change": -0.03,
-    "pct": -0.03
+    "price": 99.16,
+    "change": -0.0,
+    "pct": -0.0
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -119,15 +117,15 @@
       "published": "Sun, 06 Sep 2026 07:05:43 GMT"
     },
     {
-      "title": "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - telanganatoday.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWI0dF93TzBienNYYVBaTktNU1JvZHR0VXB5S0d2YUVIdUxxNFQ0V1ZVVnpSS1FfYzNWTDJITE1mUENEVnBpVXZfUjF0ZUJ0U1plbG1Fa25QSkNSeTQ0SjhaelBSN3g2UWxtbFAzQ0FrRW1oNlF3SXYxbm44WWU2T19NNmVxYVV5YlpOdGRncVRaRm9FMEJtcjI0bkxnaEFoRjBDNFBtRVBaZTk0WElJY2FESGtRX0NiOUtB?oc=5",
-      "published": "Sun, 06 Sep 2026 07:16:39 GMT"
-    },
-    {
       "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Sat, 05 Sep 2026 19:24:40 GMT"
+    },
+    {
+      "title": "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - telanganatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWI0dF93TzBienNYYVBaTktNU1JvZHR0VXB5S0d2YUVIdUxxNFQ0V1ZVVnpSS1FfYzNWTDJITE1mUENEVnBpVXZfUjF0ZUJ0U1plbG1Fa25QSkNSeTQ0SjhaelBSN3g2UWxtbFAzQ0FrRW1oNlF3SXYxbm44WWU2T19NNmVxYVV5YlpOdGRncVRaRm9FMEJtcjI0bkxnaEFoRjBDNFBtRVBaZTk0WElJY2FESGtRX0NiOUtB?oc=5",
+      "published": "Sun, 06 Sep 2026 07:16:39 GMT"
     }
   ],
-  "last_updated": "2026-09-06 23:48 UTC"
+  "last_updated": "2026-09-07 00:09 UTC"
 }
