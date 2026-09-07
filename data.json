@@ -74,9 +74,9 @@
     "pct": -0.02
   },
   "Dollar Index": {
-    "price": 98.89,
-    "change": -0.27,
-    "pct": -0.27
+    "price": 98.9,
+    "change": -0.26,
+    "pct": -0.26
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -85,7 +85,7 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Mon, 07 Sep 2026 08:20:07 GMT"
     },
@@ -115,7 +115,7 @@
       "published": "Mon, 07 Sep 2026 10:36:07 GMT"
     },
     {
-      "title": "New stock market pre-open session rules from today: What changes for you? - timesofindia.indiatimes.com",
+      "title": "New stock market pre-open session rules from today: What changes for you? - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTAxT1NvZkR6SW9jc01kNDBTb244RVBHNngxa3NnbEFWN3RROW5wakxqOTd6emUwSTlDcWRfMHlKeWNEMFhOVDA3Zjc0S3BReTBEMG80WHlFWjZtYzExWDNhcFVyd2p3NGFKc3dWV3NiYnY2aDk3aWRMNW4wSHJDTFJNU1VidGtOcjZ1d1MyNG5GQ2pYRk8yYmdWRnV6VHpJMWxrVXUtYTN6MFJRRTB2Vmg3UFNnN25JZnY4dVVGdFBJRW1oUVRPVlNPZW01X09NMUgxNjcwalFFcjJyWS1mM0l3N2w0M0lKV1N4TU930gHzAUFVX3lxTFBieHBOZFpPWUYzYllfQTBRXy1wMHBFRnNCU0t1emlTa21WNm1JZFNnTURMWElUVTA3UTR2WkhfUzIwWGh6TVdUOFlQNXJfWmx1R3JIT2h5d3lTTWxPWFhma3VnLWN4N2Y4Qk54b0pyb2FSNlhRM0w5MGFLVzFZb0w4Wk8yOUVva2R4dDB5VllHZ0dQaFZjczdhMEloNFpBbUFfclM1VGo3LXdtYzFfc1NoWlk0d2JldVZJM2lyd3V4UURxcXBPSVdjdkhkZ0NRSHJmWk9IRlFkM0lfLV9NamlGdTY1R2paOFVNWjlNSWhoWmRQbw?oc=5",
       "published": "Mon, 07 Sep 2026 03:24:00 GMT"
     },
@@ -125,5 +125,5 @@
       "published": "Mon, 07 Sep 2026 10:32:51 GMT"
     }
   ],
-  "last_updated": "2026-09-07 17:37 UTC"
+  "last_updated": "2026-09-07 17:50 UTC"
 }
