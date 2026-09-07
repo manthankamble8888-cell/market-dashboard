@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23818.5,
-    "change": -79.2,
-    "pct": -0.33
+    "price": 23801.9,
+    "change": -95.8,
+    "pct": -0.4
   },
   "Bank Nifty": {
-    "price": 57134.65,
-    "change": -235.0,
-    "pct": -0.41
+    "price": 57080.15,
+    "change": -289.5,
+    "pct": -0.5
   },
   "Sensex": {
-    "price": 76266.69,
-    "change": -248.74,
-    "pct": -0.33
+    "price": 76253.1,
+    "change": -262.33,
+    "pct": -0.34
   },
   "India VIX": {
-    "price": 11.15,
-    "change": 0.47,
-    "pct": 4.38
+    "price": 11.22,
+    "change": 0.54,
+    "pct": 5.06
   },
   "Nifty IT": {
-    "price": 30152.9,
-    "change": -542.25,
-    "pct": -1.77
+    "price": 30109.3,
+    "change": -585.85,
+    "pct": -1.91
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66230.04,
-    "change": 1209.1,
-    "pct": 1.86
+    "price": 66226.93,
+    "change": 1205.99,
+    "pct": 1.85
   },
   "Hang Seng": {
     "price": 25402.73,
@@ -74,13 +74,13 @@
   },
   "USD/INR": {
     "price": 94.41,
-    "change": -0.08,
+    "change": -0.09,
     "pct": -0.09
   },
   "Dollar Index": {
     "price": 99.18,
     "change": 0.02,
-    "pct": 0.02
+    "pct": 0.03
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -99,7 +99,7 @@
       "published": "Mon, 07 Sep 2026 01:46:22 GMT"
     },
     {
-      "title": "Stock market today: Nifty, Sensex to open flat as US-Iran tensions push up crude oil prices - BusinessLine",
+      "title": "Stock market today: Nifty, Sensex to open flat as US-Iran tensions push up crude oil prices - thehindubusinessline.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzVZVDYzTlpBcU1Hdl9YcWVHYU1fU3lJSElXVFdldUl3YmdsUGdfYVpYdjVtQmpUaDQ3bGtrUklZaGU2ak5MU00xTkpCVUI1a0E1Vy1JckkxaVp4WXFZTWFPeXc3TGxfcXRpUWZEZ3JPZHNPX3ctRTVxdlVsbU1jZXRoQXhYcGpSb0M5QUk3cHZNT2RGOTBYdnB5REdSWjhCTmFJa004UnVWdTE5NXB5dUVRY25Ec3B4bGxkb9IBwwFBVV95cUxOcGZOeV9vVWlUazRNRTlnZ0hJR0hWWFV5YUxUcnVTUkItUUMxMlAwX1VQcE1iNVhTZEVaZXJlMm54dkd4Z01INWhUa0VXcDMzVDU2TEpRb25SWEktOGpKSTliNlk1ZWZJNmF4ZnhUUWp4MjZMRkVyWFMwOEhZc3RTN3Q1T21uVWh1bFdyUm9xTTFva1I0ZW5XRDFYLWo0cUl0QVY4WHB3d3VfcDhJQ29YUnFsNXZyeGlFRlFqdHdaS001NVU?oc=5",
       "published": "Mon, 07 Sep 2026 02:23:17 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Sun, 06 Sep 2026 09:38:15 GMT"
     }
   ],
-  "last_updated": "2026-09-07 04:40 UTC"
+  "last_updated": "2026-09-07 04:52 UTC"
 }
