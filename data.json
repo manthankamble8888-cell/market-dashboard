@@ -74,8 +74,8 @@
     "pct": -0.02
   },
   "Dollar Index": {
-    "price": 98.87,
-    "change": -0.29,
+    "price": 98.88,
+    "change": -0.28,
     "pct": -0.29
   },
   "US 10Y Yield": {
@@ -125,5 +125,5 @@
       "published": "Mon, 07 Sep 2026 03:24:00 GMT"
     }
   ],
-  "last_updated": "2026-09-07 16:52 UTC"
+  "last_updated": "2026-09-07 17:05 UTC"
 }
