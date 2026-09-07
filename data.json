@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23773.95,
-    "change": -123.75,
-    "pct": -0.52
+    "price": 23754.15,
+    "change": -143.55,
+    "pct": -0.6
   },
   "Bank Nifty": {
-    "price": 57127.65,
-    "change": -242.0,
-    "pct": -0.42
-  },
-  "Sensex": {
-    "price": 76093.39,
-    "change": -422.04,
+    "price": 57053.0,
+    "change": -316.65,
     "pct": -0.55
   },
+  "Sensex": {
+    "price": 76042.76,
+    "change": -472.67,
+    "pct": -0.62
+  },
   "India VIX": {
-    "price": 11.06,
-    "change": 0.38,
-    "pct": 3.56
+    "price": 11.24,
+    "change": 0.56,
+    "pct": 5.22
   },
   "Nifty IT": {
-    "price": 29938.45,
-    "change": -756.7,
-    "pct": -2.47
+    "price": 29930.3,
+    "change": -764.85,
+    "pct": -2.49
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -75,12 +75,12 @@
   "USD/INR": {
     "price": 94.47,
     "change": -0.02,
-    "pct": -0.03
+    "pct": -0.02
   },
   "Dollar Index": {
-    "price": 98.96,
-    "change": -0.2,
-    "pct": -0.21
+    "price": 98.94,
+    "change": -0.22,
+    "pct": -0.22
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -129,5 +129,5 @@
       "published": "Mon, 07 Sep 2026 02:23:17 GMT"
     }
   ],
-  "last_updated": "2026-09-07 09:06 UTC"
+  "last_updated": "2026-09-07 09:27 UTC"
 }
