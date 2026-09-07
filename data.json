@@ -43,8 +43,8 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66208.2,
-    "change": 1187.26,
+    "price": 66213.4,
+    "change": 1192.46,
     "pct": 1.83
   },
   "Hang Seng": {
@@ -78,9 +78,9 @@
     "pct": -0.02
   },
   "Dollar Index": {
-    "price": 99.09,
-    "change": -0.07,
-    "pct": -0.07
+    "price": 99.1,
+    "change": -0.06,
+    "pct": -0.06
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -89,14 +89,9 @@
   },
   "news": [
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-      "published": "Fri, 04 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Sun, 06 Sep 2026 10:39:02 GMT"
+      "published": "Sun, 06 Sep 2026 21:31:03 GMT"
     },
     {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
@@ -105,7 +100,7 @@
     },
     {
       "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObnNKSVV3aE5QWUhsYThsYjJaNU5aQjJjQU1MTnpCVG1DQkN1N2tiZmE4bFd2VWk0cFp3MXdwQW14aG5KbmpES2Y1WG5aVF9KcktWQ0U0R2YtU2Vfc2trOXRvOVJUY1BzcW5FODFaTEs1bzZQcU1ENGIwbWZNMXV2TktWcVlJdkVYR3F2UUdlMzBpR0h3djBIRlVwVzlSNmlGbXFTdV9tYjNmY1RiX0JZY0FhdDByem1Ib2JGcWRPU1lQOEh4eHVGak0wd2NqX25pQ1FBcnFDSHBQLWxYRkZ3QzRRMU10UVY5NFJrRDA1ZEF1X0w5cGExTlNkUUgwdzZmLUl0Z3lGbjVHUzVoQ1drQjlpTjNYVHBVMEhWUVcyQlhqSDQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOYTZmR2pZV0szTURMOFAtTTA0ZGl6ci0wTzRlUG01LTc0N202bzc3R01uMGl3b3IwMVh3LV91aG5Ea3A1UWNDSkJ1TWw4aGhDYldhSk11b0lvaHJOUlZ5QlRWM05PZ05SWXJHdEhGYTAwT3dZQ01lbEtxSFlZekRUYVhJUGZqb2h1UFY3SEpuQl9KMVVlZnZEakJWeVIyUzRSS3E2WjJ5SkRBdTMydXRGOUcwbXpvc1NlR0VhZmlhU2pCTWI0MzlQOUw4U283bUk0M0dwaFMxZUhXWi1QVWx0UGx0U29Ra0x0Q3Yxb2xRQjNkU3BGSkllZ01vRXZCUnFxWjcwajlqcS04d3ZmVS1KRnFPcDdsbGVVc1h6Y2tfSlVnUDg?oc=5",
       "published": "Mon, 07 Sep 2026 00:30:01 GMT"
     },
     {
@@ -127,7 +122,12 @@
       "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Sat, 05 Sep 2026 19:24:40 GMT"
+    },
+    {
+      "title": "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaWI0dF93TzBienNYYVBaTktNU1JvZHR0VXB5S0d2YUVIdUxxNFQ0V1ZVVnpSS1FfYzNWTDJITE1mUENEVnBpVXZfUjF0ZUJ0U1plbG1Fa25QSkNSeTQ0SjhaelBSN3g2UWxtbFAzQ0FrRW1oNlF3SXYxbm44WWU2T19NNmVxYVV5YlpOdGRncVRaRm9FMEJtcjI0bkxnaEFoRjBDNFBtRVBaZTk0WElJY2FESGtRX0NiOUtB?oc=5",
+      "published": "Sun, 06 Sep 2026 07:16:39 GMT"
     }
   ],
-  "last_updated": "2026-09-07 00:55 UTC"
+  "last_updated": "2026-09-07 01:06 UTC"
 }
