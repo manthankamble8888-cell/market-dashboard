@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23750.95,
-    "change": -146.75,
-    "pct": -0.61
+    "price": 23756.15,
+    "change": -141.55,
+    "pct": -0.59
   },
   "Bank Nifty": {
-    "price": 57049.15,
-    "change": -320.5,
-    "pct": -0.56
+    "price": 57053.3,
+    "change": -316.35,
+    "pct": -0.55
   },
   "Sensex": {
-    "price": 75991.23,
-    "change": -524.2,
-    "pct": -0.69
+    "price": 76028.5,
+    "change": -486.93,
+    "pct": -0.64
   },
   "India VIX": {
-    "price": 11.29,
-    "change": 0.61,
-    "pct": 5.74
+    "price": 11.27,
+    "change": 0.59,
+    "pct": 5.5
   },
   "Nifty IT": {
-    "price": 29904.4,
-    "change": -790.75,
-    "pct": -2.58
+    "price": 29894.9,
+    "change": -800.25,
+    "pct": -2.61
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,9 +48,9 @@
     "pct": 2.12
   },
   "Hang Seng": {
-    "price": 25432.41,
-    "change": -218.46,
-    "pct": -0.85
+    "price": 25406.09,
+    "change": -244.78,
+    "pct": -0.95
   },
   "Crude Oil (Brent)": {
     "price": 96.28,
@@ -74,13 +74,13 @@
   },
   "USD/INR": {
     "price": 94.46,
-    "change": -0.04,
+    "change": -0.03,
     "pct": -0.04
   },
   "Dollar Index": {
-    "price": 99.09,
-    "change": -0.07,
-    "pct": -0.07
+    "price": 99.11,
+    "change": -0.05,
+    "pct": -0.05
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
       "published": "Fri, 04 Sep 2026 07:00:00 GMT"
     },
@@ -99,7 +99,7 @@
       "published": "Sun, 06 Sep 2026 21:31:03 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
@@ -109,7 +109,7 @@
       "published": "Mon, 07 Sep 2026 01:46:22 GMT"
     },
     {
-      "title": "Why is stock market falling today despite positive fundamental factors? Here are 5 key reasons - economictimes.com",
+      "title": "Why is stock market falling today despite positive fundamental factors? Here are 5 key reasons - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQQ?oc=5",
       "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Mon, 07 Sep 2026 02:27:00 GMT"
     }
   ],
-  "last_updated": "2026-09-07 07:41 UTC"
+  "last_updated": "2026-09-07 07:54 UTC"
 }
