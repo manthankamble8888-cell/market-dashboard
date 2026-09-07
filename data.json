@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23746.8,
-    "change": -150.9,
-    "pct": -0.63
+    "price": 23760.3,
+    "change": -137.4,
+    "pct": -0.57
   },
   "Bank Nifty": {
-    "price": 57054.5,
-    "change": -315.15,
+    "price": 57056.75,
+    "change": -312.9,
     "pct": -0.55
   },
   "Sensex": {
-    "price": 76016.41,
-    "change": -499.02,
-    "pct": -0.65
+    "price": 75981.37,
+    "change": -534.06,
+    "pct": -0.7
   },
   "India VIX": {
     "price": 11.19,
     "change": 0.51,
-    "pct": 4.82
+    "pct": 4.73
   },
   "Nifty IT": {
-    "price": 29974.15,
-    "change": -721.0,
-    "pct": -2.35
+    "price": 29982.3,
+    "change": -712.85,
+    "pct": -2.32
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -74,13 +74,13 @@
   },
   "USD/INR": {
     "price": 94.48,
-    "change": -0.02,
+    "change": -0.01,
     "pct": -0.02
   },
   "Dollar Index": {
-    "price": 98.9,
-    "change": -0.26,
-    "pct": -0.26
+    "price": 98.93,
+    "change": -0.23,
+    "pct": -0.23
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -109,7 +109,7 @@
       "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - livemint.com",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnVpSVBDdDZTV3k1ZWtZcTh5WVZWQm9jTzJIRDIzUXU4ZkZjZEZRZlF3cTlPb2poYzczRzc5NllaWEpNMVFpYy1ZVGpMZlFFREE3U25uZUxiT2tzdGlyLVNDUTJ1cDhpQ1BhQXdjQWtuSjRiRS0yV1FIZzhjTnpJT1FBYnZRdzkxSlA0dlM5MERmZ0N2aWp2RkE3Tk1vUTI3RFNmVkYteG9XejZwQUFvYnJUYmJsNlZQTWZaZ0VYRG9EYzVILUNhaHNOUy03eUs0VXVwTDlrbFM1VE41Xzh4VTBZZlZTY2JjS3BjYksxb9IB9AFBVV95cUxOUmp3WWpTVnlncG5ub2RVMmM1b0tqX2N4dkdHblFFeXhGRFdUUkwxRVhXZTg5NHo5R2RnZUZLOVFfb0pQZHA4WGFhc24xeEluRXFldWlJTlFhTjMtZlFEX2lMaUxlaEFDNE01djdUR2FiaTNnTXBJYW41dHJjaERQSjJUc2lqODNxWkJuaDJ2c1FXcVZoazRUVm5SdlBudFViOVlqWXpPZXpKUHg3bjdXdG9ERjlmNlNfSFJqaElHZ2QyUmlndXVkWl9VNFU1NzJGV05OUmZScHJFM2JKNWVtLTIwVHh6UHBRdnJnakE1enlwd3Ey?oc=5",
       "published": "Mon, 07 Sep 2026 01:46:22 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Mon, 07 Sep 2026 04:50:20 GMT"
     }
   ],
-  "last_updated": "2026-09-07 09:42 UTC"
+  "last_updated": "2026-09-07 09:54 UTC"
 }
