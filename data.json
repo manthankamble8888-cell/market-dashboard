@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23757.9,
-    "change": -139.8,
-    "pct": -0.58
+    "price": 23778.95,
+    "change": -118.75,
+    "pct": -0.5
   },
   "Bank Nifty": {
-    "price": 57064.7,
-    "change": -304.95,
-    "pct": -0.53
+    "price": 57112.35,
+    "change": -257.3,
+    "pct": -0.45
   },
   "Sensex": {
-    "price": 76051.14,
-    "change": -464.29,
-    "pct": -0.61
+    "price": 76041.87,
+    "change": -473.56,
+    "pct": -0.62
   },
   "India VIX": {
-    "price": 11.28,
-    "change": 0.6,
-    "pct": 5.62
+    "price": 11.22,
+    "change": 0.54,
+    "pct": 5.03
   },
   "Nifty IT": {
-    "price": 29862.5,
-    "change": -832.65,
-    "pct": -2.71
+    "price": 29901.95,
+    "change": -793.2,
+    "pct": -2.58
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,9 +48,9 @@
     "pct": 2.12
   },
   "Hang Seng": {
-    "price": 25409.51,
-    "change": -241.36,
-    "pct": -0.94
+    "price": 25413.12,
+    "change": -237.75,
+    "pct": -0.93
   },
   "Crude Oil (Brent)": {
     "price": 96.28,
@@ -73,14 +73,14 @@
     "pct": 1.06
   },
   "USD/INR": {
-    "price": 94.46,
+    "price": 94.45,
     "change": -0.04,
     "pct": -0.04
   },
   "Dollar Index": {
-    "price": 99.06,
-    "change": -0.11,
-    "pct": -0.11
+    "price": 98.9,
+    "change": -0.26,
+    "pct": -0.26
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -99,14 +99,14 @@
       "published": "Sun, 06 Sep 2026 21:31:03 GMT"
     },
     {
+      "title": "Sensex tumbles 500 points, Nifty below 23,750. Check 5 key reasons behind the selloff - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
+      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
+    },
+    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
-    },
-    {
-      "title": "Why is stock market falling today despite positive fundamental factors? Here are 5 key reasons - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQQ?oc=5",
-      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
@@ -124,10 +124,10 @@
       "published": "Mon, 07 Sep 2026 02:23:17 GMT"
     },
     {
-      "title": "Indian shares fall as Middle East tensions, US rate-hike bets weigh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN28wNDdORG10X2Z2Tnl0OHduV3Q4T0IwNTJOWTlqUHhWQWxMa1RQYjE1ZDFfWkZhT3I4Z25yWXhHb1pseWNIYU85Nm9oM0dfZG9IYWNBeVcySDBfMnl2Tkd4aFdGWklMNDY1aDhPMnNrNTdMVl9vMWpvQlROUGtleDNBUHpYa1k4UzZCS2VFVGlxX0dnWjEwREYwUDNJYV9qbS1JdnZfU3NGZEFjOG1Bb1l6N1V6QQ?oc=5",
-      "published": "Mon, 07 Sep 2026 02:27:00 GMT"
+      "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZ9IB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
+      "published": "Mon, 07 Sep 2026 08:24:53 GMT"
     }
   ],
-  "last_updated": "2026-09-07 08:07 UTC"
+  "last_updated": "2026-09-07 08:28 UTC"
 }
