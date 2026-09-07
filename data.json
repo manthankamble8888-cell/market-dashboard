@@ -1,28 +1,26 @@
 {
   "Nifty 50": {
-    "price": 23883.15,
-    "change": -14.55,
-    "pct": -0.06
+    "price": 23850.05,
+    "change": -47.65,
+    "pct": -0.2
   },
   "Bank Nifty": {
-    "price": 57369.65,
-    "change": -10.95,
-    "pct": -0.02
+    "price": 57189.35,
+    "change": -180.3,
+    "pct": -0.31
   },
   "Sensex": {
-    "price": 76515.43,
-    "change": 362.57,
-    "pct": 0.48
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 10.68,
-    "change": -0.66,
-    "pct": -5.82
+    "price": 10.9,
+    "change": 0.22,
+    "pct": 2.01
   },
   "Nifty IT": {
-    "price": 30343.2,
-    "change": -351.95,
-    "pct": -1.15
+    "price": 30327.2,
+    "change": -367.95,
+    "pct": -1.2
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,14 +41,14 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66460.11,
-    "change": 1439.17,
-    "pct": 2.21
+    "price": 66174.2,
+    "change": 1153.26,
+    "pct": 1.77
   },
   "Hang Seng": {
-    "price": 25395.82,
-    "change": -255.05,
-    "pct": -0.99
+    "price": 25388.38,
+    "change": -262.49,
+    "pct": -1.02
   },
   "Crude Oil (Brent)": {
     "price": 96.28,
@@ -73,14 +71,14 @@
     "pct": 1.06
   },
   "USD/INR": {
-    "price": 94.44,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 94.45,
+    "change": -0.04,
+    "pct": -0.05
   },
   "Dollar Index": {
-    "price": 99.16,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 99.18,
+    "change": 0.02,
+    "pct": 0.02
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -94,14 +92,14 @@
       "published": "Sun, 06 Sep 2026 21:31:03 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
-    },
-    {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnVpSVBDdDZTV3k1ZWtZcTh5WVZWQm9jTzJIRDIzUXU4ZkZjZEZRZlF3cTlPb2poYzczRzc5NllaWEpNMVFpYy1ZVGpMZlFFREE3U25uZUxiT2tzdGlyLVNDUTJ1cDhpQ1BhQXdjQWtuSjRiRS0yV1FIZzhjTnpJT1FBYnZRdzkxSlA0dlM5MERmZ0N2aWp2RkE3Tk1vUTI3RFNmVkYteG9XejZwQUFvYnJUYmJsNlZQTWZaZ0VYRG9EYzVILUNhaHNOUy03eUs0VXVwTDlrbFM1VE41Xzh4VTBZZlZTY2JjS3BjYksxb9IB9AFBVV95cUxOUmp3WWpTVnlncG5ub2RVMmM1b0tqX2N4dkdHblFFeXhGRFdUUkwxRVhXZTg5NHo5R2RnZUZLOVFfb0pQZHA4WGFhc24xeEluRXFldWlJTlFhTjMtZlFEX2lMaUxlaEFDNE01djdUR2FiaTNnTXBJYW41dHJjaERQSjJUc2lqODNxWkJuaDJ2c1FXcVZoazRUVm5SdlBudFViOVlqWXpPZXpKUHg3bjdXdG9ERjlmNlNfSFJqaElHZ2QyUmlndXVkWl9VNFU1NzJGV05OUmZScHJFM2JKNWVtLTIwVHh6UHBRdnJnakE1enlwd3Ey?oc=5",
       "published": "Mon, 07 Sep 2026 01:46:22 GMT"
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
       "title": "Stock market today: Nifty, Sensex to open flat as US-Iran tensions push up crude oil prices - BusinessLine",
@@ -110,7 +108,7 @@
     },
     {
       "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOYTZmR2pZV0szTURMOFAtTTA0ZGl6ci0wTzRlUG01LTc0N202bzc3R01uMGl3b3IwMVh3LV91aG5Ea3A1UWNDSkJ1TWw4aGhDYldhSk11b0lvaHJOUlZ5QlRWM05PZ05SWXJHdEhGYTAwT3dZQ01lbEtxSFlZekRUYVhJUGZqb2h1UFY3SEpuQl9KMVVlZnZEakJWeVIyUzRSS3E2WjJ5SkRBdTMydXRGOUcwbXpvc1NlR0VhZmlhU2pCTWI0MzlQOUw4U283bUk0M0dwaFMxZUhXWi1QVWx0UGx0U29Ra0x0Q3Yxb2xRQjNkU3BGSkllZ01vRXZCUnFxWjcwajlqcS04d3ZmVS1KRnFPcDdsbGVVc1h6Y2tfSlVnUDg?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxObnNKSVV3aE5QWUhsYThsYjJaNU5aQjJjQU1MTnpCVG1DQkN1N2tiZmE4bFd2VWk0cFp3MXdwQW14aG5KbmpES2Y1WG5aVF9KcktWQ0U0R2YtU2Vfc2trOXRvOVJUY1BzcW5FODFaTEs1bzZQcU1ENGIwbWZNMXV2TktWcVlJdkVYR3F2UUdlMzBpR0h3djBIRlVwVzlSNmlGbXFTdV9tYjNmY1RiX0JZY0FhdDByem1Ib2JGcWRPU1lQOEh4eHVGak0wd2NqX25pQ1FBcnFDSHBQLWxYRkZ3QzRRMU10UVY5NFJrRDA1ZEF1X0w5cGExTlNkUUgwdzZmLUl0Z3lGbjVHUzVoQ1drQjlpTjNYVHBVMEhWUVcyQlhqSDQ?oc=5",
       "published": "Mon, 07 Sep 2026 00:30:01 GMT"
     },
     {
@@ -129,5 +127,5 @@
       "published": "Sat, 05 Sep 2026 19:24:40 GMT"
     }
   ],
-  "last_updated": "2026-09-07 03:40 UTC"
+  "last_updated": "2026-09-07 03:52 UTC"
 }
