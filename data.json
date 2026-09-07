@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23774.5,
-    "change": -123.2,
-    "pct": -0.52
+    "price": 23779.95,
+    "change": -117.75,
+    "pct": -0.49
   },
   "Bank Nifty": {
-    "price": 57097.65,
-    "change": -272.0,
-    "pct": -0.47
+    "price": 57135.0,
+    "change": -234.65,
+    "pct": -0.41
   },
   "Sensex": {
-    "price": 76099.86,
-    "change": -415.57,
-    "pct": -0.54
+    "price": 76088.85,
+    "change": -426.58,
+    "pct": -0.56
   },
   "India VIX": {
-    "price": 11.09,
-    "change": 0.41,
-    "pct": 3.86
+    "price": 11.06,
+    "change": 0.38,
+    "pct": 3.58
   },
   "Nifty IT": {
-    "price": 29902.7,
-    "change": -792.45,
-    "pct": -2.58
+    "price": 29910.6,
+    "change": -784.55,
+    "pct": -2.56
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,14 +73,14 @@
     "pct": 1.06
   },
   "USD/INR": {
-    "price": 94.46,
+    "price": 94.47,
     "change": -0.03,
     "pct": -0.03
   },
   "Dollar Index": {
-    "price": 98.83,
-    "change": -0.33,
-    "pct": -0.33
+    "price": 98.92,
+    "change": -0.24,
+    "pct": -0.24
   },
   "US 10Y Yield": {
     "price": 4.78,
@@ -94,17 +94,17 @@
       "published": "Sun, 06 Sep 2026 21:31:03 GMT"
     },
     {
-      "title": "Sensex tumbles 500 points, Nifty below 23,750. Check 5 key reasons behind the selloff - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
-      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
+      "title": "Sensex tumbles 500 points, Nifty below 23,750. Check 5 key reasons behind the selloff - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
+      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
+    },
+    {
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnVpSVBDdDZTV3k1ZWtZcTh5WVZWQm9jTzJIRDIzUXU4ZkZjZEZRZlF3cTlPb2poYzczRzc5NllaWEpNMVFpYy1ZVGpMZlFFREE3U25uZUxiT2tzdGlyLVNDUTJ1cDhpQ1BhQXdjQWtuSjRiRS0yV1FIZzhjTnpJT1FBYnZRdzkxSlA0dlM5MERmZ0N2aWp2RkE3Tk1vUTI3RFNmVkYteG9XejZwQUFvYnJUYmJsNlZQTWZaZ0VYRG9EYzVILUNhaHNOUy03eUs0VXVwTDlrbFM1VE41Xzh4VTBZZlZTY2JjS3BjYksxb9IB9AFBVV95cUxOUmp3WWpTVnlncG5ub2RVMmM1b0tqX2N4dkdHblFFeXhGRFdUUkwxRVhXZTg5NHo5R2RnZUZLOVFfb0pQZHA4WGFhc24xeEluRXFldWlJTlFhTjMtZlFEX2lMaUxlaEFDNE01djdUR2FiaTNnTXBJYW41dHJjaERQSjJUc2lqODNxWkJuaDJ2c1FXcVZoazRUVm5SdlBudFViOVlqWXpPZXpKUHg3bjdXdG9ERjlmNlNfSFJqaElHZ2QyUmlndXVkWl9VNFU1NzJGV05OUmZScHJFM2JKNWVtLTIwVHh6UHBRdnJnakE1enlwd3Ey?oc=5",
       "published": "Mon, 07 Sep 2026 01:46:22 GMT"
     },
@@ -119,7 +119,7 @@
       "published": "Mon, 07 Sep 2026 04:50:20 GMT"
     },
     {
-      "title": "Stock market today: Nifty, Sensex to open flat as US-Iran tensions push up crude oil prices - thehindubusinessline.com",
+      "title": "Stock market today: Nifty, Sensex to open flat as US-Iran tensions push up crude oil prices - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzVZVDYzTlpBcU1Hdl9YcWVHYU1fU3lJSElXVFdldUl3YmdsUGdfYVpYdjVtQmpUaDQ3bGtrUklZaGU2ak5MU00xTkpCVUI1a0E1Vy1JckkxaVp4WXFZTWFPeXc3TGxfcXRpUWZEZ3JPZHNPX3ctRTVxdlVsbU1jZXRoQXhYcGpSb0M5QUk3cHZNT2RGOTBYdnB5REdSWjhCTmFJa004UnVWdTE5NXB5dUVRY25Ec3B4bGxkb9IBwwFBVV95cUxOcGZOeV9vVWlUazRNRTlnZ0hJR0hWWFV5YUxUcnVTUkItUUMxMlAwX1VQcE1iNVhTZEVaZXJlMm54dkd4Z01INWhUa0VXcDMzVDU2TEpRb25SWEktOGpKSTliNlk1ZWZJNmF4ZnhUUWp4MjZMRkVyWFMwOEhZc3RTN3Q1T21uVWh1bFdyUm9xTTFva1I0ZW5XRDFYLWo0cUl0QVY4WHB3d3VfcDhJQ29YUnFsNXZyeGlFRlFqdHdaS001NVU?oc=5",
       "published": "Mon, 07 Sep 2026 02:23:17 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Mon, 07 Sep 2026 02:27:00 GMT"
     }
   ],
-  "last_updated": "2026-09-07 08:43 UTC"
+  "last_updated": "2026-09-07 08:55 UTC"
 }
