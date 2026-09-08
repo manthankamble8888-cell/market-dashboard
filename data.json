@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52802.13,
-    "change": -612.12,
-    "pct": -1.15
+    "price": 52846.96,
+    "change": -567.29,
+    "pct": -1.06
   },
   "Nasdaq": {
-    "price": 26451.75,
-    "change": -55.24,
-    "pct": -0.21
+    "price": 26444.9,
+    "change": -62.09,
+    "pct": -0.23
   },
   "S&P 500": {
-    "price": 7685.5,
-    "change": -33.1,
-    "pct": -0.43
+    "price": 7684.58,
+    "change": -34.02,
+    "pct": -0.44
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -59,9 +59,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.8,
+    "price": 4.81,
     "change": 0.02,
-    "pct": 0.33
+    "pct": 0.5
   },
   "news": [
     {
@@ -100,10 +100,10 @@
       "published": "Tue, 08 Sep 2026 11:07:03 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZXNFemFpdC1RampwOWtYNDF5N0pnRjBSeXJIOEdSZWNvMWp1UGpjR2lSbEotN2dZRlZudm1yUEh1cjNBQjJKanJwbjBsYWVCazRWQzc3TGQxMjFNR0tkZHBTZndzNnZ0cDZITzhzREdzLW81d2dMc0dQSGlXSEZoQzZ5Zjh6S3hRb09TRVlSTzVQWEthUGdkVExOYXBhTGRWdzJpZXczNDBhUkhHWm8yZkVabEJidEpJX09Id1JGa3RQZ3F1OWM3VGtlSThJNHlEQnI4em5HVTFIaUdXUmpCZlNMQdIB6AFBVV95cUxORGVuVHFKa2MxbmxHS3E4OFppOXIyQUpXT2xPVVllcUdTd2RQWk1aeUVubFh4WW13NHRMMXRxNkVuWGtUSmZnYzVrNW14dXJPMzZJTTBveG4zc3BnTjd4aGJnQm9MME1XcVpmVXRyRkVGcDJ6NVlqSGNrclBxUEdCdUluazJWZm5WSTg0d1ZSZXBqaHFmaWNScFhrMFV6RnNvVWR3RFN5V1RWVkRJcFZmV0RpWnhVSWRhTlhYWUlVeks3eEF6aXBjMVFmY1M5dXFPdVNJYXVLX2s2Y3lHZlhPS3dpZHBQdFVB?oc=5",
-      "published": "Tue, 08 Sep 2026 16:01:44 GMT"
+      "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzRINjdlbzNBSHZsdU5oYWE0MzZSV1ZyckxoT2dqTkRtX3lJbTFTZXVuY2prSy1pZHd5UnNzQkd1cDlHX3JOYVA2a1V0NEFjYll3eVRNVmVfYmFNa01QWXJLQWxoSEpsNXllTnRzbHdUUTRyMXhhVThRcUFRQWRZQWk2UmxmU2pqcmNCbEk2UlN6Nm5EdFNiVnN6Rjhjd3NUU3RQV1h4T0syQmdjZWxLLXEtY1pxVXRLdERfRW5uMEhVUzVMdHphRjJpUllxUl9JaklnQXFjbngyZEFQTW8zNdIB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
+      "published": "Mon, 07 Sep 2026 08:24:53 GMT"
     }
   ],
-  "last_updated": "2026-09-08 18:57 UTC"
+  "last_updated": "2026-09-08 19:10 UTC"
 }
