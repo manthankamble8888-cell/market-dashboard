@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23682.8,
-    "change": -96.35,
-    "pct": -0.41
+    "price": 23675.1,
+    "change": -104.05,
+    "pct": -0.44
   },
   "Bank Nifty": {
-    "price": 56954.2,
-    "change": -134.1,
-    "pct": -0.23
+    "price": 56887.55,
+    "change": -200.75,
+    "pct": -0.35
   },
   "Sensex": {
-    "price": 75785.59,
-    "change": -347.22,
-    "pct": -0.46
+    "price": 75760.37,
+    "change": -372.45,
+    "pct": -0.49
   },
   "India VIX": {
-    "price": 11.31,
-    "change": 0.15,
-    "pct": 1.3
+    "price": 11.29,
+    "change": 0.13,
+    "pct": 1.14
   },
   "Nifty IT": {
-    "price": 29876.05,
-    "change": -119.15,
-    "pct": -0.4
+    "price": 29953.85,
+    "change": -41.35,
+    "pct": -0.14
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,14 +43,14 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66624.07,
-    "change": 224.23,
-    "pct": 0.34
+    "price": 66560.67,
+    "change": 160.83,
+    "pct": 0.24
   },
   "Hang Seng": {
-    "price": 25346.66,
-    "change": -66.46,
-    "pct": -0.26
+    "price": 25345.57,
+    "change": -67.55,
+    "pct": -0.27
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.65,
-    "change": 0.22,
-    "pct": 0.23
+    "price": 94.68,
+    "change": 0.25,
+    "pct": 0.26
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -104,7 +104,7 @@
       "published": "Tue, 08 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - economictimes.com",
+      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
       "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
@@ -119,5 +119,5 @@
       "published": "Mon, 07 Sep 2026 10:52:14 GMT"
     }
   ],
-  "last_updated": "2026-09-08 04:06 UTC"
+  "last_updated": "2026-09-08 04:25 UTC"
 }
