@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52842.6,
-    "change": -571.65,
-    "pct": -1.07
+    "price": 52848.03,
+    "change": -566.22,
+    "pct": -1.06
   },
   "Nasdaq": {
-    "price": 26477.53,
-    "change": -29.46,
-    "pct": -0.11
+    "price": 26449.6,
+    "change": -57.39,
+    "pct": -0.22
   },
   "S&P 500": {
-    "price": 7691.15,
-    "change": -27.45,
-    "pct": -0.36
+    "price": 7688.11,
+    "change": -30.49,
+    "pct": -0.4
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -69,13 +69,13 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.79,
-    "change": 0.01,
-    "pct": 0.17
+    "price": 4.8,
+    "change": 0.02,
+    "pct": 0.33
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Tue, 08 Sep 2026 09:52:13 GMT"
     },
@@ -85,7 +85,7 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - livemint.com",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzJiRFl6ZFQ2dDJja3hNUDVkQ3hLZW9tLVhxZjBCQnBLN2JlbGtMYi1QSXRYVlo3VDVMTVlQUFc2Q01OVXhHamhUXzVwMWNuOVdTZWtPVHljV0R2NkQ2cnRrTEFuNlBOLS1XcV9LMzE2UkYxaTJKM0xDNnBFWWNxMXQybUZSa1pTSE1BSm5obThyUlM2QW1BMkM4dVgzQlZwNlEwZU0taUVkMWx0QS11RUhhWHFGbUQwNnU0Vy1lNFQtQVhXMmk3QWhyOTFLLUkzRG1zSVpBMXBVQk12WWtJUzlFMTZueGVZV0lELVQ4NNIB9AFBVV95cUxNNGNYQjNyZlZlbWVtcnZWXzd3SUd0dkNTMGtJcHVIZXR1cGVHbm1JajJnTmE3OHUxZzlzb1NnQjdQOUhyZlFacjU2Tl9wLVE2ZTlWbnRJbTN0akhJTnZSczRPLTVZRlBqZnUxS2xjdDBFZjhHMHlaRUVnXzR0MF9SQnAwb2wtMDFVbEN2T3RoZXEwQnpvYjVhOVdkTUFYWFR4blM2c3cxQzJqdW12SUh6ZElsQ2NKdEx5ZExibWVhUzhXU2JMaGNmNXo4ZHd5cEhWQ3Q4WkRNSktQU0U4WGF2cEc0R05BNUlpVTVMSFJxcnlaM3ZK?oc=5",
       "published": "Tue, 08 Sep 2026 01:31:11 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Tue, 08 Sep 2026 11:20:29 GMT"
     }
   ],
-  "last_updated": "2026-09-08 16:07 UTC"
+  "last_updated": "2026-09-08 16:28 UTC"
 }
