@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23705.3,
-    "change": -73.85,
-    "pct": -0.31
+    "price": 23681.85,
+    "change": -97.3,
+    "pct": -0.41
   },
   "Bank Nifty": {
-    "price": 56976.25,
-    "change": -112.05,
-    "pct": -0.2
+    "price": 56901.25,
+    "change": -187.05,
+    "pct": -0.33
   },
   "Sensex": {
-    "price": 75752.6,
-    "change": -380.21,
-    "pct": -0.5
+    "price": 75832.61,
+    "change": -300.2,
+    "pct": -0.39
   },
   "India VIX": {
-    "price": 11.01,
-    "change": -0.15,
-    "pct": -1.37
+    "price": 11.02,
+    "change": -0.14,
+    "pct": -1.25
   },
   "Nifty IT": {
-    "price": 30045.35,
-    "change": 50.15,
-    "pct": 0.17
+    "price": 29962.35,
+    "change": -32.85,
+    "pct": -0.11
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66423.05,
-    "change": 23.2,
-    "pct": 0.03
+    "price": 66480.92,
+    "change": 81.08,
+    "pct": 0.12
   },
   "Hang Seng": {
     "price": 25345.57,
@@ -119,5 +119,5 @@
       "published": "Mon, 07 Sep 2026 11:18:18 GMT"
     }
   ],
-  "last_updated": "2026-09-08 04:52 UTC"
+  "last_updated": "2026-09-08 05:06 UTC"
 }
