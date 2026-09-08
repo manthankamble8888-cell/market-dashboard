@@ -28,24 +28,22 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52856.4,
-    "change": -557.85,
-    "pct": -1.04
+    "price": 52875.2,
+    "change": -539.05,
+    "pct": -1.01
   },
   "Nasdaq": {
-    "price": 26436.21,
-    "change": -70.78,
-    "pct": -0.27
+    "price": 26438.43,
+    "change": -68.56,
+    "pct": -0.26
   },
   "S&P 500": {
-    "price": 7693.03,
-    "change": -25.57,
-    "pct": -0.33
+    "price": 7692.14,
+    "change": -26.46,
+    "pct": -0.34
   },
   "Nikkei 225": {
-    "price": 65269.33,
-    "change": -1130.52,
-    "pct": -1.7
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "price": 25317.18,
@@ -73,13 +71,13 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.79,
-    "change": 0.01,
-    "pct": 0.13
+    "price": 4.78,
+    "change": 0.0,
+    "pct": 0.0
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Tue, 08 Sep 2026 09:52:13 GMT"
     },
@@ -89,22 +87,22 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzJiRFl6ZFQ2dDJja3hNUDVkQ3hLZW9tLVhxZjBCQnBLN2JlbGtMYi1QSXRYVlo3VDVMTVlQUFc2Q01OVXhHamhUXzVwMWNuOVdTZWtPVHljV0R2NkQ2cnRrTEFuNlBOLS1XcV9LMzE2UkYxaTJKM0xDNnBFWWNxMXQybUZSa1pTSE1BSm5obThyUlM2QW1BMkM4dVgzQlZwNlEwZU0taUVkMWx0QS11RUhhWHFGbUQwNnU0Vy1lNFQtQVhXMmk3QWhyOTFLLUkzRG1zSVpBMXBVQk12WWtJUzlFMTZueGVZV0lELVQ4NNIB9AFBVV95cUxNNGNYQjNyZlZlbWVtcnZWXzd3SUd0dkNTMGtJcHVIZXR1cGVHbm1JajJnTmE3OHUxZzlzb1NnQjdQOUhyZlFacjU2Tl9wLVE2ZTlWbnRJbTN0akhJTnZSczRPLTVZRlBqZnUxS2xjdDBFZjhHMHlaRUVnXzR0MF9SQnAwb2wtMDFVbEN2T3RoZXEwQnpvYjVhOVdkTUFYWFR4blM2c3cxQzJqdW12SUh6ZElsQ2NKdEx5ZExibWVhUzhXU2JMaGNmNXo4ZHd5cEhWQ3Q4WkRNSktQU0U4WGF2cEc0R05BNUlpVTVMSFJxcnlaM3ZK?oc=5",
       "published": "Tue, 08 Sep 2026 01:31:11 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
+      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
       "published": "Tue, 08 Sep 2026 12:02:06 GMT"
     },
     {
-      "title": "India Stock Market Today, Indices, Stocks & Movers - techgraph.co",
+      "title": "India Stock Market Today, Indices, Stocks & Movers - TechGraph",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PMEM5MzZ5ZlBNd3ZVYmN5OXpINTdRZFVmRmJGcWpIVHhUM3JvMVVOUGJ6cXlIenZ4UkVaQmRkVTNIdTBrdnRGT3BEcXZ2MjZFV1Yzbi1iMjZ5TUE?oc=5",
       "published": "Tue, 08 Sep 2026 12:27:33 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 08, 2026 - Liquide Blog",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 08, 2026 - blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU1gxUEZncHVudm13VGVVa0Q1MHc4T2FFamRGcTRULUhyaDBMNU51UXRaYUFhSktSREVjbGpsOTZDLVhEY242eUpHUjRFREZFQXdVbXRFeU5FV3hOZzJpQlFoVzV4TlJwbkpOMTJOUHBqT2NpRXNKTURuTTZhTmM3MFAyS1l4SjA3Wl9XRDNOZHdDRjVLamVWVFdDejI1ZlJqTEtoemNrU0dLbmVHcS1iTXlmbGxvSWt6U1hKa0Ezd1BQNFF4X09xdldYRjFiMkZFMnFN?oc=5",
       "published": "Tue, 08 Sep 2026 11:13:27 GMT"
     },
@@ -119,5 +117,5 @@
       "published": "Tue, 08 Sep 2026 11:06:59 GMT"
     }
   ],
-  "last_updated": "2026-09-08 14:56 UTC"
+  "last_updated": "2026-09-08 15:09 UTC"
 }
