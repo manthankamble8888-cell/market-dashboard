@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23779.15,
+    "change": -118.55,
+    "pct": -0.5
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 57088.3,
+    "change": -281.35,
+    "pct": -0.49
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 76132.81,
+    "change": -382.62,
+    "pct": -0.5
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 11.16,
+    "change": 0.48,
+    "pct": 4.49
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 29995.2,
+    "change": -699.95,
+    "pct": -2.28
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,30 +43,34 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 66321.83,
+    "change": -78.02,
+    "pct": -0.12
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25413.12,
+    "change": -237.75,
+    "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 97.13,
-    "change": 0.85,
-    "pct": 0.88
+    "price": 97.12,
+    "change": 0.84,
+    "pct": 0.87
   },
   "Crude Oil (WTI)": {
-    "price": 92.52,
-    "change": 1.04,
-    "pct": 1.14
+    "price": 92.43,
+    "change": 0.95,
+    "pct": 1.04
   },
   "Gold": {
-    "price": 4468.8,
-    "change": 39.0,
-    "pct": 0.88
+    "price": 4466.3,
+    "change": 36.5,
+    "pct": 0.82
   },
   "Silver": {
-    "price": 67.2,
-    "change": 1.15,
-    "pct": 1.75
+    "price": 67.08,
+    "change": 1.03,
+    "pct": 1.56
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -93,14 +107,14 @@
       "published": "Mon, 07 Sep 2026 10:14:19 GMT"
     },
     {
-      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
-      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPSW5EUUR0UGl2enJFbVh3ckJjQVpKZGRBWlFHU2hINTNrNGpfN2d6QU5xQkN5MGZISUUwb1lhcVNmM1Y4WnhjYkdyRWtqdklXMVZfUWZfRnJPcFBYUDJZcmpsRlFkQ1FBUWkteFVadzRZWEF5X0d5TC1fMl9QeF9ZNTlpUW5Bbi1oQXo2dnYxMzk5OWUyTFZSSmpzUDlPU2gtMGtDYWVDMmlodzFKR2VsUHdOQ3loYXF3VnlTZ1hWaEFjY3VIWDQxNTB0UVI0eW9xVVlEMFNEN1cxdDZkd1VQVDF4ak5iRWtDdkVvWmJ2QWY2UFdsd3Y4bTVXVlhhRkdPb3JaT0lRQUh2SkhyeDNHRndHRG9GYnU4cWdEMF9Cd0RNcmExZ01WWmVmX1o1WVg5XzJxRG1KaW05bm53Vk9mVlJ5dnFHNXFzZU5qbnVaWldSSkVCX2h4UXBiY0lSNUVtUnR1LUo4YTFXOFlwRU9zWDR2Y1g2MUZhZmM4U2lPUDFMc0kyY3dER2NoQWtjQUVL?oc=5",
+      "published": "Tue, 08 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "New stock market pre-open session rules from today: What changes for you? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTAxT1NvZkR6SW9jc01kNDBTb244RVBHNngxa3NnbEFWN3RROW5wakxqOTd6emUwSTlDcWRfMHlKeWNEMFhOVDA3Zjc0S3BReTBEMG80WHlFWjZtYzExWDNhcFVyd2p3NGFKc3dWV3NiYnY2aDk3aWRMNW4wSHJDTFJNU1VidGtOcjZ1d1MyNG5GQ2pYRk8yYmdWRnV6VHpJMWxrVXUtYTN6MFJRRTB2Vmg3UFNnN25JZnY4dVVGdFBJRW1oUVRPVlNPZW01X09NMUgxNjcwalFFcjJyWS1mM0l3N2w0M0lKV1N4TU930gHzAUFVX3lxTFBieHBOZFpPWUYzYllfQTBRXy1wMHBFRnNCU0t1emlTa21WNm1JZFNnTURMWElUVTA3UTR2WkhfUzIwWGh6TVdUOFlQNXJfWmx1R3JIT2h5d3lTTWxPWFhma3VnLWN4N2Y4Qk54b0pyb2FSNlhRM0w5MGFLVzFZb0w4Wk8yOUVva2R4dDB5VllHZ0dQaFZjczdhMEloNFpBbUFfclM1VGo3LXdtYzFfc1NoWlk0d2JldVZJM2lyd3V4UURxcXBPSVdjdkhkZ0NRSHJmWk9IRlFkM0lfLV9NamlGdTY1R2paOFVNWjlNSWhoWmRQbw?oc=5",
-      "published": "Mon, 07 Sep 2026 03:24:00 GMT"
+      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
+      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
     {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.57% - Investing.com",
@@ -108,10 +122,10 @@
       "published": "Mon, 07 Sep 2026 10:36:07 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 07, 2026 - blog.liquide.life",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzRQSG1BbjZfZ2xNNzdrZEdoUmZJWk1EMVMyczVJSXJKcnp4cXg1aGFCNG15ZGwtcHJRQUdZdlhDaVh2MmRmU3pyVlhZYVJsbXJvZ1BDYU9GNXJCVUpVeTdIRmI4LTNQcV9SZVlsUS1sWXhTc2htSGRkTDR5eU1NWm1LdTNUNVpXQnJvLUVLMXpQcHpIMnR6Q2djeWxub0hZYm5JdWtNYmdRYmRVNF93VlcyM2dZVjNWNk1PWV9XZkVCMngxSjBEaGo4QQ?oc=5",
-      "published": "Mon, 07 Sep 2026 11:18:18 GMT"
+      "title": "New stock market pre-open session rules from today: What changes for you? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTAxT1NvZkR6SW9jc01kNDBTb244RVBHNngxa3NnbEFWN3RROW5wakxqOTd6emUwSTlDcWRfMHlKeWNEMFhOVDA3Zjc0S3BReTBEMG80WHlFWjZtYzExWDNhcFVyd2p3NGFKc3dWV3NiYnY2aDk3aWRMNW4wSHJDTFJNU1VidGtOcjZ1d1MyNG5GQ2pYRk8yYmdWRnV6VHpJMWxrVXUtYTN6MFJRRTB2Vmg3UFNnN25JZnY4dVVGdFBJRW1oUVRPVlNPZW01X09NMUgxNjcwalFFcjJyWS1mM0l3N2w0M0lKV1N4TU930gHzAUFVX3lxTFBieHBOZFpPWUYzYllfQTBRXy1wMHBFRnNCU0t1emlTa21WNm1JZFNnTURMWElUVTA3UTR2WkhfUzIwWGh6TVdUOFlQNXJfWmx1R3JIT2h5d3lTTWxPWFhma3VnLWN4N2Y4Qk54b0pyb2FSNlhRM0w5MGFLVzFZb0w4Wk8yOUVva2R4dDB5VllHZ0dQaFZjczdhMEloNFpBbUFfclM1VGo3LXdtYzFfc1NoWlk0d2JldVZJM2lyd3V4UURxcXBPSVdjdkhkZ0NRSHJmWk9IRlFkM0lfLV9NamlGdTY1R2paOFVNWjlNSWhoWmRQbw?oc=5",
+      "published": "Mon, 07 Sep 2026 03:24:00 GMT"
     }
   ],
-  "last_updated": "2026-09-08 00:09 UTC"
+  "last_updated": "2026-09-08 00:35 UTC"
 }
