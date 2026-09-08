@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23675.1,
-    "change": -104.05,
-    "pct": -0.44
+    "price": 23681.95,
+    "change": -97.2,
+    "pct": -0.41
   },
   "Bank Nifty": {
-    "price": 56887.55,
-    "change": -200.75,
-    "pct": -0.35
+    "price": 56908.1,
+    "change": -180.2,
+    "pct": -0.32
   },
   "Sensex": {
-    "price": 75760.37,
-    "change": -372.45,
-    "pct": -0.49
+    "price": 75751.59,
+    "change": -381.22,
+    "pct": -0.5
   },
   "India VIX": {
-    "price": 11.29,
-    "change": 0.13,
-    "pct": 1.14
+    "price": 11.15,
+    "change": -0.01,
+    "pct": -0.04
   },
   "Nifty IT": {
-    "price": 29953.85,
-    "change": -41.35,
-    "pct": -0.14
+    "price": 30061.35,
+    "change": 66.15,
+    "pct": 0.22
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66560.67,
-    "change": 160.83,
-    "pct": 0.24
+    "price": 66519.02,
+    "change": 119.18,
+    "pct": 0.18
   },
   "Hang Seng": {
     "price": 25345.57,
@@ -66,7 +66,7 @@
   },
   "USD/INR": {
     "price": 94.68,
-    "change": 0.25,
+    "change": 0.24,
     "pct": 0.26
   },
   "Dollar Index": {
@@ -84,7 +84,7 @@
       "published": "Mon, 07 Sep 2026 17:04:47 GMT"
     },
     {
-      "title": "Stock market today: Gift Nifty down | Vaishali Parekh recommends three stocks to buy today - Livemint",
+      "title": "Stock market today: Gift Nifty down | Vaishali Parekh recommends three stocks to buy today - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzhGUlNWS0hXSzUwNmRDUkZKc1JYMWRTZW8zLTRWTmM4M2tTUmREZGNFZFQxbWwzQVBXMkEyOFIyb0RadlRNZkc2R2xUYmVoQkk5b1ZJNWRZQXRwbmtIVGZVTVlCaDlON3RNSTN2NElhNzFPYk1rWXFtTFl1RnpsRExKZEE4OFlGbGJ3ZHpiNUZ3ajdSTU50THptUjhoeWNKeFIwV0hsYWNrWkVaU2ZDelZ3UUE2OWdlMnJ0aFBoV2VtZHJZX3hqRzBTT3ZzeTZLR2VIRFRTaTRqZWRURXEycUJaWmltMjI3NG10RnlB0gHzAUFVX3lxTE5raGtneXptYWhtRk5UY2FBV2VrRVlDQ2Y2anZVRk9LNmtrY2dkR1RFWG5PckJVY3RveFFfWVdUMzVjaTNudHQzMlVJVmlidXZaRk4waXVURDg1cE9lZ3RLSDBwY1ZzQ2VRZTRCa3hLa0pwZVZ1cWVyRzREM1ZER3FqYUxhX0ZrdzFCUkt4d0NBWDZDVGtEX0UyVDRqUkZSLVdZdW9fUWwwZjVmZWo0SVRkUDBEdG42dk5QTm9Wd3Ntbmo3QWtsNVBSY0psX3ctdENjeFpTaGlwUnNTV2k0Wjdpbm9uSUNEOHlfUnpsRXdIZjRyYw?oc=5",
       "published": "Tue, 08 Sep 2026 03:11:39 GMT"
     },
@@ -94,14 +94,19 @@
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
     },
     {
+      "title": "Sensex Today Trades Lower | Nifty Below 23,700 | Trent & ICICI Bank Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOeTUtODE2cENhSlN0cHBpVm05ZjNhWmVGWmVfNUVmNXpHTUtGRnY5bTBSWWdwN1dON2RnV0pGYTRfbm13UGxDMEMtRW5RQnVFczZxNVNhTEN5N3BnSzhlbG40UWJLRkV6c0hObjdUY1dGYXV5WTgyZDVMT2RqZWJLc0ZNaFZhMExxcFQteVFnYmhfaWJIclk4amFnMjlPOXE3SndVLUVhUHJ4b2RvY2JmdWw0ZS1RVGNrcUhtRV9Fcmg4VERNV3o2ZUlOUDFUUTYzeXIzSXpUSksxNEw2d1ZFUl9rRHljc29YTDdLeTUtV2tZdjJoT0tMQjlsZEJYQ2RXNlczUE9sa1B1TDRYeTh0dVZONzhmel9nWmRyamtHUmlZNk5JUDFhQ2t2djcxc0VTZHNDX05CclBEd2Z6V3F3Y3hNVGZENUY5RmJEM1pR?oc=5",
+      "published": "Tue, 08 Sep 2026 04:35:47 GMT"
+    },
+    {
       "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzRINjdlbzNBSHZsdU5oYWE0MzZSV1ZyckxoT2dqTkRtX3lJbTFTZXVuY2prSy1pZHd5UnNzQkd1cDlHX3JOYVA2a1V0NEFjYll3eVRNVmVfYmFNa01QWXJLQWxoSEpsNXllTnRzbHdUUTRyMXhhVThRcUFRQWRZQWk2UmxmU2pqcmNCbEk2UlN6Nm5EdFNiVnN6Rjhjd3NUU3RQV1h4T0syQmdjZWxLLXEtY1pxVXRLdERfRW5uMEhVUzVMdHphRjJpUllxUl9JaklnQXFjbngyZEFQTW8zNdIB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
       "published": "Mon, 07 Sep 2026 08:24:53 GMT"
     },
     {
-      "title": "Mazagon Dock Wins Major MSETCL Infrastructure Order | TCS Expands AI Innovation Footprint in London | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0VpU3Z6WjJ6eV9oOF9LLXdyYkg0NGNsYkp5ci1na2U4Ty1xLWloMm5DZlREbXMyWmJFS3J3bUZ1TVJqaUw4ZHItcnQwNjhDbFk5NXN2ekhieTlzTnYtZXRDcUl1VDRuUi1manFOWWEtYV9wYk5nZnNpVUg3bTlESWRkMmVHNldwMm5xQXJCZjVvSTdSRFQwWWtFQnpJc0J1QXo3Y3BacXdKdy1OZkxzNFZaMWs1d0RQQ0kyN2U5c0lLRm9PNDVWV005WkE4REFvMi1DQnYwaHZJUlBwS2RSQThXNTRfYmpQNS1maW8zay1ReDVjdnZUbkd1TTVKeDJMeDJydk4xbXRUQ21CWWRmRg?oc=5",
-      "published": "Tue, 08 Sep 2026 00:30:00 GMT"
+      "title": "Indian stocks slip to six-week low as IT slides, oil worries mount - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN28wNDdORG10X2Z2Tnl0OHduV3Q4T0IwNTJOWTlqUHhWQWxMa1RQYjE1ZDFfWkZhT3I4Z25yWXhHb1pseWNIYU85Nm9oM0dfZG9IYWNBeVcySDBfMnl2Tkd4aFdGWklMNDY1aDhPMnNrNTdMVl9vMWpvQlROUGtleDNBUHpYa1k4UzZCS2VFVGlxX0dnWjEwREYwUDNJYV9qbS1JdnZfU3NGZEFjOG1Bb1l6N1V6QQ?oc=5",
+      "published": "Mon, 07 Sep 2026 10:20:43 GMT"
     },
     {
       "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - The Economic Times",
@@ -112,12 +117,7 @@
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 07, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTzRQSG1BbjZfZ2xNNzdrZEdoUmZJWk1EMVMyczVJSXJKcnp4cXg1aGFCNG15ZGwtcHJRQUdZdlhDaVh2MmRmU3pyVlhZYVJsbXJvZ1BDYU9GNXJCVUpVeTdIRmI4LTNQcV9SZVlsUS1sWXhTc2htSGRkTDR5eU1NWm1LdTNUNVpXQnJvLUVLMXpQcHpIMnR6Q2djeWxub0hZYm5JdWtNYmdRYmRVNF93VlcyM2dZVjNWNk1PWV9XZkVCMngxSjBEaGo4QQ?oc=5",
       "published": "Mon, 07 Sep 2026 11:18:18 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.57% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3FRNVVoTEM0NjdlZ1JnS2pxcmFJek1rbmFqazAtaVMwX05nZW5EMDAtTjBHWDVhVlh5TWdsQ0tQb21oZWNQMmYteksxdThMT1ZXRWFJT3BocGt5SGczNzlsMXhLN2hQc3pvTDY0TG54ZXpHckV5RkF1SmNwSGhCeE9FU1RqRWFwMFB6UFFIME9xQ2JrYlJJaUpIODBERlhfNy1XUldRNUhyYk4yeXhIaA?oc=5",
-      "published": "Mon, 07 Sep 2026 10:52:14 GMT"
     }
   ],
-  "last_updated": "2026-09-08 04:25 UTC"
+  "last_updated": "2026-09-08 04:40 UTC"
 }
