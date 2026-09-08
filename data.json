@@ -73,11 +73,16 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.77,
+    "price": 4.76,
     "change": -0.02,
-    "pct": -0.38
+    "pct": -0.42
   },
   "news": [
+    {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Tue, 08 Sep 2026 09:52:13 GMT"
+    },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | eight stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzJiRFl6ZFQ2dDJja3hNUDVkQ3hLZW9tLVhxZjBCQnBLN2JlbGtMYi1QSXRYVlo3VDVMTVlQUFc2Q01OVXhHamhUXzVwMWNuOVdTZWtPVHljV0R2NkQ2cnRrTEFuNlBOLS1XcV9LMzE2UkYxaTJKM0xDNnBFWWNxMXQybUZSa1pTSE1BSm5obThyUlM2QW1BMkM4dVgzQlZwNlEwZU0taUVkMWx0QS11RUhhWHFGbUQwNnU0Vy1lNFQtQVhXMmk3QWhyOTFLLUkzRG1zSVpBMXBVQk12WWtJUzlFMTZueGVZV0lELVQ4NNIB9AFBVV95cUxNNGNYQjNyZlZlbWVtcnZWXzd3SUd0dkNTMGtJcHVIZXR1cGVHbm1JajJnTmE3OHUxZzlzb1NnQjdQOUhyZlFacjU2Tl9wLVE2ZTlWbnRJbTN0akhJTnZSczRPLTVZRlBqZnUxS2xjdDBFZjhHMHlaRUVnXzR0MF9SQnAwb2wtMDFVbEN2T3RoZXEwQnpvYjVhOVdkTUFYWFR4blM2c3cxQzJqdW12SUh6ZElsQ2NKdEx5ZExibWVhUzhXU2JMaGNmNXo4ZHd5cEhWQ3Q4WkRNSktQU0U4WGF2cEc0R05BNUlpVTVMSFJxcnlaM3ZK?oc=5",
@@ -87,6 +92,11 @@
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Thu, 03 Sep 2026 00:05:00 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
+      "published": "Tue, 08 Sep 2026 12:02:06 GMT"
     },
     {
       "title": "India Stock Market Today, Indices, Stocks & Movers - TechGraph",
@@ -107,17 +117,7 @@
       "title": "Indian shares slide as oil nears $100; Nifty turns volatile during closing auction - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcTlsdDdCYlVfZ1VEeEUxRlczcDRrYkVhc2pQclVYTmpod3hUWmRWa01RbkhIVlQ1LXhVN3VZYW5ZWldxODFFSXU1NGhCV3NIczRnOXFrVFQ1dk5CbDV4c3FPMDFWN2hheGpzYVQ2c1dqeFE3LWtCX3o2ZldLR3lqcm1SLTczWXBFSXVNcFl3WkdQUzZxemsxaThrUmNXdlhsMFEzLXdleUgyaWdOd29n?oc=5",
       "published": "Tue, 08 Sep 2026 02:15:00 GMT"
-    },
-    {
-      "title": "Sensex tanks 555 points as stocks fall for second day amid rising crude, West Asia crisis - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS0ltaHhoQW1XUFptRkZ4UjZDQTRMSFlSZTN1RXFnVWliNWFIT0M3WnBzcVVvSjhlOHZJclJPcldZWVB0MVVTRG1aSXp3al9aQ0xyc2t1YkxiRFMzTU44aHpZamMtaVFrLUw1Y2JCcUsxeU5vb3JtSkdGU19rR1ZqdW9jaUlrZS1JV0I2enptbTFjNmtfTUc4eDMzMUV0WXgzQmNMVFdGSVQ1RENoVDF1SlFtcm1SMzlsYUtxQmlJSjZJRlVKMUZqd1luUWhIbE1zTUhxclpRSEZfd9IB5wFBVV95cUxQTDRLYjBHeXVYVEdJeS05N2N3ME5ZWGI5dHFJWk84c1FlODFQNmdWOW5rT214bl9zem5sMk1MVW4ydnY5N0o1aXFoT1JfQWs4bldPOWNadFF3eG04WnpCOGpvejVJdGl2YXBtbFBlOXBoeXVoZkRaMjBsWW1sVlU4ei1KRTJjdEN0RmNnVGFZeEJZa0dYbjY3azQyekVmUW9lT0R5SER3azJUdm11eDJmeWhJTkpBN2FnS2pUM2FPam8xa0VnQmJBd1ZtRXNrcS1adlp2alJEdVZBUTBXSWNKMFRDQWRuUlU?oc=5",
-      "published": "Tue, 08 Sep 2026 11:06:59 GMT"
-    },
-    {
-      "title": "Stock Market prediction tomorrow: Sensex, Nifty outlook for Wed | Kospi, Taiwan Index, Nikkei cues to watch | 9 Sept - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTzM3VGw4Nk9oZEk5aXhIQWcyNWRGTDFpbk5hRUp6a25OenU5S2gyS2tQd09iUWVTUVBOMjB1eGpVemlSYWxPMi03MjBUN3FpMTBobFdoNG1VaDdOZDZjRElXUmNucDJIdmZBSlZTdnhuVVo3UlVVbm5OVU9PV2N1OFMtQmJfMnkwWHNrZDlLYmJBNkltM0RJaWE4aUxQdUhfN2lyc0dIdW9GX2tHMlluRGw4NGZaU2oyUGJWVDYtVk1lLUtMeE9YNzBWcExmaXp4Q1FIeEdyVWV4Y0xf?oc=5",
-      "published": "Tue, 08 Sep 2026 11:20:29 GMT"
     }
   ],
-  "last_updated": "2026-09-08 13:08 UTC"
+  "last_updated": "2026-09-08 13:27 UTC"
 }
