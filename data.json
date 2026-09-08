@@ -43,9 +43,9 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "price": 66321.83,
-    "change": -78.02,
-    "pct": -0.12
+    "price": 66387.29,
+    "change": -12.55,
+    "pct": -0.02
   },
   "Hang Seng": {
     "price": 25413.12,
@@ -53,27 +53,29 @@
     "pct": -0.93
   },
   "Crude Oil (Brent)": {
-    "price": 97.12,
-    "change": 0.84,
-    "pct": 0.87
+    "price": 97.05,
+    "change": 0.77,
+    "pct": 0.8
   },
   "Crude Oil (WTI)": {
-    "price": 92.43,
-    "change": 0.95,
-    "pct": 1.04
+    "price": 92.39,
+    "change": 0.91,
+    "pct": 0.99
   },
   "Gold": {
-    "price": 4466.3,
-    "change": 36.5,
-    "pct": 0.82
+    "price": 4466.6,
+    "change": 36.8,
+    "pct": 0.83
   },
   "Silver": {
-    "price": 67.08,
+    "price": 67.07,
     "change": 1.03,
     "pct": 1.56
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 94.47,
+    "change": 0.04,
+    "pct": 0.05
   },
   "Dollar Index": {
     "price": 99.18,
@@ -107,14 +109,9 @@
       "published": "Mon, 07 Sep 2026 10:14:19 GMT"
     },
     {
-      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPSW5EUUR0UGl2enJFbVh3ckJjQVpKZGRBWlFHU2hINTNrNGpfN2d6QU5xQkN5MGZISUUwb1lhcVNmM1Y4WnhjYkdyRWtqdklXMVZfUWZfRnJPcFBYUDJZcmpsRlFkQ1FBUWkteFVadzRZWEF5X0d5TC1fMl9QeF9ZNTlpUW5Bbi1oQXo2dnYxMzk5OWUyTFZSSmpzUDlPU2gtMGtDYWVDMmlodzFKR2VsUHdOQ3loYXF3VnlTZ1hWaEFjY3VIWDQxNTB0UVI0eW9xVVlEMFNEN1cxdDZkd1VQVDF4ak5iRWtDdkVvWmJ2QWY2UFdsd3Y4bTVXVlhhRkdPb3JaT0lRQUh2SkhyeDNHRndHRG9GYnU4cWdEMF9Cd0RNcmExZ01WWmVmX1o1WVg5XzJxRG1KaW05bm53Vk9mVlJ5dnFHNXFzZU5qbnVaWldSSkVCX2h4UXBiY0lSNUVtUnR1LUo4YTFXOFlwRU9zWDR2Y1g2MUZhZmM4U2lPUDFMc0kyY3dER2NoQWtjQUVL?oc=5",
+      "title": "Mazagon Dock Wins Major MSETCL Infrastructure Order | TCS Expands AI Innovation Footprint in London | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0VpU3Z6WjJ6eV9oOF9LLXdyYkg0NGNsYkp5ci1na2U4Ty1xLWloMm5DZlREbXMyWmJFS3J3bUZ1TVJqaUw4ZHItcnQwNjhDbFk5NXN2ekhieTlzTnYtZXRDcUl1VDRuUi1manFOWWEtYV9wYk5nZnNpVUg3bTlESWRkMmVHNldwMm5xQXJCZjVvSTdSRFQwWWtFQnpJc0J1QXo3Y3BacXdKdy1OZkxzNFZaMWs1d0RQQ0kyN2U5c0lLRm9PNDVWV005WkE4REFvMi1DQnYwaHZJUlBwS2RSQThXNTRfYmpQNS1maW8zay1ReDVjdnZUbkd1TTVKeDJMeDJydk4xbXRUQ21CWWRmRg?oc=5",
       "published": "Tue, 08 Sep 2026 00:30:00 GMT"
-    },
-    {
-      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
-      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     },
     {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.57% - Investing.com",
@@ -122,10 +119,15 @@
       "published": "Mon, 07 Sep 2026 10:36:07 GMT"
     },
     {
-      "title": "New stock market pre-open session rules from today: What changes for you? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSTAxT1NvZkR6SW9jc01kNDBTb244RVBHNngxa3NnbEFWN3RROW5wakxqOTd6emUwSTlDcWRfMHlKeWNEMFhOVDA3Zjc0S3BReTBEMG80WHlFWjZtYzExWDNhcFVyd2p3NGFKc3dWV3NiYnY2aDk3aWRMNW4wSHJDTFJNU1VidGtOcjZ1d1MyNG5GQ2pYRk8yYmdWRnV6VHpJMWxrVXUtYTN6MFJRRTB2Vmg3UFNnN25JZnY4dVVGdFBJRW1oUVRPVlNPZW01X09NMUgxNjcwalFFcjJyWS1mM0l3N2w0M0lKV1N4TU930gHzAUFVX3lxTFBieHBOZFpPWUYzYllfQTBRXy1wMHBFRnNCU0t1emlTa21WNm1JZFNnTURMWElUVTA3UTR2WkhfUzIwWGh6TVdUOFlQNXJfWmx1R3JIT2h5d3lTTWxPWFhma3VnLWN4N2Y4Qk54b0pyb2FSNlhRM0w5MGFLVzFZb0w4Wk8yOUVva2R4dDB5VllHZ0dQaFZjczdhMEloNFpBbUFfclM1VGo3LXdtYzFfc1NoWlk0d2JldVZJM2lyd3V4UURxcXBPSVdjdkhkZ0NRSHJmWk9IRlFkM0lfLV9NamlGdTY1R2paOFVNWjlNSWhoWmRQbw?oc=5",
-      "published": "Mon, 07 Sep 2026 03:24:00 GMT"
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPVXp5eU1XeVRtR0ZGYnhlOUFVNlFGN1hzQ3VONGtSdE90dUo0TmlSWkFXcmd1MUFKOTNDVkFGRzhqNExMckZQejFmMWlKSDQtZVUzV2tRaGs3a3pkbkNnVXRzMFU0RjNDY0FYUzBzUFdwQ0ZNYk5PeC1YRjFxbVpPX2dmaXhndFZXYUs3dTdYZGJySFdCUmFaTFhkN2xOV09qUWowZ3R5ZHhKTzBDaDNFM09STE12VGVEY25icHR6T3JMVnlwQzFfbXNjMFRHeHNXMm1zRU9xb1pXTXBWVlhlRVA3T0FhT29IM3BBTFVoWWtDaXVIeGpDeTBlX1JYd21YajdrZnoxNWtURjV0Mm5jYXphMkFnTThrbFZWMGMyQ0tYRThqcmFQMkNrS25BcXRyWHFKclEyemt2Rm55Q2dObkFRQ2FyUjFxOEHSAeYBQVVfeXFMUGFoal9Ec0hjcklZd1Z6b0thUkdES2xEdHBPU3NweUduSllEU29Ib0NNSWRDSmZNV0lVSXpLQ253UTZwcDJ0NnJ0WGJqNm04clVybWlRRVZpOEFKQlAyY1JpdDVPVWtOODdDSHkwenZ5UkpNRkNmdFpPWmJsVGlLYnVxZmN6Y29uVnJYa0JvZkhtWVRtM3Z1SEhIZE9pSGtqb3BUVnNtUFZRcWpZMkM0VzVKdWFSQ2lSX19NNlBJb0dfMHRiMmlGV2JGTXRucXAtTlFzazU1OUpFYnBrbE0xc1NCOWVTOGc?oc=5",
+      "published": "Mon, 07 Sep 2026 16:05:18 GMT"
+    },
+    {
+      "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOdXkwRXltb0E3X0FMS2NRNHpsOENDOG1yLUMxUXZvdVB2TFFuMEFGNTd5b0JRWnBZTzhxdnBSVV9SSFhlaEZzVF9jWXRCTldrZXpvV19neEwxSTFKNEV1T012Y2VqWjFjQWRPNmh5WnBXSEVxU3ZmV3htZDk1WE4yejlGcHFFR0tPUHZiX0RpSmZWblBTcjJyN3N5VVhwRnFFdGNEVU1mX2l1dHpaTDhhTHo5c2dIVzBZT0lIRy1qS1BSQkdlMmVDUGhXOERpN01ObzFsR3pUQXduRjBrTXh0blFjeDVERDBfeTJfUFpCN1B2eHI1bEptcVdORHdkNjNpWEpSZEJFLUl1eVNieFNsMFExQdIBmAJBVV95cUxOcm1JdUFUOHRQMHYwemxNTmpzby1PdXljS3h6QjNlN19BTjUxRGdIcVZUQ2lWTU82d0JrQnNKNFBMUENnenRPQ0F5T1VlOWs0YkdNdTNzUDZnNUtvSWFHTDYwSnZFamJoRVlnLTJJQnhzajEzdHMtZl9Zb2JXZWZOTG1yUkZ2bFdlaGxtQ3RrcXpMc1dHSndJNzA5eGJjOXBiVUpTMWFrM3FDb05SQzEzc2Q5aUdRVWFCbzd4NWotcmhUWlRwcXUwbWxna09ta0JPTndmcXpUU1VjQVZyNW01VW15SXJpc0tKaTBYaGpDWEkwdEhkVk9ocFgxU244SFFPQl9SVkRCY1UtMGVwSFMwRzFhNU5yUkNU?oc=5",
+      "published": "Mon, 07 Sep 2026 03:59:51 GMT"
     }
   ],
-  "last_updated": "2026-09-08 00:35 UTC"
+  "last_updated": "2026-09-08 00:55 UTC"
 }
