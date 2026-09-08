@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23655.05,
-    "change": -124.1,
-    "pct": -0.52
+    "price": 23645.1,
+    "change": -134.05,
+    "pct": -0.56
   },
   "Bank Nifty": {
-    "price": 56818.6,
-    "change": -269.7,
-    "pct": -0.47
+    "price": 56768.6,
+    "change": -319.7,
+    "pct": -0.56
   },
   "Sensex": {
-    "price": 75646.59,
-    "change": -486.22,
-    "pct": -0.64
+    "price": 75625.48,
+    "change": -507.34,
+    "pct": -0.67
   },
   "India VIX": {
-    "price": 11.19,
-    "change": 0.03,
-    "pct": 0.22
+    "price": 11.26,
+    "change": 0.1,
+    "pct": 0.87
   },
   "Nifty IT": {
-    "price": 29907.05,
-    "change": -88.15,
-    "pct": -0.29
+    "price": 29889.35,
+    "change": -105.85,
+    "pct": -0.35
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.84,
-    "change": 0.41,
-    "pct": 0.44
+    "price": 94.87,
+    "change": 0.44,
+    "pct": 0.47
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -90,7 +90,7 @@
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 23,700 | Trent & ICICI Bank Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaDBwWFBFUVhVeGsyQnpBaUdCRHQ0aXlDcFFJMFVRRm93bUNtTjJOREJiZHdjdHJDZFhodHNETHlyNkpra0RJZE1xWG94bWtSNUhjM1Nkd21fQkhjMHBRaVNkRnEwTzNCSDVTRV9yZVZfTG9ZVXJxaDNPbUhJb3BWRnRRUHZPSGJLWDdhMnhkc01WLXNCSGtyQ0lvOS1TV3ZKWEp1SzhFN2FyV0VBNGdOeVA3eHZsb0JKS0twVHhRWi14U0o4R1ZBX3VxU3lmZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPQXRFMVgyZGNVYVUwbnRNNXVOQ3hsS25wUFhNZF84NGJia2JqVzJvaUxKbVRvaWtJUmRNTnpHMUxaOWFZWHZxRTlQNWxjWk4tUjlVWkQxaEhMLVFYRVQwSTZINFA5MkVpN1FOSHlocmt3RUlLYXJqM0tZUGlfd3ZMMlZ2ckVEQWdndHF2SEJ4WWM5eExlSDVBTUtHMmVwSmZzM1lKTEIwcklZZGo2TF9Zc1pLUzZFbWtGTFMtck5JUThkVmpGcWxBUmk3d3pfX05TUzNld2U2M19DUUFwdnVYSURhMUFUN3l3OUNhZ0FHTW56ZTVPLWp4TmJaZzVMTEZuMkthd2xRdllVZERXV295a1VfbUtpM0RMTUg2SG9kNXNSSDBFQXdzQnZONDQ4NGVCeTBHUA?oc=5",
       "published": "Tue, 08 Sep 2026 04:35:47 GMT"
     },
     {
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 04:30:20 GMT"
     }
   ],
-  "last_updated": "2026-09-08 09:07 UTC"
+  "last_updated": "2026-09-08 09:26 UTC"
 }
