@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23650.6,
-    "change": -128.55,
-    "pct": -0.54
+    "price": 23632.15,
+    "change": -147.0,
+    "pct": -0.62
   },
   "Bank Nifty": {
-    "price": 56767.45,
-    "change": -320.85,
+    "price": 56767.1,
+    "change": -321.2,
     "pct": -0.56
   },
   "Sensex": {
-    "price": 75648.81,
-    "change": -484.0,
-    "pct": -0.64
+    "price": 75610.61,
+    "change": -522.2,
+    "pct": -0.69
   },
   "India VIX": {
-    "price": 11.2,
-    "change": 0.05,
-    "pct": 0.4
+    "price": 11.27,
+    "change": 0.11,
+    "pct": 0.94
   },
   "Nifty IT": {
-    "price": 29963.15,
-    "change": -32.05,
-    "pct": -0.11
+    "price": 29919.95,
+    "change": -75.25,
+    "pct": -0.25
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,8 +48,8 @@
     "pct": -1.7
   },
   "Hang Seng": {
-    "price": 25316.2,
-    "change": -96.92,
+    "price": 25317.18,
+    "change": -95.94,
     "pct": -0.38
   },
   "Crude Oil (Brent)": {
@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.75,
-    "change": 0.31,
-    "pct": 0.33
+    "price": 94.76,
+    "change": 0.33,
+    "pct": 0.35
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 04:30:20 GMT"
     }
   ],
-  "last_updated": "2026-09-08 08:07 UTC"
+  "last_updated": "2026-09-08 08:27 UTC"
 }
