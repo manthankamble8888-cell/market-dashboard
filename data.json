@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23658.4,
-    "change": -120.75,
-    "pct": -0.51
+    "price": 23671.95,
+    "change": -107.2,
+    "pct": -0.45
   },
   "Bank Nifty": {
-    "price": 56843.35,
-    "change": -244.95,
-    "pct": -0.43
+    "price": 56868.0,
+    "change": -220.3,
+    "pct": -0.39
   },
   "Sensex": {
-    "price": 75606.86,
-    "change": -525.95,
-    "pct": -0.69
+    "price": 75652.11,
+    "change": -480.7,
+    "pct": -0.63
   },
   "India VIX": {
-    "price": 11.24,
-    "change": 0.08,
-    "pct": 0.69
+    "price": 11.15,
+    "change": -0.01,
+    "pct": -0.07
   },
   "Nifty IT": {
-    "price": 29935.35,
-    "change": -59.85,
-    "pct": -0.2
+    "price": 29933.4,
+    "change": -61.8,
+    "pct": -0.21
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,9 +48,9 @@
     "pct": -1.7
   },
   "Hang Seng": {
-    "price": 25334.92,
-    "change": -78.2,
-    "pct": -0.31
+    "price": 25341.4,
+    "change": -71.72,
+    "pct": -0.28
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -66,8 +66,8 @@
   },
   "USD/INR": {
     "price": 94.74,
-    "change": 0.3,
-    "pct": 0.32
+    "change": 0.31,
+    "pct": 0.33
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -90,18 +90,23 @@
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 23,700 | Trent & ICICI Bank Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaDBwWFBFUVhVeGsyQnpBaUdCRHQ0aXlDcFFJMFVRRm93bUNtTjJOREJiZHdjdHJDZFhodHNETHlyNkpra0RJZE1xWG94bWtSNUhjM1Nkd21fQkhjMHBRaVNkRnEwTzNCSDVTRV9yZVZfTG9ZVXJxaDNPbUhJb3BWRnRRUHZPSGJLWDdhMnhkc01WLXNCSGtyQ0lvOS1TV3ZKWEp1SzhFN2FyV0VBNGdOeVA3eHZsb0JKS0twVHhRWi14U0o4R1ZBX3VxU3lmZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUpSdS12clhvR2tYZ21hNmdwRHh0Vlp6anZxR2F5LTNmNVA5MUFsMlNiU2xkNVBBWjMwb0cwLXM4ZGlyVTJyNDdfYjI3SHJWeVFqby1wUW1lU1NyQlFrM3RnZGV6UGZHZXBIWnBqOF9jcDhsVVJiS1BKN0l6all5REVPX2l1Wk9lSkFkd0VOdEtSd3RiQVBrZmpmaVE4SEp0dThpR1dNdHpaQWRHLXRxbW9qRjBTNWVXaXhfX3JScWxacHpZeHdBYWw0bHNTQQ?oc=5",
       "published": "Tue, 08 Sep 2026 04:35:47 GMT"
-    },
-    {
-      "title": "India Stocks Open Lower as Oil Prices Rise and Markets Remain Under Pressure - in.investing.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcjRyVWRhQ191MjV6OXY5VTZ5c3hpRG9hWFhBREs0OG40RFhuUXlaTlh2RE9pQk5oX0k5Q0NyZGNBcUZjZnNNOElPYWpVZUQwRE1SejZhM1VpcGo4NHRwWTEyRGhPSVIyQ3lELXhLazJ3eXdfMm9mRDZTQXBFZ0NrX3l2d25BdmpRRFZwR3lmRi05T1BSaTl2dTdQYXR5blNfZHFKeFRSM19HNlJQNXJFcjhiSDJhLUFuSW0teWtzWEZvTzA1QmxDQmR4aVQ?oc=5",
-      "published": "Tue, 08 Sep 2026 04:33:06 GMT"
     },
     {
       "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzRINjdlbzNBSHZsdU5oYWE0MzZSV1ZyckxoT2dqTkRtX3lJbTFTZXVuY2prSy1pZHd5UnNzQkd1cDlHX3JOYVA2a1V0NEFjYll3eVRNVmVfYmFNa01QWXJLQWxoSEpsNXllTnRzbHdUUTRyMXhhVThRcUFRQWRZQWk2UmxmU2pqcmNCbEk2UlN6Nm5EdFNiVnN6Rjhjd3NUU3RQV1h4T0syQmdjZWxLLXEtY1pxVXRLdERfRW5uMEhVUzVMdHphRjJpUllxUl9JaklnQXFjbngyZEFQTW8zNdIB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
       "published": "Mon, 07 Sep 2026 08:24:53 GMT"
+    },
+    {
+      "title": "India Stocks Open Lower as Oil Prices Rise and Markets Remain Under Pressure - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcjRyVWRhQ191MjV6OXY5VTZ5c3hpRG9hWFhBREs0OG40RFhuUXlaTlh2RE9pQk5oX0k5Q0NyZGNBcUZjZnNNOElPYWpVZUQwRE1SejZhM1VpcGo4NHRwWTEyRGhPSVIyQ3lELXhLazJ3eXdfMm9mRDZTQXBFZ0NrX3l2d25BdmpRRFZwR3lmRi05T1BSaTl2dTdQYXR5blNfZHFKeFRSM19HNlJQNXJFcjhiSDJhLUFuSW0teWtzWEZvTzA1QmxDQmR4aVQ?oc=5",
+      "published": "Tue, 08 Sep 2026 04:33:06 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex falls 470 pts, Nifty below 23,700; banks, Oil & Gas drag, m - indiaipo.in",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmg1bXgwdHRPN2RNYTk3Q3JKR2RheGVaM0pfSVhsd2lGWXRSenF1c2Vqek8wMXVDZDlXdWhmUUIxLVFoZlZROTVudGN6R2l2VUREVkd4dk9GUUlqUTZwbV8zVU5vdnAxM1JJMHZId0I4UmdQS0RQUFNaLWxNV1hONXJsNWFVSk5UUjBDZE0yMEVzcUw5N3dXa3NlUV9OQjEyQ1lmRnZ4QkhpZlZVOHdzUWwxRVJvUlJIb1FUdWQ0VzZja2Fs?oc=5",
+      "published": "Tue, 08 Sep 2026 07:07:27 GMT"
     },
     {
       "title": "Why did market fall today despite positive fundamentals? 5 reasons why Sensex fell 383 points, Nifty ended - The Economic Times",
@@ -112,12 +117,7 @@
       "title": "Stock Markets Decline Amid Rising Oil Prices, West Asia Crisis - Rediff MoneyWiz",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRU1ReHBKYlR1bHJCOHJFQUE5bmdsNEU4WENYZE9mLTcxdExfd0FPSnRlUnZudHZMWlJ4RFJxTjVaRFVYS05xZ3hzS1NmT1BicjIxN0w2M2Y1Q3VJQS1aVHBwVGZrMHdfWWJsbzhoMXpGQkpRclI5Y3BNMGp0enZfOHpzbmI4ekxqRWFyQ0tIemtEWnVuLXhwNmRfeFNPX1o3TzM2TWlSMEYzVEl4ZnM3MDhfZ9IBuAFBVV95cUxNVjRVSTNiWTNGSDJNZnZzN3BpRW5STENTd1NMVl9lMmhQZkNHcUU1ZEZ2VGk0WDl1T2d5LS02SUNfdkRMZ3VzYUxPOUFZZ1lvYzlFV0tZZWlDaHloOWhnYU9vcUZZakdMWVVjcFZLVmQteUFDcTNNNm5MZFBNaXJHTTZtRm8xQXo4dTdBWEN1MDQ1Z0RmZ2JPc01fVWlmS3lzQk5hMllIalJ3c0poZVRHQlBuc01HYUVE?oc=5",
       "published": "Tue, 08 Sep 2026 04:30:20 GMT"
-    },
-    {
-      "title": "Stock market today: Gift Nifty down | Vaishali Parekh recommends three stocks to buy today - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzhGUlNWS0hXSzUwNmRDUkZKc1JYMWRTZW8zLTRWTmM4M2tTUmREZGNFZFQxbWwzQVBXMkEyOFIyb0RadlRNZkc2R2xUYmVoQkk5b1ZJNWRZQXRwbmtIVGZVTVlCaDlON3RNSTN2NElhNzFPYk1rWXFtTFl1RnpsRExKZEE4OFlGbGJ3ZHpiNUZ3ajdSTU50THptUjhoeWNKeFIwV0hsYWNrWkVaU2ZDelZ3UUE2OWdlMnJ0aFBoV2VtZHJZX3hqRzBTT3ZzeTZLR2VIRFRTaTRqZWRURXEycUJaWmltMjI3NG10RnlB0gHzAUFVX3lxTE5raGtneXptYWhtRk5UY2FBV2VrRVlDQ2Y2anZVRk9LNmtrY2dkR1RFWG5PckJVY3RveFFfWVdUMzVjaTNudHQzMlVJVmlidXZaRk4waXVURDg1cE9lZ3RLSDBwY1ZzQ2VRZTRCa3hLa0pwZVZ1cWVyRzREM1ZER3FqYUxhX0ZrdzFCUkt4d0NBWDZDVGtEX0UyVDRqUkZSLVdZdW9fUWwwZjVmZWo0SVRkUDBEdG42dk5QTm9Wd3Ntbmo3QWtsNVBSY0psX3ctdENjeFpTaGlwUnNTV2k0Wjdpbm9uSUNEOHlfUnpsRXdIZjRyYw?oc=5",
-      "published": "Tue, 08 Sep 2026 03:11:39 GMT"
     }
   ],
-  "last_updated": "2026-09-08 06:54 UTC"
+  "last_updated": "2026-09-08 07:08 UTC"
 }
