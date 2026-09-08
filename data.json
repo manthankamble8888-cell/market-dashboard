@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23645.1,
-    "change": -134.05,
-    "pct": -0.56
+    "price": 23653.6,
+    "change": -125.55,
+    "pct": -0.53
   },
   "Bank Nifty": {
-    "price": 56768.6,
-    "change": -319.7,
-    "pct": -0.56
+    "price": 56795.6,
+    "change": -292.7,
+    "pct": -0.51
   },
   "Sensex": {
-    "price": 75625.48,
-    "change": -507.34,
-    "pct": -0.67
+    "price": 75603.85,
+    "change": -528.96,
+    "pct": -0.69
   },
   "India VIX": {
-    "price": 11.26,
-    "change": 0.1,
-    "pct": 0.87
+    "price": 11.15,
+    "change": -0.01,
+    "pct": -0.09
   },
   "Nifty IT": {
-    "price": 29889.35,
-    "change": -105.85,
-    "pct": -0.35
+    "price": 29887.6,
+    "change": -107.6,
+    "pct": -0.36
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -67,7 +67,7 @@
   "USD/INR": {
     "price": 94.87,
     "change": 0.44,
-    "pct": 0.47
+    "pct": 0.46
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -84,19 +84,19 @@
       "published": "Tue, 08 Sep 2026 01:31:11 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Thu, 03 Sep 2026 00:05:00 GMT"
-    },
-    {
       "title": "Sensex Today Trades Lower | Nifty Below 23,700 | Trent & ICICI Bank Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPQXRFMVgyZGNVYVUwbnRNNXVOQ3hsS25wUFhNZF84NGJia2JqVzJvaUxKbVRvaWtJUmRNTnpHMUxaOWFZWHZxRTlQNWxjWk4tUjlVWkQxaEhMLVFYRVQwSTZINFA5MkVpN1FOSHlocmt3RUlLYXJqM0tZUGlfd3ZMMlZ2ckVEQWdndHF2SEJ4WWM5eExlSDVBTUtHMmVwSmZzM1lKTEIwcklZZGo2TF9Zc1pLUzZFbWtGTFMtck5JUThkVmpGcWxBUmk3d3pfX05TUzNld2U2M19DUUFwdnVYSURhMUFUN3l3OUNhZ0FHTW56ZTVPLWp4TmJaZzVMTEZuMkthd2xRdllVZERXV295a1VfbUtpM0RMTUg2SG9kNXNSSDBFQXdzQnZONDQ4NGVCeTBHUA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQUpSdS12clhvR2tYZ21hNmdwRHh0Vlp6anZxR2F5LTNmNVA5MUFsMlNiU2xkNVBBWjMwb0cwLXM4ZGlyVTJyNDdfYjI3SHJWeVFqby1wUW1lU1NyQlFrM3RnZGV6UGZHZXBIWnBqOF9jcDhsVVJiS1BKN0l6all5REVPX2l1Wk9lSkFkd0VOdEtSd3RiQVBrZmpmaVE4SEp0dThpR1dNdHpaQWRHLXRxbW9qRjBTNWVXaXhfX3JScWxacHpZeHdBYWw0bHNTQQ?oc=5",
       "published": "Tue, 08 Sep 2026 04:35:47 GMT"
     },
     {
       "title": "3 Indian Market Infrastructure Stocks Riding The NSE Closing Auction Shift - simplywall.st",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLUFrMmJFVWdjczBQdXN6LUpmNXotYklRYnRoejNWZ0JZaHBpVjdsTGY3eHBTQUdPaHBlNDRzdVExNEVaWUtGYXVVcGlhNzBIQzM1RmxVaG8tQ3ZMdW5QTWFGRkVmWm5nOVplSm4wREoxdVRURnRrSjVKU2xMUGx5Z0t6N0RNanptSFpUUjJvcTdwYldsTDJZbUhWWjN5cUpOcFFBakphZ3JIeEFCTjQ2ZnF5X0hLUjAwN3NjMUxvX2lPU2xWUmxVRDlqQkstdXRmR281ZVJn0gHbAUFVX3lxTFBfcmp1MUFrVThmZjdETmdUUS14azZ4LXJNdzBFalZSSzZORlh5TUVIM3pPUkNCNm9mV2R3amlLUncxX2oxRWMtMW96MGNoLUlZNWVTLWM1VThzNDl1MFNZT05qd19oMW1nb1ViMlo3VUZmMGhvWlJHM1h0ZjFpbGJSc2NhcTFnYW9DOFB5U3oyUXEyb1VReVpzeGU2NHN5R0RFM3BaMFNVSkhkN3BSRU9VdVl6TzRBYTA4eU5YZGJ4b0gwV3JNb01HZTVTVmtYdDRtTW1BMDVRbERKRQ?oc=5",
       "published": "Tue, 08 Sep 2026 07:43:46 GMT"
+    },
+    {
+      "title": "Indian Stock Market Opens in Red Today - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUeEU5eUJqNF9UNU5PNW1KYjI0RGtJdU53a09mb18wN3VVRzUzM1FLeEJvVFhoZXYwWkp1dWpRUmVMZ0k2SW56SzVTRFp1a0NxRHJhdy1GMWZfcTNqdFVfZEMzcTUySDBtSXRJOEo2ekMzZw?oc=5",
+      "published": "Sat, 29 Aug 2026 10:14:40 GMT"
     },
     {
       "title": "India Stocks Open Lower as Oil Prices Rise and Markets Remain Under Pressure - Investing.com India",
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 04:30:20 GMT"
     }
   ],
-  "last_updated": "2026-09-08 09:26 UTC"
+  "last_updated": "2026-09-08 09:40 UTC"
 }
