@@ -65,17 +65,17 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.82,
-    "change": 0.39,
-    "pct": 0.41
+    "price": 94.81,
+    "change": 0.38,
+    "pct": 0.4
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.78,
-    "change": -0.01,
-    "pct": -0.17
+    "price": 4.77,
+    "change": -0.02,
+    "pct": -0.38
   },
   "news": [
     {
@@ -99,7 +99,7 @@
       "published": "Tue, 08 Sep 2026 11:13:27 GMT"
     },
     {
-      "title": "Sensex Today Tanks 555 Points | Nifty Below 23,700 | IFCI Down 9% - equitymaster.com",
+      "title": "Sensex Today Tanks 555 Points | Nifty Below 23,700 | IFCI Down 9% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONjduYzdxcnlZSGRtVU1GQmc0V0Q5RkhZTGxGdGdxeWd3QmR5VU5NZldJRTVMUGhkYW9VSUJYWUlxZUdKNTFndFpKUHFuVWlYSGlsZkd3NHdfVk14YjBXdnFlWFNQMllhMXBOUGY3Z3gxdnJoZlFxcE5zN1dTSHBrQTJibXdqc2JMNVdmcGhEckE5SXZoSWJrdTRqVXdRVU5JYXhCSXVoM3Z1RTVQUHJpdkdhcl9KTFdjbENKSw?oc=5",
       "published": "Tue, 08 Sep 2026 11:07:03 GMT"
     },
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 11:20:29 GMT"
     }
   ],
-  "last_updated": "2026-09-08 12:55 UTC"
+  "last_updated": "2026-09-08 13:08 UTC"
 }
