@@ -48,9 +48,9 @@
     "pct": 0.35
   },
   "Hang Seng": {
-    "price": 25288.11,
-    "change": -29.07,
-    "pct": -0.11
+    "price": 25284.72,
+    "change": -32.46,
+    "pct": -0.13
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -79,9 +79,9 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Tue, 08 Sep 2026 09:52:13 GMT"
+      "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
       "title": "Novartis India Enters Major Brand Acquisition Deal | NALCO Partners EGA For Odisha Smelter Expansion | Top Buzzing Stocks Today - Equitymaster",
@@ -114,10 +114,10 @@
       "published": "Tue, 08 Sep 2026 12:25:34 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
       "published": "Tue, 08 Sep 2026 14:30:10 GMT"
     }
   ],
-  "last_updated": "2026-09-09 02:51 UTC"
+  "last_updated": "2026-09-09 03:06 UTC"
 }
