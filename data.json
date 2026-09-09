@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52470.03,
-    "change": -316.04,
-    "pct": -0.6
+    "price": 52444.61,
+    "change": -341.46,
+    "pct": -0.65
   },
   "Nasdaq": {
-    "price": 26291.92,
-    "change": -129.49,
-    "pct": -0.49
+    "price": 26259.22,
+    "change": -162.19,
+    "pct": -0.61
   },
   "S&P 500": {
-    "price": 7647.99,
-    "change": -25.53,
-    "pct": -0.33
+    "price": 7642.23,
+    "change": -31.29,
+    "pct": -0.41
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 101.33,
-    "change": 3.41,
-    "pct": 3.48
+    "price": 101.48,
+    "change": 3.56,
+    "pct": 3.64
   },
   "Crude Oil (WTI)": {
-    "price": 96.21,
-    "change": 3.18,
-    "pct": 3.42
+    "price": 96.44,
+    "change": 3.41,
+    "pct": 3.67
   },
   "Gold": {
-    "price": 4455.7,
-    "change": 61.8,
-    "pct": 1.41
+    "price": 4451.1,
+    "change": 57.2,
+    "pct": 1.3
   },
   "Silver": {
-    "price": 68.27,
-    "change": 1.97,
-    "pct": 2.98
+    "price": 68.18,
+    "change": 1.89,
+    "pct": 2.85
   },
   "USD/INR": {
     "price": 95.13,
@@ -64,14 +64,14 @@
     "pct": 0.68
   },
   "Dollar Index": {
-    "price": 98.8,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 98.82,
+    "change": -0.01,
+    "pct": -0.02
   },
   "US 10Y Yield": {
-    "price": 4.83,
+    "price": 4.84,
     "change": 0.03,
-    "pct": 0.56
+    "pct": 0.73
   },
   "news": [
     {
@@ -95,7 +95,7 @@
       "published": "Wed, 09 Sep 2026 11:04:08 GMT"
     },
     {
-      "title": "UBS says financials hold key to India stock market's next move - cnbctv18.com",
+      "title": "UBS says financials hold key to India stock market's next move - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeW5hNFJCa1FoN0pDU0NpWDNMUWZ4QzNFdm9FdkJmRklndlFPYVBrTkk1VHBjQ0VRWVNEUkRhblY3eTNOUXVhVmRuNWlUM2tsVThEdVVvb1QwYUxpSGtDUWYtOVlTUkhGUFB1ck9Ya0w0WDNGVmNOY2pMWkpoR0xQNk54cmN4WkpjS1B5cXFicC1SUmtRTnR5a0xZc3NiSEJjejRmNEFFRU5PZ9IBrwFBVV95cUxQd2ZvY3NBZHlVZEVMbUJ2SktKcWlfSW9yNVFhUzBkMUYwbjRkcktCMDh4WXFvby11VDM0ai10b05Rc3VmeTM3bXhNc3NEbHNYam9xbllpTHJMbHJyMUh1ckxibktwcFpFVHVQZ09YZ01ZNjhudU0yNFBrUmk0bUJoejFfcGVZcXZ4RUxZamY4WWlzMUxTcmplRzRQNWk0WjdMMUN5QzgxUWRJdy1jalJr?oc=5",
       "published": "Wed, 09 Sep 2026 06:00:00 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Wed, 09 Sep 2026 10:54:09 GMT"
     }
   ],
-  "last_updated": "2026-09-09 18:54 UTC"
+  "last_updated": "2026-09-09 19:05 UTC"
 }
