@@ -43,14 +43,14 @@
     "pct": -0.58
   },
   "Nikkei 225": {
-    "price": 65517.34,
-    "change": 248.01,
-    "pct": 0.38
+    "price": 65423.25,
+    "change": 153.92,
+    "pct": 0.24
   },
   "Hang Seng": {
-    "price": 25285.28,
-    "change": -31.9,
-    "pct": -0.13
+    "price": 25290.9,
+    "change": -26.28,
+    "pct": -0.1
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -89,7 +89,7 @@
       "published": "Wed, 09 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - livemint.com",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdDVSU2xEV1ZacmJfVFRLbGFDbG9MUFdvVm04XzhsaHFzYXdocU9zeVVjZnRQOTZfeG1qcEIzQUZNb3p0YUllcEE2M0VVMGFCeHJrc3o4VGtnU1g3V25kUW9qTlc2TTFwYWx2T2JpQnR1ZVI5MUJsdDVEQU9yUlQwRmV1WUFFeGtBdzdrWFJ3ZFZnYVFDRkNjVTlVUjVHdzNDTlpHNktsODA0cDRDVGgzaERZb04yam1Ecks5ajhucUl4dDk3RzZvY0NTbnRET0pmV2Z1WmFHQ25Jakx5UnBheWFZRHpsM2hhLXFOUFJQcG51d2tsWmRmOVJiTVlyTXZFZF93N1B3R1VCZ9IBjwJBVV95cUxQTXA3TWI2VU9EM19jY2ZmSDF1TktsWWpFd0VUVXd5bkh5MGNLbGI5eFFRT0xNM3FybmpFSVd2bmhHbDJ3SV82RFRIMTZHTjB4ck9idjBwbW02ZXBtdXN0WkZWWDRreHpMalJFVjU0eDhzT1lzWHNaWjI3VThSeWllYU8zNXU0QkNqZHd6SlVFTVN4b3V6UE9PS0tYRzAzUGhRLTk1MVV0dGYyWGhvRDBram9kRmRqMXk4TGV3NEFYQ20ySGZJNnBxbFBkSFFudkdvYW91X294OE5za3ZXcG9ZRkx2RWc3d0VOVEVuSHdEcUhLYjItSGxGVnVUYzhtTGRvN1VaT2F2dE1FYzR4aWJN?oc=5",
       "published": "Wed, 09 Sep 2026 01:47:13 GMT"
     },
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 14:30:10 GMT"
     }
   ],
-  "last_updated": "2026-09-09 02:25 UTC"
+  "last_updated": "2026-09-09 02:38 UTC"
 }
