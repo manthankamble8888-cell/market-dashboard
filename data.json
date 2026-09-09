@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23532.05,
-    "change": -103.05,
-    "pct": -0.44
+    "price": 23525.65,
+    "change": -109.45,
+    "pct": -0.46
   },
   "Bank Nifty": {
-    "price": 56583.15,
-    "change": -194.4,
-    "pct": -0.34
+    "price": 56570.0,
+    "change": -207.55,
+    "pct": -0.37
   },
   "Sensex": {
-    "price": 75054.74,
-    "change": -522.84,
-    "pct": -0.69
+    "price": 75106.02,
+    "change": -471.55,
+    "pct": -0.62
   },
   "India VIX": {
-    "price": 11.66,
-    "change": 0.43,
-    "pct": 3.81
+    "price": 11.65,
+    "change": 0.42,
+    "pct": 3.72
   },
   "Nifty IT": {
-    "price": 29028.75,
-    "change": -854.75,
-    "pct": -2.86
+    "price": 28992.55,
+    "change": -890.95,
+    "pct": -2.98
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +43,44 @@
     "pct": -0.58
   },
   "Nikkei 225": {
-    "price": 65097.16,
-    "change": -172.17,
-    "pct": -0.26
+    "price": 65082.45,
+    "change": -186.88,
+    "pct": -0.29
   },
   "Hang Seng": {
-    "price": 25225.92,
-    "change": -91.26,
-    "pct": -0.36
+    "price": 25205.6,
+    "change": -111.58,
+    "pct": -0.44
   },
   "Crude Oil (Brent)": {
-    "price": 99.02,
-    "change": 1.1,
-    "pct": 1.12
+    "price": 98.93,
+    "change": 1.01,
+    "pct": 1.03
   },
   "Crude Oil (WTI)": {
-    "price": 93.94,
-    "change": 0.91,
-    "pct": 0.98
+    "price": 93.91,
+    "change": 0.88,
+    "pct": 0.95
   },
   "Gold": {
-    "price": 4431.1,
-    "change": 37.2,
-    "pct": 0.85
+    "price": 4436.6,
+    "change": 42.7,
+    "pct": 0.97
   },
   "Silver": {
-    "price": 67.12,
-    "change": 0.82,
-    "pct": 1.24
+    "price": 67.15,
+    "change": 0.86,
+    "pct": 1.29
   },
   "USD/INR": {
-    "price": 95.16,
-    "change": 0.67,
-    "pct": 0.71
+    "price": 95.19,
+    "change": 0.7,
+    "pct": 0.74
   },
   "Dollar Index": {
-    "price": 98.71,
-    "change": -0.13,
-    "pct": -0.13
+    "price": 98.73,
+    "change": -0.11,
+    "pct": -0.12
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -97,6 +97,11 @@
       "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+    },
+    {
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
+      "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Seven stocks to buy - IndiaIPO",
@@ -122,12 +127,7 @@
       "title": "Sensex down 500 points: 5 reasons why stock market is falling today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3NmM3FlUXFQdzQ5U2VuMmNZY2JhQy1tNVhBT25YOU5yOVBVMlZKYkdTYVh6TzBPSXpKNmZ6R21rMmZPTVFGZFFOSmxPYklseDc5WERLZVNLLWtPNm5QTlJRSFZ5Y3Q3NmE2NHdsS2lNV2tYbE5HM2ZtZFRwVnJYdHlrYWRoZmxIN19wemg0cS1weHBjLXBVazNvcjAzTFN4SndfMTNHZmZOQ0V2a0pWMkMwZjZqWXdUdE5qeFkxUGFyRHdpcHVlbUNCU3hITmJvM3NkX2JEYkQ5RjFaOXQzQ3ktTGtuSGFYQUwtUTZ5V1RDQdIB9wFBVV95cUxQQ3ZidEtvYWJCd1M3ZE93bW9rMUZvUTRjdC11TGhOT21LRklvSmJBUmcyRFdIYjY3aTM0dmVEaU9OUkF6UkVJZllHUkJEaHlrYklkMDFDblhPUkRZSEc0TE43ZUUwTWpzMjdheVZiVjNlc1dCSUxTMVRweV9wTWtvd00yRW9QZXZxa1ctSHVXLXRIbF9DZG1YNHhMUUJiUFVqNWRMUWljZ2Z3R2lyMVdWVzFNRlE2TGF3XzYteUxkeF9hM2JrNDNDT2dMbXBXaGF4NlpFWHhYTGR6bmhJWWwxdGthbm9KcXNrY1ZDNEtINzdSZktjTGhn?oc=5",
       "published": "Wed, 09 Sep 2026 04:33:36 GMT"
-    },
-    {
-      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdDVSU2xEV1ZacmJfVFRLbGFDbG9MUFdvVm04XzhsaHFzYXdocU9zeVVjZnRQOTZfeG1qcEIzQUZNb3p0YUllcEE2M0VVMGFCeHJrc3o4VGtnU1g3V25kUW9qTlc2TTFwYWx2T2JpQnR1ZVI5MUJsdDVEQU9yUlQwRmV1WUFFeGtBdzdrWFJ3ZFZnYVFDRkNjVTlVUjVHdzNDTlpHNktsODA0cDRDVGgzaERZb04yam1Ecks5ajhucUl4dDk3RzZvY0NTbnRET0pmV2Z1WmFHQ25Jakx5UnBheWFZRHpsM2hhLXFOUFJQcG51d2tsWmRmOVJiTVlyTXZFZF93N1B3R1VCZ9IBjwJBVV95cUxQTXA3TWI2VU9EM19jY2ZmSDF1TktsWWpFd0VUVXd5bkh5MGNLbGI5eFFRT0xNM3FybmpFSVd2bmhHbDJ3SV82RFRIMTZHTjB4ck9idjBwbW02ZXBtdXN0WkZWWDRreHpMalJFVjU0eDhzT1lzWHNaWjI3VThSeWllYU8zNXU0QkNqZHd6SlVFTVN4b3V6UE9PS0tYRzAzUGhRLTk1MVV0dGYyWGhvRDBram9kRmRqMXk4TGV3NEFYQ20ySGZJNnBxbFBkSFFudkdvYW91X294OE5za3ZXcG9ZRkx2RWc3d0VOVEVuSHdEcUhLYjItSGxGVnVUYzhtTGRvN1VaT2F2dE1FYzR4aWJN?oc=5",
-      "published": "Wed, 09 Sep 2026 01:47:13 GMT"
     }
   ],
-  "last_updated": "2026-09-09 05:38 UTC"
+  "last_updated": "2026-09-09 05:51 UTC"
 }
