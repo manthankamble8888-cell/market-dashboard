@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52382.6,
-    "change": -403.47,
-    "pct": -0.76
+    "price": 52392.7,
+    "change": -393.37,
+    "pct": -0.75
   },
   "Nasdaq": {
-    "price": 26359.68,
-    "change": -61.73,
-    "pct": -0.23
+    "price": 26293.44,
+    "change": -127.97,
+    "pct": -0.48
   },
   "S&P 500": {
-    "price": 7653.59,
-    "change": -19.93,
-    "pct": -0.26
+    "price": 7644.8,
+    "change": -28.72,
+    "pct": -0.37
   },
   "Nikkei 225": {
     "price": 65142.78,
@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.67,
-    "change": 2.75,
-    "pct": 2.81
+    "price": 100.69,
+    "change": 2.77,
+    "pct": 2.83
   },
   "Crude Oil (WTI)": {
-    "price": 95.75,
-    "change": 2.72,
-    "pct": 2.92
+    "price": 95.7,
+    "change": 2.67,
+    "pct": 2.87
   },
   "Gold": {
-    "price": 4456.4,
-    "change": 62.5,
-    "pct": 1.42
+    "price": 4464.0,
+    "change": 70.1,
+    "pct": 1.6
   },
   "Silver": {
-    "price": 67.93,
-    "change": 1.63,
-    "pct": 2.46
+    "price": 68.64,
+    "change": 2.35,
+    "pct": 3.54
   },
   "USD/INR": {
     "price": 95.1,
@@ -78,14 +78,14 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 98.65,
-    "change": -0.19,
-    "pct": -0.19
+    "price": 98.61,
+    "change": -0.23,
+    "pct": -0.23
   },
   "US 10Y Yield": {
     "price": 4.8,
     "change": -0.01,
-    "pct": -0.21
+    "pct": -0.12
   },
   "news": [
     {
@@ -99,7 +99,7 @@
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
-      "title": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - economictimes.com",
+      "title": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTENPNGJWdFhWSVZpN055X3NDV25Pd2NQbkROcmxSdWdQZnp0TVQ1cVJWQ2ltSG51VnpaR0ZuN3B0Y0tuVzljdGRkUWFuX1ZNQ3Nhal82ekc4alhOVmNDX242bEJXMWE3ZWkyV3NhMVhTWE9wdTVYVThKYVF0X0Q3VHJkOVBoSExaTTJReDdzNV81c09JeWJPcVZtMTkybUJrSDRyR3Q0eEFjNXAtdndmSHRfLUpwZ05WMVRRdE1lbUNocjR6QU5KaE1iUFJKcFVZclFrbXd1YmpjdE54bWtTbm9reUlHTGRoX1dsM2pDM2VoXzJQcm9ISThPbTN3Yzg5LVJHUF9qT3l2aU8zNFJ5OFl2VE55Z9IBmwJBVV95cUxOdVVTZzZUNEJCdm8weUc2OFpvZEpValdyWXFFUXhXbmFycTZ1U3I5ZnpybnRhWjUyNl9TR3JiQVk3MkVleHJkN1UyYzVFRmtDcktlVlZaRlFVYzBpXzFoZThsVURGdVRJMU1hdWpBbVBXNEdsTjdyd3dvVkpnUW0xMXN6YzNTZEp4YkhZTjBtMHd6SGN6d2staDBqWWVEM0xMVW5FV084Vm90Nldyekpva2l0bGRiN0FDTFA0enZWOEVESFF5VHlrNFBweFlkUndmSTduQ05ZZ0NGanh2WUxFa2pZenNIWjRRbVZ2NlZvVnF4SC1uVzV6VlRFMWs3T2x6Q19ncmZTSktseGpWeXdfSmd1bHA5TWQzOTVj?oc=5",
       "published": "Wed, 09 Sep 2026 04:09:41 GMT"
     },
@@ -109,7 +109,7 @@
       "published": "Wed, 09 Sep 2026 11:04:08 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Wed, 09 Sep 2026 10:48:57 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - Liquide Blog",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9yVm41WVM4dzNEclUySTBwR1E5VjFfa1d2YmtFTXpONjhrQ1FrQ3J6SEx5UGNCTzZGZXFzV1BsdFpaZ19BWWQyOXNodHNvS1ExSkpUSHA0QTVRZTNOUGw4Z0pNVHdVNjNKOGdFYkRvQXpIZGlGdUxxVE9Cek5TMm5GTjEyMnVGZVdVWmhCOHlfUm5CaW1JajVlVnZvRVpTMlMxenFQVUZPNWRDM1A0TkNOWi1aMlRkbGdr?oc=5",
       "published": "Wed, 09 Sep 2026 11:13:37 GMT"
     }
   ],
-  "last_updated": "2026-09-09 14:06 UTC"
+  "last_updated": "2026-09-09 14:26 UTC"
 }
