@@ -28,47 +28,45 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52385.03,
-    "change": -401.04,
-    "pct": -0.76
+    "price": 52374.78,
+    "change": -411.29,
+    "pct": -0.78
   },
   "Nasdaq": {
-    "price": 26258.29,
-    "change": -163.12,
-    "pct": -0.62
+    "price": 26249.4,
+    "change": -172.01,
+    "pct": -0.65
   },
   "S&P 500": {
-    "price": 7639.46,
-    "change": -34.06,
-    "pct": -0.44
+    "price": 7636.37,
+    "change": -37.15,
+    "pct": -0.48
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 25274.96,
-    "change": -42.22,
-    "pct": -0.17
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 101.42,
-    "change": 3.5,
-    "pct": 3.57
+    "price": 101.31,
+    "change": 3.39,
+    "pct": 3.46
   },
   "Crude Oil (WTI)": {
-    "price": 96.49,
-    "change": 3.46,
-    "pct": 3.72
+    "price": 96.43,
+    "change": 3.4,
+    "pct": 3.65
   },
   "Gold": {
-    "price": 4446.3,
-    "change": 52.4,
-    "pct": 1.19
+    "price": 4444.4,
+    "change": 50.5,
+    "pct": 1.15
   },
   "Silver": {
-    "price": 67.95,
-    "change": 1.65,
-    "pct": 2.49
+    "price": 67.96,
+    "change": 1.67,
+    "pct": 2.52
   },
   "USD/INR": {
     "price": 95.1,
@@ -76,14 +74,14 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 98.78,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 98.81,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
-    "price": 4.84,
-    "change": 0.03,
-    "pct": 0.69
+    "price": 4.85,
+    "change": 0.04,
+    "pct": 0.85
   },
   "news": [
     {
@@ -97,7 +95,7 @@
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
-      "title": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - economictimes.com",
+      "title": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTENPNGJWdFhWSVZpN055X3NDV25Pd2NQbkROcmxSdWdQZnp0TVQ1cVJWQ2ltSG51VnpaR0ZuN3B0Y0tuVzljdGRkUWFuX1ZNQ3Nhal82ekc4alhOVmNDX242bEJXMWE3ZWkyV3NhMVhTWE9wdTVYVThKYVF0X0Q3VHJkOVBoSExaTTJReDdzNV81c09JeWJPcVZtMTkybUJrSDRyR3Q0eEFjNXAtdndmSHRfLUpwZ05WMVRRdE1lbUNocjR6QU5KaE1iUFJKcFVZclFrbXd1YmpjdE54bWtTbm9reUlHTGRoX1dsM2pDM2VoXzJQcm9ISThPbTN3Yzg5LVJHUF9qT3l2aU8zNFJ5OFl2VE55Z9IBmwJBVV95cUxOdVVTZzZUNEJCdm8weUc2OFpvZEpValdyWXFFUXhXbmFycTZ1U3I5ZnpybnRhWjUyNl9TR3JiQVk3MkVleHJkN1UyYzVFRmtDcktlVlZaRlFVYzBpXzFoZThsVURGdVRJMU1hdWpBbVBXNEdsTjdyd3dvVkpnUW0xMXN6YzNTZEp4YkhZTjBtMHd6SGN6d2staDBqWWVEM0xMVW5FV084Vm90Nldyekpva2l0bGRiN0FDTFA0enZWOEVESFF5VHlrNFBweFlkUndmSTduQ05ZZ0NGanh2WUxFa2pZenNIWjRRbVZ2NlZvVnF4SC1uVzV6VlRFMWs3T2x6Q19ncmZTSktseGpWeXdfSmd1bHA5TWQzOTVj?oc=5",
       "published": "Wed, 09 Sep 2026 04:09:41 GMT"
     },
@@ -127,5 +125,5 @@
       "published": "Wed, 09 Sep 2026 10:48:57 GMT"
     }
   ],
-  "last_updated": "2026-09-09 15:53 UTC"
+  "last_updated": "2026-09-09 16:06 UTC"
 }
