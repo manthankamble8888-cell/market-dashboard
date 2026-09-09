@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52503.72,
-    "change": -282.35,
-    "pct": -0.53
+    "price": 52457.84,
+    "change": -328.23,
+    "pct": -0.62
   },
   "Nasdaq": {
-    "price": 26267.34,
-    "change": -154.07,
-    "pct": -0.58
+    "price": 26262.37,
+    "change": -159.04,
+    "pct": -0.6
   },
   "S&P 500": {
-    "price": 7644.88,
-    "change": -28.64,
-    "pct": -0.37
+    "price": 7641.88,
+    "change": -31.64,
+    "pct": -0.41
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,39 +49,39 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 100.85,
-    "change": 2.93,
-    "pct": 2.99
+    "price": 101.04,
+    "change": 3.12,
+    "pct": 3.19
   },
   "Crude Oil (WTI)": {
-    "price": 95.75,
-    "change": 2.72,
-    "pct": 2.92
+    "price": 95.91,
+    "change": 2.88,
+    "pct": 3.1
   },
   "Gold": {
-    "price": 4460.0,
-    "change": 66.1,
-    "pct": 1.5
+    "price": 4461.5,
+    "change": 67.6,
+    "pct": 1.54
   },
   "Silver": {
-    "price": 68.56,
-    "change": 2.26,
-    "pct": 3.41
+    "price": 68.57,
+    "change": 2.27,
+    "pct": 3.42
   },
   "USD/INR": {
-    "price": 95.1,
-    "change": 0.61,
-    "pct": 0.64
+    "price": 95.13,
+    "change": 0.64,
+    "pct": 0.68
   },
   "Dollar Index": {
-    "price": 98.75,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 98.74,
+    "change": -0.1,
+    "pct": -0.1
   },
   "US 10Y Yield": {
-    "price": 4.84,
-    "change": 0.03,
-    "pct": 0.6
+    "price": 4.83,
+    "change": 0.02,
+    "pct": 0.48
   },
   "news": [
     {
@@ -105,7 +105,7 @@
       "published": "Wed, 09 Sep 2026 11:04:08 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - blog.liquide.life",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9yVm41WVM4dzNEclUySTBwR1E5VjFfa1d2YmtFTXpONjhrQ1FrQ3J6SEx5UGNCTzZGZXFzV1BsdFpaZ19BWWQyOXNodHNvS1ExSkpUSHA0QTVRZTNOUGw4Z0pNVHdVNjNKOGdFYkRvQXpIZGlGdUxxVE9Cek5TMm5GTjEyMnVGZVdVWmhCOHlfUm5CaW1JajVlVnZvRVpTMlMxenFQVUZPNWRDM1A0TkNOWi1aMlRkbGdr?oc=5",
       "published": "Wed, 09 Sep 2026 11:13:19 GMT"
     },
@@ -125,5 +125,5 @@
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     }
   ],
-  "last_updated": "2026-09-09 17:50 UTC"
+  "last_updated": "2026-09-09 18:08 UTC"
 }
