@@ -43,14 +43,14 @@
     "pct": -0.58
   },
   "Nikkei 225": {
-    "price": 65423.25,
-    "change": 153.92,
-    "pct": 0.24
+    "price": 65495.23,
+    "change": 225.9,
+    "pct": 0.35
   },
   "Hang Seng": {
-    "price": 25290.9,
-    "change": -26.28,
-    "pct": -0.1
+    "price": 25288.11,
+    "change": -29.07,
+    "pct": -0.11
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -119,5 +119,5 @@
       "published": "Tue, 08 Sep 2026 14:30:10 GMT"
     }
   ],
-  "last_updated": "2026-09-09 02:38 UTC"
+  "last_updated": "2026-09-09 02:51 UTC"
 }
