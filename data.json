@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52786.07,
-    "change": -628.18,
-    "pct": -1.18
+    "price": 52455.59,
+    "change": -330.48,
+    "pct": -0.63
   },
   "Nasdaq": {
-    "price": 26421.41,
-    "change": -85.58,
-    "pct": -0.32
+    "price": 26333.04,
+    "change": -88.37,
+    "pct": -0.33
   },
   "S&P 500": {
-    "price": 7673.52,
-    "change": -45.08,
-    "pct": -0.58
+    "price": 7652.43,
+    "change": -21.09,
+    "pct": -0.27
   },
   "Nikkei 225": {
     "price": 65142.78,
@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.56,
-    "change": 2.64,
-    "pct": 2.7
+    "price": 100.82,
+    "change": 2.9,
+    "pct": 2.96
   },
   "Crude Oil (WTI)": {
-    "price": 95.67,
-    "change": 2.64,
-    "pct": 2.84
+    "price": 95.88,
+    "change": 2.85,
+    "pct": 3.06
   },
   "Gold": {
-    "price": 4456.0,
-    "change": 62.1,
-    "pct": 1.41
+    "price": 4477.3,
+    "change": 83.4,
+    "pct": 1.9
   },
   "Silver": {
-    "price": 67.42,
-    "change": 1.12,
-    "pct": 1.69
+    "price": 68.42,
+    "change": 2.12,
+    "pct": 3.19
   },
   "USD/INR": {
     "price": 95.1,
@@ -78,14 +78,14 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 98.66,
+    "price": 98.65,
     "change": -0.18,
-    "pct": -0.18
+    "pct": -0.19
   },
   "US 10Y Yield": {
-    "price": 4.81,
-    "change": 0.0,
-    "pct": 0.08
+    "price": 4.8,
+    "change": -0.0,
+    "pct": -0.04
   },
   "news": [
     {
@@ -114,6 +114,11 @@
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
     {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.86% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXptcXAwV0J6QUU2cllzVk50ZV9fcDJrR0dpNjBzalBqcnVIQTlCM2RxTzVxVU1ILXljems5Tzl6WWE5S0UxMktsSmZvT1NmYXFFRUNObEIwdDBBRFA4QUdPN2szaVh0WUxuSHJINVQ2YWZscW1MQ08xQnJJby13M3RWUHNneFFCajY3dGE4M3FXdFlqRThGMTh3Q2JyUzdFODlwYm5SMjBmMEdiQTdLZA?oc=5",
+      "published": "Wed, 09 Sep 2026 10:48:57 GMT"
+    },
+    {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdF9yVm41WVM4dzNEclUySTBwR1E5VjFfa1d2YmtFTXpONjhrQ1FrQ3J6SEx5UGNCTzZGZXFzV1BsdFpaZ19BWWQyOXNodHNvS1ExSkpUSHA0QTVRZTNOUGw4Z0pNVHdVNjNKOGdFYkRvQXpIZGlGdUxxVE9Cek5TMm5GTjEyMnVGZVdVWmhCOHlfUm5CaW1JajVlVnZvRVpTMlMxenFQVUZPNWRDM1A0TkNOWi1aMlRkbGdr?oc=5",
       "published": "Wed, 09 Sep 2026 11:13:37 GMT"
@@ -122,12 +127,7 @@
       "title": "India\u2019s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun - thepeopleseconomist.substack.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGRWOWlrYWF3Q2Z6djJvMDJNTGxBb3JBb0YwalVZd1Jjcy1JR2FIM0llQU5QWUFxVnBBLW1RZTRnWGozRDQwOWdwV3RsN1U2aDVGY19YaFBtVHZlSkVuNDNkR1FzcHNxekktU1RxR1RFZFREdndXdllwbkNqVkZIV2JoRmk?oc=5",
       "published": "Wed, 09 Sep 2026 13:06:32 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.86% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXptcXAwV0J6QUU2cllzVk50ZV9fcDJrR0dpNjBzalBqcnVIQTlCM2RxTzVxVU1ILXljems5Tzl6WWE5S0UxMktsSmZvT1NmYXFFRUNObEIwdDBBRFA4QUdPN2szaVh0WUxuSHJINVQ2YWZscW1MQ08xQnJJby13M3RWUHNneFFCajY3dGE4M3FXdFlqRThGMTh3Q2JyUzdFODlwYm5SMjBmMEdiQTdLZA?oc=5",
-      "published": "Wed, 09 Sep 2026 10:35:46 GMT"
     }
   ],
-  "last_updated": "2026-09-09 13:27 UTC"
+  "last_updated": "2026-09-09 13:42 UTC"
 }
