@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.75,
-    "change": 2.83,
-    "pct": 2.89
+    "price": 100.34,
+    "change": 2.42,
+    "pct": 2.47
   },
   "Crude Oil (WTI)": {
-    "price": 95.26,
-    "change": 2.23,
-    "pct": 2.4
+    "price": 94.93,
+    "change": 1.9,
+    "pct": 2.04
   },
   "Gold": {
-    "price": 4438.8,
-    "change": 44.9,
-    "pct": 1.02
+    "price": 4445.2,
+    "change": 51.3,
+    "pct": 1.17
   },
   "Silver": {
-    "price": 66.86,
-    "change": 0.56,
-    "pct": 0.84
+    "price": 66.96,
+    "change": 0.66,
+    "pct": 0.99
   },
   "USD/INR": {
     "price": 95.11,
@@ -78,9 +78,9 @@
     "pct": 0.65
   },
   "Dollar Index": {
-    "price": 98.8,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 98.79,
+    "change": -0.05,
+    "pct": -0.05
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -104,7 +104,7 @@
       "published": "Wed, 09 Sep 2026 10:15:12 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
@@ -114,9 +114,9 @@
       "published": "Wed, 09 Sep 2026 06:00:00 GMT"
     },
     {
-      "title": "Sensex down 500 points: 5 reasons why stock market is falling today - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3NmM3FlUXFQdzQ5U2VuMmNZY2JhQy1tNVhBT25YOU5yOVBVMlZKYkdTYVh6TzBPSXpKNmZ6R21rMmZPTVFGZFFOSmxPYklseDc5WERLZVNLLWtPNm5QTlJRSFZ5Y3Q3NmE2NHdsS2lNV2tYbE5HM2ZtZFRwVnJYdHlrYWRoZmxIN19wemg0cS1weHBjLXBVazNvcjAzTFN4SndfMTNHZmZOQ0V2a0pWMkMwZjZqWXdUdE5qeFkxUGFyRHdpcHVlbUNCU3hITmJvM3NkX2JEYkQ5RjFaOXQzQ3ktTGtuSGFYQUwtUTZ5V1RDQdIB9wFBVV95cUxQQ3ZidEtvYWJCd1M3ZE93bW9rMUZvUTRjdC11TGhOT21LRklvSmJBUmcyRFdIYjY3aTM0dmVEaU9OUkF6UkVJZllHUkJEaHlrYklkMDFDblhPUkRZSEc0TE43ZUUwTWpzMjdheVZiVjNlc1dCSUxTMVRweV9wTWtvd00yRW9QZXZxa1ctSHVXLXRIbF9DZG1YNHhMUUJiUFVqNWRMUWljZ2Z3R2lyMVdWVzFNRlE2TGF3XzYteUxkeF9hM2JrNDNDT2dMbXBXaGF4NlpFWHhYTGR6bmhJWWwxdGthbm9KcXNrY1ZDNEtINzdSZktjTGhn?oc=5",
-      "published": "Wed, 09 Sep 2026 04:33:36 GMT"
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.86% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXptcXAwV0J6QUU2cllzVk50ZV9fcDJrR0dpNjBzalBqcnVIQTlCM2RxTzVxVU1ILXljems5Tzl6WWE5S0UxMktsSmZvT1NmYXFFRUNObEIwdDBBRFA4QUdPN2szaVh0WUxuSHJINVQ2YWZscW1MQ08xQnJJby13M3RWUHNneFFCajY3dGE4M3FXdFlqRThGMTh3Q2JyUzdFODlwYm5SMjBmMEdiQTdLZA?oc=5",
+      "published": "Wed, 09 Sep 2026 10:35:46 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Seven stocks to buy - IndiaIPO",
@@ -129,5 +129,5 @@
       "published": "Wed, 09 Sep 2026 04:41:42 GMT"
     }
   ],
-  "last_updated": "2026-09-09 10:52 UTC"
+  "last_updated": "2026-09-09 11:06 UTC"
 }
