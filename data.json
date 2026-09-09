@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.63,
-    "change": 2.71,
-    "pct": 2.77
+    "price": 100.77,
+    "change": 2.85,
+    "pct": 2.91
   },
   "Crude Oil (WTI)": {
-    "price": 95.11,
-    "change": 2.08,
-    "pct": 2.24
+    "price": 95.36,
+    "change": 2.33,
+    "pct": 2.5
   },
   "Gold": {
-    "price": 4445.8,
-    "change": 51.9,
-    "pct": 1.18
+    "price": 4451.6,
+    "change": 57.7,
+    "pct": 1.31
   },
   "Silver": {
-    "price": 66.96,
-    "change": 0.66,
-    "pct": 1.0
+    "price": 67.15,
+    "change": 0.85,
+    "pct": 1.29
   },
   "USD/INR": {
     "price": 95.11,
@@ -78,9 +78,9 @@
     "pct": 0.65
   },
   "Dollar Index": {
-    "price": 98.77,
-    "change": -0.07,
-    "pct": -0.07
+    "price": 98.66,
+    "change": -0.18,
+    "pct": -0.18
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -105,7 +105,7 @@
     },
     {
       "title": "Why the Indian Stock Market is Falling - equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQVHdzWDc5YzBwLU9hRXF4dkNMRzIzWDBpY0luc09vc2N2MkdDYXF6bzF0dEVhVHlUd2VzODFOM2tEelNENllnUlR5b1RncUJhX3hJcmZadmRVaXliZFozVkNhQU1RSXl3NHNJWVUtUi1kdFhVaEFlc1BUanNib1FNRDdDdzJGWVN4c1hVV3dHOUZhUFBGdUxSbDZlZGhhRXVQRUJWSWg2VWtkam1xOHl4eXNFUk9OOTJBay0tY0pYcDZDTWdVREsxVzFMdTNpVWFjVndtc3ROS2poS2pRUkl6aTE0aVFtcnJSMXBuNU1PWnNIb2ZHX0VTTE1MQ2RTNXdycTRvdWNadWJGY0gteTVLQTV2VEx2SlFUY2ZpZFh4QlhLclhR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVEh5NnktMlBqQzZwOEhhc0VTZDA0RmxxY3ZKMGk3RWZ1Vm5MaFlFeVBhcDBQT2E4ZFhjZTVTSFpQLXAwb2Q1d1NkanBXbjFmT2NweS1WRXdVVDhnLVZUazZYQ2c5TGs3UW9TZmNR?oc=5",
       "published": "Wed, 09 Sep 2026 11:04:08 GMT"
     },
     {
@@ -129,5 +129,5 @@
       "published": "Wed, 09 Sep 2026 11:13:37 GMT"
     }
   ],
-  "last_updated": "2026-09-09 11:25 UTC"
+  "last_updated": "2026-09-09 11:39 UTC"
 }
