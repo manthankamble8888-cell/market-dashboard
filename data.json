@@ -39,29 +39,27 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 102.05,
-    "change": 4.13,
-    "pct": 4.22
+    "price": 101.97,
+    "change": 4.05,
+    "pct": 4.14
   },
   "Crude Oil (WTI)": {
-    "price": 97.04,
-    "change": 4.01,
-    "pct": 4.31
+    "price": 96.99,
+    "change": 3.96,
+    "pct": 4.26
   },
   "Gold": {
-    "price": 4444.5,
-    "change": 50.6,
-    "pct": 1.15
+    "price": 4442.6,
+    "change": 48.7,
+    "pct": 1.11
   },
   "Silver": {
     "price": 67.89,
-    "change": 1.6,
-    "pct": 2.41
+    "change": 1.59,
+    "pct": 2.4
   },
   "USD/INR": {
-    "price": 95.13,
-    "change": 0.64,
-    "pct": 0.68
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
     "price": 98.78,
@@ -83,11 +81,6 @@
       "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
-    },
-    {
-      "title": "Why did stock market fall today? Oil spike, IT rout among 6 key factors behind 800-point Sensex slump; Nif - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTENPNGJWdFhWSVZpN055X3NDV25Pd2NQbkROcmxSdWdQZnp0TVQ1cVJWQ2ltSG51VnpaR0ZuN3B0Y0tuVzljdGRkUWFuX1ZNQ3Nhal82ekc4alhOVmNDX242bEJXMWE3ZWkyV3NhMVhTWE9wdTVYVThKYVF0X0Q3VHJkOVBoSExaTTJReDdzNV81c09JeWJPcVZtMTkybUJrSDRyR3Q0eEFjNXAtdndmSHRfLUpwZ05WMVRRdE1lbUNocjR6QU5KaE1iUFJKcFVZclFrbXd1YmpjdE54bWtTbm9reUlHTGRoX1dsM2pDM2VoXzJQcm9ISThPbTN3Yzg5LVJHUF9qT3l2aU8zNFJ5OFl2VE55Z9IBmwJBVV95cUxOdVVTZzZUNEJCdm8weUc2OFpvZEpValdyWXFFUXhXbmFycTZ1U3I5ZnpybnRhWjUyNl9TR3JiQVk3MkVleHJkN1UyYzVFRmtDcktlVlZaRlFVYzBpXzFoZThsVURGdVRJMU1hdWpBbVBXNEdsTjdyd3dvVkpnUW0xMXN6YzNTZEp4YkhZTjBtMHd6SGN6d2staDBqWWVEM0xMVW5FV084Vm90Nldyekpva2l0bGRiN0FDTFA0enZWOEVESFF5VHlrNFBweFlkUndmSTduQ05ZZ0NGanh2WUxFa2pZenNIWjRRbVZ2NlZvVnF4SC1uVzV6VlRFMWs3T2x6Q19ncmZTSktseGpWeXdfSmd1bHA5TWQzOTVj?oc=5",
-      "published": "Wed, 09 Sep 2026 04:09:41 GMT"
     },
     {
       "title": "India\u2019s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun - Substack",
@@ -113,7 +106,12 @@
       "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+    },
+    {
+      "title": "Sensex drops 500 points: Why is stock market down today? - indiatoday.in",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzRINjdlbzNBSHZsdU5oYWE0MzZSV1ZyckxoT2dqTkRtX3lJbTFTZXVuY2prSy1pZHd5UnNzQkd1cDlHX3JOYVA2a1V0NEFjYll3eVRNVmVfYmFNa01QWXJLQWxoSEpsNXllTnRzbHdUUTRyMXhhVThRcUFRQWRZQWk2UmxmU2pqcmNCbEk2UlN6Nm5EdFNiVnN6Rjhjd3NUU3RQV1h4T0syQmdjZWxLLXEtY1pxVXRLdERfRW5uMEhVUzVMdHphRjJpUllxUl9JaklnQXFjbngyZEFQTW8zNdIB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
+      "published": "Mon, 07 Sep 2026 08:24:53 GMT"
     }
   ],
-  "last_updated": "2026-09-09 22:49 UTC"
+  "last_updated": "2026-09-09 23:06 UTC"
 }
