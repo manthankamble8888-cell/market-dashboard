@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.59,
-    "change": 2.67,
-    "pct": 2.73
+    "price": 100.81,
+    "change": 2.89,
+    "pct": 2.95
   },
   "Crude Oil (WTI)": {
-    "price": 95.14,
-    "change": 2.11,
-    "pct": 2.27
+    "price": 95.31,
+    "change": 2.28,
+    "pct": 2.45
   },
   "Gold": {
-    "price": 4434.3,
-    "change": 40.4,
-    "pct": 0.92
+    "price": 4437.5,
+    "change": 43.6,
+    "pct": 0.99
   },
   "Silver": {
-    "price": 66.83,
-    "change": 0.53,
-    "pct": 0.8
+    "price": 66.9,
+    "change": 0.6,
+    "pct": 0.91
   },
   "USD/INR": {
     "price": 95.11,
@@ -78,9 +78,9 @@
     "pct": 0.65
   },
   "Dollar Index": {
-    "price": 98.85,
-    "change": 0.01,
-    "pct": 0.01
+    "price": 98.82,
+    "change": -0.02,
+    "pct": -0.02
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -99,7 +99,7 @@
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
@@ -107,6 +107,11 @@
       "title": "UBS says financials hold key to India stock market's next move - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeW5hNFJCa1FoN0pDU0NpWDNMUWZ4QzNFdm9FdkJmRklndlFPYVBrTkk1VHBjQ0VRWVNEUkRhblY3eTNOUXVhVmRuNWlUM2tsVThEdVVvb1QwYUxpSGtDUWYtOVlTUkhGUFB1ck9Ya0w0WDNGVmNOY2pMWkpoR0xQNk54cmN4WkpjS1B5cXFicC1SUmtRTnR5a0xZc3NiSEJjejRmNEFFRU5PZ9IBrwFBVV95cUxQd2ZvY3NBZHlVZEVMbUJ2SktKcWlfSW9yNVFhUzBkMUYwbjRkcktCMDh4WXFvby11VDM0ai10b05Rc3VmeTM3bXhNc3NEbHNYam9xbllpTHJMbHJyMUh1ckxibktwcFpFVHVQZ09YZ01ZNjhudU0yNFBrUmk0bUJoejFfcGVZcXZ4RUxZamY4WWlzMUxTcmplRzRQNWk0WjdMMUN5QzgxUWRJdy1jalJr?oc=5",
       "published": "Wed, 09 Sep 2026 06:00:00 GMT"
+    },
+    {
+      "title": "Why stock market is down today? Oil spike, IT rout among 6 key factors dragging Sensex and Nifty - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQTENPNGJWdFhWSVZpN055X3NDV25Pd2NQbkROcmxSdWdQZnp0TVQ1cVJWQ2ltSG51VnpaR0ZuN3B0Y0tuVzljdGRkUWFuX1ZNQ3Nhal82ekc4alhOVmNDX242bEJXMWE3ZWkyV3NhMVhTWE9wdTVYVThKYVF0X0Q3VHJkOVBoSExaTTJReDdzNV81c09JeWJPcVZtMTkybUJrSDRyR3Q0eEFjNXAtdndmSHRfLUpwZ05WMVRRdE1lbUNocjR6QU5KaE1iUFJKcFVZclFrbXd1YmpjdE54bWtTbm9reUlHTGRoX1dsM2pDM2VoXzJQcm9ISThPbTN3Yzg5LVJHUF9qT3l2aU8zNFJ5OFl2VE55Z9IBmwJBVV95cUxOdVVTZzZUNEJCdm8weUc2OFpvZEpValdyWXFFUXhXbmFycTZ1U3I5ZnpybnRhWjUyNl9TR3JiQVk3MkVleHJkN1UyYzVFRmtDcktlVlZaRlFVYzBpXzFoZThsVURGdVRJMU1hdWpBbVBXNEdsTjdyd3dvVkpnUW0xMXN6YzNTZEp4YkhZTjBtMHd6SGN6d2staDBqWWVEM0xMVW5FV084Vm90Nldyekpva2l0bGRiN0FDTFA0enZWOEVESFF5VHlrNFBweFlkUndmSTduQ05ZZ0NGanh2WUxFa2pZenNIWjRRbVZ2NlZvVnF4SC1uVzV6VlRFMWs3T2x6Q19ncmZTSktseGpWeXdfSmd1bHA5TWQzOTVj?oc=5",
+      "published": "Wed, 09 Sep 2026 04:09:41 GMT"
     },
     {
       "title": "Sensex down 500 points: 5 reasons why stock market is falling today - India Today",
@@ -122,12 +127,7 @@
       "title": "Sensex Today Tanks 566 Points | Nifty Below 23,500 | Infosys & Tech Mahindra Top Losers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc2JvU01HbDc1VmF5Y3d0WkdvbmEtM2pHRk9kdllEX0o0dVFLQmljdjJkSnRPSlVDc2VkNXFlZ0ktLXQ3WEowRTR0VGFhc0FXWG9RdE1NZEh0QUFCMXBfeG9wTXZrSDhNUTM5NzhZeXE5QkJQNUZRUU91TFZYc2JRSVowWFJfV1kxemgyUTJ1UlNyVmxrVTAydWhXOFg1d1lKand2QThONy1iUVROdzVrV05tMXdra2h3VjhmZzVGUXhlU2dvRUIzWV80V1J6eF9KRHhmRGUtXzNyQQ?oc=5",
       "published": "Wed, 09 Sep 2026 04:41:42 GMT"
-    },
-    {
-      "title": "Sensex Falls 600 Points, Nifty Slips below 23,500 as Crude Oil Nears $100; Rupee Hits 94.83 - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakg4X3RQaDZMNU9Zb3NpWHBXc29WamxXd0ZpeENweGhnTjBNNzZFN29Od3ZVRGJvRGRUa0pkekZ0bGQ5eXpSTUthY0Z0RmZmaFgxZm8yNEVFWTQ4WEtEUFdPVWUybVZXQ3dvNndXTEphNm1UNXpJMFpHUHd5SXllQTFJbWROdHVZVGtIZWxPRWxqSERDLWluVG1pY3pRbFF0UHhRRUVlbUVDQWNqcnBwa25fbld0V1k1eFFxWTBZZk53SE1ZVjBlYmhn?oc=5",
-      "published": "Wed, 09 Sep 2026 06:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-09 10:26 UTC"
+  "last_updated": "2026-09-09 10:40 UTC"
 }
