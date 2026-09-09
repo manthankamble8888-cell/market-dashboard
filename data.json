@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23486.2,
-    "change": -148.9,
-    "pct": -0.63
+    "price": 23472.45,
+    "change": -162.65,
+    "pct": -0.69
   },
   "Bank Nifty": {
-    "price": 56474.3,
-    "change": -303.25,
-    "pct": -0.53
+    "price": 56406.8,
+    "change": -370.75,
+    "pct": -0.65
   },
   "Sensex": {
-    "price": 74969.76,
-    "change": -607.82,
-    "pct": -0.8
+    "price": 74943.04,
+    "change": -634.54,
+    "pct": -0.84
   },
   "India VIX": {
-    "price": 11.72,
-    "change": 0.49,
-    "pct": 4.32
+    "price": 11.84,
+    "change": 0.61,
+    "pct": 5.41
   },
   "Nifty IT": {
-    "price": 28894.0,
-    "change": -989.5,
-    "pct": -3.31
+    "price": 28853.1,
+    "change": -1030.4,
+    "pct": -3.45
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -58,29 +58,29 @@
     "pct": 2.51
   },
   "Crude Oil (WTI)": {
-    "price": 94.78,
-    "change": 1.75,
-    "pct": 1.88
+    "price": 94.87,
+    "change": 1.84,
+    "pct": 1.98
   },
   "Gold": {
-    "price": 4442.4,
-    "change": 48.5,
-    "pct": 1.1
+    "price": 4441.4,
+    "change": 47.5,
+    "pct": 1.08
   },
   "Silver": {
-    "price": 67.2,
-    "change": 0.9,
-    "pct": 1.36
+    "price": 67.24,
+    "change": 0.94,
+    "pct": 1.41
   },
   "USD/INR": {
-    "price": 95.02,
-    "change": 0.53,
-    "pct": 0.56
+    "price": 95.04,
+    "change": 0.55,
+    "pct": 0.58
   },
   "Dollar Index": {
-    "price": 98.78,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 98.76,
+    "change": -0.08,
+    "pct": -0.08
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -129,5 +129,5 @@
       "published": "Wed, 09 Sep 2026 06:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-09 09:26 UTC"
+  "last_updated": "2026-09-09 09:41 UTC"
 }
