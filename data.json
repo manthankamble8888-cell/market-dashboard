@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23555.05,
-    "change": -80.05,
-    "pct": -0.34
+    "price": 23545.4,
+    "change": -89.7,
+    "pct": -0.38
   },
   "Bank Nifty": {
-    "price": 56697.25,
-    "change": -80.3,
-    "pct": -0.14
+    "price": 56683.4,
+    "change": -94.15,
+    "pct": -0.17
   },
   "Sensex": {
-    "price": 75153.58,
-    "change": -424.0,
-    "pct": -0.56
+    "price": 75199.53,
+    "change": -378.05,
+    "pct": -0.5
   },
   "India VIX": {
-    "price": 11.59,
-    "change": 0.36,
-    "pct": 3.18
+    "price": 11.57,
+    "change": 0.34,
+    "pct": 3.05
   },
   "Nifty IT": {
-    "price": 28920.45,
-    "change": -963.05,
-    "pct": -3.22
+    "price": 28934.3,
+    "change": -949.2,
+    "pct": -3.18
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 99.77,
-    "change": 1.85,
-    "pct": 1.89
+    "price": 99.97,
+    "change": 2.05,
+    "pct": 2.09
   },
   "Crude Oil (WTI)": {
-    "price": 94.39,
-    "change": 1.36,
-    "pct": 1.46
+    "price": 94.63,
+    "change": 1.6,
+    "pct": 1.72
   },
   "Gold": {
-    "price": 4444.2,
-    "change": 50.3,
-    "pct": 1.14
+    "price": 4444.6,
+    "change": 50.7,
+    "pct": 1.15
   },
   "Silver": {
     "price": 67.26,
-    "change": 0.97,
-    "pct": 1.46
+    "change": 0.96,
+    "pct": 1.45
   },
   "USD/INR": {
-    "price": 95.04,
-    "change": 0.55,
-    "pct": 0.59
+    "price": 95.01,
+    "change": 0.52,
+    "pct": 0.55
   },
   "Dollar Index": {
-    "price": 98.75,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 98.76,
+    "change": -0.08,
+    "pct": -0.08
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -94,7 +94,7 @@
       "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
-      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - livemint.com",
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
@@ -109,7 +109,7 @@
       "published": "Wed, 09 Sep 2026 06:00:00 GMT"
     },
     {
-      "title": "Sensex down 500 points: 5 reasons why stock market is falling today - indiatoday.in",
+      "title": "Sensex down 500 points: 5 reasons why stock market is falling today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3NmM3FlUXFQdzQ5U2VuMmNZY2JhQy1tNVhBT25YOU5yOVBVMlZKYkdTYVh6TzBPSXpKNmZ6R21rMmZPTVFGZFFOSmxPYklseDc5WERLZVNLLWtPNm5QTlJRSFZ5Y3Q3NmE2NHdsS2lNV2tYbE5HM2ZtZFRwVnJYdHlrYWRoZmxIN19wemg0cS1weHBjLXBVazNvcjAzTFN4SndfMTNHZmZOQ0V2a0pWMkMwZjZqWXdUdE5qeFkxUGFyRHdpcHVlbUNCU3hITmJvM3NkX2JEYkQ5RjFaOXQzQ3ktTGtuSGFYQUwtUTZ5V1RDQdIB9wFBVV95cUxQQ3ZidEtvYWJCd1M3ZE93bW9rMUZvUTRjdC11TGhOT21LRklvSmJBUmcyRFdIYjY3aTM0dmVEaU9OUkF6UkVJZllHUkJEaHlrYklkMDFDblhPUkRZSEc0TE43ZUUwTWpzMjdheVZiVjNlc1dCSUxTMVRweV9wTWtvd00yRW9QZXZxa1ctSHVXLXRIbF9DZG1YNHhMUUJiUFVqNWRMUWljZ2Z3R2lyMVdWVzFNRlE2TGF3XzYteUxkeF9hM2JrNDNDT2dMbXBXaGF4NlpFWHhYTGR6bmhJWWwxdGthbm9KcXNrY1ZDNEtINzdSZktjTGhn?oc=5",
       "published": "Wed, 09 Sep 2026 04:33:36 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Wed, 09 Sep 2026 06:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-09 08:40 UTC"
+  "last_updated": "2026-09-09 08:52 UTC"
 }
