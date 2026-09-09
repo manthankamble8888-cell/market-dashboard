@@ -10,14 +10,14 @@
     "pct": -0.85
   },
   "Sensex": {
-    "price": 74877.84,
-    "change": -699.73,
-    "pct": -0.93
+    "price": 74764.23,
+    "change": -813.35,
+    "pct": -1.08
   },
   "India VIX": {
-    "price": 12.01,
-    "change": 0.78,
-    "pct": 6.95
+    "price": 11.92,
+    "change": 0.69,
+    "pct": 6.14
   },
   "Nifty IT": {
     "price": 28913.95,
@@ -53,24 +53,24 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 100.76,
-    "change": 2.84,
-    "pct": 2.9
+    "price": 100.59,
+    "change": 2.67,
+    "pct": 2.73
   },
   "Crude Oil (WTI)": {
-    "price": 95.33,
-    "change": 2.3,
-    "pct": 2.47
+    "price": 95.14,
+    "change": 2.11,
+    "pct": 2.27
   },
   "Gold": {
-    "price": 4433.8,
-    "change": 39.9,
-    "pct": 0.91
+    "price": 4434.3,
+    "change": 40.4,
+    "pct": 0.92
   },
   "Silver": {
-    "price": 66.9,
-    "change": 0.61,
-    "pct": 0.92
+    "price": 66.83,
+    "change": 0.53,
+    "pct": 0.8
   },
   "USD/INR": {
     "price": 95.11,
@@ -78,9 +78,9 @@
     "pct": 0.65
   },
   "Dollar Index": {
-    "price": 98.84,
-    "change": 0.0,
-    "pct": 0.0
+    "price": 98.85,
+    "change": 0.01,
+    "pct": 0.01
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -99,7 +99,7 @@
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Wed, 09 Sep 2026 06:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-09 10:06 UTC"
+  "last_updated": "2026-09-09 10:26 UTC"
 }
