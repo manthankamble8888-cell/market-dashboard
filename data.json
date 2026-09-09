@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23538.8,
-    "change": -96.3,
-    "pct": -0.41
+    "price": 23555.05,
+    "change": -80.05,
+    "pct": -0.34
   },
   "Bank Nifty": {
-    "price": 56627.15,
-    "change": -150.4,
-    "pct": -0.26
+    "price": 56697.25,
+    "change": -80.3,
+    "pct": -0.14
   },
   "Sensex": {
-    "price": 75196.8,
-    "change": -380.78,
-    "pct": -0.5
+    "price": 75153.58,
+    "change": -424.0,
+    "pct": -0.56
   },
   "India VIX": {
-    "price": 11.57,
-    "change": 0.35,
-    "pct": 3.07
+    "price": 11.59,
+    "change": 0.36,
+    "pct": 3.18
   },
   "Nifty IT": {
-    "price": 28924.7,
-    "change": -958.8,
-    "pct": -3.21
+    "price": 28920.45,
+    "change": -963.05,
+    "pct": -3.22
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.17
   },
   "Crude Oil (Brent)": {
-    "price": 99.7,
-    "change": 1.78,
-    "pct": 1.82
+    "price": 99.77,
+    "change": 1.85,
+    "pct": 1.89
   },
   "Crude Oil (WTI)": {
-    "price": 94.23,
-    "change": 1.2,
-    "pct": 1.29
+    "price": 94.39,
+    "change": 1.36,
+    "pct": 1.46
   },
   "Gold": {
-    "price": 4447.5,
-    "change": 53.6,
-    "pct": 1.22
+    "price": 4444.2,
+    "change": 50.3,
+    "pct": 1.14
   },
   "Silver": {
     "price": 67.26,
-    "change": 0.96,
-    "pct": 1.45
+    "change": 0.97,
+    "pct": 1.46
   },
   "USD/INR": {
-    "price": 95.09,
-    "change": 0.6,
-    "pct": 0.63
+    "price": 95.04,
+    "change": 0.55,
+    "pct": 0.59
   },
   "Dollar Index": {
-    "price": 98.73,
-    "change": -0.11,
-    "pct": -0.11
+    "price": 98.75,
+    "change": -0.09,
+    "pct": -0.09
   },
   "US 10Y Yield": {
     "price": 4.81,
@@ -94,7 +94,7 @@
       "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
-      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
@@ -109,7 +109,7 @@
       "published": "Wed, 09 Sep 2026 06:00:00 GMT"
     },
     {
-      "title": "Sensex down 500 points: 5 reasons why stock market is falling today - India Today",
+      "title": "Sensex down 500 points: 5 reasons why stock market is falling today - indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOY3NmM3FlUXFQdzQ5U2VuMmNZY2JhQy1tNVhBT25YOU5yOVBVMlZKYkdTYVh6TzBPSXpKNmZ6R21rMmZPTVFGZFFOSmxPYklseDc5WERLZVNLLWtPNm5QTlJRSFZ5Y3Q3NmE2NHdsS2lNV2tYbE5HM2ZtZFRwVnJYdHlrYWRoZmxIN19wemg0cS1weHBjLXBVazNvcjAzTFN4SndfMTNHZmZOQ0V2a0pWMkMwZjZqWXdUdE5qeFkxUGFyRHdpcHVlbUNCU3hITmJvM3NkX2JEYkQ5RjFaOXQzQ3ktTGtuSGFYQUwtUTZ5V1RDQdIB9wFBVV95cUxQQ3ZidEtvYWJCd1M3ZE93bW9rMUZvUTRjdC11TGhOT21LRklvSmJBUmcyRFdIYjY3aTM0dmVEaU9OUkF6UkVJZllHUkJEaHlrYklkMDFDblhPUkRZSEc0TE43ZUUwTWpzMjdheVZiVjNlc1dCSUxTMVRweV9wTWtvd00yRW9QZXZxa1ctSHVXLXRIbF9DZG1YNHhMUUJiUFVqNWRMUWljZ2Z3R2lyMVdWVzFNRlE2TGF3XzYteUxkeF9hM2JrNDNDT2dMbXBXaGF4NlpFWHhYTGR6bmhJWWwxdGthbm9KcXNrY1ZDNEtINzdSZktjTGhn?oc=5",
       "published": "Wed, 09 Sep 2026 04:33:36 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Wed, 09 Sep 2026 04:41:42 GMT"
     },
     {
-      "title": "Stock Market Today: Gift Nifty, IPOs To Oil Prices \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On September 9 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZzN1T1Fla1RYVjlYNGtjU0hZVVVmN1RRQmg4dE1GSnJmN3NmZWpadlZIRHhubnVaeTEwVGpKS00tN1pBRjM4V3hsUFduZDF6YjN0NE5KenRwLVBJb09MMDRScEluRWljQXp5TXhSXy1zRjNySGlkWHpCcUJ2REszNUgzU3ZaU1U2aUZkS3ZHRkk5QVFuS3o5dDRKX2oyWW0wT0tPbWZfY0tGOXpoZUpjejhjeVlreGpaUTN6clVabkdzMG9ERERQZU9kdldfQ010TzAtTjMwaGlwM25TVWE2NjNlajczRWxadHl2VFlMV0JVVm_SAfsBQVVfeXFMTTFqUnpER0E3MkRoOXAyRlgzVXdYSEh1UVhqbWVURWN6VkF0NGZNVzQtVWQyZW5nS0ZkeER6UlhHb3czdlFfcWFpVXd5UDJSZXBfOEtkOXN4M0JzT3V0U0dESG5kcnBlVTZPcUhfZ0pHakR6Rnh6UEhuSXBEWW0wWmtxbkhxYkxDeGhGNzEwdFZ2bnRZNjRLSmE1czVUYzZFY0ZsZnIyY09lekVxWjFSZ0ZyQ0sxdmR4Y05aZmcyNW40NEhNUmlQNE9adTNvRVFGZkl5bGtZQXE5SUxxRHdXMU9lN2x4Q1Q3TWlnT2FDOHp3Sy1tTWhYb2dDQmM?oc=5",
-      "published": "Wed, 09 Sep 2026 01:19:47 GMT"
+      "title": "Sensex Falls 600 Points, Nifty Slips below 23,500 as Crude Oil Nears $100; Rupee Hits 94.83 - India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOakg4X3RQaDZMNU9Zb3NpWHBXc29WamxXd0ZpeENweGhnTjBNNzZFN29Od3ZVRGJvRGRUa0pkekZ0bGQ5eXpSTUthY0Z0RmZmaFgxZm8yNEVFWTQ4WEtEUFdPVWUybVZXQ3dvNndXTEphNm1UNXpJMFpHUHd5SXllQTFJbWROdHVZVGtIZWxPRWxqSERDLWluVG1pY3pRbFF0UHhRRUVlbUVDQWNqcnBwa25fbld0V1k1eFFxWTBZZk53SE1ZVjBlYmhn?oc=5",
+      "published": "Wed, 09 Sep 2026 06:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-09 08:26 UTC"
+  "last_updated": "2026-09-09 08:40 UTC"
 }
