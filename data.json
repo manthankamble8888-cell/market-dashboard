@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52116.72,
-    "change": -263.94,
-    "pct": -0.5
+    "price": 52126.35,
+    "change": -254.31,
+    "pct": -0.49
   },
   "Nasdaq": {
-    "price": 26145.9,
-    "change": -107.44,
-    "pct": -0.41
+    "price": 26126.56,
+    "change": -126.78,
+    "pct": -0.48
   },
   "S&P 500": {
-    "price": 7605.98,
-    "change": -30.38,
-    "pct": -0.4
+    "price": 7602.98,
+    "change": -33.38,
+    "pct": -0.44
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -51,24 +51,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 105.8,
-    "change": 4.59,
-    "pct": 4.54
+    "price": 106.22,
+    "change": 5.01,
+    "pct": 4.95
   },
   "Crude Oil (WTI)": {
-    "price": 100.3,
-    "change": 4.25,
-    "pct": 4.42
+    "price": 100.69,
+    "change": 4.64,
+    "pct": 4.83
   },
   "Gold": {
-    "price": 4408.4,
-    "change": -7.6,
-    "pct": -0.17
+    "price": 4408.0,
+    "change": -8.0,
+    "pct": -0.18
   },
   "Silver": {
-    "price": 65.01,
-    "change": -2.93,
-    "pct": -4.32
+    "price": 64.83,
+    "change": -3.11,
+    "pct": -4.57
   },
   "USD/INR": {
     "price": 95.43,
@@ -76,9 +76,9 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 98.93,
-    "change": 0.16,
-    "pct": 0.16
+    "price": 98.91,
+    "change": 0.14,
+    "pct": 0.14
   },
   "US 10Y Yield": {
     "price": 4.92,
@@ -89,7 +89,7 @@
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Wed, 09 Sep 2026 23:57:44 GMT"
+      "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy - Livemint",
@@ -122,10 +122,10 @@
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
     {
-      "title": "Indian shares swing to gains after volatile closing auction; Mideast cloud lingers - Reuters",
+      "title": "Indian shares swing to gains after volatile closing auction; Mideast cloud lingers - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
       "published": "Thu, 10 Sep 2026 02:20:00 GMT"
     }
   ],
-  "last_updated": "2026-09-10 15:40 UTC"
+  "last_updated": "2026-09-10 15:51 UTC"
 }
