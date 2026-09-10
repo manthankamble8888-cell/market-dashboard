@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23420.35,
-    "change": -11.15,
-    "pct": -0.05
+    "price": 23412.2,
+    "change": -19.3,
+    "pct": -0.08
   },
   "Bank Nifty": {
-    "price": 56341.8,
-    "change": 46.25,
-    "pct": 0.08
+    "price": 56301.3,
+    "change": 5.75,
+    "pct": 0.01
   },
   "Sensex": {
-    "price": 74720.47,
-    "change": -43.76,
-    "pct": -0.06
+    "price": 74730.68,
+    "change": -33.55,
+    "pct": -0.04
   },
   "India VIX": {
-    "price": 11.87,
-    "change": -0.05,
-    "pct": -0.44
+    "price": 11.9,
+    "change": -0.02,
+    "pct": -0.19
   },
   "Nifty IT": {
-    "price": 28821.7,
-    "change": -92.3,
-    "pct": -0.32
+    "price": 28837.15,
+    "change": -76.85,
+    "pct": -0.27
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,29 +53,29 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 102.12,
-    "change": 0.91,
-    "pct": 0.9
+    "price": 102.32,
+    "change": 1.11,
+    "pct": 1.1
   },
   "Crude Oil (WTI)": {
-    "price": 97.0,
-    "change": 0.95,
-    "pct": 0.99
+    "price": 97.36,
+    "change": 1.31,
+    "pct": 1.36
   },
   "Gold": {
-    "price": 4438.8,
-    "change": 22.8,
-    "pct": 0.52
+    "price": 4437.3,
+    "change": 21.3,
+    "pct": 0.48
   },
   "Silver": {
-    "price": 67.43,
-    "change": -0.51,
-    "pct": -0.75
+    "price": 67.32,
+    "change": -0.63,
+    "pct": -0.92
   },
   "USD/INR": {
-    "price": 95.4,
-    "change": 0.58,
-    "pct": 0.61
+    "price": 95.41,
+    "change": 0.59,
+    "pct": 0.62
   },
   "Dollar Index": {
     "price": 98.79,
@@ -99,14 +99,14 @@
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
     {
-      "title": "Sensex Today Trades Flat | Nifty Below 23,450 | Bharat Elec & Tata Steel Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObUtNWWwtVmJOMFBGQXJra2pHT0tScDV6TmtxeGZTZklZS1NPUXpGS28wV21ROHRpWi1sZTVmOEctNEZJdzUzSUViYWNVb2N1bGlnZ29fVW1jU0ItWnpoLU5wQ18xYzN3aGZjZV8tdm9qSXprZ1lJbm5XbWpXcmZJN1lGZ2tnWkJYbEVnallMazNHMXhRZ2JWU3dab1E4cGhadmtfOGhBOVAzUnZZTERZcjd0cmhBY0xEOWwtZ210eDFkY2laVGl2b2l4eFhmekhDM2hkV1Z0Yw?oc=5",
-      "published": "Thu, 10 Sep 2026 04:40:54 GMT"
-    },
-    {
       "title": "Daily Voice: Indian stock market at record highs by March? Rakesh Vyas sees four triggers and one key risk - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcm5wcGxhNURHbm1KN3RvbXpCeER6dkM5bGN1QUIwZUkyb2M0TTdTOTdnZlhlbkZ3MG9FT1RpUE0tV2F1SDBZbWpudmVYaXpHdWJfVkh3UWpJYVBKX2RwZXBOb3FpMklpSWctZ29YQ1pNNWtuMWg5aDR4VlN6RS1aX1FzdXNaY21idkxmb2tVU19hMnB2dm9nbFp1cUtEMWxtRUJXV3ctdlZhOTYwTGFmcTlrSWptMGxaMjRSYV9OTGVRNm0xeDRHUGIzTHdXbXJwRk5veHVUSlE1SVhFOWZzb2tpUXZIdlNGVE4tNmF0R1dwa2hmSjEwNGFzb3RvRjR6M2RvUUN0YjFDbXpKTkZoNVRKMzRBcDR3U0dYUHJKaWo0d3BCN0FPdFRieUZzbkNKWVBJZkZmU07SAb4CQVVfeXFMT1N4MnA1LWlyUFh2Ums5SHRDTTRMa1dYODU2RUZwQ3lhd3NOYWdYSE5zVFNXMTlOdmdYdjhrN19sQlNRcFZhLTU4VFhIZWxMSTBoS2s2YldVSExzN3VEdFYyV0hqV0x1OG9WRmtwY1RKbDc4ZF9YUXBUR3BPVHp2NnFGdmJHUzBPSFhtS1BUT2dkU1ZTU254UThkLTUwRVo4eVRWSmp3YTJkYUFWU3ZoUW9TTE5jNFhGVDJpdzdnSk83MllWXzVvNWRBdl9rUW9laUV6cXJhd1VpTXFoc0cyODRxUWVGVDk5d1BhQ3RlUWl6RlllR0RJV0VrUVlYX3N3clBqWFAybktOa2YwaXp1ZldRSS13TnU3NXJPMHY0Sm5Qc204NnJfcDA1dGpxRWxPMTF5ZXE2TnVkQ00yT1dn?oc=5",
       "published": "Thu, 10 Sep 2026 01:11:19 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Flat | Nifty Below 23,450 | Bharat Elec & Tata Steel Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbFYwemgxNnFLWjRucFEwbmV1Y0c2UjMyNnF4OXlxXzJNUkRZdzYtQ05tZVh0VHZ6YWc2bC1taENsWWZOSlpjSl9WVHp1bjJPRWlzWXE4RWlxTDMza1RKdnVhRWJadlJ0UmdnckRnY2Vrblc4eTJVaWd4aHhUR3M4WVFEYkJIRjI3RzNPaENfRHBZODljSkdqMGFULWhLcktQY3RmNGwyNHk5b29KQTRjTUg0V0hrelN3eS1OV3pNdlZXR0dmWGp4T0ZYLWthQ1FISDFXRFFXYnVDOFNEREpnbEd3Q294LTlNT2oxakd1cUdhOVN0c0o4T1BCMXJMRHhhdXNxZWRtcGxKbFhjQXcxMnlKRGNIaEtORUVOVEMwRVhENjNES1o4RklBZ011VUlVUHdqTzhScGZyMjQ?oc=5",
+      "published": "Thu, 10 Sep 2026 04:40:54 GMT"
     },
     {
       "title": "Indian shares muted as Mideast conflict keeps oil above $100 - Reuters",
@@ -129,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 00:30:15 GMT"
     }
   ],
-  "last_updated": "2026-09-10 08:54 UTC"
+  "last_updated": "2026-09-10 09:06 UTC"
 }
