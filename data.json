@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23463.65,
-    "change": 32.15,
-    "pct": 0.14
+    "price": 23442.75,
+    "change": 11.25,
+    "pct": 0.05
   },
   "Bank Nifty": {
-    "price": 56487.75,
-    "change": 192.2,
-    "pct": 0.34
+    "price": 56424.85,
+    "change": 129.3,
+    "pct": 0.23
   },
   "Sensex": {
-    "price": 74790.92,
-    "change": 26.7,
-    "pct": 0.04
+    "price": 74887.44,
+    "change": 123.21,
+    "pct": 0.16
   },
   "India VIX": {
-    "price": 11.69,
-    "change": -0.23,
-    "pct": -1.89
+    "price": 11.74,
+    "change": -0.18,
+    "pct": -1.49
   },
   "Nifty IT": {
-    "price": 28892.75,
-    "change": -21.25,
-    "pct": -0.07
+    "price": 28860.85,
+    "change": -53.15,
+    "pct": -0.18
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,29 +48,29 @@
     "pct": 0.2
   },
   "Hang Seng": {
-    "price": 24950.66,
-    "change": -324.3,
-    "pct": -1.28
+    "price": 24953.53,
+    "change": -321.43,
+    "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 100.39,
-    "change": -0.82,
-    "pct": -0.81
+    "price": 100.79,
+    "change": -0.42,
+    "pct": -0.41
   },
   "Crude Oil (WTI)": {
-    "price": 95.47,
-    "change": -0.58,
-    "pct": -0.6
+    "price": 95.72,
+    "change": -0.33,
+    "pct": -0.34
   },
   "Gold": {
-    "price": 4470.2,
-    "change": 54.2,
-    "pct": 1.23
+    "price": 4469.0,
+    "change": 53.0,
+    "pct": 1.2
   },
   "Silver": {
-    "price": 68.3,
-    "change": 0.36,
-    "pct": 0.53
+    "price": 68.14,
+    "change": 0.2,
+    "pct": 0.3
   },
   "USD/INR": {
     "price": 95.21,
@@ -78,9 +78,9 @@
     "pct": 0.41
   },
   "Dollar Index": {
-    "price": 98.75,
-    "change": -0.02,
-    "pct": -0.02
+    "price": 98.73,
+    "change": -0.04,
+    "pct": -0.04
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -119,15 +119,15 @@
       "published": "Thu, 10 Sep 2026 03:55:44 GMT"
     },
     {
-      "title": "Market turbulence is here to stay, may deepen - The Indian Express",
+      "title": "Market turbulence is here to stay, may deepen - indianexpress.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalNrQWJJRmtodTdJTTZUYTc0RDdHaFNnaWZDc1Z6TVUzdUp0Y3AxSHhvMHB0aE1rXzNLUWJhXzZaaUY5TlMyUlZQZ3FJV2xTaEt3ZGtMcXhXOWdDZGFRM0JKTkVfLWZLZmhHMjR0aFJMd0N3anBfOFN4dXpHZ1dic044dFFuZ1IyaTExOV9uelduOXZmZUZGbVNrbm9Kc0xpSlFscFdIVG5xRGJ6WENWNFNn0gG4AUFVX3lxTE5RdUwzV0NLRGpNbThtTlkwdHdlaFFWOTVSZGs2dDBCZ2IxZlRGU2NMOWQ2Ri0wQVBwUnlISS1rdUg4LVVoOTVHUk5uTUZhcktlVnN6dWhJY3lfQ0t0MjV6RUYxR1p3LXdUQ1VtdlN0YWZyMXVEZS00S3MwZTRGeDZudXZTV1JTRXd6NWF6cE0xdlJTeWJMSlFhYW5kOFhFMllnamJkX3I0a2dRR2F4MW55R2xUUW5nNWk?oc=5",
       "published": "Thu, 10 Sep 2026 00:30:15 GMT"
     },
     {
-      "title": "Markets open flat as crude stays above USD 100, geopolitical tensions weigh - Daily Pioneer",
+      "title": "Markets open flat as crude stays above USD 100, geopolitical tensions weigh - dailypioneer.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTJaVlBYQmd1ZnA3Z0FvR1dNS3BFUDliUFJBLXR2aXRLQWNkU3RwZm1kWEItemd1WV9GTzVINFlQV01OUVoxNGYyMmtoX3Q0bDdpVzBHcXN0LW1rUXU4a2dKeXdfWGN0YXcxQVNoZTZnYmY0dG5WQ2dUWjVxcVd0cUhvOHlyb2wtTHlnT0lJam51MXpPWUtrU05YTXNCTmF4dlJMcjVZaTZOcmMxY3c?oc=5",
       "published": "Thu, 10 Sep 2026 05:22:01 GMT"
     }
   ],
-  "last_updated": "2026-09-10 06:54 UTC"
+  "last_updated": "2026-09-10 07:07 UTC"
 }
