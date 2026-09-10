@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52220.27,
-    "change": -160.39,
-    "pct": -0.31
+    "price": 52146.34,
+    "change": -234.32,
+    "pct": -0.45
   },
   "Nasdaq": {
-    "price": 26044.12,
-    "change": -209.22,
+    "price": 26042.32,
+    "change": -211.02,
     "pct": -0.8
   },
   "S&P 500": {
-    "price": 7595.99,
-    "change": -40.37,
-    "pct": -0.53
+    "price": 7587.1,
+    "change": -49.26,
+    "pct": -0.65
   },
   "Nikkei 225": {
     "price": 65270.95,
@@ -53,24 +53,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 105.32,
-    "change": 4.11,
-    "pct": 4.06
+    "price": 104.61,
+    "change": 3.4,
+    "pct": 3.36
   },
   "Crude Oil (WTI)": {
-    "price": 100.13,
-    "change": 4.08,
-    "pct": 4.25
+    "price": 99.41,
+    "change": 3.36,
+    "pct": 3.5
   },
   "Gold": {
-    "price": 4394.3,
-    "change": -21.7,
-    "pct": -0.49
+    "price": 4412.2,
+    "change": -3.8,
+    "pct": -0.09
   },
   "Silver": {
-    "price": 65.03,
-    "change": -2.92,
-    "pct": -4.29
+    "price": 65.32,
+    "change": -2.62,
+    "pct": -3.86
   },
   "USD/INR": {
     "price": 95.43,
@@ -78,9 +78,9 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": 0.34,
-    "pct": 0.34
+    "price": 99.02,
+    "change": 0.25,
+    "pct": 0.25
   },
   "US 10Y Yield": {
     "price": 4.92,
@@ -99,17 +99,17 @@
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
     {
-      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFYyQ3QxTHhpSGRHX3ZvRUVuLWFZVllDa2F4VllSUkhIRncxQnlVWFhSdGR1Q1NCdUlNM1Z2V1BOLXFqdVdHNktkVF83bnZOS3FzZy1BM3JmbFpobkFzQzBEejJ4WFVQRnpteFVRTWZsOHl2WlJ1dHRXcm9jZXd2NEptWi1hR2RoTU9xcEkzMkVnVmJ5ZThKd2JGTERNZkZrMDA5QlVLWmhnM1hzM0t4VWVfd296VzhoTHpjdUl1M1lLeE9lZ3pUanhCaEdtV0NBQ041bnNaLTM1QQ?oc=5",
-      "published": "Thu, 10 Sep 2026 10:37:10 GMT"
-    },
-    {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 10, 2026 - blog.liquide.life",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 10, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU243Q29oSl9oWkZzVTc1Q1NjdDkzYVZDZ0dsNUdzemNFNWFjLW1tQXJjbkNFVGJLNkkzSFVNSHZQWUxyWGNwSXZpUGZLUGpFcHhFak9MT01vUHpKeHRVRm5oTGk5MVlOYzNZREszQlhvNUFZTWhqMEhjS2lqYnpJRmVpQzNjcHlEM3hQMGs5M1RaYU9ERnkwdUh0b0pYNDM3cDJKNGZSYlM0OE1WUGxjNUFFbGROdE56NXZnUw?oc=5",
       "published": "Thu, 10 Sep 2026 11:37:32 GMT"
     },
     {
-      "title": "Nifty Sensex Today: Nifty Climbs 46 Points to 23,477.80 as Banking Stocks Snap Three-Day Losing Streak Amid Crude Oil Volatility - India Infoline",
+      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWkxKbmlQc3pxX3BiY2JJWUhPcmRZS2ZvWEVvdS0yZEJwdjFOanY1UkN4V1hVZC1wWXd4R1BIeVRJQWJJbXBqQXJoMTdlWnRJNVlZU3puTXQ3VVlQQVFwcWVnMHRWZkRjdU9RcXlsTmVPYW5WdnpZMW00d19XbVF6LWtoak02dUZGM3VsOXV1ZXZoNG1nUFNxUnFZWEhpMEFEdS1ZaU8yVDd1UmFsVXVwMVQwdENkU2piclN5N1lkY3Eyalc5Z081WldTWEFSUElUQ0R5LThadzZCZw?oc=5",
+      "published": "Thu, 10 Sep 2026 10:37:10 GMT"
+    },
+    {
+      "title": "Nifty Sensex Today: Nifty Climbs 46 Points to 23,477.80 as Banking Stocks Snap Three-Day Losing Streak Amid Crude Oil Volatility - indiainfoline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSlBDbXpyVV9hZzJxQXlhcXpJc0c4eGJDS3R1N0FlbEg2VGdWYncxQjRvTU9yV2k2aDVBWTdFYUZFX1M4MGFwN3VYdG01ZWxEV3RuMEhZMm5sVmtpNkZuY3A5bHZFZHc4UGhXNDNkOEVJbV9QZG1zZmxweW9OLThWdV9fNmtidndhbEdCSENFZXJ4aHZUcUlRU2tWUTE3bjFRR0s2Sl8yRElwYUh2ZHB6S1FWSU1LRnBhaUlLYzQwdUxqc3VDQTRib2NUV0Z0QWJRc2EyeGhMM0dKcnNRSlUyQXlKR1Y1NEswQW0xaEZtUWdOQm03d1JrT21HYV9SZw?oc=5",
       "published": "Thu, 10 Sep 2026 13:27:47 GMT"
     },
@@ -124,10 +124,10 @@
       "published": "Thu, 10 Sep 2026 11:32:46 GMT"
     },
     {
-      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - reuters.com",
+      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20?oc=5",
       "published": "Thu, 10 Sep 2026 08:45:45 GMT"
     }
   ],
-  "last_updated": "2026-09-10 13:38 UTC"
+  "last_updated": "2026-09-10 13:52 UTC"
 }
