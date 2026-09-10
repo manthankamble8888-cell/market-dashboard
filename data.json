@@ -43,39 +43,39 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 64500.16,
-    "change": -642.62,
-    "pct": -0.99
+    "price": 64580.39,
+    "change": -562.39,
+    "pct": -0.86
   },
   "Hang Seng": {
-    "price": 24975.23,
-    "change": -299.73,
-    "pct": -1.19
+    "price": 24965.46,
+    "change": -309.5,
+    "pct": -1.22
   },
   "Crude Oil (Brent)": {
-    "price": 101.09,
-    "change": 3.17,
-    "pct": 3.24
+    "price": 101.15,
+    "change": 3.23,
+    "pct": 3.3
   },
   "Crude Oil (WTI)": {
-    "price": 96.35,
-    "change": 3.32,
-    "pct": 3.57
+    "price": 96.4,
+    "change": 3.37,
+    "pct": 3.62
   },
   "Gold": {
-    "price": 4455.1,
-    "change": 61.2,
-    "pct": 1.39
+    "price": 4457.0,
+    "change": 63.1,
+    "pct": 1.44
   },
   "Silver": {
-    "price": 67.96,
-    "change": 1.67,
-    "pct": 2.52
+    "price": 68.0,
+    "change": 1.7,
+    "pct": 2.57
   },
   "USD/INR": {
-    "price": 95.1,
+    "price": 95.09,
     "change": 0.27,
-    "pct": 0.29
+    "pct": 0.28
   },
   "Dollar Index": {
     "price": 98.74,
@@ -89,12 +89,12 @@
   },
   "news": [
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Wed, 09 Sep 2026 00:25:18 GMT"
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
+      "published": "Wed, 09 Sep 2026 23:43:11 GMT"
     },
     {
-      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
@@ -104,14 +104,14 @@
       "published": "Thu, 10 Sep 2026 00:30:00 GMT"
     },
     {
+      "title": "Market turbulence is here to stay, may deepen - indianexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalNrQWJJRmtodTdJTTZUYTc0RDdHaFNnaWZDc1Z6TVUzdUp0Y3AxSHhvMHB0aE1rXzNLUWJhXzZaaUY5TlMyUlZQZ3FJV2xTaEt3ZGtMcXhXOWdDZGFRM0JKTkVfLWZLZmhHMjR0aFJMd0N3anBfOFN4dXpHZ1dic044dFFuZ1IyaTExOV9uelduOXZmZUZGbVNrbm9Kc0xpSlFscFdIVG5xRGJ6WENWNFNn0gG4AUFVX3lxTE5RdUwzV0NLRGpNbThtTlkwdHdlaFFWOTVSZGs2dDBCZ2IxZlRGU2NMOWQ2Ri0wQVBwUnlISS1rdUg4LVVoOTVHUk5uTUZhcktlVnN6dWhJY3lfQ0t0MjV6RUYxR1p3LXdUQ1VtdlN0YWZyMXVEZS00S3MwZTRGeDZudXZTV1JTRXd6NWF6cE0xdlJTeWJMSlFhYW5kOFhFMllnamJkX3I0a2dRR2F4MW55R2xUUW5nNWk?oc=5",
+      "published": "Thu, 10 Sep 2026 00:30:15 GMT"
+    },
+    {
       "title": "India\u2019s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun - Substack",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGRWOWlrYWF3Q2Z6djJvMDJNTGxBb3JBb0YwalVZd1Jjcy1JR2FIM0llQU5QWUFxVnBBLW1RZTRnWGozRDQwOWdwV3RsN1U2aDVGY19YaFBtVHZlSkVuNDNkR1FzcHNxekktU1RxR1RFZFREdndXdllwbkNqVkZIV2JoRmk?oc=5",
       "published": "Wed, 09 Sep 2026 13:06:32 GMT"
-    },
-    {
-      "title": "Market turbulence is here to stay, may deepen - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalNrQWJJRmtodTdJTTZUYTc0RDdHaFNnaWZDc1Z6TVUzdUp0Y3AxSHhvMHB0aE1rXzNLUWJhXzZaaUY5TlMyUlZQZ3FJV2xTaEt3ZGtMcXhXOWdDZGFRM0JKTkVfLWZLZmhHMjR0aFJMd0N3anBfOFN4dXpHZ1dic044dFFuZ1IyaTExOV9uelduOXZmZUZGbVNrbm9Kc0xpSlFscFdIVG5xRGJ6WENWNFNn0gG4AUFVX3lxTE5RdUwzV0NLRGpNbThtTlkwdHdlaFFWOTVSZGs2dDBCZ2IxZlRGU2NMOWQ2Ri0wQVBwUnlISS1rdUg4LVVoOTVHUk5uTUZhcktlVnN6dWhJY3lfQ0t0MjV6RUYxR1p3LXdUQ1VtdlN0YWZyMXVEZS00S3MwZTRGeDZudXZTV1JTRXd6NWF6cE0xdlJTeWJMSlFhYW5kOFhFMllnamJkX3I0a2dRR2F4MW55R2xUUW5nNWk?oc=5",
-      "published": "Thu, 10 Sep 2026 00:30:15 GMT"
     },
     {
       "title": "Why Foreign Investors Still Aren\u2019t Buying Indian Stocks - Bloomberg.com",
@@ -129,5 +129,5 @@
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     }
   ],
-  "last_updated": "2026-09-10 02:06 UTC"
+  "last_updated": "2026-09-10 02:25 UTC"
 }
