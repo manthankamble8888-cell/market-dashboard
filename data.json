@@ -1,18 +1,18 @@
 {
   "Nifty 50": {
-    "price": 23421.2,
-    "change": -10.3,
-    "pct": -0.04
+    "price": 23390.3,
+    "change": -41.2,
+    "pct": -0.18
   },
   "Bank Nifty": {
-    "price": 56334.1,
-    "change": 38.55,
-    "pct": 0.07
+    "price": 56248.05,
+    "change": -47.5,
+    "pct": -0.08
   },
   "Sensex": {
-    "price": 74673.61,
-    "change": -90.62,
-    "pct": -0.12
+    "price": 74736.87,
+    "change": -27.36,
+    "pct": -0.04
   },
   "India VIX": {
     "price": 11.86,
@@ -20,9 +20,9 @@
     "pct": -0.46
   },
   "Nifty IT": {
-    "price": 28847.5,
-    "change": -66.5,
-    "pct": -0.23
+    "price": 28768.7,
+    "change": -145.3,
+    "pct": -0.5
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 102.13,
-    "change": 0.92,
-    "pct": 0.91
+    "price": 102.56,
+    "change": 1.35,
+    "pct": 1.33
   },
   "Crude Oil (WTI)": {
-    "price": 97.25,
-    "change": 1.2,
-    "pct": 1.25
+    "price": 97.69,
+    "change": 1.64,
+    "pct": 1.71
   },
   "Gold": {
-    "price": 4437.1,
-    "change": 21.1,
-    "pct": 0.48
+    "price": 4434.5,
+    "change": 18.5,
+    "pct": 0.42
   },
   "Silver": {
-    "price": 67.31,
-    "change": -0.64,
-    "pct": -0.94
+    "price": 67.21,
+    "change": -0.73,
+    "pct": -1.08
   },
   "USD/INR": {
-    "price": 95.42,
-    "change": 0.6,
-    "pct": 0.63
+    "price": 95.46,
+    "change": 0.64,
+    "pct": 0.67
   },
   "Dollar Index": {
-    "price": 98.76,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 98.79,
+    "change": 0.02,
+    "pct": 0.02
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -109,14 +109,14 @@
       "published": "Thu, 10 Sep 2026 01:11:19 GMT"
     },
     {
-      "title": "Indian shares muted as Mideast conflict keeps oil above $100 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
-      "published": "Thu, 10 Sep 2026 02:20:00 GMT"
-    },
-    {
       "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUY1SlZyRTdKUlF6MFZyNVA0VmlKUE9MbG1GNDNKTFdHRi1sRlZTbWhLMk5DbjN2U24xYzNjVy03NXNhNGdiRWRULWdWT09YTzNaMGVkWHZaaHJEMjVaLTlja0NWX0x3dVVOeUxUUUtJeGpyUGRZRHVROVdLalRQVHFxZ3R3YTFWYjYwRTRXd2dsYmtDNHRoYTFxeFRzdk9ILUR3bUZVaw?oc=5",
       "published": "Thu, 10 Sep 2026 03:55:44 GMT"
+    },
+    {
+      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20?oc=5",
+      "published": "Thu, 10 Sep 2026 08:45:45 GMT"
     },
     {
       "title": "Indian Bank eases for fifth straight session - Business Standard",
@@ -129,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 05:22:01 GMT"
     }
   ],
-  "last_updated": "2026-09-10 09:25 UTC"
+  "last_updated": "2026-09-10 09:40 UTC"
 }
