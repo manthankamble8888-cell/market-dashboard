@@ -53,24 +53,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 101.99,
-    "change": 0.78,
-    "pct": 0.77
+    "price": 101.58,
+    "change": 0.37,
+    "pct": 0.37
   },
   "Crude Oil (WTI)": {
-    "price": 97.38,
-    "change": 1.33,
-    "pct": 1.38
+    "price": 96.93,
+    "change": 0.88,
+    "pct": 0.92
   },
   "Gold": {
-    "price": 4436.7,
-    "change": 20.7,
-    "pct": 0.47
+    "price": 4428.7,
+    "change": 12.7,
+    "pct": 0.29
   },
   "Silver": {
-    "price": 67.0,
-    "change": -0.94,
-    "pct": -1.39
+    "price": 66.71,
+    "change": -1.24,
+    "pct": -1.82
   },
   "USD/INR": {
     "price": 95.43,
@@ -78,9 +78,9 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 98.84,
-    "change": 0.07,
-    "pct": 0.07
+    "price": 98.9,
+    "change": 0.13,
+    "pct": 0.13
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -99,7 +99,7 @@
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
     {
-      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
+      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdVNYekk2T0x0RnJFZ0pJVldBek4wRm9EemJwZjkwamVvWV8yZzhCS2RaMXF4WXgzRFhQcERzVEViMk9JVmsxbHFYUGd5dm95bmdmbFBVbFhsLXZtdWp1VXk5Z0g5QXpXeDdDejRGb1ZZa3pIcnZiQS05SW9uVGc2YzFFSnFCTE5PM1Y5MVZOcnRuQXNRZjdCV0xCamF1ZXp1ZVJYeURpMlZRYXFud3hIMGRnRE9XUk5PRXRzWTRyZnRrX2lmQWdERnhNSk5kLXFBaHJLNUJIYk1iWlhOYXh6NWJFREdFb19lX2RKOXEwVDhWUHppVDhCRUtSZ1hkdGhHWHVTV0lRNklsd2htU2NDakdwaE5lUV9mU0xnWE96U3d3QW1mX3F3d1lSaGM5d0dvWURNbXpYblhjbXAtN1dJ?oc=5",
       "published": "Thu, 10 Sep 2026 10:37:10 GMT"
     },
@@ -119,15 +119,15 @@
       "published": "Thu, 10 Sep 2026 08:45:45 GMT"
     },
     {
-      "title": "Indian Bank eases for fifth straight session - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1NoTzhkYVVXTS12WjJVWmVmU1NVUXpBNDdBSzJBM2RtTnQzT2VrYVo4ZHhyeTNfWndpMmZVYW1JUDBQalRLMHRWUjFxaVhEYkd2dmRNbWdJMUFtenc1RkRSbFJYNEljLU5WRHRSOTVVb3U4WXppSzYtbjl4ZjV0bzhMRWJ3OHNJRkJnbTBEUHhSUFV4dmlZeEpfTHJWaHdLRExTVHJmLUVRbjVFRlU2d3NMaThDR0lyVzJaSVlWZGpNMnZx0gHKAUFVX3lxTE1FdU81SnROQmsyS0tnaGR4YjZIakVETjRkOGFNRW9aN0dzR29WZS1ndk85cG1sR1hYNy1MWHBKMWxDR2hhT1YwR013RkhHa2l2UnBvY0I2aU9BV3FsV254Yjd5RGpHQTh0R1B3N1ppUEl5TWtfd0F3Q0U1b2c1LS1qc2wwUU5USFVOTVdScmhMQWtlOWlIOUltM2JEMlpYQ1F4a2FQQVZoTTVYekdDbmtBYmlGaEcwYy1CZnBQQjRmZE5JUXNLQzdkV3c?oc=5",
-      "published": "Thu, 10 Sep 2026 08:46:34 GMT"
+      "title": "Indian Markets Snap Losses Amid Crude Oil & Geopolitical Tensions - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNHVBYll2NXlxd0ZKeldkN0dSbk8zUDFtWFNfTmQzYXZxMXVlVGwtd200OTYzWVJvbkc2Q1dESDFVRFlPR19GcG1raUV6QUNFQnA5enJ5NmdsVGhSNlNqZWxrZDNOMjlzb19aejZ1WERZX2w4RHN0UXNlTlY2OURVSk9SRHFLUGVyck5WYkdGR292bUFSeGh0bUtzR3BRTXlEbWVVdmhCRXVEUUVnaGhqVUhCWm1NZ9IBuwFBVV95cUxQQkZ2Wm1iUUJMVElWeS1WUnBfOXk2LUUtX2Z1ZVJxVHQ3WHpvc3RxeElUSjFtRU1pVUJWSXNLYmNjemgwLWJvbm1rRUFFbWUxSUZyaElOaS1pMkFhY2RkZTNwbkVBbVNkLUR3ZWkwLWllLV92RWJfdmVrSGJmZDZyRElCMS1CZjlrbTBYYl9SX05TT2RHUDVHeXVSam9TZUJrZWNHYWVnSWFWcWJSTjcxUTBNcl93RHMxNElF?oc=5",
+      "published": "Thu, 10 Sep 2026 10:47:48 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     }
   ],
-  "last_updated": "2026-09-10 10:39 UTC"
+  "last_updated": "2026-09-10 10:52 UTC"
 }
