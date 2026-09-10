@@ -53,24 +53,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 101.58,
-    "change": 0.37,
-    "pct": 0.37
+    "price": 101.76,
+    "change": 0.55,
+    "pct": 0.54
   },
   "Crude Oil (WTI)": {
-    "price": 96.93,
-    "change": 0.88,
-    "pct": 0.92
+    "price": 97.14,
+    "change": 1.09,
+    "pct": 1.13
   },
   "Gold": {
-    "price": 4428.7,
-    "change": 12.7,
-    "pct": 0.29
+    "price": 4422.3,
+    "change": 6.3,
+    "pct": 0.14
   },
   "Silver": {
-    "price": 66.71,
-    "change": -1.24,
-    "pct": -1.82
+    "price": 66.39,
+    "change": -1.55,
+    "pct": -2.28
   },
   "USD/INR": {
     "price": 95.43,
@@ -99,14 +99,9 @@
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
     {
-      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQdVNYekk2T0x0RnJFZ0pJVldBek4wRm9EemJwZjkwamVvWV8yZzhCS2RaMXF4WXgzRFhQcERzVEViMk9JVmsxbHFYUGd5dm95bmdmbFBVbFhsLXZtdWp1VXk5Z0g5QXpXeDdDejRGb1ZZa3pIcnZiQS05SW9uVGc2YzFFSnFCTE5PM1Y5MVZOcnRuQXNRZjdCV0xCamF1ZXp1ZVJYeURpMlZRYXFud3hIMGRnRE9XUk5PRXRzWTRyZnRrX2lmQWdERnhNSk5kLXFBaHJLNUJIYk1iWlhOYXh6NWJFREdFb19lX2RKOXEwVDhWUHppVDhCRUtSZ1hkdGhHWHVTV0lRNklsd2htU2NDakdwaE5lUV9mU0xnWE96U3d3QW1mX3F3d1lSaGM5d0dvWURNbXpYblhjbXAtN1dJ?oc=5",
+      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFYyQ3QxTHhpSGRHX3ZvRUVuLWFZVllDa2F4VllSUkhIRncxQnlVWFhSdGR1Q1NCdUlNM1Z2V1BOLXFqdVdHNktkVF83bnZOS3FzZy1BM3JmbFpobkFzQzBEejJ4WFVQRnpteFVRTWZsOHl2WlJ1dHRXcm9jZXd2NEptWi1hR2RoTU9xcEkzMkVnVmJ5ZThKd2JGTERNZkZrMDA5QlVLWmhnM1hzM0t4VWVfd296VzhoTHpjdUl1M1lLeE9lZ3pUanhCaEdtV0NBQ041bnNaLTM1QQ?oc=5",
       "published": "Thu, 10 Sep 2026 10:37:10 GMT"
-    },
-    {
-      "title": "Daily Voice: Indian stock market at record highs by March? Rakesh Vyas sees four triggers and one key risk - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcm5wcGxhNURHbm1KN3RvbXpCeER6dkM5bGN1QUIwZUkyb2M0TTdTOTdnZlhlbkZ3MG9FT1RpUE0tV2F1SDBZbWpudmVYaXpHdWJfVkh3UWpJYVBKX2RwZXBOb3FpMklpSWctZ29YQ1pNNWtuMWg5aDR4VlN6RS1aX1FzdXNaY21idkxmb2tVU19hMnB2dm9nbFp1cUtEMWxtRUJXV3ctdlZhOTYwTGFmcTlrSWptMGxaMjRSYV9OTGVRNm0xeDRHUGIzTHdXbXJwRk5veHVUSlE1SVhFOWZzb2tpUXZIdlNGVE4tNmF0R1dwa2hmSjEwNGFzb3RvRjR6M2RvUUN0YjFDbXpKTkZoNVRKMzRBcDR3U0dYUHJKaWo0d3BCN0FPdFRieUZzbkNKWVBJZkZmU07SAb4CQVVfeXFMT1N4MnA1LWlyUFh2Ums5SHRDTTRMa1dYODU2RUZwQ3lhd3NOYWdYSE5zVFNXMTlOdmdYdjhrN19sQlNRcFZhLTU4VFhIZWxMSTBoS2s2YldVSExzN3VEdFYyV0hqV0x1OG9WRmtwY1RKbDc4ZF9YUXBUR3BPVHp2NnFGdmJHUzBPSFhtS1BUT2dkU1ZTU254UThkLTUwRVo4eVRWSmp3YTJkYUFWU3ZoUW9TTE5jNFhGVDJpdzdnSk83MllWXzVvNWRBdl9rUW9laUV6cXJhd1VpTXFoc0cyODRxUWVGVDk5d1BhQ3RlUWl6RlllR0RJV0VrUVlYX3N3clBqWFAybktOa2YwaXp1ZldRSS13TnU3NXJPMHY0Sm5Qc204NnJfcDA1dGpxRWxPMTF5ZXE2TnVkQ00yT1dn?oc=5",
-      "published": "Thu, 10 Sep 2026 01:11:19 GMT"
     },
     {
       "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
@@ -114,7 +109,7 @@
       "published": "Thu, 10 Sep 2026 03:55:44 GMT"
     },
     {
-      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - Reuters",
+      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20?oc=5",
       "published": "Thu, 10 Sep 2026 08:45:45 GMT"
     },
@@ -127,7 +122,12 @@
       "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+    },
+    {
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
+      "published": "Wed, 09 Sep 2026 23:43:11 GMT"
     }
   ],
-  "last_updated": "2026-09-10 10:52 UTC"
+  "last_updated": "2026-09-10 11:06 UTC"
 }
