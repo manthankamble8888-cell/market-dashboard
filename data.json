@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23423.7,
-    "change": -7.8,
-    "pct": -0.03
+    "price": 23444.3,
+    "change": 12.8,
+    "pct": 0.05
   },
   "Bank Nifty": {
-    "price": 56454.1,
-    "change": 158.55,
-    "pct": 0.28
+    "price": 56483.15,
+    "change": 187.6,
+    "pct": 0.33
   },
   "Sensex": {
-    "price": 74780.59,
-    "change": 16.37,
-    "pct": 0.02
+    "price": 74750.54,
+    "change": -13.69,
+    "pct": -0.02
   },
   "India VIX": {
-    "price": 11.78,
-    "change": -0.14,
-    "pct": -1.13
+    "price": 11.75,
+    "change": -0.17,
+    "pct": -1.43
   },
   "Nifty IT": {
-    "price": 28851.6,
-    "change": -62.4,
-    "pct": -0.22
+    "price": 28867.45,
+    "change": -46.55,
+    "pct": -0.16
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,39 +43,39 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 64972.95,
-    "change": -169.83,
-    "pct": -0.26
+    "price": 65106.03,
+    "change": -36.75,
+    "pct": -0.06
   },
   "Hang Seng": {
-    "price": 24929.88,
-    "change": -345.08,
-    "pct": -1.37
+    "price": 24903.17,
+    "change": -371.79,
+    "pct": -1.47
   },
   "Crude Oil (Brent)": {
-    "price": 100.48,
-    "change": -0.73,
-    "pct": -0.72
+    "price": 100.46,
+    "change": -0.75,
+    "pct": -0.74
   },
   "Crude Oil (WTI)": {
-    "price": 95.59,
-    "change": -0.46,
-    "pct": -0.48
+    "price": 95.57,
+    "change": -0.48,
+    "pct": -0.5
   },
   "Gold": {
-    "price": 4472.6,
-    "change": 56.6,
-    "pct": 1.28
+    "price": 4456.4,
+    "change": 40.4,
+    "pct": 0.91
   },
   "Silver": {
-    "price": 68.47,
-    "change": 0.53,
-    "pct": 0.78
+    "price": 68.26,
+    "change": 0.32,
+    "pct": 0.48
   },
   "USD/INR": {
-    "price": 95.2,
-    "change": 0.38,
-    "pct": 0.4
+    "price": 95.25,
+    "change": 0.42,
+    "pct": 0.45
   },
   "Dollar Index": {
     "price": 98.74,
@@ -129,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 05:22:01 GMT"
     }
   ],
-  "last_updated": "2026-09-10 06:08 UTC"
+  "last_updated": "2026-09-10 06:31 UTC"
 }
