@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.9,
-    "change": 7.69,
-    "pct": 7.6
+    "price": 108.92,
+    "change": 7.71,
+    "pct": 7.62
   },
   "Crude Oil (WTI)": {
-    "price": 103.78,
-    "change": 7.73,
-    "pct": 8.05
+    "price": 103.86,
+    "change": 7.81,
+    "pct": 8.13
   },
   "Gold": {
-    "price": 4358.6,
-    "change": -57.4,
+    "price": 4358.7,
+    "change": -57.3,
     "pct": -1.3
   },
   "Silver": {
-    "price": 64.04,
-    "change": -3.9,
-    "pct": -5.74
+    "price": 64.06,
+    "change": -3.89,
+    "pct": -5.72
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,9 +73,14 @@
   },
   "news": [
     {
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
+      "published": "Tue, 08 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Wed, 09 Sep 2026 00:25:18 GMT"
+      "published": "Wed, 09 Sep 2026 23:57:44 GMT"
     },
     {
       "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
@@ -106,12 +111,7 @@
       "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUY1SlZyRTdKUlF6MFZyNVA0VmlKUE9MbG1GNDNKTFdHRi1sRlZTbWhLMk5DbjN2U24xYzNjVy03NXNhNGdiRWRULWdWT09YTzNaMGVkWHZaaHJEMjVaLTlja0NWX0x3dVVOeUxUUUtJeGpyUGRZRHVROVdLalRQVHFxZ3R3YTFWYjYwRTRXd2dsYmtDNHRoYTFxeFRzdk9ILUR3bUZVaw?oc=5",
       "published": "Thu, 10 Sep 2026 10:35:13 GMT"
-    },
-    {
-      "title": "Dabur India Share Price Today (DABUR) | Live Chart, News & Stock Market - TechGraph",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ucHpEc1BjZjVtb0tscTJkVy1RQjZaRTBaV1dYS2pWT2FXVkNlaVFQaHhsWUlQMzFrOUhrQzMtNFpMdVdpc0RqaWZXMnIyeXFaVlIwS1Ewcy1qSWNLMWc?oc=5",
-      "published": "Thu, 10 Sep 2026 16:22:03 GMT"
     }
   ],
-  "last_updated": "2026-09-10 23:21 UTC"
+  "last_updated": "2026-09-10 23:34 UTC"
 }
