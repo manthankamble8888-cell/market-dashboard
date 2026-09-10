@@ -53,24 +53,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 104.04,
-    "change": 2.83,
-    "pct": 2.8
+    "price": 105.49,
+    "change": 4.28,
+    "pct": 4.23
   },
   "Crude Oil (WTI)": {
-    "price": 98.99,
-    "change": 2.94,
-    "pct": 3.06
+    "price": 100.54,
+    "change": 4.49,
+    "pct": 4.67
   },
   "Gold": {
-    "price": 4413.9,
-    "change": -2.1,
-    "pct": -0.05
+    "price": 4380.5,
+    "change": -35.5,
+    "pct": -0.8
   },
   "Silver": {
-    "price": 65.99,
-    "change": -1.95,
-    "pct": -2.87
+    "price": 64.69,
+    "change": -3.25,
+    "pct": -4.79
   },
   "USD/INR": {
     "price": 95.43,
@@ -78,12 +78,14 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 99.01,
-    "change": 0.24,
-    "pct": 0.25
+    "price": 99.14,
+    "change": 0.37,
+    "pct": 0.37
   },
   "US 10Y Yield": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4.9,
+    "change": 0.07,
+    "pct": 1.39
   },
   "news": [
     {
@@ -97,7 +99,7 @@
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
     {
-      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - equitymaster.com",
+      "title": "Sensex Today Ends 138 Points Higher | Nifty Above 23,450 | Ola Electric Mobility Up 5% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORFYyQ3QxTHhpSGRHX3ZvRUVuLWFZVllDa2F4VllSUkhIRncxQnlVWFhSdGR1Q1NCdUlNM1Z2V1BOLXFqdVdHNktkVF83bnZOS3FzZy1BM3JmbFpobkFzQzBEejJ4WFVQRnpteFVRTWZsOHl2WlJ1dHRXcm9jZXd2NEptWi1hR2RoTU9xcEkzMkVnVmJ5ZThKd2JGTERNZkZrMDA5QlVLWmhnM1hzM0t4VWVfd296VzhoTHpjdUl1M1lLeE9lZ3pUanhCaEdtV0NBQ041bnNaLTM1QQ?oc=5",
       "published": "Thu, 10 Sep 2026 10:37:10 GMT"
     },
@@ -112,14 +114,14 @@
       "published": "Thu, 10 Sep 2026 01:11:19 GMT"
     },
     {
+      "title": "Sensex, Nifty break three-day slump, but West Asia and Brent crude keep stock market on short leash - theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzlYOEFlNEVfZUJ6dm5tZG5naWd6SFkzQnpKeVNVSmpuWjdnR284akJfVGZrZWRmbktwTnJ1WmlNR0ZOSlVmeHBOT3UwQjREWi04SVlRNEtDRlJWbjlDUzAwazFKb3VKeGhkSjY2d0lWTnJTMmpmbkJNQi0wRDhRTGpzTjA3SEpac2YwSk9rOTYzS2tr0gGaAUFVX3lxTE43MkRWa2FERExoZG0ybkM1d0dlQXRCN0k3MW4xZGpfMWhIYXhWRFFtM3pTaHFRZlRnTHB6djNWd004cW9JeHhDOHlpLWllbGsyWlpGODZwa3htWnd2MENCNmhFWUpOMEZOb1RhUzBXU2lGdldOczF1M0RvQVZyVkYwMFVscVFlMEQ1enRfSGd5WFQ1YVFpRzQ4alE?oc=5",
+      "published": "Thu, 10 Sep 2026 11:32:46 GMT"
+    },
+    {
       "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20?oc=5",
       "published": "Thu, 10 Sep 2026 08:45:45 GMT"
-    },
-    {
-      "title": "Sensex, Nifty break three-day slump, but West Asia and Brent crude keep stock market on short leash - theweek.in",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZzlYOEFlNEVfZUJ6dm5tZG5naWd6SFkzQnpKeVNVSmpuWjdnR284akJfVGZrZWRmbktwTnJ1WmlNR0ZOSlVmeHBOT3UwQjREWi04SVlRNEtDRlJWbjlDUzAwazFKb3VKeGhkSjY2d0lWTnJTMmpmbkJNQi0wRDhRTGpzTjA3SEpac2YwSk9rOTYzS2tr?oc=5",
-      "published": "Thu, 10 Sep 2026 11:32:46 GMT"
     },
     {
       "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
@@ -127,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 03:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-10 12:31 UTC"
+  "last_updated": "2026-09-10 12:54 UTC"
 }
