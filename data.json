@@ -1,26 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23437.0,
-    "change": 5.5,
-    "pct": 0.02
+    "price": 23429.85,
+    "change": -1.65,
+    "pct": -0.01
   },
   "Bank Nifty": {
-    "price": 56445.5,
-    "change": 149.95,
-    "pct": 0.27
+    "price": 56470.8,
+    "change": 175.25,
+    "pct": 0.31
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 74821.79,
+    "change": 57.56,
+    "pct": 0.08
   },
   "India VIX": {
-    "price": 11.7,
-    "change": -0.22,
-    "pct": -1.87
+    "price": 11.74,
+    "change": -0.18,
+    "pct": -1.47
   },
   "Nifty IT": {
-    "price": 28888.35,
-    "change": -25.65,
-    "pct": -0.09
+    "price": 29165.15,
+    "change": 251.15,
+    "pct": 0.87
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -41,44 +43,34 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 64705.29,
-    "change": -437.49,
-    "pct": -0.67
+    "price": 64724.43,
+    "change": -418.35,
+    "pct": -0.64
   },
   "Hang Seng": {
-    "price": 24921.19,
-    "change": -353.77,
-    "pct": -1.4
+    "price": 24930.4,
+    "change": -344.56,
+    "pct": -1.36
   },
   "Crude Oil (Brent)": {
-    "price": 101.04,
-    "change": 3.12,
-    "pct": 3.19
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 96.16,
-    "change": 3.13,
-    "pct": 3.36
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4450.8,
-    "change": 56.9,
-    "pct": 1.29
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 67.97,
-    "change": 1.68,
-    "pct": 2.53
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.3,
-    "change": 0.48,
-    "pct": 0.5
+    "price": 95.26,
+    "change": 0.44,
+    "pct": 0.47
   },
   "Dollar Index": {
-    "price": 98.75,
-    "change": -0.09,
-    "pct": -0.09
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -92,7 +84,7 @@
       "published": "Wed, 09 Sep 2026 23:43:11 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSTNuMlZtVjh6ZG8zY05JOUFySy1WVllXbFpIZ3VuWktoelpBNlVTRlBVSDNWSGwzOEw2MmZtMF8xMUcwc01QYWphNmdkRjNZVWtiZWY1eWRLcmpncmVLZmJOUmZCRUNGNWhXOHlyT3lES2Z6RVExSTJkZ3lyTm5MUHJrdUVwWEVlYk1kVVM3SFlXa21IRm9NTUdQc1dEaWxWdWhpckRQbGR3NnpCWm5NRHh2Qk9mbFNZVzJHc3NlNFd6RUhIaTJGY3lCV2dPWG1QcUxERmkyNC1WUC14Y1hpUENKZzd1U2h2bFhGUmJpSdIB9AFBVV95cUxQUTNKcVBENktsaFZWY0g2SkR2bEEwOWFTMVZ0RDBDemYxbUtnUUtBX3QtRnRVY2tlZTVCamNnX1Z4NWhGcnFaeHBIbTV2b2NyT0tPRlZlZUdPby00aXlOV3FTcEtiS0tJSkcyQ1ZjUzFWemhJYlY5LXg3di1IejloUzNOZU1xelFCUi1iNzBWUVZQdGhhZFhHbWhkbVNaeFFadjltazFOWWtpRWRtS0FKcU1ydnp2aGxpck5LMDMtNkRXY0FDb2hkZDFoWjZjY25nQWdGdTdOcy1YYUtDM1E1MF9hVUFBUUZycUt3a0VtODdNNGJS?oc=5",
       "published": "Thu, 10 Sep 2026 01:54:21 GMT"
     },
@@ -102,8 +94,13 @@
       "published": "Thu, 10 Sep 2026 01:11:19 GMT"
     },
     {
-      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSjNqbGxaLS0tYlJfdFhNRE9sTnBDWTAwVnNjNVhwYmhUR3lDMGVaWTdFOFZaNzZBeVoyWk1FV2k1VlA5RWU1T0E4anJYR2dSalExeVJwenM1alVlV2FuYU1pZnRrcW1XRkI0Y1ctaldFZTdEUkJRSmY4UjBQZ1NEZFMxbkE0TFowOU9fS3FPT3J4aXBQRWVqZGhrazZBTTVtZVJUWlFoOEViZ3Bzcm1PRGFaLTBKMTBuUTFRdDhBSGZKQzVjWlJPc0Rndm12Z3htS0RHcF9fcDVIUUNaUDBKZ19fdy0xMmpHWWhzbzIzeUE1amhyZEFSUU5wajZUbE8tc2psLUNZMDF4cThGeTdma2hTdw?oc=5",
+      "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUY1SlZyRTdKUlF6MFZyNVA0VmlKUE9MbG1GNDNKTFdHRi1sRlZTbWhLMk5DbjN2U24xYzNjVy03NXNhNGdiRWRULWdWT09YTzNaMGVkWHZaaHJEMjVaLTlja0NWX0x3dVVOeUxUUUtJeGpyUGRZRHVROVdLalRQVHFxZ3R3YTFWYjYwRTRXd2dsYmtDNHRoYTFxeFRzdk9ILUR3bUZVaw?oc=5",
+      "published": "Thu, 10 Sep 2026 03:55:44 GMT"
+    },
+    {
+      "title": "Bajaj Finance Acquires 5% Stake in TrueFan AI | Suzlon Energy Strengthens Renewable Energy Order Book | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQcE9JYzZCc0IzeVd6eUgzY2RHdFpsTmZfNmthNXVER3ZLdGMwVkJRelpzeEU5NFdxUHNiZGk1SGk3VXhwVnFLOXF0UzNTcGoxVlZtd2hiT0xwY0l2Mi0tT1p6T0NqMVRST2xTYlN0NTJNOWxWMUplVnJ1WFpJODVfbVRVaHJQd1Z2Q2hFcGNFUy0teXFtZG5wVnBMSy1EVHBXak1Yc1pKTFlzOHhhM282RURueVN1bW9LaU9CNjdiZGx6eFp5YmdobjdGT1Awa1VfWTFFdDVfel9EOEMzcC0tYWcxb0M4SVBWYVRTN2xMWnVvUVJNVVRRWkF0d2ZueXJ5SFpPdWhJZEFhalB0RmZGMkUtaw?oc=5",
       "published": "Thu, 10 Sep 2026 00:30:00 GMT"
     },
     {
@@ -120,12 +117,7 @@
       "title": "Indian shares to open muted as Mideast conflict keeps oil above $100 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
       "published": "Thu, 10 Sep 2026 02:20:00 GMT"
-    },
-    {
-      "title": "Why Foreign Investors Still Aren\u2019t Buying Indian Stocks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjhlU01HMjVza0pjRnhUczcyRHV5RWhwYzNrY3BfNGhQTm5yLU9XTzQyRnpLQ0dHTjg2b3pfNHpmM2M3bTNYOE9FVmdWOTVTeUJyWjdEVURDT3NLWlhLU3p3Z1dZdkxaVGhTYi1CZl9VaEpINGthbXBRUTVpUXlWUldiY1c5SVVSU05LTjBsa1ROb2tTbmJqMWhMOWtSRVg1RFdlU185eXNUZlBQZ3c?oc=5",
-      "published": "Wed, 09 Sep 2026 12:46:35 GMT"
     }
   ],
-  "last_updated": "2026-09-10 03:52 UTC"
+  "last_updated": "2026-09-10 04:06 UTC"
 }
