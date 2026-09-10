@@ -53,24 +53,24 @@
     "pct": -1.27
   },
   "Crude Oil (Brent)": {
-    "price": 105.49,
-    "change": 4.28,
-    "pct": 4.23
+    "price": 105.15,
+    "change": 3.94,
+    "pct": 3.89
   },
   "Crude Oil (WTI)": {
-    "price": 100.54,
-    "change": 4.49,
-    "pct": 4.67
+    "price": 100.27,
+    "change": 4.22,
+    "pct": 4.39
   },
   "Gold": {
-    "price": 4380.5,
-    "change": -35.5,
-    "pct": -0.8
+    "price": 4379.8,
+    "change": -36.2,
+    "pct": -0.82
   },
   "Silver": {
-    "price": 64.69,
-    "change": -3.25,
-    "pct": -4.79
+    "price": 64.56,
+    "change": -3.38,
+    "pct": -4.98
   },
   "USD/INR": {
     "price": 95.43,
@@ -78,9 +78,9 @@
     "pct": 0.64
   },
   "Dollar Index": {
-    "price": 99.14,
-    "change": 0.37,
-    "pct": 0.37
+    "price": 99.12,
+    "change": 0.35,
+    "pct": 0.35
   },
   "US 10Y Yield": {
     "price": 4.9,
@@ -119,9 +119,9 @@
       "published": "Thu, 10 Sep 2026 11:32:46 GMT"
     },
     {
-      "title": "India's equity fund inflows rise nearly a fifth in August; monthly savings plan contributions hit a record - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMFd2cmN4RXVNQzhuX3RreE45dWxtQUhnSDRrUHN6bzZpWE9rQ0tnVXUzQmgwekRnY1o0ZVdjcFpFdkFEUVBXcEJoV093WDI4cE5MTnVfZHhfNVZlOFZySkVSU29acE5JZ3EyTEk2a0owLURRX0V2MmFXNkR2TGtvbVJvTUlVbFdUNzhEN2hXbTdoR0k0aW1Lei13QUt2X00xbDBseGpvaGswaXgtcDdNSGFBbzlQSHd4eVA5QlZ4V20?oc=5",
-      "published": "Thu, 10 Sep 2026 08:45:45 GMT"
+      "title": "Indian shares swing to gains after volatile closing auction; Mideast cloud lingers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
+      "published": "Thu, 10 Sep 2026 02:20:00 GMT"
     },
     {
       "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
@@ -129,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 03:55:44 GMT"
     }
   ],
-  "last_updated": "2026-09-10 12:54 UTC"
+  "last_updated": "2026-09-10 13:06 UTC"
 }
