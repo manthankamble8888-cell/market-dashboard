@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23445.35,
-    "change": 13.85,
-    "pct": 0.06
+    "price": 23439.55,
+    "change": 8.05,
+    "pct": 0.03
   },
   "Bank Nifty": {
-    "price": 56421.8,
-    "change": 126.25,
-    "pct": 0.22
+    "price": 56398.45,
+    "change": 102.9,
+    "pct": 0.18
   },
   "Sensex": {
-    "price": 74830.12,
-    "change": 65.89,
+    "price": 74829.0,
+    "change": 64.77,
     "pct": 0.09
   },
   "India VIX": {
-    "price": 11.75,
-    "change": -0.17,
-    "pct": -1.45
+    "price": 11.81,
+    "change": -0.11,
+    "pct": -0.92
   },
   "Nifty IT": {
-    "price": 28848.1,
-    "change": -65.9,
-    "pct": -0.23
+    "price": 28795.7,
+    "change": -118.3,
+    "pct": -0.41
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": 0.2
   },
   "Hang Seng": {
-    "price": 24974.31,
-    "change": -300.65,
-    "pct": -1.19
+    "price": 24947.29,
+    "change": -327.67,
+    "pct": -1.3
   },
   "Crude Oil (Brent)": {
-    "price": 100.84,
-    "change": -0.37,
-    "pct": -0.37
+    "price": 101.31,
+    "change": 0.1,
+    "pct": 0.1
   },
   "Crude Oil (WTI)": {
-    "price": 95.88,
-    "change": -0.17,
-    "pct": -0.18
+    "price": 96.23,
+    "change": 0.18,
+    "pct": 0.19
   },
   "Gold": {
-    "price": 4457.2,
-    "change": 41.2,
-    "pct": 0.93
+    "price": 4452.7,
+    "change": 36.7,
+    "pct": 0.83
   },
   "Silver": {
-    "price": 67.95,
-    "change": 0.01,
-    "pct": 0.01
+    "price": 67.88,
+    "change": -0.07,
+    "pct": -0.1
   },
   "USD/INR": {
-    "price": 95.28,
-    "change": 0.46,
-    "pct": 0.48
+    "price": 95.36,
+    "change": 0.54,
+    "pct": 0.57
   },
   "Dollar Index": {
-    "price": 98.75,
-    "change": -0.02,
-    "pct": -0.02
+    "price": 98.73,
+    "change": -0.04,
+    "pct": -0.04
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -91,7 +91,7 @@
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Wed, 09 Sep 2026 23:57:44 GMT"
+      "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy - Livemint",
@@ -109,7 +109,7 @@
       "published": "Thu, 10 Sep 2026 04:40:54 GMT"
     },
     {
-      "title": "Indian shares muted as Mideast conflict keeps oil above $100 - reuters.com",
+      "title": "Indian shares muted as Mideast conflict keeps oil above $100 - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOREJVc1NJZXJ1VFBrdmpqalRvS0Fwd3FrSGtEOVd5Z1ZxWjh3Sld5UmtKVlZHOHNUeVZUQlRaVjEyZEtEa0hLMVpGeUFVM2l6R1dIR0YzbXBDU1RWQ1RzNVB5Ry1XMjdwdEtnQVJBT0lSMzNvSGdIUHIzMjBCS1lEZXYwODN2bDBBbUtMREJpMkVQQmlyNlloLTBlSWMzVnBaSjZvWTRwTTgxODRkWlE?oc=5",
       "published": "Thu, 10 Sep 2026 02:20:00 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Thu, 10 Sep 2026 05:22:01 GMT"
     }
   ],
-  "last_updated": "2026-09-10 07:26 UTC"
+  "last_updated": "2026-09-10 07:40 UTC"
 }
