@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 101.29,
-    "change": 3.37,
-    "pct": 3.44
+    "price": 101.37,
+    "change": 3.45,
+    "pct": 3.52
   },
   "Crude Oil (WTI)": {
-    "price": 96.53,
-    "change": 3.5,
-    "pct": 3.76
+    "price": 96.63,
+    "change": 3.6,
+    "pct": 3.87
   },
   "Gold": {
-    "price": 4446.3,
-    "change": 52.4,
-    "pct": 1.19
+    "price": 4457.4,
+    "change": 63.5,
+    "pct": 1.45
   },
   "Silver": {
-    "price": 67.92,
-    "change": 1.62,
-    "pct": 2.44
+    "price": 68.18,
+    "change": 1.88,
+    "pct": 2.83
   },
   "USD/INR": {
     "price": 95.1,
@@ -64,9 +64,9 @@
     "pct": 0.29
   },
   "Dollar Index": {
-    "price": 98.8,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 98.78,
+    "change": -0.06,
+    "pct": -0.06
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -80,7 +80,7 @@
       "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
@@ -105,15 +105,15 @@
       "published": "Wed, 09 Sep 2026 11:13:19 GMT"
     },
     {
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
+      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+    },
+    {
       "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOXzRINjdlbzNBSHZsdU5oYWE0MzZSV1ZyckxoT2dqTkRtX3lJbTFTZXVuY2prSy1pZHd5UnNzQkd1cDlHX3JOYVA2a1V0NEFjYll3eVRNVmVfYmFNa01QWXJLQWxoSEpsNXllTnRzbHdUUTRyMXhhVThRcUFRQWRZQWk2UmxmU2pqcmNCbEk2UlN6Nm5EdFNiVnN6Rjhjd3NUU3RQV1h4T0syQmdjZWxLLXEtY1pxVXRLdERfRW5uMEhVUzVMdHphRjJpUllxUl9JaklnQXFjbngyZEFQTW8zNdIB5gFBVV95cUxOdHhncG9BOG1pTWt5V3FhLUF4UHZOVElKVEl0YUtKZ1Rxa1FJZlhFTU9nMjVubGhraXdwTE1oeXMyNHRWVkxCWTcxdHNQZVMwV3oxWGR4M0ZLY1FpSE5IaGdQbmc2SlVtUmxxYlRJQmRMNGIxRllPTGRZamQyazJKYVJOSWc3VmFoTm5KUE5fOFNULW52MHNIbTZ3YzBWRlpjZ0k0MXBjb0s5bk1QZlRLQ1FLVnR0VU9FZHFXb21TY2htSTlVM2k3SXkxaGNjR2docXVmdER3aDkzNEFRcTJkdlc1NVVaZw?oc=5",
       "published": "Mon, 07 Sep 2026 08:24:53 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.86% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXptcXAwV0J6QUU2cllzVk50ZV9fcDJrR0dpNjBzalBqcnVIQTlCM2RxTzVxVU1ILXljems5Tzl6WWE5S0UxMktsSmZvT1NmYXFFRUNObEIwdDBBRFA4QUdPN2szaVh0WUxuSHJINVQ2YWZscW1MQ08xQnJJby13M3RWUHNneFFCajY3dGE4M3FXdFlqRThGMTh3Q2JyUzdFODlwYm5SMjBmMEdiQTdLZA?oc=5",
-      "published": "Wed, 09 Sep 2026 10:54:09 GMT"
     }
   ],
-  "last_updated": "2026-09-10 01:06 UTC"
+  "last_updated": "2026-09-10 01:24 UTC"
 }
