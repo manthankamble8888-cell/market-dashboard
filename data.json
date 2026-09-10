@@ -39,32 +39,32 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 101.32,
-    "change": 3.4,
-    "pct": 3.47
+    "price": 101.3,
+    "change": 3.38,
+    "pct": 3.45
   },
   "Crude Oil (WTI)": {
-    "price": 96.61,
-    "change": 3.58,
-    "pct": 3.85
+    "price": 96.59,
+    "change": 3.56,
+    "pct": 3.83
   },
   "Gold": {
-    "price": 4440.6,
-    "change": 46.7,
-    "pct": 1.06
+    "price": 4441.5,
+    "change": 47.6,
+    "pct": 1.08
   },
   "Silver": {
-    "price": 67.92,
-    "change": 1.62,
-    "pct": 2.45
+    "price": 67.89,
+    "change": 1.59,
+    "pct": 2.4
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 98.78,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 98.81,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
     "price": 4.84,
@@ -73,19 +73,19 @@
   },
   "news": [
     {
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
+      "published": "Wed, 09 Sep 2026 05:04:23 GMT"
+    },
+    {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Wed, 09 Sep 2026 00:25:18 GMT"
     },
     {
-      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
-      "published": "Wed, 09 Sep 2026 05:04:23 GMT"
-    },
-    {
-      "title": "Why the Indian Stock Market is Falling - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmVBakU5RVpjTWstTko5UWVWOHZjUHp3TGpKclgtTlhGVVVBNU1yODVYWFcySHpnbVI5MkpKbkE4aTYzbnNkVzRjaWZRM3gxdEY3b1RPVXd1QkVpOU1IcUF2MWlNdVFVTmR6NWJZRTU3SEd1anI3ZUhaQlVYcTZDa2h3TXBsX2R4a1hFQ2RIemp3SVc1NWM3d0tYaFlSV3B2QlR2SjhObTN3M1Bk?oc=5",
-      "published": "Wed, 09 Sep 2026 11:04:08 GMT"
+      "title": "Indian Stock Market News, Equity Market and Sensex Today in India - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOSjNqbGxaLS0tYlJfdFhNRE9sTnBDWTAwVnNjNVhwYmhUR3lDMGVaWTdFOFZaNzZBeVoyWk1FV2k1VlA5RWU1T0E4anJYR2dSalExeVJwenM1alVlV2FuYU1pZnRrcW1XRkI0Y1ctaldFZTdEUkJRSmY4UjBQZ1NEZFMxbkE0TFowOU9fS3FPT3J4aXBQRWVqZGhrazZBTTVtZVJUWlFoOEViZ3Bzcm1PRGFaLTBKMTBuUTFRdDhBSGZKQzVjWlJPc0Rndm12Z3htS0RHcF9fcDVIUUNaUDBKZ19fdy0xMmpHWWhzbzIzeUE1amhyZEFSUU5wajZUbE8tc2psLUNZMDF4cThGeTdma2hTdw?oc=5",
+      "published": "Thu, 10 Sep 2026 00:30:00 GMT"
     },
     {
       "title": "India\u2019s $5.2 Trillion Stock Market Has a Message for Wall Street: The Catch-Up Has Begun - Substack",
@@ -93,9 +93,9 @@
       "published": "Wed, 09 Sep 2026 13:06:32 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
-      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+      "title": "Market turbulence is here to stay, may deepen - indianexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalNrQWJJRmtodTdJTTZUYTc0RDdHaFNnaWZDc1Z6TVUzdUp0Y3AxSHhvMHB0aE1rXzNLUWJhXzZaaUY5TlMyUlZQZ3FJV2xTaEt3ZGtMcXhXOWdDZGFRM0JKTkVfLWZLZmhHMjR0aFJMd0N3anBfOFN4dXpHZ1dic044dFFuZ1IyaTExOV9uelduOXZmZUZGbVNrbm9Kc0xpSlFscFdIVG5xRGJ6WENWNFNn0gG4AUFVX3lxTE5RdUwzV0NLRGpNbThtTlkwdHdlaFFWOTVSZGs2dDBCZ2IxZlRGU2NMOWQ2Ri0wQVBwUnlISS1rdUg4LVVoOTVHUk5uTUZhcktlVnN6dWhJY3lfQ0t0MjV6RUYxR1p3LXdUQ1VtdlN0YWZyMXVEZS00S3MwZTRGeDZudXZTV1JTRXd6NWF6cE0xdlJTeWJMSlFhYW5kOFhFMllnamJkX3I0a2dRR2F4MW55R2xUUW5nNWk?oc=5",
+      "published": "Thu, 10 Sep 2026 00:30:15 GMT"
     },
     {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 09, 2026 - Liquide Blog",
@@ -103,9 +103,9 @@
       "published": "Wed, 09 Sep 2026 11:13:19 GMT"
     },
     {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.86% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXptcXAwV0J6QUU2cllzVk50ZV9fcDJrR0dpNjBzalBqcnVIQTlCM2RxTzVxVU1ILXljems5Tzl6WWE5S0UxMktsSmZvT1NmYXFFRUNObEIwdDBBRFA4QUdPN2szaVh0WUxuSHJINVQ2YWZscW1MQ08xQnJJby13M3RWUHNneFFCajY3dGE4M3FXdFlqRThGMTh3Q2JyUzdFODlwYm5SMjBmMEdiQTdLZA?oc=5",
-      "published": "Wed, 09 Sep 2026 10:54:09 GMT"
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
+      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
     {
       "title": "Sensex drops 500 points: Why is stock market down today? - India Today",
@@ -113,5 +113,5 @@
       "published": "Mon, 07 Sep 2026 08:24:53 GMT"
     }
   ],
-  "last_updated": "2026-09-10 00:31 UTC"
+  "last_updated": "2026-09-10 00:53 UTC"
 }
