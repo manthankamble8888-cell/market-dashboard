@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.86,
-    "change": 7.65,
-    "pct": 7.56
+    "price": 108.95,
+    "change": 7.74,
+    "pct": 7.65
   },
   "Crude Oil (WTI)": {
-    "price": 103.85,
-    "change": 7.8,
-    "pct": 8.12
+    "price": 103.93,
+    "change": 7.88,
+    "pct": 8.2
   },
   "Gold": {
-    "price": 4360.1,
-    "change": -55.9,
-    "pct": -1.27
+    "price": 4358.5,
+    "change": -57.5,
+    "pct": -1.3
   },
   "Silver": {
-    "price": 64.14,
-    "change": -3.81,
-    "pct": -5.6
+    "price": 64.09,
+    "change": -3.85,
+    "pct": -5.67
   },
   "USD/INR": {
     "price": 95.44,
@@ -64,9 +64,9 @@
     "pct": 0.65
   },
   "Dollar Index": {
-    "price": 99.09,
-    "change": 0.32,
-    "pct": 0.32
+    "price": 99.08,
+    "change": 0.31,
+    "pct": 0.31
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -100,7 +100,7 @@
       "published": "Thu, 10 Sep 2026 13:27:47 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
+      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Thu, 10 Sep 2026 11:32:46 GMT"
     }
   ],
-  "last_updated": "2026-09-10 21:05 UTC"
+  "last_updated": "2026-09-10 21:22 UTC"
 }
