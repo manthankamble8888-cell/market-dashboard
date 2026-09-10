@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 109.23,
-    "change": 8.02,
-    "pct": 7.92
+    "price": 109.07,
+    "change": 7.86,
+    "pct": 7.77
   },
   "Crude Oil (WTI)": {
-    "price": 103.99,
-    "change": 7.94,
-    "pct": 8.27
+    "price": 103.95,
+    "change": 7.9,
+    "pct": 8.22
   },
   "Gold": {
-    "price": 4363.2,
-    "change": -52.8,
-    "pct": -1.2
+    "price": 4360.2,
+    "change": -55.8,
+    "pct": -1.26
   },
   "Silver": {
     "price": 64.1,
-    "change": -3.84,
-    "pct": -5.65
+    "change": -3.85,
+    "pct": -5.66
   },
   "USD/INR": {
     "price": 95.44,
@@ -75,7 +75,7 @@
   },
   "news": [
     {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE India",
+      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
       "published": "Tue, 08 Sep 2026 07:00:00 GMT"
     },
@@ -110,10 +110,10 @@
       "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     },
     {
-      "title": "Indian Stocks Open Higher as Oil Holds Above $100 - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTUY1SlZyRTdKUlF6MFZyNVA0VmlKUE9MbG1GNDNKTFdHRi1sRlZTbWhLMk5DbjN2U24xYzNjVy03NXNhNGdiRWRULWdWT09YTzNaMGVkWHZaaHJEMjVaLTlja0NWX0x3dVVOeUxUUUtJeGpyUGRZRHVROVdLalRQVHFxZ3R3YTFWYjYwRTRXd2dsYmtDNHRoYTFxeFRzdk9ILUR3bUZVaw?oc=5",
-      "published": "Thu, 10 Sep 2026 10:35:13 GMT"
+      "title": "Dabur India Share Price Today (DABUR) | Live Chart, News & Stock Market - TechGraph",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ucHpEc1BjZjVtb0tscTJkVy1RQjZaRTBaV1dYS2pWT2FXVkNlaVFQaHhsWUlQMzFrOUhrQzMtNFpMdVdpc0RqaWZXMnIyeXFaVlIwS1Ewcy1qSWNLMWc?oc=5",
+      "published": "Thu, 10 Sep 2026 16:22:03 GMT"
     }
   ],
-  "last_updated": "2026-09-10 22:22 UTC"
+  "last_updated": "2026-09-10 22:36 UTC"
 }
