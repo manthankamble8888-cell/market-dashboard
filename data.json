@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.92,
-    "change": 7.71,
-    "pct": 7.62
+    "price": 109.08,
+    "change": 7.87,
+    "pct": 7.78
   },
   "Crude Oil (WTI)": {
-    "price": 103.86,
-    "change": 7.81,
-    "pct": 8.13
+    "price": 103.94,
+    "change": 7.89,
+    "pct": 8.21
   },
   "Gold": {
-    "price": 4358.7,
-    "change": -57.3,
-    "pct": -1.3
+    "price": 4356.6,
+    "change": -59.4,
+    "pct": -1.35
   },
   "Silver": {
-    "price": 64.06,
-    "change": -3.89,
-    "pct": -5.72
+    "price": 63.99,
+    "change": -3.95,
+    "pct": -5.81
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -113,5 +113,5 @@
       "published": "Thu, 10 Sep 2026 10:35:13 GMT"
     }
   ],
-  "last_updated": "2026-09-10 23:34 UTC"
+  "last_updated": "2026-09-10 23:48 UTC"
 }
