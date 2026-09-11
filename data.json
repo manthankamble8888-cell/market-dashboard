@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52549.29,
-    "change": 485.19,
-    "pct": 0.93
+    "price": 52626.98,
+    "change": 562.88,
+    "pct": 1.08
   },
   "Nasdaq": {
-    "price": 26357.39,
-    "change": 275.67,
-    "pct": 1.06
+    "price": 26364.97,
+    "change": 283.25,
+    "pct": 1.09
   },
   "S&P 500": {
-    "price": 7664.57,
-    "change": 72.87,
-    "pct": 0.96
+    "price": 7665.64,
+    "change": 73.94,
+    "pct": 0.97
   },
   "Nikkei 225": {
     "price": 64011.34,
@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.33,
-    "change": -3.3,
-    "pct": -3.07
+    "price": 104.45,
+    "change": -3.18,
+    "pct": -2.95
   },
   "Crude Oil (WTI)": {
-    "price": 98.92,
-    "change": -3.56,
-    "pct": -3.47
+    "price": 99.04,
+    "change": -3.44,
+    "pct": -3.36
   },
   "Gold": {
-    "price": 4435.0,
-    "change": 70.5,
-    "pct": 1.62
+    "price": 4432.1,
+    "change": 67.6,
+    "pct": 1.55
   },
   "Silver": {
-    "price": 65.55,
-    "change": 1.27,
-    "pct": 1.97
+    "price": 65.48,
+    "change": 1.2,
+    "pct": 1.86
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,18 +78,18 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.05,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 99.02,
+    "change": -0.07,
+    "pct": -0.07
   },
   "US 10Y Yield": {
-    "price": 4.92,
+    "price": 4.93,
     "change": -0.02,
-    "pct": -0.49
+    "pct": -0.36
   },
   "news": [
     {
-      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - rediff.com",
+      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - Rediff",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhRbUQtM0NwemVXdWJROGlYNjRtSFFuaFNiWFZEZFYzby03LXZMOFlJZTY5VHhWLXpObjBZUmpWZ0wxamNXR28yejhKOXdpT2lTMmpRSEkwUmJ4QnRsVmhxc3lfZUxFZ29ZZVJhcWZTVTcxc2I2NmxjbVNQUFFTRzFfU2daYjdFVEtncllpcU9yRXBxOWFoTVpvUnhmY0ZnbUFIbFpVR0oyZDVLZGxQTUo0T3JkdWhWQlc5U01JNDQ3cUJpLWhsbXZTb041UdIB0AFBVV95cUxNSHA2Q0dYcVNyNVk0eHI1TnlnSTJwcFdOQzNWdzhIbHdIYnlQZTF1cFB3N0tpdFB6T2NaY25PYkF4Q1ZWUUZaTG42T3FnRnRXZlZmcVh5M29mbzllMjRNMjhmcnNPV29pM2dfdjB1aU9LdC1fRXlfcnhuQzhJeDdtMTVtY0VDS2RXaHF5YURYdmVQLUM3aWRDVXhLbXNSanNnaXBzTWs2QnBYMUk0c3JjRWx2QnZWOG5DTjE0U3djWF9qbEFucm0wTjBpU1VVQmVy?oc=5",
       "published": "Fri, 11 Sep 2026 11:17:52 GMT"
     },
@@ -99,7 +99,7 @@
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
       "published": "Fri, 11 Sep 2026 11:11:12 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     }
   ],
-  "last_updated": "2026-09-11 13:51 UTC"
+  "last_updated": "2026-09-11 14:06 UTC"
 }
