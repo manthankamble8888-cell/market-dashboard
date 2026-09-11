@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52594.36,
-    "change": 530.26,
-    "pct": 1.02
+    "price": 52583.33,
+    "change": 519.23,
+    "pct": 1.0
   },
   "Nasdaq": {
-    "price": 26408.67,
-    "change": 326.95,
-    "pct": 1.25
+    "price": 26403.99,
+    "change": 322.27,
+    "pct": 1.24
   },
   "S&P 500": {
-    "price": 7672.11,
-    "change": 80.41,
-    "pct": 1.06
+    "price": 7670.06,
+    "change": 78.36,
+    "pct": 1.03
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -51,24 +51,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.95,
-    "change": -2.68,
-    "pct": -2.49
+    "price": 104.54,
+    "change": -3.09,
+    "pct": -2.87
   },
   "Crude Oil (WTI)": {
-    "price": 99.58,
-    "change": -2.9,
-    "pct": -2.83
+    "price": 99.28,
+    "change": -3.2,
+    "pct": -3.12
   },
   "Gold": {
-    "price": 4404.4,
-    "change": 39.9,
-    "pct": 0.91
+    "price": 4412.4,
+    "change": 47.9,
+    "pct": 1.1
   },
   "Silver": {
-    "price": 64.85,
-    "change": 0.57,
-    "pct": 0.88
+    "price": 65.0,
+    "change": 0.72,
+    "pct": 1.11
   },
   "USD/INR": {
     "price": 95.54,
@@ -76,14 +76,14 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.05,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 99.06,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
     "price": 4.94,
-    "change": -0.0,
-    "pct": -0.04
+    "change": -0.01,
+    "pct": -0.12
   },
   "news": [
     {
@@ -102,12 +102,12 @@
       "published": "Fri, 11 Sep 2026 11:11:12 GMT"
     },
     {
-      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - Rediff",
+      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - rediff.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhRbUQtM0NwemVXdWJROGlYNjRtSFFuaFNiWFZEZFYzby03LXZMOFlJZTY5VHhWLXpObjBZUmpWZ0wxamNXR28yejhKOXdpT2lTMmpRSEkwUmJ4QnRsVmhxc3lfZUxFZ29ZZVJhcWZTVTcxc2I2NmxjbVNQUFFTRzFfU2daYjdFVEtncllpcU9yRXBxOWFoTVpvUnhmY0ZnbUFIbFpVR0oyZDVLZGxQTUo0T3JkdWhWQlc5U01JNDQ3cUJpLWhsbXZTb041UdIB0AFBVV95cUxNSHA2Q0dYcVNyNVk0eHI1TnlnSTJwcFdOQzNWdzhIbHdIYnlQZTF1cFB3N0tpdFB6T2NaY25PYkF4Q1ZWUUZaTG42T3FnRnRXZlZmcVh5M29mbzllMjRNMjhmcnNPV29pM2dfdjB1aU9LdC1fRXlfcnhuQzhJeDdtMTVtY0VDS2RXaHF5YURYdmVQLUM3aWRDVXhLbXNSanNnaXBzTWs2QnBYMUk0c3JjRWx2QnZWOG5DTjE0U3djWF9qbEFucm0wTjBpU1VVQmVy?oc=5",
       "published": "Fri, 11 Sep 2026 11:17:52 GMT"
     },
     {
-      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
@@ -117,7 +117,7 @@
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     },
     {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
+      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     },
@@ -127,5 +127,5 @@
       "published": "Fri, 11 Sep 2026 14:43:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 15:25 UTC"
+  "last_updated": "2026-09-11 15:38 UTC"
 }
