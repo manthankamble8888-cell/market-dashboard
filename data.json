@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52646.22,
-    "change": 582.12,
-    "pct": 1.12
+    "price": 52669.71,
+    "change": 605.61,
+    "pct": 1.16
   },
   "Nasdaq": {
-    "price": 26380.66,
-    "change": 298.94,
-    "pct": 1.15
+    "price": 26402.16,
+    "change": 320.44,
+    "pct": 1.23
   },
   "S&P 500": {
-    "price": 7669.92,
-    "change": 78.22,
-    "pct": 1.03
+    "price": 7674.13,
+    "change": 82.43,
+    "pct": 1.09
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.1,
-    "change": -2.53,
-    "pct": -2.35
+    "price": 104.46,
+    "change": -3.17,
+    "pct": -2.95
   },
   "Crude Oil (WTI)": {
-    "price": 100.09,
-    "change": -2.39,
-    "pct": -2.33
+    "price": 99.6,
+    "change": -2.88,
+    "pct": -2.81
   },
   "Gold": {
-    "price": 4404.2,
-    "change": 39.7,
-    "pct": 0.91
+    "price": 4408.1,
+    "change": 43.6,
+    "pct": 1.0
   },
   "Silver": {
-    "price": 65.01,
-    "change": 0.73,
-    "pct": 1.13
+    "price": 65.03,
+    "change": 0.75,
+    "pct": 1.16
   },
   "USD/INR": {
     "price": 95.54,
@@ -74,21 +74,16 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.1,
-    "change": 0.01,
-    "pct": 0.01
+    "price": 99.11,
+    "change": 0.02,
+    "pct": 0.02
   },
   "US 10Y Yield": {
     "price": 4.95,
     "change": 0.01,
-    "pct": 0.1
+    "pct": 0.12
   },
   "news": [
-    {
-      "title": "Indian shares slide to three-month low in broad-based sell-off on Mideast worries - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtRkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
-      "published": "Fri, 11 Sep 2026 02:23:00 GMT"
-    },
     {
       "title": "Stock Market Weekly Analysis: September 7\u201311, 2026 - The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVlPSDBTQVdxWno4aXZRTEN2RWI0MEJucDFRM3hkeF9NeVU4ZmRnYURZUUpjOXhOT09rck9YYjhGXzhnZTk2T0tXakRtVEVIWTAzejVfbWhLcXNoM3BXRC1fRV9wZmtyanhSelA4cVdBUExZcV9oRjZGVXVCVk1jTVVB?oc=5",
@@ -102,7 +97,7 @@
     {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
-      "published": "Fri, 11 Sep 2026 11:11:12 GMT"
+      "published": "Fri, 11 Sep 2026 11:15:52 GMT"
     },
     {
       "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - rediff.com",
@@ -123,7 +118,12 @@
       "title": "India\u2019s IPO Frenzy Has Lost Touch With The Stock Market - outlookbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOW10cjJiazFTcHJNRTIzeVNab2lxRjdkLVk0amtLTDEyQVlFcXNMM3NtQ24xVFBUVHFGOUVCR2U3ZllJU2M5UlJuRWFkNU1DMWdDeXNwSEVWVFdyeUVVTEFxSV9zVlpQQzIwUXU4anVha1I1WW9tREM0OXBlN1hkeHFWWjZxWktGVnV3alFUdmEwNG1LV3RXbFFn0gGnAUFVX3lxTE4tcXk4SGdsTGNtN0FNelRLc0RUbHdzaUs5RUVoMzdhajdGUWhMaVhWMWR0MWMwVXprWjJoaTVWMHktdVBnNS1JbHc4OVdtbloxS1o5MUpGMHFIMHF3VGRmTnI4T25uVFBqTFp2SnVMaDcwSlNNcERXa0xBZHFSVkx1MDJRSXktcGx6QkxrRGE1Q2ptZ1FkVFBlQ3YtdnJoelNyZ0x5SllR?oc=5",
       "published": "Fri, 11 Sep 2026 12:21:16 GMT"
+    },
+    {
+      "title": "Bond Yields Matter For India's Stock Market | The Reason Why - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpkZi1EMFU4eWZNeFRONHE3N0xrX0lPMUJHTkdsRUk5Q09xVElBSUoyckN3V0p2UDFBdFR2eFR4ZXowQ0E1dHlBWDRtTUZJS29fTG9GejBZNWM2a0N1S01UczRLcG1aNHk4MXJYZE42U005Yl9Tbi1ibW1PS09PLWlvS3dQcGI4aEcwbUh3Vkg5eFpOYkdab1VFRURJdXBBUVdnSFo2eG5CNi0zX0HSAbYBQVVfeXFMTUkzU3dOcGRKV3ZzWnZrekRWQ2t3RzU1ZWFLaV9HR2VLN1pyZ3ZqdjI0M2hlMHlVaWtwR3FSLV9aY3F4VUtxLVlMblFNaVdzaUhjZHIza0FMWFU1X3MtQ29sSlgzVUN3d19DTmhGd1lfRlhjU3RsUDJ0U1VaeTFyai16a0dsOENiZ3dzRXNhS2FZaFY2UEh1OUVSMHR1TXV1WHJUMmhmMlJydlRnQWtQV2plOVM5QWc?oc=5",
+      "published": "Fri, 11 Sep 2026 14:43:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 17:05 UTC"
+  "last_updated": "2026-09-11 17:23 UTC"
 }
