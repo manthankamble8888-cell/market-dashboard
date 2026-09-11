@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23437.0,
-    "change": -40.8,
-    "pct": -0.17
-  },
-  "Bank Nifty": {
-    "price": 56619.2,
-    "change": 147.25,
-    "pct": 0.26
-  },
-  "Sensex": {
-    "price": 74741.15,
-    "change": -161.45,
+    "price": 23425.35,
+    "change": -52.45,
     "pct": -0.22
   },
+  "Bank Nifty": {
+    "price": 56608.7,
+    "change": 136.75,
+    "pct": 0.24
+  },
+  "Sensex": {
+    "price": 74823.51,
+    "change": -79.09,
+    "pct": -0.11
+  },
   "India VIX": {
-    "price": 12.26,
-    "change": 0.46,
-    "pct": 3.88
+    "price": 12.39,
+    "change": 0.59,
+    "pct": 5.0
   },
   "Nifty IT": {
-    "price": 29009.3,
-    "change": 118.4,
-    "pct": 0.41
+    "price": 28995.5,
+    "change": 104.6,
+    "pct": 0.36
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.42,
-    "change": -3.21,
-    "pct": -2.98
+    "price": 104.94,
+    "change": -2.69,
+    "pct": -2.5
   },
   "Crude Oil (WTI)": {
-    "price": 99.89,
-    "change": -2.59,
-    "pct": -2.53
+    "price": 100.43,
+    "change": -2.05,
+    "pct": -2.0
   },
   "Gold": {
-    "price": 4390.2,
-    "change": 25.7,
-    "pct": 0.59
+    "price": 4384.4,
+    "change": 19.9,
+    "pct": 0.46
   },
   "Silver": {
-    "price": 64.61,
-    "change": 0.33,
-    "pct": 0.51
+    "price": 64.5,
+    "change": 0.21,
+    "pct": 0.33
   },
   "USD/INR": {
-    "price": 95.6,
-    "change": 0.49,
-    "pct": 0.51
+    "price": 95.59,
+    "change": 0.48,
+    "pct": 0.5
   },
   "Dollar Index": {
-    "price": 99.12,
-    "change": 0.03,
-    "pct": 0.03
+    "price": 99.14,
+    "change": 0.06,
+    "pct": 0.06
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -94,7 +94,7 @@
       "published": "Wed, 09 Sep 2026 23:57:44 GMT"
     },
     {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
+      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     },
@@ -104,9 +104,9 @@
       "published": "Fri, 11 Sep 2026 04:47:10 GMT"
     },
     {
-      "title": "How Asian markets, crude will impact Sensex, Nifty 50: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSEVUUnFJWXFJZndHZVUxYnBQOHA0Y3EycnhEQ0JBLVNxQW9scm55N0lWZjN4WE9BS2RiWHhNVGU1S2lMSERsM0hnU01JM0tXMjQtVDdPV1ZuN1lLdi12cl9rNGpMTVJFLUxMOEFZUmNNZWNOZl9TRzZGR0gwQXNTVTVLWHBFNzc3bmMxZ3hCckhCcnJ2QnNKa2tGVC16X1JtWlN0R2lrdGM1UXJ0VHFuWW1SZ1Z0UFVkbmdRMjBEd1BhQ3B4Z2kwV2c4LUtDMVNHZTRoYkM0WTVKOV9kdDdUcHVyRENtb2pKN2NHeWlFV0Utcnl1QmdmOFJmUkhXT0p3bXM4TnlNcHgwdVFpclHSAZMCQVVfeXFMTVE0RkJ5dnhLTHN5eVVuekRQUDd4cmNXVE1Qb1ZTTlJmY2RmTS1nV3lWWHM1X2w2ZE9iZ3lMZFEtemJNM2N4RUo5T2FuYUtpZ2hJSS1PbW5PTkdMdEQxYTlfZXZsZnNtYXZyOVRURFBkMmxxN2RrT1VDZmJFVjFBZ3ZRYURHT1FPdzFyTkxGTnhHNlJxQmFJNS1hTkhCenlZMHF3SldFeS1pLXFZSEhGTGtaSUhwQWZpZnhUWW1kMUJIWHBrZ3NxNmZtMVlmemxUQUEyMUM0c3NuYlZzWWRCeG5jSHQtRF92TnBJeXdpaUhOcVhkSFBKS3psWUttNExjd0FuQXNaWFE4eWRMUDFvT2Rla3M?oc=5",
-      "published": "Fri, 11 Sep 2026 01:49:14 GMT"
+      "title": "Why is Indian stock market down? 3 key factors explained - Top losers contributing to the fall in Sensex, Nifty today - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPR0E3TzBGbXNKTXd4UG54MlhvWEJNakFwWkpuME1CM0t0SUQ2b0lnQmtnU05sOVV3c05kcm9XUnpkRlF4c09QY2R2TjFhZVR5N0dabHNxcXNKM0F2UDBXRldaajNjYl9nbWJFc1Y1TFFfV0tjQXlNMWIxQllmSnFTNDhmcjdvcW02WXBJYTFhdF95Y2V4c2RhYU8tenAtcUJaQzVxdGFpekE4bWoxbXlSNU1WUmZoZ3gzYlNULUY1b2tMcVE0am9yYzhhaDBxX3dnNXMzWTVHeWJEME1RX0xhVzVJY3FPNkJJNk0zOTJzUHEydllaSExTbkVGaVpaQjJDMFFlbTgwNTUwT01VWmNxdtIBlgJBVV95cUxNYnhoNWNBNnFxZkFBOE92QzBJaWRpLXRyVWRoZnpPRUtscW4yU2xrVkx3c0syWXZwWmFNNjVBc1RUbUQ3Y1NMaVJ4TDhEcTNnQkk1RHRJLU9pSGtQWWkzNWVWRVliUlFPWGx6UFNvRzBnS3MxdDc4eU4yS3hlYVNMRk83RURRaXZHSUh0NmJXcGE4elBNdDZXNlBUUUJIY2xsbjJRRWZGMnc5UXRaU3puMXNVNW5vcFNkVkZuNE5rRmsxUER6Y3M4X2t0VDdDeHVRVmhsODNadEQ3RFkzUmUxX1lrRzRmQk9ZcnFPZHZLZndBR0VrU0h4Y3JlaWszdm1VTFI2MHlUMVM5c1Z0OGJvWUFQS0cwQQ?oc=5",
+      "published": "Wed, 09 Sep 2026 05:04:23 GMT"
     },
     {
       "title": "Indian Stocks Open Lower as Oil Tops $100 and Rupee Weakens - Investing.com India",
@@ -119,7 +119,7 @@
       "published": "Fri, 11 Sep 2026 05:37:05 GMT"
     },
     {
-      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - hdfcsky.com",
+      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlpVb1pBWnp4OXdoVWlwWnlCZTFMSk54aktXcnMxeGhxOVZRM1pyQUxIT0xCWVJ6ODJHNUhNbVU0NGk2bFVKZzN2cm1iZWJXNEVMZjdvWEJlZUtxUmZlQUJNU3NobTg2Q243blFBa2ZZX0dXTmtzM0VVcWRBTXV1SkpZazJXRnZ1RHBLY25FbTY4bkc1WFRBSnNMR0cza2M?oc=5",
       "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 05:47:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 09:06 UTC"
+  "last_updated": "2026-09-11 09:25 UTC"
 }
