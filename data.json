@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52600.67,
-    "change": 536.57,
-    "pct": 1.03
+    "price": 52587.38,
+    "change": 523.28,
+    "pct": 1.01
   },
   "Nasdaq": {
-    "price": 26412.63,
-    "change": 330.91,
-    "pct": 1.27
+    "price": 26372.08,
+    "change": 290.36,
+    "pct": 1.11
   },
   "S&P 500": {
-    "price": 7674.0,
-    "change": 82.3,
-    "pct": 1.08
+    "price": 7666.65,
+    "change": 74.95,
+    "pct": 0.99
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 104.97,
-    "change": -2.66,
-    "pct": -2.47
+    "price": 105.26,
+    "change": -2.37,
+    "pct": -2.2
   },
   "Crude Oil (WTI)": {
-    "price": 99.59,
-    "change": -2.89,
-    "pct": -2.82
+    "price": 99.84,
+    "change": -2.64,
+    "pct": -2.58
   },
   "Gold": {
-    "price": 4407.9,
-    "change": 43.4,
-    "pct": 0.99
+    "price": 4404.0,
+    "change": 39.5,
+    "pct": 0.91
   },
   "Silver": {
-    "price": 64.93,
-    "change": 0.65,
-    "pct": 1.0
+    "price": 64.94,
+    "change": 0.66,
+    "pct": 1.03
   },
   "USD/INR": {
     "price": 95.54,
@@ -74,14 +74,14 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.09,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 99.08,
+    "change": -0.01,
+    "pct": -0.01
   },
   "US 10Y Yield": {
-    "price": 4.94,
-    "change": -0.0,
-    "pct": -0.08
+    "price": 4.95,
+    "change": 0.01,
+    "pct": 0.12
   },
   "news": [
     {
@@ -115,15 +115,15 @@
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     },
     {
+      "title": "India\u2019s IPO Frenzy Has Lost Touch With The Stock Market - outlookbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOW10cjJiazFTcHJNRTIzeVNab2lxRjdkLVk0amtLTDEyQVlFcXNMM3NtQ24xVFBUVHFGOUVCR2U3ZllJU2M5UlJuRWFkNU1DMWdDeXNwSEVWVFdyeUVVTEFxSV9zVlpQQzIwUXU4anVha1I1WW9tREM0OXBlN1hkeHFWWjZxWktGVnV3alFUdmEwNG1LV3RXbFFn0gGnAUFVX3lxTE4tcXk4SGdsTGNtN0FNelRLc0RUbHdzaUs5RUVoMzdhajdGUWhMaVhWMWR0MWMwVXprWjJoaTVWMHktdVBnNS1JbHc4OVdtbloxS1o5MUpGMHFIMHF3VGRmTnI4T25uVFBqTFp2SnVMaDcwSlNNcERXa0xBZHFSVkx1MDJRSXktcGx6QkxrRGE1Q2ptZ1FkVFBlQ3YtdnJoelNyZ0x5SllR?oc=5",
+      "published": "Fri, 11 Sep 2026 12:21:16 GMT"
+    },
+    {
       "title": "Bond Yields Matter For India's Stock Market | The Reason Why - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpkZi1EMFU4eWZNeFRONHE3N0xrX0lPMUJHTkdsRUk5Q09xVElBSUoyckN3V0p2UDFBdFR2eFR4ZXowQ0E1dHlBWDRtTUZJS29fTG9GejBZNWM2a0N1S01UczRLcG1aNHk4MXJYZE42U005Yl9Tbi1ibW1PS09PLWlvS3dQcGI4aEcwbUh3Vkg5eFpOYkdab1VFRURJdXBBUVdnSFo2eG5CNi0zX0HSAbYBQVVfeXFMTUkzU3dOcGRKV3ZzWnZrekRWQ2t3RzU1ZWFLaV9HR2VLN1pyZ3ZqdjI0M2hlMHlVaWtwR3FSLV9aY3F4VUtxLVlMblFNaVdzaUhjZHIza0FMWFU1X3MtQ29sSlgzVUN3d19DTmhGd1lfRlhjU3RsUDJ0U1VaeTFyai16a0dsOENiZ3dzRXNhS2FZaFY2UEh1OUVSMHR1TXV1WHJUMmhmMlJydlRnQWtQV2plOVM5QWc?oc=5",
       "published": "Fri, 11 Sep 2026 14:43:48 GMT"
-    },
-    {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
-      "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     }
   ],
-  "last_updated": "2026-09-11 16:07 UTC"
+  "last_updated": "2026-09-11 16:26 UTC"
 }
