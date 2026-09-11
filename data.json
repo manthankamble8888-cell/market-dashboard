@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 103.84,
-    "change": -3.79,
-    "pct": -3.52
+    "price": 103.91,
+    "change": -3.72,
+    "pct": -3.46
   },
   "Crude Oil (WTI)": {
-    "price": 99.24,
-    "change": -3.24,
-    "pct": -3.16
+    "price": 99.2,
+    "change": -3.28,
+    "pct": -3.2
   },
   "Gold": {
-    "price": 4389.6,
-    "change": 25.1,
-    "pct": 0.58
+    "price": 4386.8,
+    "change": 22.3,
+    "pct": 0.51
   },
   "Silver": {
-    "price": 64.51,
-    "change": 0.23,
-    "pct": 0.36
+    "price": 64.45,
+    "change": 0.17,
+    "pct": 0.26
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,9 +78,9 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.17,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 99.18,
+    "change": 0.09,
+    "pct": 0.09
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -89,9 +89,14 @@
   },
   "news": [
     {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
+      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
+    },
+    {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.34% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlBHSi12Rm5IYjVOLTZCNmFUQmxtcXJrUjNSWTF4SF9QRTVneGl3QktDNEgtU1JEdmhTNEo5Wk84UHgzbVRBenRVMnhTbWtHS2NKUkN4WVYwTTZINW9CdzhQQjdIb3p1TFpKVkhrWEdELWNiLWNWYVZTVl9tRWxfX3FQQnJGaTE4Z2RJYjV5cUljdDFiTmxhV1BHSURHanlNX2ZIOHo5RlV0M29VdW93Yw?oc=5",
+      "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     },
     {
       "title": "Small-cap tech stock under \u20b950 jumps despite weak trends in the Indian stock market - Livemint",
@@ -114,20 +119,15 @@
       "published": "Fri, 11 Sep 2026 09:25:02 GMT"
     },
     {
-      "title": "Indian Stocks Open Lower as Oil Tops $100 and Rupee Weakens - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTllrZTVPVVlfSzNrTXVWSmV0TXZ4ZGd6VVVPanp2WU9XMUFILU9OV2twNW9WaEVEdDhTZlIxbG9sRnB1YWFyN2lERmRXcFVxN01NekFuQlppZ1RyLUNOTGpmbWtiSXU2WEx5a01rS0dOeUt4VGktb0tIdlZtd1pRMzFfaEVKNDlKVURBUVIwbHNTbnRERVp3T3FZTVg2cGhPWDN1NEpfXzlOQjYxQmRPSHNhS2U?oc=5",
-      "published": "Fri, 11 Sep 2026 04:07:48 GMT"
+      "title": "Indian Markets Dip: HDFC Bank, IT Stocks Limit Losses - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRko1a2s4amFTZmhlY053U1VTS0NLX2QzeUwzT1o5Y0RQbTBvX1N5SFNjaWVtSDVMRllXbGtjeHY2RXJuRE0zYmlFWDRrUnd1Z3Zyb2NZbGo0WmV2T1VxTl9ESFloOEQtQkJxSTBGN3NnckdUMmo1S0hIbmdXUjlDYW5xSTA4STh4UW5ZM2doNmhlTExMcDFyLUdYN0dQeWZ4anNVajFn0gGrAUFVX3lxTE1ETUNlNmFGeG5aZHRwLVBJM1BMUW5fX3JwUUxIcVR3Sno2eTJ1cUMyUmswVjBVMTJYMVlBRFVzNGhIdkMtZXhUc0ZOczNFMF9LZlZ4UzFvRjkycDVPS3lURzI1ckN0cWFvellXUWhwZm5uODlRdHF5MnFvd1psUnduNzQ1SENYZG5BUURwcmlNMExTdXFGLUYyOERJMjBxYUpza1hTRGtlcE1XVQ?oc=5",
+      "published": "Fri, 11 Sep 2026 10:40:44 GMT"
     },
     {
       "title": "Sensex, Nifty fall nearly 1%: 3 reasons why stock market is down today - India Today",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVhPNWUzZ1RscVg3X1dvbkFlaFdvYjgxal9tX2xkTDNBV3VFclVtZ2NneThXb1pmXzQ1bC1hTGdoVjBwMVBWaEk2SzRnU2M2bmRGYkxXV3F4TUdaSnZrdVVQTFhPQmloaDZyeXdUU0FWbGZ5VjZ5dlIxdnFSZFBhRU5WSGpldXZGeklUV0lQcXZmR1VTaDVEaUcyb0xpTUU1TmhSQzVEYmFkMFJIY1k0ejB2dElfRWdjLVRPd241NkdyaExXbmozVGJB0gHKAUFVX3lxTE81WE81ZTNnVGxxWDdfV29uQWVoV29iODFqX21fbGRMM0FXdUVyVW1nY2d5OFdvWmZfNDVsLWFMZ2hWMHAxUFZoSTZLNGdTYzZuZEZiTFdXcXhNR1pKdmt1VVBMWE9CaWhoNnJ5d1RTQVZsZnlWNnl2UjF2cVJkUGFFTlZIamV1dkZ6SVRXSVBxdmZHVVNoNURpRzJvTGlNRTVOaFJDNURiYWQwUkhjWTR6MHZ0SV9FZ2MtVE93bjU2R3JoTFduajNUYkE?oc=5",
       "published": "Fri, 11 Sep 2026 05:37:05 GMT"
-    },
-    {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - DD News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
-      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
     }
   ],
-  "last_updated": "2026-09-11 10:39 UTC"
+  "last_updated": "2026-09-11 10:51 UTC"
 }
