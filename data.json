@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 104.88,
-    "change": -2.75,
-    "pct": -2.56
+    "price": 104.65,
+    "change": -2.98,
+    "pct": -2.77
   },
   "Crude Oil (WTI)": {
-    "price": 100.62,
-    "change": -1.86,
-    "pct": -1.81
+    "price": 100.26,
+    "change": -2.22,
+    "pct": -2.17
   },
   "Gold": {
-    "price": 4387.5,
-    "change": 23.0,
-    "pct": 0.53
+    "price": 4391.1,
+    "change": 26.6,
+    "pct": 0.61
   },
   "Silver": {
-    "price": 64.86,
-    "change": 0.58,
-    "pct": 0.9
+    "price": 64.91,
+    "change": 0.63,
+    "pct": 0.97
   },
   "USD/INR": {
     "price": 95.54,
@@ -95,14 +95,14 @@
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
     {
-      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhRbUQtM0NwemVXdWJROGlYNjRtSFFuaFNiWFZEZFYzby03LXZMOFlJZTY5VHhWLXpObjBZUmpWZ0wxamNXR28yejhKOXdpT2lTMmpRSEkwUmJ4QnRsVmhxc3lfZUxFZ29ZZVJhcWZTVTcxc2I2NmxjbVNQUFFTRzFfU2daYjdFVEtncllpcU9yRXBxOWFoTVpvUnhmY0ZnbUFIbFpVR0oyZDVLZGxQTUo0T3JkdWhWQlc5U01JNDQ3cUJpLWhsbXZTb041UdIB0AFBVV95cUxNSHA2Q0dYcVNyNVk0eHI1TnlnSTJwcFdOQzNWdzhIbHdIYnlQZTF1cFB3N0tpdFB6T2NaY25PYkF4Q1ZWUUZaTG42T3FnRnRXZlZmcVh5M29mbzllMjRNMjhmcnNPV29pM2dfdjB1aU9LdC1fRXlfcnhuQzhJeDdtMTVtY0VDS2RXaHF5YURYdmVQLUM3aWRDVXhLbXNSanNnaXBzTWs2QnBYMUk0c3JjRWx2QnZWOG5DTjE0U3djWF9qbEFucm0wTjBpU1VVQmVy?oc=5",
-      "published": "Fri, 11 Sep 2026 11:17:52 GMT"
-    },
-    {
       "title": "Brent Crude Hits USD 110 As West Asia Crisis Intensifies: What It Means For Indian Markets - Outlook Money",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemVEMEZwdmdaZGRzSHRTb1NwU2d2cW1sTVhhUlR2YmtBS1A3X25ya3B0OFE2NFpIaGZVTlVrYndGdGZCeE16Nm9BNmkzS3Q3Y1FwNmM0ZVJzaXBYSXRhejQxU201aTliT1FGZWJBTjhPcXZrQ2J5c1MyREFobE9md2ZfWWNDcWkySHNRaU51U283Nl9rY09oSXJlVFg1WlppajRkeTZUbm1BM1QyMmZvb9IBvgFBVV95cUxQV0ZCYlJHNmQ5MEJ1VjRKbjAycGtuS1AyZExEMFkzcGNGTnliTVdtcEpYMUNSV1FYT2RaMTRSY2FoWkd0Um9WOVdQZkdZMmxiODdLR1ZNOWlJWDdBckxnMGRQMXVNRF96MFlRcGJkbFhHNXdjV3IxMFpOYmF0SWFQcWtjMzJDd0VrOHlLUXR6a3BBTkdIX1Riem1Jcjd1MW8zWjZfWWw4TVU1V2JHN1gwUHpleEFEWUJMaDA0SFRB?oc=5",
       "published": "Fri, 11 Sep 2026 09:20:15 GMT"
+    },
+    {
+      "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhRbUQtM0NwemVXdWJROGlYNjRtSFFuaFNiWFZEZFYzby03LXZMOFlJZTY5VHhWLXpObjBZUmpWZ0wxamNXR28yejhKOXdpT2lTMmpRSEkwUmJ4QnRsVmhxc3lfZUxFZ29ZZVJhcWZTVTcxc2I2NmxjbVNQUFFTRzFfU2daYjdFVEtncllpcU9yRXBxOWFoTVpvUnhmY0ZnbUFIbFpVR0oyZDVLZGxQTUo0T3JkdWhWQlc5U01JNDQ3cUJpLWhsbXZTb041UdIB0AFBVV95cUxNSHA2Q0dYcVNyNVk0eHI1TnlnSTJwcFdOQzNWdzhIbHdIYnlQZTF1cFB3N0tpdFB6T2NaY25PYkF4Q1ZWUUZaTG42T3FnRnRXZlZmcVh5M29mbzllMjRNMjhmcnNPV29pM2dfdjB1aU9LdC1fRXlfcnhuQzhJeDdtMTVtY0VDS2RXaHF5YURYdmVQLUM3aWRDVXhLbXNSanNnaXBzTWs2QnBYMUk0c3JjRWx2QnZWOG5DTjE0U3djWF9qbEFucm0wTjBpU1VVQmVy?oc=5",
+      "published": "Fri, 11 Sep 2026 11:17:52 GMT"
     },
     {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
@@ -115,5 +115,5 @@
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     }
   ],
-  "last_updated": "2026-09-11 20:06 UTC"
+  "last_updated": "2026-09-11 20:24 UTC"
 }
