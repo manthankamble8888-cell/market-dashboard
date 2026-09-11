@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23408.25,
-    "change": -69.55,
-    "pct": -0.3
+    "price": 23437.0,
+    "change": -40.8,
+    "pct": -0.17
   },
   "Bank Nifty": {
-    "price": 56485.7,
-    "change": 13.75,
-    "pct": 0.02
+    "price": 56619.2,
+    "change": 147.25,
+    "pct": 0.26
   },
   "Sensex": {
-    "price": 74785.81,
-    "change": -116.78,
-    "pct": -0.16
+    "price": 74741.15,
+    "change": -161.45,
+    "pct": -0.22
   },
   "India VIX": {
-    "price": 12.31,
-    "change": 0.51,
-    "pct": 4.28
+    "price": 12.26,
+    "change": 0.46,
+    "pct": 3.88
   },
   "Nifty IT": {
-    "price": 29024.0,
-    "change": 133.1,
-    "pct": 0.46
+    "price": 29009.3,
+    "change": 118.4,
+    "pct": 0.41
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.6,
-    "change": -3.03,
-    "pct": -2.82
+    "price": 104.42,
+    "change": -3.21,
+    "pct": -2.98
   },
   "Crude Oil (WTI)": {
-    "price": 99.98,
-    "change": -2.5,
-    "pct": -2.44
+    "price": 99.89,
+    "change": -2.59,
+    "pct": -2.53
   },
   "Gold": {
-    "price": 4394.5,
-    "change": 30.0,
-    "pct": 0.69
+    "price": 4390.2,
+    "change": 25.7,
+    "pct": 0.59
   },
   "Silver": {
-    "price": 64.69,
-    "change": 0.41,
-    "pct": 0.63
+    "price": 64.61,
+    "change": 0.33,
+    "pct": 0.51
   },
   "USD/INR": {
-    "price": 95.65,
-    "change": 0.54,
-    "pct": 0.57
+    "price": 95.6,
+    "change": 0.49,
+    "pct": 0.51
   },
   "Dollar Index": {
-    "price": 99.09,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 99.12,
+    "change": 0.03,
+    "pct": 0.03
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -99,8 +99,8 @@
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     },
     {
-      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMmRaaTIxR1NMdFZHQm0wNEJtNzRDdjFOYzBHS1pTdzYxRm02YVVTb0lPRXZXNWw1WXZ2UE1hemlZY0s3TmlJRnBsMlpEblBoV3A3V25FcmQ5eEtYdVA5SVNLckpFQ1h3VHFUOGhHaWkzZ3RKeEstNzhmVnZRZzl2TkxRanFFc29JZEt6TTBPZDdQTG55WThlVXZHYUliWWlBLUhTWnhRWE5hOUhGdUo5VmdnLXFaWDZHX2RQQjB1Z1BIMUVwREY5c3Y3T2lXQXk0d19DTVV4THM0a2s?oc=5",
+      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2VBOVhoTV9MazZDaU9UZFgtcFlGWlNHa0daYVM1X1FJdHBiOVMwb0pqNTNTT29Bcmg1dGdJVHg4ZkVBNEtId0dwdlhxTW4zRUdXYXgwTWdfemhqWVNIMmhXTDAtdkpqdmtUb1RDVFpZTWZEOWhsVnRUVU9PZ0d4azlic1U4MGxaNWJzN3A0dWpCVHBuTGRxX1ROUW52Xzk0aDlDX1F0c2NvSGdtM21fQ2t4MllXOTlSNFZQazhDMk9mMl9JYlUxLTJNYmlqalRvb3RfRzlFQ090Zw?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:10 GMT"
     },
     {
@@ -119,7 +119,7 @@
       "published": "Fri, 11 Sep 2026 05:37:05 GMT"
     },
     {
-      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - HDFC Sky",
+      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - hdfcsky.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlpVb1pBWnp4OXdoVWlwWnlCZTFMSk54aktXcnMxeGhxOVZRM1pyQUxIT0xCWVJ6ODJHNUhNbVU0NGk2bFVKZzN2cm1iZWJXNEVMZjdvWEJlZUtxUmZlQUJNU3NobTg2Q243blFBa2ZZX0dXTmtzM0VVcWRBTXV1SkpZazJXRnZ1RHBLY25FbTY4bkc1WFRBSnNMR0cza2M?oc=5",
       "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 05:47:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 08:54 UTC"
+  "last_updated": "2026-09-11 09:06 UTC"
 }
