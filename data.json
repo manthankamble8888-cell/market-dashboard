@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23412.7,
-    "change": -65.1,
-    "pct": -0.28
+    "price": 23408.25,
+    "change": -69.55,
+    "pct": -0.3
   },
   "Bank Nifty": {
-    "price": 56517.5,
-    "change": 45.55,
-    "pct": 0.08
+    "price": 56485.7,
+    "change": 13.75,
+    "pct": 0.02
   },
   "Sensex": {
-    "price": 74640.72,
-    "change": -261.88,
-    "pct": -0.35
+    "price": 74785.81,
+    "change": -116.78,
+    "pct": -0.16
   },
   "India VIX": {
-    "price": 12.28,
-    "change": 0.48,
-    "pct": 4.09
+    "price": 12.31,
+    "change": 0.51,
+    "pct": 4.28
   },
   "Nifty IT": {
-    "price": 29018.2,
-    "change": 127.3,
-    "pct": 0.44
+    "price": 29024.0,
+    "change": 133.1,
+    "pct": 0.46
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.8,
-    "change": -2.83,
-    "pct": -2.63
+    "price": 104.6,
+    "change": -3.03,
+    "pct": -2.82
   },
   "Crude Oil (WTI)": {
-    "price": 100.17,
-    "change": -2.31,
-    "pct": -2.25
+    "price": 99.98,
+    "change": -2.5,
+    "pct": -2.44
   },
   "Gold": {
-    "price": 4396.4,
-    "change": 31.9,
-    "pct": 0.73
+    "price": 4394.5,
+    "change": 30.0,
+    "pct": 0.69
   },
   "Silver": {
-    "price": 64.79,
-    "change": 0.5,
-    "pct": 0.78
+    "price": 64.69,
+    "change": 0.41,
+    "pct": 0.63
   },
   "USD/INR": {
-    "price": 95.64,
-    "change": 0.53,
-    "pct": 0.56
+    "price": 95.65,
+    "change": 0.54,
+    "pct": 0.57
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": 0.02,
-    "pct": 0.02
+    "price": 99.09,
+    "change": -0.0,
+    "pct": -0.0
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -94,13 +94,13 @@
       "published": "Wed, 09 Sep 2026 23:57:44 GMT"
     },
     {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - chinimandi.com",
+      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     },
     {
-      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2VBOVhoTV9MazZDaU9UZFgtcFlGWlNHa0daYVM1X1FJdHBiOVMwb0pqNTNTT29Bcmg1dGdJVHg4ZkVBNEtId0dwdlhxTW4zRUdXYXgwTWdfemhqWVNIMmhXTDAtdkpqdmtUb1RDVFpZTWZEOWhsVnRUVU9PZ0d4azlic1U4MGxaNWJzN3A0dWpCVHBuTGRxX1ROUW52Xzk0aDlDX1F0c2NvSGdtM21fQ2t4MllXOTlSNFZQazhDMk9mMl9JYlUxLTJNYmlqalRvb3RfRzlFQ090Zw?oc=5",
+      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - equitymaster.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMmRaaTIxR1NMdFZHQm0wNEJtNzRDdjFOYzBHS1pTdzYxRm02YVVTb0lPRXZXNWw1WXZ2UE1hemlZY0s3TmlJRnBsMlpEblBoV3A3V25FcmQ5eEtYdVA5SVNLckpFQ1h3VHFUOGhHaWkzZ3RKeEstNzhmVnZRZzl2TkxRanFFc29JZEt6TTBPZDdQTG55WThlVXZHYUliWWlBLUhTWnhRWE5hOUhGdUo5VmdnLXFaWDZHX2RQQjB1Z1BIMUVwREY5c3Y3T2lXQXk0d19DTVV4THM0a2s?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:10 GMT"
     },
     {
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 05:47:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 08:41 UTC"
+  "last_updated": "2026-09-11 08:54 UTC"
 }
