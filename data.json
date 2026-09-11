@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52064.1,
-    "change": -316.56,
-    "pct": -0.6
+    "price": 52690.83,
+    "change": 626.73,
+    "pct": 1.2
   },
   "Nasdaq": {
-    "price": 26081.72,
-    "change": -171.62,
-    "pct": -0.65
+    "price": 26357.08,
+    "change": 275.36,
+    "pct": 1.06
   },
   "S&P 500": {
-    "price": 7591.7,
-    "change": -44.66,
-    "pct": -0.58
+    "price": 7671.22,
+    "change": 79.52,
+    "pct": 1.05
   },
   "Nikkei 225": {
     "price": 64011.34,
@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.31,
-    "change": -3.32,
-    "pct": -3.08
+    "price": 103.82,
+    "change": -3.81,
+    "pct": -3.54
   },
   "Crude Oil (WTI)": {
-    "price": 99.05,
-    "change": -3.43,
-    "pct": -3.35
+    "price": 98.59,
+    "change": -3.89,
+    "pct": -3.8
   },
   "Gold": {
-    "price": 4429.6,
-    "change": 65.1,
-    "pct": 1.49
+    "price": 4436.8,
+    "change": 72.3,
+    "pct": 1.66
   },
   "Silver": {
-    "price": 65.43,
-    "change": 1.15,
-    "pct": 1.79
+    "price": 65.62,
+    "change": 1.34,
+    "pct": 2.09
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,14 +78,14 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.07,
-    "change": -0.02,
-    "pct": -0.02
+    "price": 99.02,
+    "change": -0.07,
+    "pct": -0.07
   },
   "US 10Y Yield": {
-    "price": 4.92,
+    "price": 4.93,
     "change": -0.02,
-    "pct": -0.44
+    "pct": -0.36
   },
   "news": [
     {
@@ -94,12 +94,12 @@
       "published": "Fri, 11 Sep 2026 11:17:52 GMT"
     },
     {
-      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
+      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - blog.liquide.life",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
       "published": "Fri, 11 Sep 2026 11:11:12 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     }
   ],
-  "last_updated": "2026-09-11 13:25 UTC"
+  "last_updated": "2026-09-11 13:38 UTC"
 }
