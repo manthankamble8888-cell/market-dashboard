@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23344.6,
-    "change": -133.2,
-    "pct": -0.57
+    "price": 23352.4,
+    "change": -125.4,
+    "pct": -0.53
   },
   "Bank Nifty": {
-    "price": 56198.5,
-    "change": -273.45,
-    "pct": -0.48
+    "price": 56291.95,
+    "change": -180.0,
+    "pct": -0.32
   },
   "Sensex": {
-    "price": 74483.99,
-    "change": -418.6,
-    "pct": -0.56
+    "price": 74529.86,
+    "change": -372.73,
+    "pct": -0.5
   },
   "India VIX": {
-    "price": 12.3,
-    "change": 0.49,
-    "pct": 4.19
+    "price": 12.33,
+    "change": 0.53,
+    "pct": 4.47
   },
   "Nifty IT": {
-    "price": 29007.95,
-    "change": 117.05,
-    "pct": 0.41
+    "price": 29056.0,
+    "change": 165.1,
+    "pct": 0.57
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": -1.93
   },
   "Hang Seng": {
-    "price": 24808.42,
-    "change": -146.05,
-    "pct": -0.59
+    "price": 24793.21,
+    "change": -161.26,
+    "pct": -0.65
   },
   "Crude Oil (Brent)": {
-    "price": 105.96,
-    "change": -1.67,
-    "pct": -1.55
+    "price": 105.51,
+    "change": -2.12,
+    "pct": -1.97
   },
   "Crude Oil (WTI)": {
-    "price": 101.25,
-    "change": -1.23,
-    "pct": -1.2
+    "price": 100.74,
+    "change": -1.74,
+    "pct": -1.7
   },
   "Gold": {
-    "price": 4392.9,
-    "change": 28.4,
-    "pct": 0.65
+    "price": 4392.0,
+    "change": 27.5,
+    "pct": 0.63
   },
   "Silver": {
-    "price": 64.43,
-    "change": 0.15,
-    "pct": 0.23
+    "price": 64.49,
+    "change": 0.2,
+    "pct": 0.31
   },
   "USD/INR": {
-    "price": 95.7,
-    "change": 0.59,
-    "pct": 0.62
+    "price": 95.69,
+    "change": 0.58,
+    "pct": 0.61
   },
   "Dollar Index": {
-    "price": 99.05,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 99.06,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
     "price": 4.94,
@@ -109,9 +109,14 @@
       "published": "Fri, 11 Sep 2026 04:07:48 GMT"
     },
     {
-      "title": "Sensex, Nifty fall nearly 1%: 3 reasons why stock market is down today - India Today",
+      "title": "Sensex, Nifty fall nearly 1%: 3 reasons why stock market is down today - indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVhPNWUzZ1RscVg3X1dvbkFlaFdvYjgxal9tX2xkTDNBV3VFclVtZ2NneThXb1pmXzQ1bC1hTGdoVjBwMVBWaEk2SzRnU2M2bmRGYkxXV3F4TUdaSnZrdVVQTFhPQmloaDZyeXdUU0FWbGZ5VjZ5dlIxdnFSZFBhRU5WSGpldXZGeklUV0lQcXZmR1VTaDVEaUcyb0xpTUU1TmhSQzVEYmFkMFJIY1k0ejB2dElfRWdjLVRPd241NkdyaExXbmozVGJB0gHKAUFVX3lxTE81WE81ZTNnVGxxWDdfV29uQWVoV29iODFqX21fbGRMM0FXdUVyVW1nY2d5OFdvWmZfNDVsLWFMZ2hWMHAxUFZoSTZLNGdTYzZuZEZiTFdXcXhNR1pKdmt1VVBMWE9CaWhoNnJ5d1RTQVZsZnlWNnl2UjF2cVJkUGFFTlZIamV1dkZ6SVRXSVBxdmZHVVNoNURpRzJvTGlNRTVOaFJDNURiYWQwUkhjWTR6MHZ0SV9FZ2MtVE93bjU2R3JoTFduajNUYkE?oc=5",
       "published": "Fri, 11 Sep 2026 05:37:05 GMT"
+    },
+    {
+      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - hdfcsky.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlpVb1pBWnp4OXdoVWlwWnlCZTFMSk54aktXcnMxeGhxOVZRM1pyQUxIT0xCWVJ6ODJHNUhNbVU0NGk2bFVKZzN2cm1iZWJXNEVMZjdvWEJlZUtxUmZlQUJNU3NobTg2Q243blFBa2ZZX0dXTmtzM0VVcWRBTXV1SkpZazJXRnZ1RHBLY25FbTY4bkc1WFRBSnNMR0cza2M?oc=5",
+      "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     },
     {
       "title": "Indian Stock Market Crash: 3 Key Factors Behind Fall - INDToday",
@@ -119,15 +124,10 @@
       "published": "Fri, 11 Sep 2026 05:47:48 GMT"
     },
     {
-      "title": "Sensex plunges 700 points, Nifty falls 0.95% as Iran war drives oil to $108 - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNV3VLX0h5WUJrTUZ1OTBXVkpCM1ZhVEhEX0p0QkwybUN5U2JuWl9Ec2pQTGVEd3FNc21aVm5OR0t4blN0MU1sUHJtQW5ZWFRPREIxdmFlN0JUQVlla1VLMTAzWUhzb0xpTHM5T1otRHkxVTh0X2lHSXRxWUxSTjY5RnlYNzNQOGwxRHNwZnp3QUxTU0lMQ2lWWTlDLThVSFB6VnlSTmo3NUlzMTVwQWZYTXl0UWJjaWFZS3JOMnJnNi1KOTJyT1AzVHk3VG13QjAtN3VXR0VqbnViZGd0bHFaOHgxR3QyZ25hQWc?oc=5",
-      "published": "Fri, 11 Sep 2026 03:46:39 GMT"
-    },
-    {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 10, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU243Q29oSl9oWkZzVTc1Q1NjdDkzYVZDZ0dsNUdzemNFNWFjLW1tQXJjbkNFVGJLNkkzSFVNSHZQWUxyWGNwSXZpUGZLUGpFcHhFak9MT01vUHpKeHRVRm5oTGk5MVlOYzNZREszQlhvNUFZTWhqMEhjS2lqYnpJRmVpQzNjcHlEM3hQMGs5M1RaYU9ERnkwdUh0b0pYNDM3cDJKNGZSYlM0OE1WUGxjNUFFbGROdE56NXZnUw?oc=5",
-      "published": "Thu, 10 Sep 2026 11:37:32 GMT"
+      "title": "Northern Coalfields Sees Strong Production Recovery | Hindustan Zinc Signs Long-Term Transport Partnership | Top Buzzing Stocks Today - equitymaster.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORk5RZkllcWtNeXZrR2FadVM4aWFELU92aUZYTWVORUtxOVRLRjhieklZY2xvQ2trb3o5b0ZiX0ljWkM5VzR0Z0lsdzExTmpKQjd2bW5QSzdNaVB1c2V2amw4QldTV3VmZmZzSEF3c0tHR2xUWmNDdTdLMWpOYWtvUjNLeVJsUjk0aEJZLUFlRGc2RW42MnR0b1FvN196ZlhGUi13VVdELUdHaEpfQllGRGVRNTFMRW5yS19WYnJWUWFhV01zc0EydmpHYzIwREUtV0NuUzNYaFBSNFBrODFKM3RZbGx2VkItY0tvV1pJRkJRdlBvVmxQaTBabHdLRF92Y2ZDMGxMZFNULTFhaGE3NUxhSlN4X3VvaTkw?oc=5",
+      "published": "Fri, 11 Sep 2026 00:30:00 GMT"
     }
   ],
-  "last_updated": "2026-09-11 07:07 UTC"
+  "last_updated": "2026-09-11 07:25 UTC"
 }
