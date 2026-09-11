@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23379.1,
-    "change": -98.7,
-    "pct": -0.42
+    "price": 23412.7,
+    "change": -65.1,
+    "pct": -0.28
   },
   "Bank Nifty": {
-    "price": 56449.05,
-    "change": -22.9,
-    "pct": -0.04
+    "price": 56517.5,
+    "change": 45.55,
+    "pct": 0.08
   },
   "Sensex": {
-    "price": 74457.6,
-    "change": -444.99,
-    "pct": -0.59
+    "price": 74640.72,
+    "change": -261.88,
+    "pct": -0.35
   },
   "India VIX": {
-    "price": 12.47,
-    "change": 0.67,
-    "pct": 5.66
+    "price": 12.28,
+    "change": 0.48,
+    "pct": 4.09
   },
   "Nifty IT": {
-    "price": 29004.65,
-    "change": 113.75,
-    "pct": 0.39
+    "price": 29018.2,
+    "change": 127.3,
+    "pct": 0.44
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,29 +53,29 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 105.52,
-    "change": -2.11,
-    "pct": -1.96
+    "price": 104.8,
+    "change": -2.83,
+    "pct": -2.63
   },
   "Crude Oil (WTI)": {
-    "price": 100.57,
-    "change": -1.91,
-    "pct": -1.86
+    "price": 100.17,
+    "change": -2.31,
+    "pct": -2.25
   },
   "Gold": {
-    "price": 4388.6,
-    "change": 24.1,
-    "pct": 0.55
+    "price": 4396.4,
+    "change": 31.9,
+    "pct": 0.73
   },
   "Silver": {
-    "price": 64.46,
-    "change": 0.18,
-    "pct": 0.27
+    "price": 64.79,
+    "change": 0.5,
+    "pct": 0.78
   },
   "USD/INR": {
-    "price": 95.72,
-    "change": 0.61,
-    "pct": 0.64
+    "price": 95.64,
+    "change": 0.53,
+    "pct": 0.56
   },
   "Dollar Index": {
     "price": 99.11,
@@ -94,19 +94,14 @@
       "published": "Wed, 09 Sep 2026 23:57:44 GMT"
     },
     {
-      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - ChiniMandi",
+      "title": "Sensex plunges 593 points, Nifty falls 0.88% at open as crude price surge to 4-month high - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdklqWEJrUHNPbnRNdENNVFRCbzE2dV94OWhMZjRyWHJ6YzUwVHFwRmk5S1B2cUZKT1dDMzRpTGdwZ3EtVmpvMU9SWm92SDYwQkZod2pBdkYxVFJkM2hZclJnMUY2UXAwNmMySU1TeDZBUkJBQ2VYVk5BMG8yaS02bVlIWHp2cDVWQWNodGtfLXh4YkxncmQxZ0tnQkJPeEJjSTl6cEJqSk1kWWtKcHFYYV9fVF84UQ?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:12 GMT"
     },
     {
-      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - equitymaster.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMmRaaTIxR1NMdFZHQm0wNEJtNzRDdjFOYzBHS1pTdzYxRm02YVVTb0lPRXZXNWw1WXZ2UE1hemlZY0s3TmlJRnBsMlpEblBoV3A3V25FcmQ5eEtYdVA5SVNLckpFQ1h3VHFUOGhHaWkzZ3RKeEstNzhmVnZRZzl2TkxRanFFc29JZEt6TTBPZDdQTG55WThlVXZHYUliWWlBLUhTWnhRWE5hOUhGdUo5VmdnLXFaWDZHX2RQQjB1Z1BIMUVwREY5c3Y3T2lXQXk0d19DTVV4THM0a2s?oc=5",
+      "title": "Sensex Today Tanka 680 Points | Nifty Below 23,250 | Axis Bank & Tata Steel Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2VBOVhoTV9MazZDaU9UZFgtcFlGWlNHa0daYVM1X1FJdHBiOVMwb0pqNTNTT29Bcmg1dGdJVHg4ZkVBNEtId0dwdlhxTW4zRUdXYXgwTWdfemhqWVNIMmhXTDAtdkpqdmtUb1RDVFpZTWZEOWhsVnRUVU9PZ0d4azlic1U4MGxaNWJzN3A0dWpCVHBuTGRxX1ROUW52Xzk0aDlDX1F0c2NvSGdtM21fQ2t4MllXOTlSNFZQazhDMk9mMl9JYlUxLTJNYmlqalRvb3RfRzlFQ090Zw?oc=5",
       "published": "Fri, 11 Sep 2026 04:47:10 GMT"
-    },
-    {
-      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlpVb1pBWnp4OXdoVWlwWnlCZTFMSk54aktXcnMxeGhxOVZRM1pyQUxIT0xCWVJ6ODJHNUhNbVU0NGk2bFVKZzN2cm1iZWJXNEVMZjdvWEJlZUtxUmZlQUJNU3NobTg2Q243blFBa2ZZX0dXTmtzM0VVcWRBTXV1SkpZazJXRnZ1RHBLY25FbTY4bkc1WFRBSnNMR0cza2M?oc=5",
-      "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     },
     {
       "title": "How Asian markets, crude will impact Sensex, Nifty 50: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
@@ -124,10 +119,15 @@
       "published": "Fri, 11 Sep 2026 05:37:05 GMT"
     },
     {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
-      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+      "title": "How the Nifty 50 Index Is Calculated and Why It Matters - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYlpVb1pBWnp4OXdoVWlwWnlCZTFMSk54aktXcnMxeGhxOVZRM1pyQUxIT0xCWVJ6ODJHNUhNbVU0NGk2bFVKZzN2cm1iZWJXNEVMZjdvWEJlZUtxUmZlQUJNU3NobTg2Q243blFBa2ZZX0dXTmtzM0VVcWRBTXV1SkpZazJXRnZ1RHBLY25FbTY4bkc1WFRBSnNMR0cza2M?oc=5",
+      "published": "Fri, 11 Sep 2026 07:03:49 GMT"
+    },
+    {
+      "title": "Indian Stock Market Crash: 3 Key Factors Behind Fall - INDToday",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11T2MyWGFlcEF1SWxVVTNLUURKcVFsQndXRmJRZ2Z0cDRKT3dGeFNnaFI3a1l0bjdteXF5STJZRHVGTEQ0WEtaOGNQRDYxQnRudG9RUGRYMXdFUU5kTHptXy1qVTluQld3RVZ6dkViSjRfNnhyREdnWlJoY3RkUQ?oc=5",
+      "published": "Fri, 11 Sep 2026 05:47:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 08:26 UTC"
+  "last_updated": "2026-09-11 08:41 UTC"
 }
