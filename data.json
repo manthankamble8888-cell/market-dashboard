@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.6,
-    "change": -3.03,
-    "pct": -2.82
+    "price": 104.31,
+    "change": -3.32,
+    "pct": -3.08
   },
   "Crude Oil (WTI)": {
-    "price": 99.37,
-    "change": -3.11,
-    "pct": -3.03
+    "price": 99.05,
+    "change": -3.43,
+    "pct": -3.35
   },
   "Gold": {
-    "price": 4419.8,
-    "change": 55.3,
-    "pct": 1.27
+    "price": 4429.6,
+    "change": 65.1,
+    "pct": 1.49
   },
   "Silver": {
-    "price": 65.54,
-    "change": 1.26,
-    "pct": 1.95
+    "price": 65.43,
+    "change": 1.15,
+    "pct": 1.79
   },
   "USD/INR": {
     "price": 95.54,
@@ -83,9 +83,9 @@
     "pct": -0.02
   },
   "US 10Y Yield": {
-    "price": 4.93,
-    "change": -0.01,
-    "pct": -0.2
+    "price": 4.92,
+    "change": -0.02,
+    "pct": -0.44
   },
   "news": [
     {
@@ -94,12 +94,12 @@
       "published": "Fri, 11 Sep 2026 11:17:52 GMT"
     },
     {
-      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
+      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
       "published": "Fri, 11 Sep 2026 11:11:12 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 07:03:49 GMT"
     }
   ],
-  "last_updated": "2026-09-11 13:06 UTC"
+  "last_updated": "2026-09-11 13:25 UTC"
 }
