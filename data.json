@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 104.49,
-    "change": -3.14,
-    "pct": -2.92
+    "price": 104.42,
+    "change": -3.21,
+    "pct": -2.98
   },
   "Crude Oil (WTI)": {
-    "price": 100.02,
-    "change": -2.46,
-    "pct": -2.4
+    "price": 99.99,
+    "change": -2.49,
+    "pct": -2.43
   },
   "Gold": {
-    "price": 4389.8,
-    "change": 25.3,
+    "price": 4390.0,
+    "change": 25.5,
     "pct": 0.58
   },
   "Silver": {
-    "price": 65.0,
-    "change": 0.72,
-    "pct": 1.12
+    "price": 65.02,
+    "change": 0.74,
+    "pct": 1.14
   },
   "USD/INR": {
     "price": 95.54,
@@ -90,7 +90,7 @@
       "published": "Fri, 11 Sep 2026 12:21:16 GMT"
     },
     {
-      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - equitymaster.com",
+      "title": "Sensex Today Ends 121 Points Lower | Nifty Below 23,400 | Cochin Shipyard Down 9% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQTBnQmp3c3dQODFkdmxJeHY0Y3J4Z29NUG5sZC1pVmEtVzdVMkZLdTljOVJ2bWhxS2xZVHEtLXJlY0pSY2szcUluQ09qMld3WTc5YUhZOUFsdGxXcHFlWHZXWXJiZnZvVDYyR3dhRXA5dlBEMkM3RU5NSzJnTkdIemFaRVRUNWJzM3A1bGxCZGlUeEFhWTBTbTNpTGw2c0Nia0ZoNHpuZjdyam9WQUNFdVdrVlZQY3F4RHYyVlNVNlduWmp6bDJXSWtYaDFKQmtYeUJR?oc=5",
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     }
   ],
-  "last_updated": "2026-09-11 21:05 UTC"
+  "last_updated": "2026-09-11 21:22 UTC"
 }
