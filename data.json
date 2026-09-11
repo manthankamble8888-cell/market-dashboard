@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 104.19,
-    "change": -3.44,
-    "pct": -3.2
+    "price": 104.0,
+    "change": -3.63,
+    "pct": -3.37
   },
   "Crude Oil (WTI)": {
-    "price": 99.47,
-    "change": -3.01,
-    "pct": -2.94
+    "price": 99.17,
+    "change": -3.31,
+    "pct": -3.23
   },
   "Gold": {
-    "price": 4375.0,
-    "change": 10.5,
-    "pct": 0.24
+    "price": 4373.7,
+    "change": 9.2,
+    "pct": 0.21
   },
   "Silver": {
-    "price": 64.34,
-    "change": 0.06,
-    "pct": 0.09
+    "price": 64.33,
+    "change": 0.05,
+    "pct": 0.08
   },
   "USD/INR": {
     "price": 95.54,
@@ -89,11 +89,6 @@
   },
   "news": [
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
-      "published": "Fri, 11 Sep 2026 11:11:12 GMT"
-    },
-    {
       "title": "Indian Equities Close Marginally Lower as Oil Cools, IT Stocks Gain - Rediff",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOVhRbUQtM0NwemVXdWJROGlYNjRtSFFuaFNiWFZEZFYzby03LXZMOFlJZTY5VHhWLXpObjBZUmpWZ0wxamNXR28yejhKOXdpT2lTMmpRSEkwUmJ4QnRsVmhxc3lfZUxFZ29ZZVJhcWZTVTcxc2I2NmxjbVNQUFFTRzFfU2daYjdFVEtncllpcU9yRXBxOWFoTVpvUnhmY0ZnbUFIbFpVR0oyZDVLZGxQTUo0T3JkdWhWQlc5U01JNDQ3cUJpLWhsbXZTb041UdIB0AFBVV95cUxNSHA2Q0dYcVNyNVk0eHI1TnlnSTJwcFdOQzNWdzhIbHdIYnlQZTF1cFB3N0tpdFB6T2NaY25PYkF4Q1ZWUUZaTG42T3FnRnRXZlZmcVh5M29mbzllMjRNMjhmcnNPV29pM2dfdjB1aU9LdC1fRXlfcnhuQzhJeDdtMTVtY0VDS2RXaHF5YURYdmVQLUM3aWRDVXhLbXNSanNnaXBzTWs2QnBYMUk0c3JjRWx2QnZWOG5DTjE0U3djWF9qbEFucm0wTjBpU1VVQmVy?oc=5",
       "published": "Fri, 11 Sep 2026 11:17:52 GMT"
@@ -109,14 +104,9 @@
       "published": "Fri, 11 Sep 2026 10:57:04 GMT"
     },
     {
-      "title": "NSE IPO: How Is the Nifty 50 Calculated? - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53YVFkQXotR2l1Y0dGVHlpNXBCeTlRUVNBRVFMWVBZWXhQR3RHUkNQVE81dTdNaUlnMDRhUVBXbVNEeTN1MVM1ZkFWc3VQRnU1cGVkVWNPdV9UN1ZWUjZtN1hic1dPaUhobk9KLTBMV3dGNFNpTl84T19HX2JQTFk?oc=5",
-      "published": "Fri, 11 Sep 2026 09:25:02 GMT"
-    },
-    {
-      "title": "Indian stock market surges over 3 pc over Iran ceasefire, Sensex jumps 2,775 points - ddnews.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGU1ekdxR3ZRM1MxbUFCVHlyOWZjS3h4S2FuX2lXM3FrcjEyd0dwLWx5WENvQlUtZloySy1MRmNGZ3dxNVhZT2x0WXA3T2JYNU5sdktFQjdhREEtclJPOURRNG9xZjhXbm5JZ3B5ZzZoUlZ6YUtySUthZUl4MzhrXzV3bXd3cThoemJOZVpScjZwemo4eDhXVllLVFdrUWFRQkRlcXItU1FzaVE?oc=5",
-      "published": "Tue, 08 Sep 2026 19:01:51 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 11, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaXFaaGp4VzYxY0JYNkMxUmZjVmtBWnducjZxdlZXRVpLRlhSNW5lS1dJNVF6cHRMb1EzRm1rV2c0UUd3RDRKcFZaaVdGTGhiVE4xMXFOT3BTcC1yUU5GV0pUS0lGbVE1ZXRqUzdlLUQ5RVVpMUtwS2ljNEdrMzdmWE8tbmRmclpJTHc1QlFpTEdQanB6UGt0NldFTTIzUnlnM2lzc2g0VUN5dWN4cTY5Wl9RN0hVZV8w?oc=5",
+      "published": "Fri, 11 Sep 2026 11:11:12 GMT"
     },
     {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.34% - Investing.com",
@@ -124,10 +114,20 @@
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
     },
     {
-      "title": "Sensex, Nifty fall nearly 1%: 3 reasons why stock market is down today - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNVhPNWUzZ1RscVg3X1dvbkFlaFdvYjgxal9tX2xkTDNBV3VFclVtZ2NneThXb1pmXzQ1bC1hTGdoVjBwMVBWaEk2SzRnU2M2bmRGYkxXV3F4TUdaSnZrdVVQTFhPQmloaDZyeXdUU0FWbGZ5VjZ5dlIxdnFSZFBhRU5WSGpldXZGeklUV0lQcXZmR1VTaDVEaUcyb0xpTUU1TmhSQzVEYmFkMFJIY1k0ejB2dElfRWdjLVRPd241NkdyaExXbmozVGJB0gHKAUFVX3lxTE81WE81ZTNnVGxxWDdfV29uQWVoV29iODFqX21fbGRMM0FXdUVyVW1nY2d5OFdvWmZfNDVsLWFMZ2hWMHAxUFZoSTZLNGdTYzZuZEZiTFdXcXhNR1pKdmt1VVBMWE9CaWhoNnJ5d1RTQVZsZnlWNnl2UjF2cVJkUGFFTlZIamV1dkZ6SVRXSVBxdmZHVVNoNURpRzJvTGlNRTVOaFJDNURiYWQwUkhjWTR6MHZ0SV9FZ2MtVE93bjU2R3JoTFduajNUYkE?oc=5",
-      "published": "Fri, 11 Sep 2026 05:37:05 GMT"
+      "title": "Small-cap tech stock under \u20b950 jumps despite weak trends in the Indian stock market - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORGttbW1ZU3daSENKeUNsSG83Y295MUFIdjkzdENrYnI2MTR6Q1BPVnpZbVBKeDY1X3NhZ2Z3Smg5NWM5WVVDaU1tdjBLaUV1NFdIZVlnS19KY0RvZUE3Y1I2bl91ZEl5dW5URjlPbGpwU19MNk5MWEZjSklGTW5EbWh4dlkzVGxlMkgyc3FvS1RRV3pjQS1aX3VyR0lvMnlBUE5UNGRqM0h0WWo4SVN3X3h5UnJsSnVhMmQxWk44S2ZvX2tfZ2xva0RPbTB4R1lQRERZcW1YT0lKbzZhWFVkR0M4V0pPY3JtMnBxYVdKMUV6OW0zakJyVmZDRXVoaFA2eXNITjd3cVVUTUXSAZACQVVfeXFMTkc4aTB0MXlBNGdfQjM0UDJlYmx2M2JEbXhqak5JQnJrWTcwR2lyNzVTUllOMnBjemhfSDh3bzZNRE96TDduZlFBZG1pbThUUTA5S1VjWGtUaGExNTFLMUZSWkdCTVFTbE9IWEl1M3ZuYTVhTVIzRmdfcWVlZ1p1SDIwVHZRYml5bUZPc0pNSGhMdGlhZ3QxeEJiY0hyQ3Brd1hJMlp6ak00bDVtc1p2ZWRSOGVHRGJabDlCaUVrRS1lVF9zcHZTSHZZYVVaSkp6TkhaeG04NnZIQ2I0cDhpSnZXRlM0NlpyT1dPaDcwQlZtTjY1OEVWajM4bWhrOGN4S0toc0ZFVExoc1RwN1B1M0Y?oc=5",
+      "published": "Fri, 11 Sep 2026 09:14:35 GMT"
+    },
+    {
+      "title": "Brent Crude Hits USD 110 As West Asia Crisis Intensifies: What It Means For Indian Markets - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNemVEMEZwdmdaZGRzSHRTb1NwU2d2cW1sTVhhUlR2YmtBS1A3X25ya3B0OFE2NFpIaGZVTlVrYndGdGZCeE16Nm9BNmkzS3Q3Y1FwNmM0ZVJzaXBYSXRhejQxU201aTliT1FGZWJBTjhPcXZrQ2J5c1MyREFobE9md2ZfWWNDcWkySHNRaU51U283Nl9rY09oSXJlVFg1WlppajRkeTZUbm1BM1QyMmZvb9IBvgFBVV95cUxQV0ZCYlJHNmQ5MEJ1VjRKbjAycGtuS1AyZExEMFkzcGNGTnliTVdtcEpYMUNSV1FYT2RaMTRSY2FoWkd0Um9WOVdQZkdZMmxiODdLR1ZNOWlJWDdBckxnMGRQMXVNRF96MFlRcGJkbFhHNXdjV3IxMFpOYmF0SWFQcWtjMzJDd0VrOHlLUXR6a3BBTkdIX1Riem1Jcjd1MW8zWjZfWWw4TVU1V2JHN1gwUHpleEFEWUJMaDA0SFRB?oc=5",
+      "published": "Fri, 11 Sep 2026 09:20:15 GMT"
+    },
+    {
+      "title": "NSE IPO: How Is the Nifty 50 Calculated? - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53YVFkQXotR2l1Y0dGVHlpNXBCeTlRUVNBRVFMWVBZWXhQR3RHUkNQVE81dTdNaUlnMDRhUVBXbVNEeTN1MVM1ZkFWc3VQRnU1cGVkVWNPdV9UN1ZWUjZtN1hic1dPaUhobk9KLTBMV3dGNFNpTl84T19HX2JQTFk?oc=5",
+      "published": "Fri, 11 Sep 2026 09:25:02 GMT"
     }
   ],
-  "last_updated": "2026-09-11 11:50 UTC"
+  "last_updated": "2026-09-11 12:08 UTC"
 }
