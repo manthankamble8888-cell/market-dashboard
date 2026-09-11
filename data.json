@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52642.21,
-    "change": 578.11,
-    "pct": 1.11
+    "price": 52652.73,
+    "change": 588.63,
+    "pct": 1.13
   },
   "Nasdaq": {
-    "price": 26386.71,
-    "change": 304.99,
-    "pct": 1.17
+    "price": 26382.79,
+    "change": 301.07,
+    "pct": 1.15
   },
   "S&P 500": {
-    "price": 7670.71,
-    "change": 79.01,
-    "pct": 1.04
+    "price": 7671.36,
+    "change": 79.66,
+    "pct": 1.05
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 104.31,
-    "change": -3.32,
-    "pct": -3.08
+    "price": 104.47,
+    "change": -3.16,
+    "pct": -2.94
   },
   "Crude Oil (WTI)": {
-    "price": 99.59,
-    "change": -2.89,
-    "pct": -2.82
+    "price": 99.77,
+    "change": -2.71,
+    "pct": -2.64
   },
   "Gold": {
-    "price": 4405.7,
-    "change": 41.2,
-    "pct": 0.94
+    "price": 4402.0,
+    "change": 37.5,
+    "pct": 0.86
   },
   "Silver": {
-    "price": 65.07,
-    "change": 0.79,
-    "pct": 1.22
+    "price": 65.01,
+    "change": 0.73,
+    "pct": 1.13
   },
   "USD/INR": {
     "price": 95.54,
@@ -74,16 +74,21 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": 0.02,
-    "pct": 0.02
+    "price": 99.09,
+    "change": 0.0,
+    "pct": 0.0
   },
   "US 10Y Yield": {
     "price": 4.95,
     "change": 0.01,
-    "pct": 0.1
+    "pct": 0.22
   },
   "news": [
+    {
+      "title": "Indian shares slide to three-month low in broad-based sell-off on Mideast worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcV9paWE2NzJNbkNRNUdicjF3UjUwSURuaUJ5TzRObXdfX2pKUEZ5NlZQQ1RSSW5GdFlNWUNHMzBSZlkxUzVRWEowU2NZRXMzTW8zeDNrZWQ3YmtBNERoXy1RZ3RLa0xwMjl4SDJyWXNQUXktY2h4aTQtRkpObkhQcm9uVVgzc1V2MUpYaDNvVGU4LU1IUm13WEk3eEJ6VDdfeUdKZ3FpQmMwdw?oc=5",
+      "published": "Fri, 11 Sep 2026 02:23:00 GMT"
+    },
     {
       "title": "Stock Market Weekly Analysis: September 7\u201311, 2026 - The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVlPSDBTQVdxWno4aXZRTEN2RWI0MEJucDFRM3hkeF9NeVU4ZmRnYURZUUpjOXhOT09rck9YYjhGXzhnZTk2T0tXakRtVEVIWTAzejVfbWhLcXNoM3BXRC1fRV9wZmtyanhSelA4cVdBUExZcV9oRjZGVXVCVk1jTVVB?oc=5",
@@ -118,12 +123,7 @@
       "title": "India stocks lower at close of trade; Nifty 50 down 0.34% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlBHSi12Rm5IYjVOLTZCNmFUQmxtcXJrUjNSWTF4SF9QRTVneGl3QktDNEgtU1JEdmhTNEo5Wk84UHgzbVRBenRVMnhTbWtHS2NKUkN4WVYwTTZINW9CdzhQQjdIb3p1TFpKVkhrWEdELWNiLWNWYVZTVl9tRWxfX3FQQnJGaTE4Z2RJYjV5cUljdDFiTmxhV1BHSURHanlNX2ZIOHo5RlV0M29VdW93Yw?oc=5",
       "published": "Fri, 11 Sep 2026 10:41:15 GMT"
-    },
-    {
-      "title": "Bond Yields Matter For India's Stock Market | The Reason Why - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpkZi1EMFU4eWZNeFRONHE3N0xrX0lPMUJHTkdsRUk5Q09xVElBSUoyckN3V0p2UDFBdFR2eFR4ZXowQ0E1dHlBWDRtTUZJS29fTG9GejBZNWM2a0N1S01UczRLcG1aNHk4MXJYZE42U005Yl9Tbi1ibW1PS09PLWlvS3dQcGI4aEcwbUh3Vkg5eFpOYkdab1VFRURJdXBBUVdnSFo2eG5CNi0zX0HSAbYBQVVfeXFMTUkzU3dOcGRKV3ZzWnZrekRWQ2t3RzU1ZWFLaV9HR2VLN1pyZ3ZqdjI0M2hlMHlVaWtwR3FSLV9aY3F4VUtxLVlMblFNaVdzaUhjZHIza0FMWFU1X3MtQ29sSlgzVUN3d19DTmhGd1lfRlhjU3RsUDJ0U1VaeTFyai16a0dsOENiZ3dzRXNhS2FZaFY2UEh1OUVSMHR1TXV1WHJUMmhmMlJydlRnQWtQV2plOVM5QWc?oc=5",
-      "published": "Fri, 11 Sep 2026 14:43:48 GMT"
     }
   ],
-  "last_updated": "2026-09-11 17:48 UTC"
+  "last_updated": "2026-09-11 18:06 UTC"
 }
