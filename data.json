@@ -28,8 +28,8 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52573.29,
-    "change": 509.19,
+    "price": 52573.3,
+    "change": 509.2,
     "pct": 0.98
   },
   "Nasdaq": {
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 09:20:15 GMT"
     }
   ],
-  "last_updated": "2026-09-12 03:06 UTC"
+  "last_updated": "2026-09-12 03:24 UTC"
 }
