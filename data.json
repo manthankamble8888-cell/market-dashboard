@@ -74,8 +74,8 @@
   },
   "USD/INR": {
     "price": 95.54,
-    "change": 0.43,
-    "pct": 0.45
+    "change": -0.15,
+    "pct": -0.16
   },
   "Dollar Index": {
     "price": 99.1,
@@ -129,5 +129,5 @@
       "published": "Fri, 11 Sep 2026 09:20:15 GMT"
     }
   ],
-  "last_updated": "2026-09-12 03:24 UTC"
+  "last_updated": "2026-09-12 03:38 UTC"
 }
