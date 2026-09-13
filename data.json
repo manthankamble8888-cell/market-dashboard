@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 107.71,
-    "change": 3.1,
-    "pct": 2.96
+    "price": 107.55,
+    "change": 2.94,
+    "pct": 2.81
   },
   "Crude Oil (WTI)": {
-    "price": 102.5,
-    "change": 2.45,
-    "pct": 2.45
+    "price": 102.34,
+    "change": 2.29,
+    "pct": 2.29
   },
   "Gold": {
-    "price": 4377.2,
-    "change": 11.0,
-    "pct": 0.25
+    "price": 4379.3,
+    "change": 13.1,
+    "pct": 0.3
   },
   "Silver": {
-    "price": 64.53,
-    "change": -0.02,
-    "pct": -0.04
+    "price": 64.56,
+    "change": 0.01,
+    "pct": 0.01
   },
   "USD/INR": {
     "price": 95.54,
@@ -89,9 +89,14 @@
   },
   "news": [
     {
-      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - Livemint",
+      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd1MzRHU4NUFGWGxyeEd6dTNIYmtpaEl1Y1NlcGd1OUtVVldFeFJGd0Q3ZW9uMWlRQ3ZlMFlPeFYta3M2eE9mdk1KQ1JPb3Zkc3h2aHhDaFlyQjBRWEJzOXdFX1dmRW42Y0l1U2pKYm5TVzV2LVVScmpjOWZYV3NtS0NvT2FTai1HU1Z4bU9vTUgxX2dmV2l5SFVSMGJSaDY3U1M0R21PX0NRdG1XYmdQd0ZtdG94UDVxZ2dTSlJvZUt5Tnl3ejZxbnhLVkFxbWNZVTFKVmpRQTJXeHRVZzlNdU9FbFhFeTVBZElIQ2c5RFVSM2J6dXNmMjV5VV9QSFJwWkZMYnphNFBhai1IakhKWFVsMNIBmAJBVV95cUxQaWVIcUZsWVZEUmhLUEVoeXZwVTZ3eXhXRXJ4TDVtaGlQZThmTXV6YndjcVEyWkJFNWFCVzFVNkVrUFRGdEV2b3ZVdDlHcFY4V3lpa1EybTQ1T0FjOGZjY0RGbTlBaUpqMHF1NWQwWXN6Y1I1Y3NwUmZCd0pfcGxfdGpnakhKVU5qZm82MjJQd2xOdlU1d0dfNGU3U2g2R19iWUNXQ0pTY3NyRm54OFFuSWxhLWltOUs3MEFubF90cEt0NDRfYzNsZ2RZWUJPZXczN1lXdXJtUDdnRy1sZkQ0NzIzVFo2cUhDTHRtcEUzbzdoMnpLV1RSRlN6cEYyVlltSlpER0I0a0FHY3MtQkVPN2o4Ul9uMl9Q?oc=5",
       "published": "Sun, 13 Sep 2026 05:03:30 GMT"
+    },
+    {
+      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russia's pivot to asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlHdTZ3TGNGNTJOeUhYMWlpal90T2pfb3lTazFKc3VnQXRRZTNBcUdweXNlUEFWY2RGdXJYYkozUi1JWWVQem5YdHlnLTZsLUFPY3FRSlVZc2FaM2JqVUR2cWhHTDBFSHl2WmFfcGp4TElXdm9EVXVLRkktTnFZZndtRE1xQ0xzaWZNajRseEpkQ1RDMkdzV3NWN1cwSFNUV1E?oc=5",
+      "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
       "title": "Invest in US Stocks from India \u2013 US Stock Market Today - Upstox",
@@ -109,7 +114,7 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
+      "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - blog.liquide.life",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmxOcnYxRzRlMXZzWjBDdFlyYmRqSUIzbHl5a2hPSkh3ZWphN2daMVo1dXFuTlpsbHpuNnZIRW4tZTRPRWx5SjY5bFpjdkRmMGo0eE8weE1PeG15OGM2aWNROEk3eDdrQWhha1lQNlpySTF4SDhiNGRGdWwwSWtEZHJwdEpqYUNnX1FKb3F2cjc4LTF1dzZxNzBn?oc=5",
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     },
@@ -122,12 +127,7 @@
       "title": "Stock market holiday tomorrow: Why NSE and BSE will remain closed on September 14 | Business News - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTkVlRVhodW9mbjBQZTJfa0h0R2xrNHpXZTg5TnBWNHJIVnpyeHBrVTd6cmNFc053VDBqX1ZnSTJvMzF1VVBGdHE4Zi1jSmZRcS1abGZDSTRSTV9JV0ZvcVAyYXJkZ2lxc1JqdXlKa2l2cFBqVVE4OUhqbWY0Z05uZ2lxelBYSDBLbExkQ1RlRE1sQnE3Zkw1Tm1Ca0JlWElDNnZQN3hpemVRVzl5cXpGRXpuX3VVaXlqN3liejUwRE9xTUVrNENEUFF0ZzctZzVWQ2lva25ibk5GajFacE5uclRTanJ4aE5NamFpWkpJZVBKc2k1dW03eDUxMnpoZ9IBgwJBVV95cUxNS2VmSU5GT2h6c0duYWtudE5xUVpEQ0VuM0tOSTFTdU5TRkwzMFIteldUbjVRSUoyTHhXQTh3RDRYNWthSWh6UTB3WUNoTGdFaHdzVWpQQ0VYSmhZWnNGdFpjVk4wVkpDQXhXXzdZTG1hR1VwOV9sOThRc08tTlpNT0Z4WXdlWFpuRXZlQ2xoaDljRkR3M3hRanpQQWJCYVhwbW1SWGRQSWF1QUJUTVd2UG1YUE54QWRqeGVtX1VjVHJzb1dxWFJGS2dJeEJ6T3A1ZFNRVERkY2lKSmhvbXNoTmtsWEotd1VPaTEwTk5DY0luc28tNElwU2ZFaFFzOEQ1OTg0?oc=5",
       "published": "Sun, 13 Sep 2026 12:13:59 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook September 14-18: Will Sensex, Nifty Extend 5-Week Losing Streak? Check Key Trigger - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV20xandLUUF4RFlLU1REUVlWRGFSRVBKazZkQWY0aWVacDdmSExoaTl4cXhhdFBqLWhlOWJzenJwQmwyMFVDeTc4Ni1LZTk1Z3RSeDNxYS1GN2lOX0ZFYVNnVXlTUWdLWi11anBSYUk0cENPdC1BWnNKdGJuMjV6NFlBd05hRDB5MmlpZGdUOUg1UG5tQXBpMkE3eElVMHhLYld2X3Z4YzEtaWhXVHp6N3NfUmtZTGlpdEYzYXRPUFdTdU9zOVdtaWU4akNzM00xamVkd21zanUxUQ?oc=5",
-      "published": "Sun, 13 Sep 2026 03:48:39 GMT"
     }
   ],
-  "last_updated": "2026-09-13 22:49 UTC"
+  "last_updated": "2026-09-13 23:05 UTC"
 }
