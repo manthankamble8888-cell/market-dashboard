@@ -53,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 108.18,
-    "change": 3.57,
-    "pct": 3.41
+    "price": 107.83,
+    "change": 3.22,
+    "pct": 3.08
   },
   "Crude Oil (WTI)": {
-    "price": 103.12,
-    "change": 3.07,
-    "pct": 3.07
+    "price": 102.86,
+    "change": 2.81,
+    "pct": 2.81
   },
   "Gold": {
-    "price": 4373.6,
-    "change": 7.4,
-    "pct": 0.17
+    "price": 4376.4,
+    "change": 10.2,
+    "pct": 0.23
   },
   "Silver": {
-    "price": 64.39,
-    "change": -0.16,
-    "pct": -0.25
+    "price": 64.5,
+    "change": -0.05,
+    "pct": -0.08
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.1,
-    "change": -0.03,
-    "pct": -0.03
+    "price": 99.15,
+    "change": 0.03,
+    "pct": 0.03
   },
   "US 10Y Yield": {
     "price": 4.97,
@@ -114,14 +114,14 @@
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sat, 12 Sep 2026 18:54:09 GMT"
-    },
-    {
-      "title": "Stock market holiday tomorrow: Why NSE and BSE will remain closed on September 14 | Business News - Hindustan Times",
+      "title": "Stock market holiday tomorrow: Why NSE and BSE will remain closed on September 14 | Business News - hindustantimes.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTkVlRVhodW9mbjBQZTJfa0h0R2xrNHpXZTg5TnBWNHJIVnpyeHBrVTd6cmNFc053VDBqX1ZnSTJvMzF1VVBGdHE4Zi1jSmZRcS1abGZDSTRSTV9JV0ZvcVAyYXJkZ2lxc1JqdXlKa2l2cFBqVVE4OUhqbWY0Z05uZ2lxelBYSDBLbExkQ1RlRE1sQnE3Zkw1Tm1Ca0JlWElDNnZQN3hpemVRVzl5cXpGRXpuX3VVaXlqN3liejUwRE9xTUVrNENEUFF0ZzctZzVWQ2lva25ibk5GajFacE5uclRTanJ4aE5NamFpWkpJZVBKc2k1dW03eDUxMnpoZ9IBgwJBVV95cUxNS2VmSU5GT2h6c0duYWtudE5xUVpEQ0VuM0tOSTFTdU5TRkwzMFIteldUbjVRSUoyTHhXQTh3RDRYNWthSWh6UTB3WUNoTGdFaHdzVWpQQ0VYSmhZWnNGdFpjVk4wVkpDQXhXXzdZTG1hR1VwOV9sOThRc08tTlpNT0Z4WXdlWFpuRXZlQ2xoaDljRkR3M3hRanpQQWJCYVhwbW1SWGRQSWF1QUJUTVd2UG1YUE54QWRqeGVtX1VjVHJzb1dxWFJGS2dJeEJ6T3A1ZFNRVERkY2lKSmhvbXNoTmtsWEotd1VPaTEwTk5DY0luc28tNElwU2ZFaFFzOEQ1OTg0?oc=5",
       "published": "Sun, 13 Sep 2026 12:13:59 GMT"
+    },
+    {
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+      "published": "Sat, 12 Sep 2026 18:42:16 GMT"
     },
     {
       "title": "Indian Stock Market Outlook September 14-18: Will Sensex, Nifty Extend 5-Week Losing Streak? Check Key Trigger - Goodreturns",
@@ -129,5 +129,5 @@
       "published": "Sun, 13 Sep 2026 03:48:39 GMT"
     }
   ],
-  "last_updated": "2026-09-13 22:24 UTC"
+  "last_updated": "2026-09-13 22:38 UTC"
 }
