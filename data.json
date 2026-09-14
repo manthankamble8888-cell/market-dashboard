@@ -43,7 +43,9 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 62826.38,
+    "change": -1184.96,
+    "pct": -1.85
   },
   "Hang Seng": {
     "price": 24805.63,
@@ -51,24 +53,24 @@
     "pct": -0.6
   },
   "Crude Oil (Brent)": {
-    "price": 107.59,
-    "change": 2.98,
-    "pct": 2.85
+    "price": 107.49,
+    "change": 2.88,
+    "pct": 2.75
   },
   "Crude Oil (WTI)": {
-    "price": 102.57,
-    "change": 2.52,
-    "pct": 2.52
+    "price": 102.56,
+    "change": 2.51,
+    "pct": 2.51
   },
   "Gold": {
-    "price": 4373.1,
-    "change": 6.9,
-    "pct": 0.16
+    "price": 4381.0,
+    "change": 14.8,
+    "pct": 0.34
   },
   "Silver": {
-    "price": 64.47,
-    "change": -0.08,
-    "pct": -0.12
+    "price": 64.5,
+    "change": -0.06,
+    "pct": -0.09
   },
   "USD/INR": {
     "price": 95.54,
@@ -76,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.11,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 99.14,
+    "change": 0.02,
+    "pct": 0.02
   },
   "US 10Y Yield": {
     "price": 4.97,
@@ -87,7 +89,7 @@
   },
   "news": [
     {
-      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - Livemint",
+      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd1MzRHU4NUFGWGxyeEd6dTNIYmtpaEl1Y1NlcGd1OUtVVldFeFJGd0Q3ZW9uMWlRQ3ZlMFlPeFYta3M2eE9mdk1KQ1JPb3Zkc3h2aHhDaFlyQjBRWEJzOXdFX1dmRW42Y0l1U2pKYm5TVzV2LVVScmpjOWZYV3NtS0NvT2FTai1HU1Z4bU9vTUgxX2dmV2l5SFVSMGJSaDY3U1M0R21PX0NRdG1XYmdQd0ZtdG94UDVxZ2dTSlJvZUt5Tnl3ejZxbnhLVkFxbWNZVTFKVmpRQTJXeHRVZzlNdU9FbFhFeTVBZElIQ2c5RFVSM2J6dXNmMjV5VV9QSFJwWkZMYnphNFBhai1IakhKWFVsMNIBmAJBVV95cUxQaWVIcUZsWVZEUmhLUEVoeXZwVTZ3eXhXRXJ4TDVtaGlQZThmTXV6YndjcVEyWkJFNWFCVzFVNkVrUFRGdEV2b3ZVdDlHcFY4V3lpa1EybTQ1T0FjOGZjY0RGbTlBaUpqMHF1NWQwWXN6Y1I1Y3NwUmZCd0pfcGxfdGpnakhKVU5qZm82MjJQd2xOdlU1d0dfNGU3U2g2R19iWUNXQ0pTY3NyRm54OFFuSWxhLWltOUs3MEFubF90cEt0NDRfYzNsZ2RZWUJPZXczN1lXdXJtUDdnRy1sZkQ0NzIzVFo2cUhDTHRtcEUzbzdoMnpLV1RSRlN6cEYyVlltSlpER0I0a0FHY3MtQkVPN2o4Ul9uMl9Q?oc=5",
       "published": "Sun, 13 Sep 2026 05:03:30 GMT"
     },
@@ -97,7 +99,7 @@
       "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
-      "title": "SEBI tightens scrutiny of Wall Street giants operating in India - ETLegalWorld.com",
+      "title": "SEBI tightens scrutiny of Wall Street giants operating in India - legal.economictimes.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGFRT0pjZ0hzTTk0eU5Gc09XbHpkUktJODJwWWRBaU1PTl92bTR1M3NSc2JXZlM0WkstcEdES1J2TDJxWFl5WjEtNVdMOXM5MmRfaGNleVQxV215SERfeGR6SVItSXVLeXRwS3Zib3NfeFFORFZlWmxUMEtzTF8wU0ozVUNNYUhLMDFoZEFfVm5nejVITFFBOHplR1F5bDFSaXJYOHRRYmhESm1DdS1tOEROX1M5RlhUYWlBblNSNV9XZEpjSVlFQlpJb2bSAdIBQVVfeXFMTnpvNk5iVkxkRlJfYU5LUXo2amR1ZDBmQUNvVUo5eWx0LVZSQzU0ekpITFEwdUc5NEVMVXlSejZkZnQ5bFFjZXVmeEpYdC1DVE1wdmNoaThkaWxiQjFjcmpZc1ppU0lXbnNkXzUya2RiZEVXcldqbDVhS1V1WTN2MGRfc3o1MWtzTlAzblBjQUJlZUVxZ3g0WU9lRVdEbjlmNjBwWkw3eE5xOUlCVWZRaXhKRnFnc2Q0SkUyc1hIc0R2NjVHeGFfNFY5R2Z5WnR2cTJn?oc=5",
       "published": "Sun, 13 Sep 2026 18:20:03 GMT"
     },
@@ -122,10 +124,10 @@
       "published": "Sun, 13 Sep 2026 12:13:59 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook September 14-18: Will Sensex, Nifty Extend 5-Week Losing Streak? Check Key Trigger - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV20xandLUUF4RFlLU1REUVlWRGFSRVBKazZkQWY0aWVacDdmSExoaTl4cXhhdFBqLWhlOWJzenJwQmwyMFVDeTc4Ni1LZTk1Z3RSeDNxYS1GN2lOX0ZFYVNnVXlTUWdLWi11anBSYUk0cENPdC1BWnNKdGJuMjV6NFlBd05hRDB5MmlpZGdUOUg1UG5tQXBpMkE3eElVMHhLYld2X3Z4YzEtaWhXVHp6N3NfUmtZTGlpdEYzYXRPUFdTdU9zOVdtaWU4akNzM00xamVkd21zanUxUQ?oc=5",
-      "published": "Sun, 13 Sep 2026 03:48:39 GMT"
+      "title": "Stock Markets Weekly Analysis: September 7\u201311, 2026 - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVlPSDBTQVdxWno4aXZRTEN2RWI0MEJucDFRM3hkeF9NeVU4ZmRnYURZUUpjOXhOT09rck9YYjhGXzhnZTk2T0tXakRtVEVIWTAzejVfbWhLcXNoM3BXRC1fRV9wZmtyanhSelA4cVdBUExZcV9oRjZGVXVCVk1jTVVB?oc=5",
+      "published": "Fri, 11 Sep 2026 16:56:51 GMT"
     }
   ],
-  "last_updated": "2026-09-14 00:09 UTC"
+  "last_updated": "2026-09-14 00:33 UTC"
 }
