@@ -43,34 +43,34 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63490.35,
-    "change": -520.99,
-    "pct": -0.81
+    "price": 63498.61,
+    "change": -512.73,
+    "pct": -0.8
   },
   "Hang Seng": {
-    "price": 24781.02,
-    "change": -24.61,
-    "pct": -0.1
+    "price": 24830.22,
+    "change": 24.59,
+    "pct": 0.1
   },
   "Crude Oil (Brent)": {
-    "price": 107.2,
-    "change": 2.59,
-    "pct": 2.48
+    "price": 107.31,
+    "change": 2.7,
+    "pct": 2.58
   },
   "Crude Oil (WTI)": {
-    "price": 102.46,
-    "change": 2.41,
-    "pct": 2.41
+    "price": 102.7,
+    "change": 2.65,
+    "pct": 2.65
   },
   "Gold": {
-    "price": 4394.4,
-    "change": 28.2,
-    "pct": 0.65
+    "price": 4385.9,
+    "change": 19.7,
+    "pct": 0.45
   },
   "Silver": {
-    "price": 64.84,
-    "change": 0.29,
-    "pct": 0.44
+    "price": 64.73,
+    "change": 0.18,
+    "pct": 0.27
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.2,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 99.23,
+    "change": 0.11,
+    "pct": 0.11
   },
   "US 10Y Yield": {
     "price": 4.97,
@@ -104,7 +104,7 @@
       "published": "Mon, 14 Sep 2026 02:37:11 GMT"
     },
     {
-      "title": "Stock Market Holiday today: NSE, BSE to remain shut for Ganesh Chaturthi. Check upcoming market holidays - economictimes.com",
+      "title": "Stock Market Holiday today: NSE, BSE to remain shut for Ganesh Chaturthi. Check upcoming market holidays - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZXVmUXVUM0hqSjEyWjExTTMwVXB5dXNtVmRsTElwNWF1RTU0SXhzdEoyc25jcGdkMldpbUx3Qm1uSzc0OWdoaGlRVEROb3djMmdzak5GTTVMWFo3VGd2eTVDai1TalV2WFpDMFBNQ2lmVklLQXJfcERqbjZZTTAzZFhxa0QwQVZhVV9Tamd5dnhSRGZ6c2Z2TjlkVmZVSmwzc2xuVzZKSmFPRlZyekt2SUYyYnhmR0dUclZfaGtEdjd3RDBLZ1RRcmNkTzdrS3NnUmtjNFEwRzN3WTVqczVEZ2l3d1pZMjlFd0I0cVpWc21HdUZYTWVPZFlVc01zcnhwMXlMRG1B0gGLAkFVX3lxTE5FOTRFSEpPSlEtcnJqaDJ5a2tYVmpTQ2lUVHJoSWlFSElmLTFSRldsSWpJaEFPR3h2RWczR0F5SGQ1VmlUMklLby1ZUlFmVEZOY3B5SEh6S3dIc1ROX2JQN2huNFAyb1N4b3FEc0ZmbFJVblVFWDh3ekY1MUkyMmhxdGowX3BUd1FXUzB1dFVxZUQ5UzZxY0J0TlNSbTlOamtZQmlOMTN0bXY3Y2hGVHJCTXpKTXh2b053TWM3TnhKeHRGc3BYSG9qWWNBUVVqWEZjdmd5NUpPRDZYWG5CYkY1VHk3RDlLV2NzRUlLWGIxd1Y3RnV6dXZkWVFWOEgzaTlJYzZPSkhzNjNmOA?oc=5",
       "published": "Mon, 14 Sep 2026 00:30:00 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Sun, 13 Sep 2026 18:20:03 GMT"
     }
   ],
-  "last_updated": "2026-09-14 02:39 UTC"
+  "last_updated": "2026-09-14 02:52 UTC"
 }
