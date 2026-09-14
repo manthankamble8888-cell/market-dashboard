@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52407.48,
-    "change": -165.81,
-    "pct": -0.32
+    "price": 52506.83,
+    "change": -66.46,
+    "pct": -0.13
   },
   "Nasdaq": {
-    "price": 26106.24,
-    "change": -226.8,
-    "pct": -0.86
+    "price": 26150.07,
+    "change": -182.96,
+    "pct": -0.69
   },
   "S&P 500": {
-    "price": 7612.64,
-    "change": -44.34,
-    "pct": -0.58
+    "price": 7623.33,
+    "change": -33.65,
+    "pct": -0.44
   },
   "Nikkei 225": {
     "price": 63492.99,
@@ -63,9 +63,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.98,
-    "change": 0.01,
-    "pct": 0.2
+    "price": 4.99,
+    "change": 0.02,
+    "pct": 0.34
   },
   "news": [
     {
@@ -89,7 +89,7 @@
       "published": "Mon, 14 Sep 2026 02:37:11 GMT"
     },
     {
-      "title": "India beats a hasty retreat from a crucial market reform - theprint.in",
+      "title": "India beats a hasty retreat from a crucial market reform - ThePrint",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUthY29MMjRFdHdmTHZrcVFYRUJVVUR3MXZUTkJ2VlY0UUNSM3EzejZnc3FkckNoY1Vma1kyT3o4Q1h2eWo3bjFPakJGZVRUR2lzQjQ4bGpZTG9rTmlfb091TS1kSFNKb21IVy1tYWtyTDkxMGg2dTRzMXFNU3loYXdaSGxqYUdkTXVrdTBXclc1UmJvSkHSAZsBQVVfeXFMTUJMaXdMLUtBVDg4emJQckZLejVQeFo3ZVdLVDZORFZGQXhQNTd3azhrUW1qUTZSc0dPZTdQNWlLVVRieV92Y0x0S2VNN3FtLTQwTzlVMk12eTBJeFJZLU50alBDSWl6bEpWbHY5ckdpWkZpdGtFR3ZqUkduSS1SUmlIZlQ5Vm1Nd2NMWGxVcTEtNDR1amhiTnhQaWM?oc=5",
       "published": "Mon, 14 Sep 2026 07:33:55 GMT"
     },
@@ -109,5 +109,5 @@
       "published": "Mon, 14 Sep 2026 03:35:40 GMT"
     }
   ],
-  "last_updated": "2026-09-14 13:55 UTC"
+  "last_updated": "2026-09-14 14:08 UTC"
 }
