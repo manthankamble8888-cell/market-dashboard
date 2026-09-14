@@ -43,34 +43,34 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63027.49,
-    "change": -983.85,
-    "pct": -1.54
+    "price": 63171.16,
+    "change": -840.18,
+    "pct": -1.31
   },
   "Hang Seng": {
-    "price": 24717.07,
-    "change": -88.56,
-    "pct": -0.36
+    "price": 24687.4,
+    "change": -118.23,
+    "pct": -0.48
   },
   "Crude Oil (Brent)": {
-    "price": 107.44,
-    "change": 2.83,
-    "pct": 2.71
+    "price": 106.92,
+    "change": 2.31,
+    "pct": 2.21
   },
   "Crude Oil (WTI)": {
-    "price": 102.57,
-    "change": 2.52,
-    "pct": 2.52
+    "price": 102.33,
+    "change": 2.28,
+    "pct": 2.28
   },
   "Gold": {
-    "price": 4383.6,
-    "change": 17.4,
-    "pct": 0.4
+    "price": 4391.1,
+    "change": 24.9,
+    "pct": 0.57
   },
   "Silver": {
-    "price": 64.64,
-    "change": 0.09,
-    "pct": 0.13
+    "price": 64.71,
+    "change": 0.16,
+    "pct": 0.25
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,9 +78,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.17,
-    "change": 0.05,
-    "pct": 0.05
+    "price": 99.18,
+    "change": 0.06,
+    "pct": 0.06
   },
   "US 10Y Yield": {
     "price": 4.97,
@@ -89,12 +89,12 @@
   },
   "news": [
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sun, 13 Sep 2026 23:40:27 GMT"
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+      "published": "Sun, 13 Sep 2026 23:39:19 GMT"
     },
     {
-      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - livemint.com",
+      "title": "Sensex, Nifty prediction for Tuesday: NSE, BSE closed tomorrow on Ganesha Chaturthi - Outlook for stock market 15th Sept - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd1MzRHU4NUFGWGxyeEd6dTNIYmtpaEl1Y1NlcGd1OUtVVldFeFJGd0Q3ZW9uMWlRQ3ZlMFlPeFYta3M2eE9mdk1KQ1JPb3Zkc3h2aHhDaFlyQjBRWEJzOXdFX1dmRW42Y0l1U2pKYm5TVzV2LVVScmpjOWZYV3NtS0NvT2FTai1HU1Z4bU9vTUgxX2dmV2l5SFVSMGJSaDY3U1M0R21PX0NRdG1XYmdQd0ZtdG94UDVxZ2dTSlJvZUt5Tnl3ejZxbnhLVkFxbWNZVTFKVmpRQTJXeHRVZzlNdU9FbFhFeTVBZElIQ2c5RFVSM2J6dXNmMjV5VV9QSFJwWkZMYnphNFBhai1IakhKWFVsMNIBmAJBVV95cUxQaWVIcUZsWVZEUmhLUEVoeXZwVTZ3eXhXRXJ4TDVtaGlQZThmTXV6YndjcVEyWkJFNWFCVzFVNkVrUFRGdEV2b3ZVdDlHcFY4V3lpa1EybTQ1T0FjOGZjY0RGbTlBaUpqMHF1NWQwWXN6Y1I1Y3NwUmZCd0pfcGxfdGpnakhKVU5qZm82MjJQd2xOdlU1d0dfNGU3U2g2R19iWUNXQ0pTY3NyRm54OFFuSWxhLWltOUs3MEFubF90cEt0NDRfYzNsZ2RZWUJPZXczN1lXdXJtUDdnRy1sZkQ0NzIzVFo2cUhDTHRtcEUzbzdoMnpLV1RSRlN6cEYyVlltSlpER0I0a0FHY3MtQkVPN2o4Ul9uMl9Q?oc=5",
       "published": "Sun, 13 Sep 2026 05:03:30 GMT"
     },
@@ -104,14 +104,14 @@
       "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
-      "title": "SEBI tightens scrutiny of Wall Street giants operating in India - ETLegalWorld.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGFRT0pjZ0hzTTk0eU5Gc09XbHpkUktJODJwWWRBaU1PTl92bTR1M3NSc2JXZlM0WkstcEdES1J2TDJxWFl5WjEtNVdMOXM5MmRfaGNleVQxV215SERfeGR6SVItSXVLeXRwS3Zib3NfeFFORFZlWmxUMEtzTF8wU0ozVUNNYUhLMDFoZEFfVm5nejVITFFBOHplR1F5bDFSaXJYOHRRYmhESm1DdS1tOEROX1M5RlhUYWlBblNSNV9XZEpjSVlFQlpJb2bSAdIBQVVfeXFMTnpvNk5iVkxkRlJfYU5LUXo2amR1ZDBmQUNvVUo5eWx0LVZSQzU0ekpITFEwdUc5NEVMVXlSejZkZnQ5bFFjZXVmeEpYdC1DVE1wdmNoaThkaWxiQjFjcmpZc1ppU0lXbnNkXzUya2RiZEVXcldqbDVhS1V1WTN2MGRfc3o1MWtzTlAzblBjQUJlZUVxZ3g0WU9lRVdEbjlmNjBwWkw3eE5xOUlCVWZRaXhKRnFnc2Q0SkUyc1hIc0R2NjVHeGFfNFY5R2Z5WnR2cTJn?oc=5",
-      "published": "Sun, 13 Sep 2026 18:20:03 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "SEBI tightens scrutiny of Wall Street giants operating in India - legal.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGFRT0pjZ0hzTTk0eU5Gc09XbHpkUktJODJwWWRBaU1PTl92bTR1M3NSc2JXZlM0WkstcEdES1J2TDJxWFl5WjEtNVdMOXM5MmRfaGNleVQxV215SERfeGR6SVItSXVLeXRwS3Zib3NfeFFORFZlWmxUMEtzTF8wU0ozVUNNYUhLMDFoZEFfVm5nejVITFFBOHplR1F5bDFSaXJYOHRRYmhESm1DdS1tOEROX1M5RlhUYWlBblNSNV9XZEpjSVlFQlpJb2bSAdIBQVVfeXFMTnpvNk5iVkxkRlJfYU5LUXo2amR1ZDBmQUNvVUo5eWx0LVZSQzU0ekpITFEwdUc5NEVMVXlSejZkZnQ5bFFjZXVmeEpYdC1DVE1wdmNoaThkaWxiQjFjcmpZc1ppU0lXbnNkXzUya2RiZEVXcldqbDVhS1V1WTN2MGRfc3o1MWtzTlAzblBjQUJlZUVxZ3g0WU9lRVdEbjlmNjBwWkw3eE5xOUlCVWZRaXhKRnFnc2Q0SkUyc1hIc0R2NjVHeGFfNFY5R2Z5WnR2cTJn?oc=5",
+      "published": "Sun, 13 Sep 2026 18:20:03 GMT"
     },
     {
       "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
@@ -119,15 +119,15 @@
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     },
     {
-      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-      "published": "Sun, 13 Sep 2026 23:39:19 GMT"
-    },
-    {
       "title": "Stock market holiday tomorrow: Why NSE and BSE will remain closed on September 14 | Business News - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTkVlRVhodW9mbjBQZTJfa0h0R2xrNHpXZTg5TnBWNHJIVnpyeHBrVTd6cmNFc053VDBqX1ZnSTJvMzF1VVBGdHE4Zi1jSmZRcS1abGZDSTRSTV9JV0ZvcVAyYXJkZ2lxc1JqdXlKa2l2cFBqVVE4OUhqbWY0Z05uZ2lxelBYSDBLbExkQ1RlRE1sQnE3Zkw1Tm1Ca0JlWElDNnZQN3hpemVRVzl5cXpGRXpuX3VVaXlqN3liejUwRE9xTUVrNENEUFF0ZzctZzVWQ2lva25ibk5GajFacE5uclRTanJ4aE5NamFpWkpJZVBKc2k1dW03eDUxMnpoZ9IBgwJBVV95cUxNS2VmSU5GT2h6c0duYWtudE5xUVpEQ0VuM0tOSTFTdU5TRkwzMFIteldUbjVRSUoyTHhXQTh3RDRYNWthSWh6UTB3WUNoTGdFaHdzVWpQQ0VYSmhZWnNGdFpjVk4wVkpDQXhXXzdZTG1hR1VwOV9sOThRc08tTlpNT0Z4WXdlWFpuRXZlQ2xoaDljRkR3M3hRanpQQWJCYVhwbW1SWGRQSWF1QUJUTVd2UG1YUE54QWRqeGVtX1VjVHJzb1dxWFJGS2dJeEJ6T3A1ZFNRVERkY2lKSmhvbXNoTmtsWEotd1VPaTEwTk5DY0luc28tNElwU2ZFaFFzOEQ1OTg0?oc=5",
       "published": "Sun, 13 Sep 2026 12:13:59 GMT"
+    },
+    {
+      "title": "Indian financial markets closed on September 14 - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZDdrWHdUM2FsOW9uMzdQUV9vTGQ5OHVMMjBIQk9NZkR0THpKTFBYcEEyWGJmYW8wTzJOMVJPeV9Fd1JTd0VZdmw4aFZWaGo2dVZEMzh2MDlrTUNGYnpJUWhHZjlpR3lLVmdvR2dCUE1NY3NpUkZud1ZkM0ZvejhiQ2w5OUc1QWtDYjRtRU1aZm9PRjk0MFRidTZodUtWOU50SWc?oc=5",
+      "published": "Mon, 14 Sep 2026 01:31:16 GMT"
     }
   ],
-  "last_updated": "2026-09-14 01:51 UTC"
+  "last_updated": "2026-09-14 02:06 UTC"
 }
