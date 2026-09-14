@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52450.39,
-    "change": -122.9,
-    "pct": -0.23
+    "price": 52469.4,
+    "change": -103.89,
+    "pct": -0.2
   },
   "Nasdaq": {
-    "price": 26258.36,
-    "change": -74.68,
-    "pct": -0.28
+    "price": 26248.94,
+    "change": -84.1,
+    "pct": -0.32
   },
   "S&P 500": {
-    "price": 7630.93,
-    "change": -26.05,
-    "pct": -0.34
+    "price": 7630.39,
+    "change": -26.59,
+    "pct": -0.35
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -61,49 +61,8 @@
   "US 10Y Yield": {
     "price": 4.96,
     "change": -0.01,
-    "pct": -0.24
+    "pct": -0.28
   },
-  "news": [
-    {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Mon, 14 Sep 2026 14:07:41 GMT"
-    },
-    {
-      "title": "Indian stock markets are closed today: NSE, BSE trading holiday on Ganesh Chaturthi 14 Sept Monday - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNnpkbEFxMEVoYm1PTnRMdER4SUQ2YU9aVDdaZjRpX3lfUnhpY2U0TzZtSmNOdjg4Zm9BZzluXzBrMU00OEoxdW52M3kwak1KeGRTT19SMWF1V01zVm9DcldsTG4ycVkxdFpzZVRweTM1X1dwN0hDdGJrRS04d1ByZUhqSlFqU2dQU1FKUFJYZjZLRHJkeXhlRUcxY0NiRHp1UGhXVWFQdV9za3B3TWFpOGRRelF0ek9fYi1la0lIT1JTejNJS05nNF93RUhGaExlS0E3ckQ2LWNjbUxvOVhCVUdEcXBkWnQ1MFI2WGlfM2h4UzA4V1FGdU930gH_AUFVX3lxTE1XeXFQR1N0TUZLa0NZTzZsYmU3V2ZFRDc5YTUzY2lsMloxZTVLSW1VVVlLQWhzaXEtUWpOdkJmX1NzbWwtTTFHcU1mLXppVUZmS21FUzZjeEVxYjV2NGd0dUVqMXhlcXhJVHhMdmhLdVU4NHl4NWQtc0dTX1lQSmtNQVg2dTB1RFpFYjQyZXFiLXBsX29kdnRhOWMyd3M0anRoN0pGSU1NclpOd1BCVmRZNEF6VEdwR0RCUFdELTEyeXRyX1lhbklfM3BjTzhhdndHbkliSjNqbnBpanpuX0k5LWJMZE9fWUtnLVZkRVBlT2lRZzFTVkpaVHFtR25fcw?oc=5",
-      "published": "Mon, 14 Sep 2026 01:13:04 GMT"
-    },
-    {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "published": "Fri, 11 Sep 2026 10:08:00 GMT"
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVTgzQ3ZMVWM2Vm9FUkxYVV9SczlwN1U1eUdJTWFseEtMcno0eDU5eUZRZzQtSktXd2ZWOUhIb2RUNG5NNVhTUXNkV1Q2Y2VXTEZ0dVpybHpvMzdmdE5zZkxJcG9JN2ZZX0NXc1NVVzZMMlh6UDZvSS1JdTBiVkMtYnNKMlYtRl9Pd1cxM0xuZ1M4THh0Q2JQOWE4SGxfR0w0NnVhQl9pWlZneW9ESmRjczRBdDU0TDR6SDFpNDZ2LTRqcW1XVGN2OFBhRERxc3ZsandNUk43QmpsZWtrYVROc9IB5gFBVV95cUxPcHN0XzhKck9NdEo0QmxzXzcwcWs5TmR1VjRybFB1THhJNjI1OUdjNjVIejJJTzJlanhtUFJVdk13dzFEa1FxLVhNZ2lFY0RpaktRaUFhT0VhX1dpMUM2TEU0SnZhWllhRTlWc09ORGp3ZklMb1JKR1JhUU9nWGxkaHp2NVc2UnNHRnJUdS1XeUZDNjEzeE43T3Z4LTVzVmE5dlhBUlRMZ29IT19UcjR5NjhKdS1qWTRpYmc3SE9uZm95MVdUcVVma2RmMlRkdkp5OEZiS21QbGp6ZHRzOVh6am1qZEhZZw?oc=5",
-      "published": "Mon, 14 Sep 2026 15:45:43 GMT"
-    },
-    {
-      "title": "Nifty 50 At 26,200 By December? BofA Turns Constructive On Indian Market; Suggests Switching To Large-Caps - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNcDZHbWhKal9KZEtrOEs1ZW0ybFhObzlqR1E5WjhFTkVrS1daellKdFZLdDNDeFZWQy1SandJZXNKdHkxdUxuWGVFaER4Z1Y4TXZ1bTFobGJKSVRHVndORGx6NmlXakpfdm56dHNDM1cxNXdKcnYycE81ZG1zWTdtVlFsTWVZMXlfY1ljOHM4M3ZxZFdjUDlSNW9zOTRJbFVhMFlDR2V3akV0RlhxajBBelNDQmZOZkpfZjVlT0RGMFZwbXZ0VVRvZ2hMbGZiS2FjbW9kYzdHZVF6RHhTc0lSMzl2RjdNRlowaGfSAfIBQVVfeXFMUDdVaXJtcmhlYnpZbkVpclh2Mkwxd204bWEwdGJZYVMyRG9tVkRZbFB6MXN6MU9WYkpOVmIyMXU3TjE1NnNoNjRkZW9EcF9xRUpVSl9BeEhMUkNFYXF6QWVmYVE2NjlGOWlLbENlVGFDd095Zm9oSE5tYXJmbGVwN3ZzMENMcHEyLUJDN21PY1YwazZQWnVTQVFUZ0RpSnBpUGV2RFl5ZHBoOUc1MVFsanlXdU5yall4b2dFeklyTW5oa00wekRZcUlWR3QwVzdNMTZ1aEJFWTl5YzdqZmZKeksxamFUNzJSMFhLc1B5UTF2M2c?oc=5",
-      "published": "Mon, 14 Sep 2026 08:30:17 GMT"
-    },
-    {
-      "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmxOcnYxRzRlMXZzWjBDdFlyYmRqSUIzbHl5a2hPSkh3ZWphN2daMVo1dXFuTlpsbHpuNnZIRW4tZTRPRWx5SjY5bFpjdkRmMGo0eE8weE1PeG15OGM2aWNROEk3eDdrQWhha1lQNlpySTF4SDhiNGRGdWwwSWtEZHJwdEpqYUNnX1FKb3F2cjc4LTF1dzZxNzBn?oc=5",
-      "published": "Sat, 12 Sep 2026 16:35:56 GMT"
-    },
-    {
-      "title": "Stock market holiday: BSE, NSE closed today for Ganesh Chaturthi - indiaipo.in",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYW10aXhtZnB3a3ppSWxNbmZTVS1IamdWUHdWa1dsNHdGMkhzSjZNVWJkVlVPRFAzbFFBLU9LZVV1bUNxUWdHVXppRzBTNkR1VGE2TEFxalpKczdMcUhEandrWGVMZ0R4VkxlemEzREZ0a2RtSTdBZFpac1FlZXh3T0pqSTJ3UzJ6dEJfT3BiazhzVmFnT1BsLVIzTjJieWc?oc=5",
-      "published": "Mon, 14 Sep 2026 02:37:11 GMT"
-    },
-    {
-      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
-      "published": "Mon, 14 Sep 2026 14:20:19 GMT"
-    }
-  ],
-  "last_updated": "2026-09-14 19:06 UTC"
+  "news": [],
+  "last_updated": "2026-09-14 19:24 UTC"
 }
