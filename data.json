@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52506.83,
-    "change": -66.46,
-    "pct": -0.13
+    "price": 52326.43,
+    "change": -246.86,
+    "pct": -0.47
   },
   "Nasdaq": {
-    "price": 26150.07,
-    "change": -182.96,
-    "pct": -0.69
+    "price": 26051.45,
+    "change": -281.59,
+    "pct": -1.07
   },
   "S&P 500": {
-    "price": 7623.33,
-    "change": -33.65,
-    "pct": -0.44
+    "price": 7598.33,
+    "change": -58.65,
+    "pct": -0.77
   },
   "Nikkei 225": {
     "price": 63492.99,
@@ -63,9 +63,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.99,
-    "change": 0.02,
-    "pct": 0.34
+    "price": 5.0,
+    "change": 0.03,
+    "pct": 0.5
   },
   "news": [
     {
@@ -74,9 +74,9 @@
       "published": "Mon, 14 Sep 2026 01:13:04 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sun, 13 Sep 2026 23:40:27 GMT"
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+      "published": "Sun, 13 Sep 2026 23:39:19 GMT"
     },
     {
       "title": "Nifty 50 At 26,200 By December? BofA Turns Constructive On Indian Market; Suggests Switching To Large-Caps - NDTV Profit",
@@ -109,5 +109,5 @@
       "published": "Mon, 14 Sep 2026 03:35:40 GMT"
     }
   ],
-  "last_updated": "2026-09-14 14:08 UTC"
+  "last_updated": "2026-09-14 14:28 UTC"
 }
