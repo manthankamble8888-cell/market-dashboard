@@ -1,28 +1,18 @@
 {
   "Nifty 50": {
-    "price": 23398.1,
-    "change": -79.7,
-    "pct": -0.34
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 56606.55,
-    "change": 134.6,
-    "pct": 0.24
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 74781.76,
-    "change": -120.84,
-    "pct": -0.16
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 12.29,
-    "change": 0.49,
-    "pct": 4.15
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 28921.5,
-    "change": 30.6,
-    "pct": 0.11
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,34 +33,34 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63498.61,
-    "change": -512.73,
-    "pct": -0.8
+    "price": 63435.06,
+    "change": -576.28,
+    "pct": -0.9
   },
   "Hang Seng": {
-    "price": 24893.67,
-    "change": 88.04,
-    "pct": 0.35
+    "price": 24886.73,
+    "change": 81.1,
+    "pct": 0.33
   },
   "Crude Oil (Brent)": {
-    "price": 108.01,
-    "change": 3.4,
-    "pct": 3.25
+    "price": 107.88,
+    "change": 3.27,
+    "pct": 3.13
   },
   "Crude Oil (WTI)": {
-    "price": 103.38,
-    "change": 3.33,
-    "pct": 3.33
+    "price": 103.31,
+    "change": 3.26,
+    "pct": 3.26
   },
   "Gold": {
-    "price": 4372.3,
-    "change": 6.1,
-    "pct": 0.14
+    "price": 4369.7,
+    "change": 3.5,
+    "pct": 0.08
   },
   "Silver": {
-    "price": 64.52,
-    "change": -0.03,
-    "pct": -0.05
+    "price": 64.36,
+    "change": -0.19,
+    "pct": -0.29
   },
   "USD/INR": {
     "price": 95.54,
@@ -78,9 +68,9 @@
     "pct": -0.16
   },
   "Dollar Index": {
-    "price": 99.31,
-    "change": 0.19,
-    "pct": 0.19
+    "price": 99.33,
+    "change": 0.21,
+    "pct": 0.21
   },
   "US 10Y Yield": {
     "price": 4.97,
@@ -94,9 +84,9 @@
       "published": "Mon, 14 Sep 2026 01:13:04 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sun, 13 Sep 2026 23:40:27 GMT"
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+      "published": "Sun, 13 Sep 2026 23:39:19 GMT"
     },
     {
       "title": "Stock market holiday: BSE, NSE closed today for Ganesh Chaturthi - IndiaIPO",
@@ -104,19 +94,19 @@
       "published": "Mon, 14 Sep 2026 02:37:11 GMT"
     },
     {
-      "title": "Stock Market Holiday today: NSE, BSE to remain shut for Ganesh Chaturthi. Check upcoming market holidays - economictimes.com",
+      "title": "Stock Market Holiday today: NSE, BSE to remain shut for Ganesh Chaturthi. Check upcoming market holidays - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZXVmUXVUM0hqSjEyWjExTTMwVXB5dXNtVmRsTElwNWF1RTU0SXhzdEoyc25jcGdkMldpbUx3Qm1uSzc0OWdoaGlRVEROb3djMmdzak5GTTVMWFo3VGd2eTVDai1TalV2WFpDMFBNQ2lmVklLQXJfcERqbjZZTTAzZFhxa0QwQVZhVV9Tamd5dnhSRGZ6c2Z2TjlkVmZVSmwzc2xuVzZKSmFPRlZyekt2SUYyYnhmR0dUclZfaGtEdjd3RDBLZ1RRcmNkTzdrS3NnUmtjNFEwRzN3WTVqczVEZ2l3d1pZMjlFd0I0cVpWc21HdUZYTWVPZFlVc01zcnhwMXlMRG1B0gGLAkFVX3lxTE5FOTRFSEpPSlEtcnJqaDJ5a2tYVmpTQ2lUVHJoSWlFSElmLTFSRldsSWpJaEFPR3h2RWczR0F5SGQ1VmlUMklLby1ZUlFmVEZOY3B5SEh6S3dIc1ROX2JQN2huNFAyb1N4b3FEc0ZmbFJVblVFWDh3ekY1MUkyMmhxdGowX3BUd1FXUzB1dFVxZUQ5UzZxY0J0TlNSbTlOamtZQmlOMTN0bXY3Y2hGVHJCTXpKTXh2b053TWM3TnhKeHRGc3BYSG9qWWNBUVVqWEZjdmd5NUpPRDZYWG5CYkY1VHk3RDlLV2NzRUlLWGIxd1Y3RnV6dXZkWVFWOEgzaTlJYzZPSkhzNjNmOA?oc=5",
       "published": "Mon, 14 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russia's pivot to asia",
+      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russiaspivottoasia.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlHdTZ3TGNGNTJOeUhYMWlpal90T2pfb3lTazFKc3VnQXRRZTNBcUdweXNlUEFWY2RGdXJYYkozUi1JWWVQem5YdHlnLTZsLUFPY3FRSlVZc2FaM2JqVUR2cWhHTDBFSHl2WmFfcGp4TElXdm9EVXVLRkktTnFZZndtRE1xQ0xzaWZNajRseEpkQ1RDMkdzV3NWN1cwSFNUV1E?oc=5",
       "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+      "title": "Indian Stock Market Closed for Ganesh Chaturthi Holiday - India News Network",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnF0RDQtOVZ0LU9qOVNxMHJrZG1DS0gxakJhU3Jka3kzeENodlhERUJlbllQRmk4VDdxcVdodWR0d3JOTndOY2Q2VnA1a3F1VTJ3TFUtUkdNNFpZYjlzTnF3bWkwemxNUVhxQ1cxcl9SZEFaNmFGM2RDSEpuckRxVXhnRGRiM1pHUU5jdXBMVWJ2V3kwSmVET2o4dzY?oc=5",
+      "published": "Mon, 14 Sep 2026 02:01:11 GMT"
     },
     {
       "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
@@ -124,10 +114,10 @@
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     },
     {
-      "title": "SEBI tightens scrutiny of Wall Street giants operating in India - ETLegalWorld.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGFRT0pjZ0hzTTk0eU5Gc09XbHpkUktJODJwWWRBaU1PTl92bTR1M3NSc2JXZlM0WkstcEdES1J2TDJxWFl5WjEtNVdMOXM5MmRfaGNleVQxV215SERfeGR6SVItSXVLeXRwS3Zib3NfeFFORFZlWmxUMEtzTF8wU0ozVUNNYUhLMDFoZEFfVm5nejVITFFBOHplR1F5bDFSaXJYOHRRYmhESm1DdS1tOEROX1M5RlhUYWlBblNSNV9XZEpjSVlFQlpJb2bSAdIBQVVfeXFMTnpvNk5iVkxkRlJfYU5LUXo2amR1ZDBmQUNvVUo5eWx0LVZSQzU0ekpITFEwdUc5NEVMVXlSejZkZnQ5bFFjZXVmeEpYdC1DVE1wdmNoaThkaWxiQjFjcmpZc1ppU0lXbnNkXzUya2RiZEVXcldqbDVhS1V1WTN2MGRfc3o1MWtzTlAzblBjQUJlZUVxZ3g0WU9lRVdEbjlmNjBwWkw3eE5xOUlCVWZRaXhKRnFnc2Q0SkUyc1hIc0R2NjVHeGFfNFY5R2Z5WnR2cTJn?oc=5",
-      "published": "Sun, 13 Sep 2026 18:20:03 GMT"
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-09-14 03:41 UTC"
+  "last_updated": "2026-09-14 03:53 UTC"
 }
