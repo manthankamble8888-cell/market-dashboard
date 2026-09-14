@@ -33,14 +33,14 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63433.09,
-    "change": -578.25,
-    "pct": -0.9
+    "price": 63563.26,
+    "change": -448.08,
+    "pct": -0.7
   },
   "Hang Seng": {
-    "price": 24898.1,
-    "change": 92.47,
-    "pct": 0.37
+    "price": 24886.07,
+    "change": 80.44,
+    "pct": 0.32
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -94,12 +94,12 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russiaspivottoasia.com",
+      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russia's pivot to asia",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlHdTZ3TGNGNTJOeUhYMWlpal90T2pfb3lTazFKc3VnQXRRZTNBcUdweXNlUEFWY2RGdXJYYkozUi1JWWVQem5YdHlnLTZsLUFPY3FRSlVZc2FaM2JqVUR2cWhHTDBFSHl2WmFfcGp4TElXdm9EVXVLRkktTnFZZndtRE1xQ0xzaWZNajRseEpkQ1RDMkdzV3NWN1cwSFNUV1E?oc=5",
       "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
-      "title": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holiday - The Economic Times",
+      "title": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holiday - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZXVmUXVUM0hqSjEyWjExTTMwVXB5dXNtVmRsTElwNWF1RTU0SXhzdEoyc25jcGdkMldpbUx3Qm1uSzc0OWdoaGlRVEROb3djMmdzak5GTTVMWFo3VGd2eTVDai1TalV2WFpDMFBNQ2lmVklLQXJfcERqbjZZTTAzZFhxa0QwQVZhVV9Tamd5dnhSRGZ6c2Z2TjlkVmZVSmwzc2xuVzZKSmFPRlZyekt2SUYyYnhmR0dUclZfaGtEdjd3RDBLZ1RRcmNkTzdrS3NnUmtjNFEwRzN3WTVqczVEZ2l3d1pZMjlFd0I0cVpWc21HdUZYTWVPZFlVc01zcnhwMXlMRG1B0gGLAkFVX3lxTE5FOTRFSEpPSlEtcnJqaDJ5a2tYVmpTQ2lUVHJoSWlFSElmLTFSRldsSWpJaEFPR3h2RWczR0F5SGQ1VmlUMklLby1ZUlFmVEZOY3B5SEh6S3dIc1ROX2JQN2huNFAyb1N4b3FEc0ZmbFJVblVFWDh3ekY1MUkyMmhxdGowX3BUd1FXUzB1dFVxZUQ5UzZxY0J0TlNSbTlOamtZQmlOMTN0bXY3Y2hGVHJCTXpKTXh2b053TWM3TnhKeHRGc3BYSG9qWWNBUVVqWEZjdmd5NUpPRDZYWG5CYkY1VHk3RDlLV2NzRUlLWGIxd1Y3RnV6dXZkWVFWOEgzaTlJYzZPSkhzNjNmOA?oc=5",
       "published": "Mon, 14 Sep 2026 00:30:00 GMT"
     },
@@ -109,5 +109,5 @@
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     }
   ],
-  "last_updated": "2026-09-14 06:08 UTC"
+  "last_updated": "2026-09-14 06:32 UTC"
 }
