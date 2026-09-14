@@ -18,27 +18,25 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52500.98,
-    "change": -72.31,
-    "pct": -0.14
+    "price": 52480.56,
+    "change": -92.73,
+    "pct": -0.18
   },
   "Nasdaq": {
-    "price": 26228.56,
-    "change": -104.48,
-    "pct": -0.4
+    "price": 26206.75,
+    "change": -126.29,
+    "pct": -0.48
   },
   "S&P 500": {
-    "price": 7630.64,
-    "change": -26.34,
-    "pct": -0.34
+    "price": 7626.42,
+    "change": -30.56,
+    "pct": -0.4
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24917.6,
-    "change": 111.97,
-    "pct": 0.45
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -62,8 +60,8 @@
   },
   "US 10Y Yield": {
     "price": 4.95,
-    "change": -0.03,
-    "pct": -0.52
+    "change": -0.02,
+    "pct": -0.44
   },
   "news": [
     {
@@ -72,9 +70,9 @@
       "published": "Mon, 14 Sep 2026 01:13:04 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sun, 13 Sep 2026 23:40:27 GMT"
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
+      "published": "Sun, 13 Sep 2026 23:39:19 GMT"
     },
     {
       "title": "Nifty 50 At 26,200 By December? BofA Turns Constructive On Indian Market; Suggests Switching To Large-Caps - NDTV Profit",
@@ -107,5 +105,5 @@
       "published": "Mon, 14 Sep 2026 03:44:14 GMT"
     }
   ],
-  "last_updated": "2026-09-14 15:53 UTC"
+  "last_updated": "2026-09-14 16:06 UTC"
 }
