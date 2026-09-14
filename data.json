@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52480.56,
-    "change": -92.73,
-    "pct": -0.18
+    "price": 52531.54,
+    "change": -41.75,
+    "pct": -0.08
   },
   "Nasdaq": {
-    "price": 26206.75,
-    "change": -126.29,
-    "pct": -0.48
+    "price": 26250.26,
+    "change": -82.78,
+    "pct": -0.31
   },
   "S&P 500": {
-    "price": 7626.42,
-    "change": -30.56,
-    "pct": -0.4
+    "price": 7635.62,
+    "change": -21.36,
+    "pct": -0.28
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -59,9 +59,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.95,
-    "change": -0.02,
-    "pct": -0.44
+    "price": 4.94,
+    "change": -0.03,
+    "pct": -0.62
   },
   "news": [
     {
@@ -70,7 +70,7 @@
       "published": "Mon, 14 Sep 2026 01:13:04 GMT"
     },
     {
-      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - News On AIR",
+      "title": "RBI postpones implementation of new rules on capital market exposure by 3 months | Akashvani News - newsonair.gov.in",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDdpZW5ESjlDSllRenlRaVdPRVpQTXdwOWxwZXN5YXR0T0ZMUUVtT1JRR0hxWTRtdlJNbUpJTXNtRnVIcnRIaW1TYWdmYWliUXFKUUNoTEZYeE1mRjNlZjJOMmFmM3pBRlp1LWNlTG5EVjVNVUtmRThkWGZxOHV2YXYxZU9uWVdGdDZ3NEQzM0NCbzBLY2xFWk40ZzQxTUk2YllTQ0p5TUlGQQ?oc=5",
       "published": "Sun, 13 Sep 2026 23:39:19 GMT"
     },
@@ -105,5 +105,5 @@
       "published": "Mon, 14 Sep 2026 03:44:14 GMT"
     }
   ],
-  "last_updated": "2026-09-14 16:06 UTC"
+  "last_updated": "2026-09-14 16:25 UTC"
 }
