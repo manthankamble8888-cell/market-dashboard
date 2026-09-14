@@ -63,7 +63,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4.98,
+    "change": 0.0,
+    "pct": 0.08
   },
   "news": [
     {
@@ -92,7 +94,7 @@
       "published": "Mon, 14 Sep 2026 07:33:55 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
@@ -107,5 +109,5 @@
       "published": "Mon, 14 Sep 2026 03:35:40 GMT"
     }
   ],
-  "last_updated": "2026-09-14 12:32 UTC"
+  "last_updated": "2026-09-14 12:56 UTC"
 }
