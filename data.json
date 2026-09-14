@@ -33,14 +33,14 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63398.6,
-    "change": -612.74,
-    "pct": -0.96
+    "price": 63313.92,
+    "change": -697.42,
+    "pct": -1.09
   },
   "Hang Seng": {
-    "price": 24869.06,
-    "change": 63.43,
-    "pct": 0.26
+    "price": 24890.7,
+    "change": 85.07,
+    "pct": 0.34
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -89,14 +89,14 @@
       "published": "Mon, 14 Sep 2026 03:35:40 GMT"
     },
     {
-      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russia's pivot to asia",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlHdTZ3TGNGNTJOeUhYMWlpal90T2pfb3lTazFKc3VnQXRRZTNBcUdweXNlUEFWY2RGdXJYYkozUi1JWWVQem5YdHlnLTZsLUFPY3FRSlVZc2FaM2JqVUR2cWhHTDBFSHl2WmFfcGp4TElXdm9EVXVLRkktTnFZZndtRE1xQ0xzaWZNajRseEpkQ1RDMkdzV3NWN1cwSFNUV1E?oc=5",
-      "published": "Sun, 13 Sep 2026 16:57:27 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Investing In Indian Stocks That Show Russian Market Growth Potential - russia's pivot to asia",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdUlHdTZ3TGNGNTJOeUhYMWlpal90T2pfb3lTazFKc3VnQXRRZTNBcUdweXNlUEFWY2RGdXJYYkozUi1JWWVQem5YdHlnLTZsLUFPY3FRSlVZc2FaM2JqVUR2cWhHTDBFSHl2WmFfcGp4TElXdm9EVXVLRkktTnFZZndtRE1xQ0xzaWZNajRseEpkQ1RDMkdzV3NWN1cwSFNUV1E?oc=5",
+      "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
       "title": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holiday - economictimes.com",
@@ -109,5 +109,5 @@
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
     }
   ],
-  "last_updated": "2026-09-14 05:24 UTC"
+  "last_updated": "2026-09-14 05:38 UTC"
 }
