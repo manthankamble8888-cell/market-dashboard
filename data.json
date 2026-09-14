@@ -33,14 +33,14 @@
     "pct": 0.86
   },
   "Nikkei 225": {
-    "price": 63563.26,
-    "change": -448.08,
-    "pct": -0.7
+    "price": 63492.99,
+    "change": -518.35,
+    "pct": -0.81
   },
   "Hang Seng": {
-    "price": 24886.07,
-    "change": 80.44,
-    "pct": 0.32
+    "price": 24889.12,
+    "change": 83.49,
+    "pct": 0.34
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -89,7 +89,7 @@
       "published": "Mon, 14 Sep 2026 03:35:40 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
@@ -99,15 +99,15 @@
       "published": "Sun, 13 Sep 2026 16:57:27 GMT"
     },
     {
-      "title": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holiday - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZXVmUXVUM0hqSjEyWjExTTMwVXB5dXNtVmRsTElwNWF1RTU0SXhzdEoyc25jcGdkMldpbUx3Qm1uSzc0OWdoaGlRVEROb3djMmdzak5GTTVMWFo3VGd2eTVDai1TalV2WFpDMFBNQ2lmVklLQXJfcERqbjZZTTAzZFhxa0QwQVZhVV9Tamd5dnhSRGZ6c2Z2TjlkVmZVSmwzc2xuVzZKSmFPRlZyekt2SUYyYnhmR0dUclZfaGtEdjd3RDBLZ1RRcmNkTzdrS3NnUmtjNFEwRzN3WTVqczVEZ2l3d1pZMjlFd0I0cVpWc21HdUZYTWVPZFlVc01zcnhwMXlMRG1B0gGLAkFVX3lxTE5FOTRFSEpPSlEtcnJqaDJ5a2tYVmpTQ2lUVHJoSWlFSElmLTFSRldsSWpJaEFPR3h2RWczR0F5SGQ1VmlUMklLby1ZUlFmVEZOY3B5SEh6S3dIc1ROX2JQN2huNFAyb1N4b3FEc0ZmbFJVblVFWDh3ekY1MUkyMmhxdGowX3BUd1FXUzB1dFVxZUQ5UzZxY0J0TlNSbTlOamtZQmlOMTN0bXY3Y2hGVHJCTXpKTXh2b053TWM3TnhKeHRGc3BYSG9qWWNBUVVqWEZjdmd5NUpPRDZYWG5CYkY1VHk3RDlLV2NzRUlLWGIxd1Y3RnV6dXZkWVFWOEgzaTlJYzZPSkhzNjNmOA?oc=5",
-      "published": "Mon, 14 Sep 2026 00:30:00 GMT"
-    },
-    {
       "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmxOcnYxRzRlMXZzWjBDdFlyYmRqSUIzbHl5a2hPSkh3ZWphN2daMVo1dXFuTlpsbHpuNnZIRW4tZTRPRWx5SjY5bFpjdkRmMGo0eE8weE1PeG15OGM2aWNROEk3eDdrQWhha1lQNlpySTF4SDhiNGRGdWwwSWtEZHJwdEpqYUNnX1FKb3F2cjc4LTF1dzZxNzBn?oc=5",
       "published": "Sat, 12 Sep 2026 16:35:56 GMT"
+    },
+    {
+      "title": "Stock Market Holiday: Is NSE, BSE open or closed for Ganesh Chaturthi today. Check upcoming market holiday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZXVmUXVUM0hqSjEyWjExTTMwVXB5dXNtVmRsTElwNWF1RTU0SXhzdEoyc25jcGdkMldpbUx3Qm1uSzc0OWdoaGlRVEROb3djMmdzak5GTTVMWFo3VGd2eTVDai1TalV2WFpDMFBNQ2lmVklLQXJfcERqbjZZTTAzZFhxa0QwQVZhVV9Tamd5dnhSRGZ6c2Z2TjlkVmZVSmwzc2xuVzZKSmFPRlZyekt2SUYyYnhmR0dUclZfaGtEdjd3RDBLZ1RRcmNkTzdrS3NnUmtjNFEwRzN3WTVqczVEZ2l3d1pZMjlFd0I0cVpWc21HdUZYTWVPZFlVc01zcnhwMXlMRG1B0gGLAkFVX3lxTE5FOTRFSEpPSlEtcnJqaDJ5a2tYVmpTQ2lUVHJoSWlFSElmLTFSRldsSWpJaEFPR3h2RWczR0F5SGQ1VmlUMklLby1ZUlFmVEZOY3B5SEh6S3dIc1ROX2JQN2huNFAyb1N4b3FEc0ZmbFJVblVFWDh3ekY1MUkyMmhxdGowX3BUd1FXUzB1dFVxZUQ5UzZxY0J0TlNSbTlOamtZQmlOMTN0bXY3Y2hGVHJCTXpKTXh2b053TWM3TnhKeHRGc3BYSG9qWWNBUVVqWEZjdmd5NUpPRDZYWG5CYkY1VHk3RDlLV2NzRUlLWGIxd1Y3RnV6dXZkWVFWOEgzaTlJYzZPSkhzNjNmOA?oc=5",
+      "published": "Mon, 14 Sep 2026 00:30:00 GMT"
     }
   ],
-  "last_updated": "2026-09-14 06:32 UTC"
+  "last_updated": "2026-09-14 06:56 UTC"
 }
