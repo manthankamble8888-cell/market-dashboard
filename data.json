@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51897.66,
-    "change": -523.54,
-    "pct": -1.0
+    "price": 51910.64,
+    "change": -510.56,
+    "pct": -0.97
   },
   "Nasdaq": {
-    "price": 26008.52,
-    "change": -177.89,
-    "pct": -0.68
+    "price": 25951.07,
+    "change": -235.34,
+    "pct": -0.9
   },
   "S&P 500": {
-    "price": 7582.43,
-    "change": -37.55,
-    "pct": -0.49
+    "price": 7572.87,
+    "change": -47.11,
+    "pct": -0.62
   },
   "Nikkei 225": {
     "price": 63484.1,
@@ -43,24 +43,24 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 102.68,
-    "change": -3.0,
-    "pct": -2.84
+    "price": 102.93,
+    "change": -2.75,
+    "pct": -2.6
   },
   "Crude Oil (WTI)": {
-    "price": 103.75,
-    "change": 2.36,
-    "pct": 2.33
+    "price": 104.32,
+    "change": 2.93,
+    "pct": 2.89
   },
   "Gold": {
-    "price": 4324.8,
-    "change": -27.1,
-    "pct": -0.62
+    "price": 4318.5,
+    "change": -33.4,
+    "pct": -0.77
   },
   "Silver": {
-    "price": 63.88,
-    "change": 0.37,
-    "pct": 0.58
+    "price": 63.72,
+    "change": 0.2,
+    "pct": 0.32
   },
   "USD/INR": {
     "price": 95.94,
@@ -68,14 +68,14 @@
     "pct": 0.96
   },
   "Dollar Index": {
-    "price": 99.57,
-    "change": 0.11,
-    "pct": 0.12
+    "price": 99.61,
+    "change": 0.15,
+    "pct": 0.15
   },
   "US 10Y Yield": {
     "price": 5.01,
     "change": 0.05,
-    "pct": 0.99
+    "pct": 0.95
   },
   "news": [
     {
@@ -84,12 +84,12 @@
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
     {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - brut.media",
+      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
@@ -116,8 +116,8 @@
     {
       "title": "India rethinks newly implemented stock market pricing mechanism - ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2lrUE5DbkxFZmprdkpabmVWNm16U19hZ21oUmFvZXZMaEQ2OTFRaDIxRHBEUVBMdU5RRHR2YXhoaDRuMExRNHdlVTVkM0IwVnM1Y081V3dsTkowSklmV05jRVRBMXB4TW9MTjE3M3YwN3dFQ21aaEpYOTRwUEkzX3RYS0c?oc=5",
-      "published": "Tue, 15 Sep 2026 01:34:10 GMT"
+      "published": "Tue, 15 Sep 2026 01:30:06 GMT"
     }
   ],
-  "last_updated": "2026-09-15 14:39 UTC"
+  "last_updated": "2026-09-15 14:53 UTC"
 }
