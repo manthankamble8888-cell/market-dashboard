@@ -33,39 +33,39 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 63337.09,
-    "change": -155.9,
-    "pct": -0.25
+    "price": 63374.22,
+    "change": -118.77,
+    "pct": -0.19
   },
   "Hang Seng": {
-    "price": 24806.98,
-    "change": -110.62,
-    "pct": -0.44
+    "price": 24794.41,
+    "change": -123.19,
+    "pct": -0.49
   },
   "Crude Oil (Brent)": {
-    "price": 107.45,
-    "change": 1.77,
-    "pct": 1.67
+    "price": 107.46,
+    "change": 1.78,
+    "pct": 1.68
   },
   "Crude Oil (WTI)": {
-    "price": 103.31,
-    "change": 1.92,
-    "pct": 1.89
+    "price": 103.3,
+    "change": 1.91,
+    "pct": 1.88
   },
   "Gold": {
-    "price": 4339.5,
-    "change": -12.4,
-    "pct": -0.28
+    "price": 4337.9,
+    "change": -14.0,
+    "pct": -0.32
   },
   "Silver": {
-    "price": 63.66,
-    "change": 0.15,
-    "pct": 0.23
+    "price": 63.67,
+    "change": 0.16,
+    "pct": 0.25
   },
   "USD/INR": {
-    "price": 95.87,
-    "change": 0.84,
-    "pct": 0.88
+    "price": 95.86,
+    "change": 0.83,
+    "pct": 0.87
   },
   "Dollar Index": {
     "price": 99.62,
@@ -84,7 +84,7 @@
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
-      "title": "Indian shares open higher led by IT stocks, HDFC Bank - Reuters",
+      "title": "Indian shares open higher led by IT stocks, HDFC Bank - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
       "published": "Tue, 15 Sep 2026 03:55:49 GMT"
     },
@@ -99,7 +99,7 @@
       "published": "Tue, 15 Sep 2026 01:30:06 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,450 | IT stocks Shine - Equitymaster",
+      "title": "Sensex Today Trades Higher | Nifty Above 23,450 | IT stocks Shine - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmRVTkJRYmhaUmVQR0hXVFV0WmpNNU8tSVJiNU9DT0xaRDg4dTZmaHp1X29LR3ladlZOZlN1cTV5REJFbkYxSGJXaE9LY0pHLTZFZkJHQVJ0REJMZkFFdnhuU0g3VVlFVWxLLW00LWNQVDc5TVRKeGNPZlgtTElvVlFpd2tTUWwwNkZfRFpMelpkVE13WDE2RmtVQUhldzR1NlYyRzRPQ1JDUDNWSDlFVnJObm5RR1hZdEEyLVhVNA?oc=5",
       "published": "Tue, 15 Sep 2026 04:45:45 GMT"
     },
@@ -119,5 +119,5 @@
       "published": "Tue, 15 Sep 2026 03:54:25 GMT"
     }
   ],
-  "last_updated": "2026-09-15 05:25 UTC"
+  "last_updated": "2026-09-15 05:39 UTC"
 }
