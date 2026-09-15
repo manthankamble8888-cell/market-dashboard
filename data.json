@@ -39,9 +39,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.41,
-    "change": 2.73,
-    "pct": 2.58
+    "price": 108.46,
+    "change": 2.78,
+    "pct": 2.63
   },
   "Crude Oil (WTI)": {
     "price": 105.42,
@@ -49,14 +49,14 @@
     "pct": 3.97
   },
   "Gold": {
-    "price": 4324.7,
-    "change": -27.2,
-    "pct": -0.63
+    "price": 4325.3,
+    "change": -26.6,
+    "pct": -0.61
   },
   "Silver": {
-    "price": 64.21,
-    "change": 0.7,
-    "pct": 1.1
+    "price": 64.24,
+    "change": 0.72,
+    "pct": 1.14
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,7 +73,7 @@
   },
   "news": [
     {
-      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - reuters.com",
+      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
@@ -88,14 +88,14 @@
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
     {
-      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUZaOC1oYTI1ZGhSWkZ4cEtqNU1lck5qdlBXZVVyQllhMTQwblcxejVIU3VTU2U1MTJNdC1ObVdpUUpzb3RMeWJKZEZ3X0Fua1RTWEhBNE9Nc3JYclRxM1hNdkNSS1premRvOURtcTRKZGNFMUpiUWZ0S1poamZFYllqNU1rOGRnQnlEcll0TnMyRHNSYWQ4OTBKaDlKQ3BTdGtvck5oZ0F2NlhBMFBuemdhSVJOYXdJbEtFRl9BclJRWUpOZlZQVWN2UDRWWl9oVURMOVpOQ2c1TnhlT0tzN0g5c1hLT1BybENSRlhXbmpjSENEdGhIZEp4Vk0yeWFfVTM2NlRrQ0doTDZWQVp5WjZsa1A2UnBrTUdWOERESy3SAaYCQVVfeXFMT21oOGNyczJnMTQ1U0FCVi1uczVmVjQ0YkhBNkk2anFBRVVUcjktRzVFZHY4UTZoUFZxMk1XNHpnQW5CMHAyZ25XNnZhY1FGV2VvcXdkMTdVSHRpR25aNEoyZ25nWXY0dXhhYjU3WkFqd0Y5V2tGRUZpdkNqSGR3N093OTV0ZUdmM25vai1qNWhUN0I3UlVEbHBhTGFLNlhEM1UzaTh0ak80RWFrMGozUzlObFI3XzJmSWlNal9Vd25ZdWpoRWI4b2c4Wk05eWJxQUZ3dXBSSERyM1ZyVGo3aDVoZVRKRVlrcmxDaDFRdll1WGNNQXYzNlI0dUo2Tk9ienhaT29DTEFlSlQ5Y0VTZXIzNXBoMnRaRXBPZS1DWXRtaFUwS3JB?oc=5",
-      "published": "Tue, 15 Sep 2026 09:44:37 GMT"
-    },
-    {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
+    },
+    {
+      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUZaOC1oYTI1ZGhSWkZ4cEtqNU1lck5qdlBXZVVyQllhMTQwblcxejVIU3VTU2U1MTJNdC1ObVdpUUpzb3RMeWJKZEZ3X0Fua1RTWEhBNE9Nc3JYclRxM1hNdkNSS1premRvOURtcTRKZGNFMUpiUWZ0S1poamZFYllqNU1rOGRnQnlEcll0TnMyRHNSYWQ4OTBKaDlKQ3BTdGtvck5oZ0F2NlhBMFBuemdhSVJOYXdJbEtFRl9BclJRWUpOZlZQVWN2UDRWWl9oVURMOVpOQ2c1TnhlT0tzN0g5c1hLT1BybENSRlhXbmpjSENEdGhIZEp4Vk0yeWFfVTM2NlRrQ0doTDZWQVp5WjZsa1A2UnBrTUdWOERESy3SAaYCQVVfeXFMT21oOGNyczJnMTQ1U0FCVi1uczVmVjQ0YkhBNkk2anFBRVVUcjktRzVFZHY4UTZoUFZxMk1XNHpnQW5CMHAyZ25XNnZhY1FGV2VvcXdkMTdVSHRpR25aNEoyZ25nWXY0dXhhYjU3WkFqd0Y5V2tGRUZpdkNqSGR3N093OTV0ZUdmM25vai1qNWhUN0I3UlVEbHBhTGFLNlhEM1UzaTh0ak80RWFrMGozUzlObFI3XzJmSWlNal9Vd25ZdWpoRWI4b2c4Wk05eWJxQUZ3dXBSSERyM1ZyVGo3aDVoZVRKRVlrcmxDaDFRdll1WGNNQXYzNlI0dUo2Tk9ienhaT29DTEFlSlQ5Y0VTZXIzNXBoMnRaRXBPZS1DWXRtaFUwS3JB?oc=5",
+      "published": "Tue, 15 Sep 2026 09:44:37 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
@@ -113,5 +113,5 @@
       "published": "Tue, 15 Sep 2026 10:33:53 GMT"
     }
   ],
-  "last_updated": "2026-09-15 23:36 UTC"
+  "last_updated": "2026-09-15 23:49 UTC"
 }
