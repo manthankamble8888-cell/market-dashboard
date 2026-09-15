@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51907.31,
-    "change": -513.89,
-    "pct": -0.98
+    "price": 51962.91,
+    "change": -458.29,
+    "pct": -0.87
   },
   "Nasdaq": {
-    "price": 26006.62,
-    "change": -179.79,
-    "pct": -0.69
+    "price": 26010.37,
+    "change": -176.04,
+    "pct": -0.67
   },
   "S&P 500": {
-    "price": 7582.31,
-    "change": -37.67,
-    "pct": -0.49
+    "price": 7585.43,
+    "change": -34.55,
+    "pct": -0.45
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -41,24 +41,24 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 103.07,
-    "change": -2.61,
-    "pct": -2.47
+    "price": 103.11,
+    "change": -2.57,
+    "pct": -2.43
   },
   "Crude Oil (WTI)": {
-    "price": 104.43,
-    "change": 3.04,
-    "pct": 3.0
+    "price": 104.84,
+    "change": 3.45,
+    "pct": 3.4
   },
   "Gold": {
-    "price": 4318.9,
-    "change": -33.0,
-    "pct": -0.76
+    "price": 4324.0,
+    "change": -27.9,
+    "pct": -0.64
   },
   "Silver": {
-    "price": 63.7,
-    "change": 0.19,
-    "pct": 0.29
+    "price": 63.72,
+    "change": 0.21,
+    "pct": 0.33
   },
   "USD/INR": {
     "price": 95.94,
@@ -66,20 +66,20 @@
     "pct": 0.96
   },
   "Dollar Index": {
-    "price": 99.58,
-    "change": 0.12,
-    "pct": 0.12
+    "price": 99.64,
+    "change": 0.18,
+    "pct": 0.18
   },
   "US 10Y Yield": {
-    "price": 5.01,
-    "change": 0.05,
-    "pct": 0.91
+    "price": 5.0,
+    "change": 0.04,
+    "pct": 0.75
   },
   "news": [
     {
       "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-      "published": "Tue, 15 Sep 2026 02:35:00 GMT"
+      "published": "Tue, 15 Sep 2026 10:18:03 GMT"
     },
     {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
@@ -112,10 +112,10 @@
       "published": "Tue, 15 Sep 2026 12:20:28 GMT"
     },
     {
-      "title": "India rethinks newly implemented stock market pricing mechanism - ft.com",
+      "title": "India rethinks newly implemented stock market pricing mechanism - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2lrUE5DbkxFZmprdkpabmVWNm16U19hZ21oUmFvZXZMaEQ2OTFRaDIxRHBEUVBMdU5RRHR2YXhoaDRuMExRNHdlVTVkM0IwVnM1Y081V3dsTkowSklmV05jRVRBMXB4TW9MTjE3M3YwN3dFQ21aaEpYOTRwUEkzX3RYS0c?oc=5",
       "published": "Tue, 15 Sep 2026 01:30:06 GMT"
     }
   ],
-  "last_updated": "2026-09-15 15:07 UTC"
+  "last_updated": "2026-09-15 15:24 UTC"
 }
