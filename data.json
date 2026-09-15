@@ -33,9 +33,9 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 63664.38,
-    "change": 171.39,
-    "pct": 0.27
+    "price": 63497.29,
+    "change": 4.3,
+    "pct": 0.01
   },
   "Hang Seng": {
     "price": 24859.45,
@@ -43,34 +43,34 @@
     "pct": -0.23
   },
   "Crude Oil (Brent)": {
-    "price": 107.14,
-    "change": 1.46,
-    "pct": 1.38
+    "price": 107.34,
+    "change": 1.66,
+    "pct": 1.57
   },
   "Crude Oil (WTI)": {
-    "price": 103.01,
-    "change": 1.62,
-    "pct": 1.6
+    "price": 103.24,
+    "change": 1.85,
+    "pct": 1.82
   },
   "Gold": {
-    "price": 4347.2,
-    "change": -4.7,
-    "pct": -0.11
+    "price": 4343.7,
+    "change": -8.2,
+    "pct": -0.19
   },
   "Silver": {
-    "price": 63.88,
-    "change": 0.37,
-    "pct": 0.58
+    "price": 63.81,
+    "change": 0.3,
+    "pct": 0.47
   },
   "USD/INR": {
-    "price": 95.85,
-    "change": 0.82,
-    "pct": 0.86
+    "price": 95.83,
+    "change": 0.8,
+    "pct": 0.84
   },
   "Dollar Index": {
-    "price": 99.61,
-    "change": 0.15,
-    "pct": 0.15
+    "price": 99.62,
+    "change": 0.16,
+    "pct": 0.16
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -84,14 +84,14 @@
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil to gold | Eight stocks to buy - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1R0a1lYOHZ0MDF0TzNtZXVnRVo2SVJteXNnNlZHMmJDRXpQQ2N0SERtbVpiNmFyVFR0WXpJaG5TYjVWc0pMNjBYanRtX1hseGU4MzB5UW5Jc1NvbFNWQTJma05fYUxOQWZHdlZwYnhsejU0RnRRZmhIZDZOY0Q1WXB2ZXlILU1kMDVRcTF5aFQ2RDk1SHNVelZGd3NoMFFyU0hldjVBYk1Va2Jfc1hMTnVwZHY3dVJCdjJvcmVEeVFMVmlhcGJFbURIeVlQY0pxV21rMVB3WklqaFE3aGtNbldhNUZkZnp2Q0xRNWxHQdIB9AFBVV95cUxQa21wNFM4XzhfdTY5QXN4M0NUMjA5R3RfMnQzSmc2SEVsOEg2Rm5TYmY0bjJmWUNYY3VDUV9mdml5RTcxTmdRXzdLMXE5MTZ4TTBReDFCTERPT09wOUxNUkI4dVVCWHNUVWpweHE2alhJLUx0d21IUlo1YTNxdGFIZ1dIRTRwenN5ZDNadTliYWNCbk1RTlo3V3R3VFB6UWJPVzFjSExGaXNINmNNcU9zdEpjOFNVTjRuS0FpMGFlemFCcUpRYkdkanhfWWdFbVVNTWJnbHN1UDFIN3FqUHdBTzRKVndOb0F4NkJWTU1YNUZ3RXlQ?oc=5",
-      "published": "Tue, 15 Sep 2026 02:18:08 GMT"
-    },
-    {
       "title": "Indian shares open higher led by IT stocks, HDFC Bank - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
       "published": "Tue, 15 Sep 2026 03:55:49 GMT"
+    },
+    {
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1R0a1lYOHZ0MDF0TzNtZXVnRVo2SVJteXNnNlZHMmJDRXpQQ2N0SERtbVpiNmFyVFR0WXpJaG5TYjVWc0pMNjBYanRtX1hseGU4MzB5UW5Jc1NvbFNWQTJma05fYUxOQWZHdlZwYnhsejU0RnRRZmhIZDZOY0Q1WXB2ZXlILU1kMDVRcTF5aFQ2RDk1SHNVelZGd3NoMFFyU0hldjVBYk1Va2Jfc1hMTnVwZHY3dVJCdjJvcmVEeVFMVmlhcGJFbURIeVlQY0pxV21rMVB3WklqaFE3aGtNbldhNUZkZnp2Q0xRNWxHQdIB9AFBVV95cUxQa21wNFM4XzhfdTY5QXN4M0NUMjA5R3RfMnQzSmc2SEVsOEg2Rm5TYmY0bjJmWUNYY3VDUV9mdml5RTcxTmdRXzdLMXE5MTZ4TTBReDFCTERPT09wOUxNUkI4dVVCWHNUVWpweHE2alhJLUx0d21IUlo1YTNxdGFIZ1dIRTRwenN5ZDNadTliYWNCbk1RTlo3V3R3VFB6UWJPVzFjSExGaXNINmNNcU9zdEpjOFNVTjRuS0FpMGFlemFCcUpRYkdkanhfWWdFbVVNTWJnbHN1UDFIN3FqUHdBTzRKVndOb0F4NkJWTU1YNUZ3RXlQ?oc=5",
+      "published": "Tue, 15 Sep 2026 02:18:08 GMT"
     },
     {
       "title": "India rethinks newly implemented stock market pricing mechanism - ft.com",
@@ -109,15 +109,15 @@
       "published": "Tue, 15 Sep 2026 03:54:20 GMT"
     },
     {
+      "title": "Indian equity markets snap 5-day losing streak; Sensex gains over 400 points, Nifty crosses 23,500; IT leads - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2xDMUNRMExlMER3WGFQNmY5ZlJsWGFnbHRkSDFpWWlUUU11Tmt0TUtvNUtZT3duaVBlR2FGbXVZbzN5LUt0amRxRjgwN08zYWtiZmxjdUZ4REtrdkh5Qkg2REtNSGcyYXZkanduVUQ5NXlRRDlSeXdMV0dyUGtFVmdWMDA0ZldZRDYwdUVPMFR0cllfUDZ2ZXlNZ2lzZ2txT1BBdWRHSGI2N1ExRGVIakxNRURXal92U2xaWktZTnlLLTBWWVA3amF3eG5DcFJOeGtLMGNFYXNqOWpyMFNuU0gzNDRxQlhUaW5R?oc=5",
+      "published": "Tue, 15 Sep 2026 04:33:00 GMT"
+    },
+    {
       "title": "Sensex up by 400 points, Nifty above 23,500 as stock markets open in green | Business News - Hindustan Times",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcHhFUXJWXzhxakhnNTZRNXBUX1JocUNucUg3aDU0Y2w1YlJBOFJVaklKb0JMeEZCdTJLRTJJcDlqNzk1QVdsZ0RnZWlnS1lBNkVPQmg3TkVxWW9PSTlydHB3OTZGeTFWX0VPS3FTOFI3cW9sVGJZMlc0aEx1RjZmQ05JNGZpSkp1M0N1VzNkSnhTLUxWemhMdjZPTnpqOTVINDdFYzBBeTZ4cWJLbmdLdDkxSGt1dGU4QTM0QW9DSjd0QS1ZWUZfY1VKV0lpOW1vSkI1VlFHOVJiUXA5dW8yRl9kaGdIWG930gHuAUFVX3lxTE8zRWhIRG0zbWJveWNEUmlsU3JydnRQaGhubFRKemNBUjFuOHRSM0ZfUFNzOTA5MEFvSGpmZUlVQldQOUVnTUZFRThCLTBhRElEUE1WZVU1ZmlpTmEwMG5qV2ZmUlVjNTdpZjZEQzN4ZnRtZG5KMUIta1VqeGFxeUdUNkdpMVNmNThCb3BxZlNUZ3dyaU1xaHpZbDdxZFl2b0ZicjIyajVBeVhPeW5ScElPSWpXdzExNUpwck5kcFM5NFlHZkVxZVlNUHhGYVowSnN3T0tLbGlFaVMxSUt2N2hJMWJGWE40Vk1sMFhPcEE?oc=5",
       "published": "Tue, 15 Sep 2026 03:54:25 GMT"
-    },
-    {
-      "title": "Landmark NSE IPO threatens to hollow out India shadow market - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeEx0MnF6QksybzY4LWJzdklYMG1mSkp5dnVuckE3S3l5bkhLOFNRZHlqNkNrckpoUzd6dl9XTFBpWUtPcmV5Y3ZnV1lzMklSUG5RRllXdUZjODJxbjdLUWtyb0JWa2hzSlI5SFMtTHhBTHhPTWhXSmVyNjgxdW5STUhwbjRPRmozaHNROGdReUhNeU5MaU4zTlllekg2NFBmSVJnYlFfWVNXUVVuY2puMDJnQmJ4am9fSnNMV0VWNkQyTmRCVjlCdXBDNm3SAdIBQVVfeXFMUFFlTlFxSjhCZWxOLXYyVGdEVDJmLWxzM0ZvSXNna09lY3hKTmNteTF6amNraXl4R3pBTmc5NzF4U2tQcWxEUlJYSzlaMEswMWlGSjgxal9EVWFRTEt5UlI3TXZDelpPd0RoVERrTHlzemc2T0JMZEtzTzItMTlTNE8yZG8tVXI2WWwyd0NQdHh5NXNIZzNoeV9UOVVTemNNR21wdlZzUWFSblgxQ3hBS0hlVTVXRFpLcW93bWNMdEFJMGkzb3FReV9GMDhKeDI4Q29R?oc=5",
-      "published": "Tue, 15 Sep 2026 02:45:13 GMT"
     }
   ],
-  "last_updated": "2026-09-15 04:26 UTC"
+  "last_updated": "2026-09-15 04:41 UTC"
 }
