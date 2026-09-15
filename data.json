@@ -43,24 +43,24 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 101.25,
-    "change": -4.43,
-    "pct": -4.19
+    "price": 101.32,
+    "change": -4.36,
+    "pct": -4.13
   },
   "Crude Oil (WTI)": {
-    "price": 102.34,
-    "change": 0.95,
-    "pct": 0.94
+    "price": 102.37,
+    "change": 0.98,
+    "pct": 0.97
   },
   "Gold": {
-    "price": 4323.4,
-    "change": -28.5,
-    "pct": -0.65
+    "price": 4321.4,
+    "change": -30.5,
+    "pct": -0.7
   },
   "Silver": {
-    "price": 63.67,
-    "change": 0.16,
-    "pct": 0.26
+    "price": 63.66,
+    "change": 0.15,
+    "pct": 0.23
   },
   "USD/INR": {
     "price": 95.96,
@@ -68,9 +68,9 @@
     "pct": 0.97
   },
   "Dollar Index": {
-    "price": 99.59,
-    "change": 0.13,
-    "pct": 0.13
+    "price": 99.58,
+    "change": 0.12,
+    "pct": 0.12
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -109,15 +109,15 @@
       "published": "Tue, 15 Sep 2026 01:30:06 GMT"
     },
     {
+      "title": "India stocks lower at close of trade; Nifty 50 down 1.19% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDdZZldqenpHNlVrQ1JNZWRpcHB0ZVhNYWdkZUdqSVRhakIxeDBQai1MMVdId2d1dDlZR3AyNDQwTmprTlhQbUlOQ2tCalFya0pHTlVQNzNObDJFN2pCQU42MnZmb2JlWGdFWkI3SFhVcWF4MkozYTRKdXpwbllFNUxaWFVhSlBmLU03TWZRLW1JT3Facy1yTHhKNUpkMVhOQ2NidTMxcmhVZ1cxY04zVQ?oc=5",
+      "published": "Tue, 15 Sep 2026 10:31:44 GMT"
+    },
+    {
       "title": "Sensex Today Plunges 777 Points | Nifty Below 23,200 | 3 Reasons Why Indian Stock Markets Are Falling - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWnY1RlJIZmhvZzg1Y3JURU16Y0ExMm1TV2dGclRrTzdLVk1GX3pHMkVvUzczbXI5cU1iMGpWSTFTOWIyd0U2V1pZVFplZ3A4Z04zUncyOXVRdWhfd1JiSXZPOVVRaWxMTjNNN1VTa3VnamxRUHpYOWpJQU0tdmxIeFFmbndtWmVxUjcySjVuMGFUNEp0Vm03RG0xX2d0TTlVTjZrVUNCU25FQ0ZpbVNjV2FaYmZla2lyT2xIZEl2SUtmVVV4dzFPVDV4QVd0NEstbWt0ZS1CZmdLUnljUDNtQ1BoYkJ2Q2ZPczlwZjlJRQ?oc=5",
       "published": "Tue, 15 Sep 2026 11:06:16 GMT"
-    },
-    {
-      "title": "Indian Stock Market Decline: Green Energy Stocks Hit Hard - SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM0I4Um14UzVBS05FWnlTbmdHRnh2enBJeVBVT29QTFlXNTB2M19FaDVWVjRzVzY1d2tKYldVMWgwYlVoS2dGcU1weldxcjZKaGdLSWZlcTBqQ0NYVVpOSTRCYkpYdlp0UWdQNlAtN2JZQjh3RW1kdVBrT0hpSEpmTm1rbWR5X0JmVWxKby1pWVFYcU54Q2ZSOHBvMGFtQUZCSmwwS3lEYUFKdjJXSW5TblJZM2RPS05vRFFKLWRRS0tDNFp0UXJN?oc=5",
-      "published": "Tue, 15 Sep 2026 11:29:02 GMT"
     }
   ],
-  "last_updated": "2026-09-15 11:37 UTC"
+  "last_updated": "2026-09-15 11:50 UTC"
 }
