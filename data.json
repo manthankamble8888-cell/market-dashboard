@@ -43,14 +43,14 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 102.29,
-    "change": -3.39,
-    "pct": -3.21
+    "price": 101.89,
+    "change": -3.79,
+    "pct": -3.59
   },
   "Crude Oil (WTI)": {
-    "price": 103.45,
-    "change": 2.06,
-    "pct": 2.03
+    "price": 103.15,
+    "change": 1.76,
+    "pct": 1.74
   },
   "Gold": {
     "price": 4314.6,
@@ -58,9 +58,9 @@
     "pct": -0.86
   },
   "Silver": {
-    "price": 63.56,
-    "change": 0.05,
-    "pct": 0.08
+    "price": 63.54,
+    "change": 0.03,
+    "pct": 0.04
   },
   "USD/INR": {
     "price": 95.96,
@@ -119,5 +119,5 @@
       "published": "Tue, 15 Sep 2026 06:47:51 GMT"
     }
   ],
-  "last_updated": "2026-09-15 10:40 UTC"
+  "last_updated": "2026-09-15 10:51 UTC"
 }
