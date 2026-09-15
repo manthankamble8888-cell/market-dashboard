@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52021.71,
-    "change": -399.49,
-    "pct": -0.76
+    "price": 51957.98,
+    "change": -463.22,
+    "pct": -0.88
   },
   "Nasdaq": {
-    "price": 25981.49,
-    "change": -204.92,
-    "pct": -0.78
+    "price": 25973.37,
+    "change": -213.04,
+    "pct": -0.81
   },
   "S&P 500": {
-    "price": 7583.15,
-    "change": -36.83,
-    "pct": -0.48
+    "price": 7579.07,
+    "change": -40.91,
+    "pct": -0.54
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.77,
-    "change": 3.09,
-    "pct": 2.92
+    "price": 109.04,
+    "change": 3.36,
+    "pct": 3.18
   },
   "Crude Oil (WTI)": {
-    "price": 106.09,
-    "change": 4.7,
-    "pct": 4.64
+    "price": 106.46,
+    "change": 5.07,
+    "pct": 5.0
   },
   "Gold": {
-    "price": 4337.3,
-    "change": -14.6,
-    "pct": -0.34
+    "price": 4335.7,
+    "change": -16.2,
+    "pct": -0.37
   },
   "Silver": {
-    "price": 63.98,
-    "change": 0.47,
-    "pct": 0.74
+    "price": 63.96,
+    "change": 0.44,
+    "pct": 0.7
   },
   "USD/INR": {
     "price": 95.94,
@@ -64,14 +64,14 @@
     "pct": 0.96
   },
   "Dollar Index": {
-    "price": 99.61,
-    "change": 0.15,
-    "pct": 0.15
+    "price": 99.64,
+    "change": 0.18,
+    "pct": 0.18
   },
   "US 10Y Yield": {
-    "price": 5.0,
-    "change": 0.03,
-    "pct": 0.71
+    "price": 5.01,
+    "change": 0.05,
+    "pct": 0.95
   },
   "news": [
     {
@@ -95,7 +95,7 @@
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
-      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - economictimes.com",
+      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUZaOC1oYTI1ZGhSWkZ4cEtqNU1lck5qdlBXZVVyQllhMTQwblcxejVIU3VTU2U1MTJNdC1ObVdpUUpzb3RMeWJKZEZ3X0Fua1RTWEhBNE9Nc3JYclRxM1hNdkNSS1premRvOURtcTRKZGNFMUpiUWZ0S1poamZFYllqNU1rOGRnQnlEcll0TnMyRHNSYWQ4OTBKaDlKQ3BTdGtvck5oZ0F2NlhBMFBuemdhSVJOYXdJbEtFRl9BclJRWUpOZlZQVWN2UDRWWl9oVURMOVpOQ2c1TnhlT0tzN0g5c1hLT1BybENSRlhXbmpjSENEdGhIZEp4Vk0yeWFfVTM2NlRrQ0doTDZWQVp5WjZsa1A2UnBrTUdWOERESy3SAaYCQVVfeXFMT21oOGNyczJnMTQ1U0FCVi1uczVmVjQ0YkhBNkk2anFBRVVUcjktRzVFZHY4UTZoUFZxMk1XNHpnQW5CMHAyZ25XNnZhY1FGV2VvcXdkMTdVSHRpR25aNEoyZ25nWXY0dXhhYjU3WkFqd0Y5V2tGRUZpdkNqSGR3N093OTV0ZUdmM25vai1qNWhUN0I3UlVEbHBhTGFLNlhEM1UzaTh0ak80RWFrMGozUzlObFI3XzJmSWlNal9Vd25ZdWpoRWI4b2c4Wk05eWJxQUZ3dXBSSERyM1ZyVGo3aDVoZVRKRVlrcmxDaDFRdll1WGNNQXYzNlI0dUo2Tk9ienhaT29DTEFlSlQ5Y0VTZXIzNXBoMnRaRXBPZS1DWXRtaFUwS3JB?oc=5",
       "published": "Tue, 15 Sep 2026 09:44:37 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Tue, 15 Sep 2026 12:20:28 GMT"
     }
   ],
-  "last_updated": "2026-09-15 17:05 UTC"
+  "last_updated": "2026-09-15 17:22 UTC"
 }
