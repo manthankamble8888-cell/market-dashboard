@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.3,
-    "change": 2.62,
-    "pct": 2.48
+    "price": 108.41,
+    "change": 2.73,
+    "pct": 2.58
   },
   "Crude Oil (WTI)": {
-    "price": 105.39,
-    "change": 4.0,
-    "pct": 3.95
+    "price": 105.42,
+    "change": 4.03,
+    "pct": 3.97
   },
   "Gold": {
-    "price": 4328.6,
-    "change": -23.3,
-    "pct": -0.54
+    "price": 4324.7,
+    "change": -27.2,
+    "pct": -0.63
   },
   "Silver": {
-    "price": 64.24,
-    "change": 0.73,
-    "pct": 1.14
+    "price": 64.21,
+    "change": 0.7,
+    "pct": 1.1
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,7 +73,7 @@
   },
   "news": [
     {
-      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
+      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
@@ -113,5 +113,5 @@
       "published": "Tue, 15 Sep 2026 10:33:53 GMT"
     }
   ],
-  "last_updated": "2026-09-15 23:22 UTC"
+  "last_updated": "2026-09-15 23:36 UTC"
 }
