@@ -33,29 +33,29 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 63703.99,
-    "change": 211.0,
-    "pct": 0.33
+    "price": 63617.6,
+    "change": 124.61,
+    "pct": 0.2
   },
   "Hang Seng": {
-    "price": 24776.93,
-    "change": -140.67,
-    "pct": -0.56
+    "price": 24727.07,
+    "change": -190.53,
+    "pct": -0.76
   },
   "Crude Oil (Brent)": {
-    "price": 107.13,
-    "change": 1.45,
-    "pct": 1.37
+    "price": 107.36,
+    "change": 1.68,
+    "pct": 1.59
   },
   "Crude Oil (WTI)": {
-    "price": 102.95,
-    "change": 1.56,
-    "pct": 1.54
+    "price": 103.09,
+    "change": 1.7,
+    "pct": 1.68
   },
   "Gold": {
-    "price": 4332.0,
-    "change": -19.9,
-    "pct": -0.46
+    "price": 4330.4,
+    "change": -21.5,
+    "pct": -0.49
   },
   "Silver": {
     "price": 63.72,
@@ -63,14 +63,14 @@
     "pct": 0.32
   },
   "USD/INR": {
-    "price": 95.92,
-    "change": 0.89,
+    "price": 95.91,
+    "change": 0.88,
     "pct": 0.93
   },
   "Dollar Index": {
-    "price": 99.63,
-    "change": 0.17,
-    "pct": 0.17
+    "price": 99.66,
+    "change": 0.2,
+    "pct": 0.2
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -79,7 +79,7 @@
   },
   "news": [
     {
-      "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+      "title": "Indian shares ease as elevated oil, bond yields weigh - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
@@ -114,10 +114,10 @@
       "published": "Tue, 15 Sep 2026 04:52:30 GMT"
     },
     {
-      "title": "Why is stock market rising today? 3 key factors driving Sensex and Nifty rebound - The Economic Times",
+      "title": "Why is stock market rising today? 3 key factors driving Sensex and Nifty rebound - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGFoM0FTRk9EQW9INTRKd1kzaXVCZ2hadzRRTFJWS2JGaWxqTTdWX0ZfeUVqbk9JSUctRWtheE90U1FQbE1uM1QtZE9HZ3djREpfcmpTSHJhUFNEUWh6cG9OSzlMNTByWkFONlFnS25JYVVzc3pGTWNpeTUzcW0yY3M2MWJLWFNvdk00ZUdPbXFZLXYzZ2lEYng3eEJudTVzMnFVeG5ka1VLZEdUUDk4ck1KZzJJZFUyN2hGc3VObEpzTF9DNVBrWDNFbF9jaDJYSjAyaUpOa2FGcjFzMXRacHFNVHdLdEt60gHuAUFVX3lxTE9ZNnR1Uk9BSVF5bzZBdE1wMmc2OGk5SWxVMVNiV0dCTWh0MjBfV09LQW5TRDFfUnRMOTl4b0VSUE5OTmg0TlRvSE9jSVR3eWRmZnhkRFI1VTVSYWd3bml4cVFjaHA5aFBsUU9WNHVRZjJkWnhRSWlIZGFCemppVlhKQW1VMk00RDlMZXd3aGtiUmdmaGtUUS11YWVPZGdfaGlpRU41RWJOXzNmbVR0cndfM1ZBYmpkYm5xM0FqZGNWVlZISVdzbENuZlVlbGx3VGtiS1hNaHZWVDd3dXA2WVZ4QVNFSUJEWFB6dXpCWHc?oc=5",
       "published": "Tue, 15 Sep 2026 04:23:13 GMT"
     }
   ],
-  "last_updated": "2026-09-15 06:08 UTC"
+  "last_updated": "2026-09-15 06:32 UTC"
 }
