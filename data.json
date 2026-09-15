@@ -38,39 +38,39 @@
     "pct": -0.01
   },
   "Hang Seng": {
-    "price": 24705.79,
-    "change": -211.81,
-    "pct": -0.85
+    "price": 24703.35,
+    "change": -214.25,
+    "pct": -0.86
   },
   "Crude Oil (Brent)": {
-    "price": 107.27,
-    "change": 1.59,
-    "pct": 1.5
+    "price": 107.69,
+    "change": 2.01,
+    "pct": 1.9
   },
   "Crude Oil (WTI)": {
-    "price": 103.12,
-    "change": 1.73,
-    "pct": 1.71
+    "price": 103.38,
+    "change": 1.99,
+    "pct": 1.96
   },
   "Gold": {
-    "price": 4332.2,
-    "change": -19.7,
-    "pct": -0.45
+    "price": 4334.0,
+    "change": -17.9,
+    "pct": -0.41
   },
   "Silver": {
-    "price": 63.7,
-    "change": 0.19,
-    "pct": 0.29
+    "price": 63.65,
+    "change": 0.13,
+    "pct": 0.21
   },
   "USD/INR": {
-    "price": 95.91,
-    "change": 0.88,
-    "pct": 0.92
+    "price": 95.94,
+    "change": 0.91,
+    "pct": 0.95
   },
   "Dollar Index": {
-    "price": 99.68,
-    "change": 0.22,
-    "pct": 0.22
+    "price": 99.65,
+    "change": 0.19,
+    "pct": 0.19
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -99,12 +99,12 @@
       "published": "Tue, 15 Sep 2026 01:34:10 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,450 | IT stocks Shine - Equitymaster",
+      "title": "Sensex Today Trades Higher | Nifty Above 23,450 | IT stocks Shine - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmRVTkJRYmhaUmVQR0hXVFV0WmpNNU8tSVJiNU9DT0xaRDg4dTZmaHp1X29LR3ladlZOZlN1cTV5REJFbkYxSGJXaE9LY0pHLTZFZkJHQVJ0REJMZkFFdnhuU0g3VVlFVWxLLW00LWNQVDc5TVRKeGNPZlgtTElvVlFpd2tTUWwwNkZfRFpMelpkVE13WDE2RmtVQUhldzR1NlYyRzRPQ1JDUDNWSDlFVnJObm5RR1hZdEEyLVhVNA?oc=5",
       "published": "Tue, 15 Sep 2026 04:45:45 GMT"
     },
     {
-      "title": "Sensex Today | Stock Market Live: Nifty below 23,350, Sensex falls 100 pts; IT surges 4%, realty plu - IndiaIPO",
+      "title": "Sensex Today | Stock Market Live: Nifty below 23,350, Sensex falls 100 pts; IT surges 4%, realty plu - indiaipo.in",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMmtyZmttN21WakNjcUo1RmhVZnVRWkN3eG9aMUJtVlFBWm5fRnJMZHpEVko5dUFINlNDc1I4Ung1VXZkb1VwOG02Vkd6elhUOU1xRXVnamxGRFlYYjB1WDdmVTRhQjBwcFMxanZKZHVqeWRTYXo4ai1fVHotN3ZuQ3UzYjVDUHp4R3dLODBVOUJkLUNfdTFsaTA0eWEtTFdjT1J1ajlleTVqV195MUVkS1k1LUNiZ2N0TjluRDF2eVhiQXZZLTE4?oc=5",
       "published": "Tue, 15 Sep 2026 06:47:51 GMT"
     },
@@ -119,5 +119,5 @@
       "published": "Tue, 15 Sep 2026 04:52:30 GMT"
     }
   ],
-  "last_updated": "2026-09-15 06:55 UTC"
+  "last_updated": "2026-09-15 07:09 UTC"
 }
