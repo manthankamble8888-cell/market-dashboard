@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.35,
-    "change": 2.67,
-    "pct": 2.53
+    "price": 108.42,
+    "change": 2.74,
+    "pct": 2.59
   },
   "Crude Oil (WTI)": {
-    "price": 105.45,
-    "change": 4.06,
-    "pct": 4.0
+    "price": 105.25,
+    "change": 3.86,
+    "pct": 3.81
   },
   "Gold": {
-    "price": 4337.2,
-    "change": -14.7,
-    "pct": -0.34
+    "price": 4338.4,
+    "change": -13.5,
+    "pct": -0.31
   },
   "Silver": {
-    "price": 64.29,
-    "change": 0.78,
-    "pct": 1.23
+    "price": 64.33,
+    "change": 0.82,
+    "pct": 1.29
   },
   "USD/INR": {
     "price": 95.85,
@@ -100,7 +100,7 @@
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1R0a1lYOHZ0MDF0TzNtZXVnRVo2SVJteXNnNlZHMmJDRXpQQ2N0SERtbVpiNmFyVFR0WXpJaG5TYjVWc0pMNjBYanRtX1hseGU4MzB5UW5Jc1NvbFNWQTJma05fYUxOQWZHdlZwYnhsejU0RnRRZmhIZDZOY0Q1WXB2ZXlILU1kMDVRcTF5aFQ2RDk1SHNVelZGd3NoMFFyU0hldjVBYk1Va2Jfc1hMTnVwZHY3dVJCdjJvcmVEeVFMVmlhcGJFbURIeVlQY0pxV21rMVB3WklqaFE3aGtNbldhNUZkZnp2Q0xRNWxHQdIB9AFBVV95cUxQa21wNFM4XzhfdTY5QXN4M0NUMjA5R3RfMnQzSmc2SEVsOEg2Rm5TYmY0bjJmWUNYY3VDUV9mdml5RTcxTmdRXzdLMXE5MTZ4TTBReDFCTERPT09wOUxNUkI4dVVCWHNUVWpweHE2alhJLUx0d21IUlo1YTNxdGFIZ1dIRTRwenN5ZDNadTliYWNCbk1RTlo3V3R3VFB6UWJPVzFjSExGaXNINmNNcU9zdEpjOFNVTjRuS0FpMGFlemFCcUpRYkdkanhfWWdFbVVNTWJnbHN1UDFIN3FqUHdBTzRKVndOb0F4NkJWTU1YNUZ3RXlQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:18:08 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Tue, 15 Sep 2026 10:33:53 GMT"
     }
   ],
-  "last_updated": "2026-09-15 22:36 UTC"
+  "last_updated": "2026-09-15 22:48 UTC"
 }
