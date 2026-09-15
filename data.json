@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52025.2,
-    "change": -396.0,
-    "pct": -0.76
+    "price": 51923.94,
+    "change": -497.26,
+    "pct": -0.95
   },
   "Nasdaq": {
-    "price": 26090.01,
-    "change": -96.4,
-    "pct": -0.37
+    "price": 26037.42,
+    "change": -148.99,
+    "pct": -0.57
   },
   "S&P 500": {
-    "price": 7599.67,
-    "change": -20.31,
-    "pct": -0.27
+    "price": 7588.26,
+    "change": -31.72,
+    "pct": -0.42
   },
   "Nikkei 225": {
     "price": 63484.1,
@@ -43,24 +43,24 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 102.19,
-    "change": -3.49,
-    "pct": -3.3
+    "price": 102.5,
+    "change": -3.18,
+    "pct": -3.01
   },
   "Crude Oil (WTI)": {
-    "price": 103.09,
-    "change": 1.7,
-    "pct": 1.68
+    "price": 103.66,
+    "change": 2.27,
+    "pct": 2.24
   },
   "Gold": {
-    "price": 4334.4,
-    "change": -17.5,
-    "pct": -0.4
+    "price": 4335.5,
+    "change": -16.4,
+    "pct": -0.38
   },
   "Silver": {
-    "price": 64.29,
-    "change": 0.77,
-    "pct": 1.22
+    "price": 64.07,
+    "change": 0.56,
+    "pct": 0.88
   },
   "USD/INR": {
     "price": 95.94,
@@ -68,14 +68,14 @@
     "pct": 0.96
   },
   "Dollar Index": {
-    "price": 99.54,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 99.57,
+    "change": 0.11,
+    "pct": 0.11
   },
   "US 10Y Yield": {
-    "price": 5.0,
-    "change": 0.04,
-    "pct": 0.87
+    "price": 5.01,
+    "change": 0.05,
+    "pct": 0.95
   },
   "news": [
     {
@@ -84,14 +84,14 @@
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Mon, 14 Sep 2026 21:30:13 GMT"
-    },
-    {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
+    },
+    {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
       "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
@@ -99,19 +99,19 @@
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1R0a1lYOHZ0MDF0TzNtZXVnRVo2SVJteXNnNlZHMmJDRXpQQ2N0SERtbVpiNmFyVFR0WXpJaG5TYjVWc0pMNjBYanRtX1hseGU4MzB5UW5Jc1NvbFNWQTJma05fYUxOQWZHdlZwYnhsejU0RnRRZmhIZDZOY0Q1WXB2ZXlILU1kMDVRcTF5aFQ2RDk1SHNVelZGd3NoMFFyU0hldjVBYk1Va2Jfc1hMTnVwZHY3dVJCdjJvcmVEeVFMVmlhcGJFbURIeVlQY0pxV21rMVB3WklqaFE3aGtNbldhNUZkZnp2Q0xRNWxHQdIB9AFBVV95cUxQa21wNFM4XzhfdTY5QXN4M0NUMjA5R3RfMnQzSmc2SEVsOEg2Rm5TYmY0bjJmWUNYY3VDUV9mdml5RTcxTmdRXzdLMXE5MTZ4TTBReDFCTERPT09wOUxNUkI4dVVCWHNUVWpweHE2alhJLUx0d21IUlo1YTNxdGFIZ1dIRTRwenN5ZDNadTliYWNCbk1RTlo3V3R3VFB6UWJPVzFjSExGaXNINmNNcU9zdEpjOFNVTjRuS0FpMGFlemFCcUpRYkdkanhfWWdFbVVNTWJnbHN1UDFIN3FqUHdBTzRKVndOb0F4NkJWTU1YNUZ3RXlQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:18:08 GMT"
     },
     {
-      "title": "Indian equity markets snap 5-day losing streak; Sensex gains over 400 points, Nifty crosses 23,500; IT leads - ChiniMandi",
+      "title": "Indian equity markets snap 5-day losing streak; Sensex gains over 400 points, Nifty crosses 23,500; IT leads - chinimandi.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb0lIWi1JakVXaS13Y3FNUzNBZllzOGg4aVBnZVR0SHBnYUgzbEFaenF5YXBMS1dRZ3pMU3pLRmRPdEViUVRWbmJ5cE44TjVjWEZjWnZZZGJjUXJ4NThjeEtEYXVWbVZzTTBlbnpMSXhDeW15emJxbW9kLTg4T2VyXzI1OGJxbnBKVEdFdXlteUZhRHBPVjNJMXlmNk9pT016Z2d6SmJYYWRld19JaEUwNXR1dmloQkhiQXRRdlhhLWc1c21xazNiNkZjNnc?oc=5",
       "published": "Tue, 15 Sep 2026 04:39:15 GMT"
     },
     {
-      "title": "India stocks lower at close of trade; Nifty 50 down 1.19% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDdZZldqenpHNlVrQ1JNZWRpcHB0ZVhNYWdkZUdqSVRhakIxeDBQai1MMVdId2d1dDlZR3AyNDQwTmprTlhQbUlOQ2tCalFya0pHTlVQNzNObDJFN2pCQU42MnZmb2JlWGdFWkI3SFhVcWF4MkozYTRKdXpwbllFNUxaWFVhSlBmLU03TWZRLW1JT3Facy1yTHhKNUpkMVhOQ2NidTMxcmhVZ1cxY04zVQ?oc=5",
-      "published": "Tue, 15 Sep 2026 10:31:44 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 15, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1R0WTc3WjdWaV9BMFlEVlFxaWhiMktCLWxmZzl3anNRWWVuai1mQS1VaTVITjEyNkNfNGUwbzBlWUFJSFppTDh5TmltakVKaUVZM3NLVkhIc0l6S1FfT1pfYk00OTlzU2NIMnc5endHNlBLWHczU3J4cjEtbWNISVhuM3U1ZE1JWGF6TDk0UXQ4SjVlOU95alB4anFTQkxjSm5CM0E5cEx4TjRNTlVYNEdCeEFCT0U?oc=5",
+      "published": "Tue, 15 Sep 2026 12:20:28 GMT"
     },
     {
       "title": "India rethinks newly implemented stock market pricing mechanism - Financial Times",
@@ -119,5 +119,5 @@
       "published": "Tue, 15 Sep 2026 01:34:10 GMT"
     }
   ],
-  "last_updated": "2026-09-15 14:06 UTC"
+  "last_updated": "2026-09-15 14:25 UTC"
 }
