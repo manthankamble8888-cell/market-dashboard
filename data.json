@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52008.16,
-    "change": -413.04,
-    "pct": -0.79
+    "price": 52019.85,
+    "change": -401.35,
+    "pct": -0.77
   },
   "Nasdaq": {
-    "price": 25993.83,
-    "change": -192.58,
-    "pct": -0.74
+    "price": 25998.98,
+    "change": -187.43,
+    "pct": -0.72
   },
   "S&P 500": {
-    "price": 7587.2,
-    "change": -32.78,
-    "pct": -0.43
+    "price": 7586.21,
+    "change": -33.77,
+    "pct": -0.44
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,45 +39,45 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 109.31,
-    "change": 3.63,
-    "pct": 3.43
+    "price": 108.98,
+    "change": 3.3,
+    "pct": 3.12
   },
   "Crude Oil (WTI)": {
-    "price": 106.49,
-    "change": 5.1,
-    "pct": 5.03
+    "price": 105.9,
+    "change": 4.51,
+    "pct": 4.45
   },
   "Gold": {
-    "price": 4336.2,
-    "change": -15.7,
-    "pct": -0.36
+    "price": 4345.0,
+    "change": -6.9,
+    "pct": -0.16
   },
   "Silver": {
-    "price": 63.99,
-    "change": 0.47,
-    "pct": 0.74
+    "price": 64.21,
+    "change": 0.69,
+    "pct": 1.09
   },
   "USD/INR": {
-    "price": 95.94,
-    "change": 0.91,
-    "pct": 0.96
+    "price": 95.85,
+    "change": 0.82,
+    "pct": 0.86
   },
   "Dollar Index": {
-    "price": 99.66,
-    "change": 0.2,
-    "pct": 0.2
+    "price": 99.64,
+    "change": 0.18,
+    "pct": 0.18
   },
   "US 10Y Yield": {
     "price": 5.01,
     "change": 0.05,
-    "pct": 1.03
+    "pct": 0.95
   },
   "news": [
     {
       "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-      "published": "Tue, 15 Sep 2026 10:18:03 GMT"
+      "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
     {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
@@ -95,7 +95,7 @@
       "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
-      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
+      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUZaOC1oYTI1ZGhSWkZ4cEtqNU1lck5qdlBXZVVyQllhMTQwblcxejVIU3VTU2U1MTJNdC1ObVdpUUpzb3RMeWJKZEZ3X0Fua1RTWEhBNE9Nc3JYclRxM1hNdkNSS1premRvOURtcTRKZGNFMUpiUWZ0S1poamZFYllqNU1rOGRnQnlEcll0TnMyRHNSYWQ4OTBKaDlKQ3BTdGtvck5oZ0F2NlhBMFBuemdhSVJOYXdJbEtFRl9BclJRWUpOZlZQVWN2UDRWWl9oVURMOVpOQ2c1TnhlT0tzN0g5c1hLT1BybENSRlhXbmpjSENEdGhIZEp4Vk0yeWFfVTM2NlRrQ0doTDZWQVp5WjZsa1A2UnBrTUdWOERESy3SAaYCQVVfeXFMT21oOGNyczJnMTQ1U0FCVi1uczVmVjQ0YkhBNkk2anFBRVVUcjktRzVFZHY4UTZoUFZxMk1XNHpnQW5CMHAyZ25XNnZhY1FGV2VvcXdkMTdVSHRpR25aNEoyZ25nWXY0dXhhYjU3WkFqd0Y5V2tGRUZpdkNqSGR3N093OTV0ZUdmM25vai1qNWhUN0I3UlVEbHBhTGFLNlhEM1UzaTh0ak80RWFrMGozUzlObFI3XzJmSWlNal9Vd25ZdWpoRWI4b2c4Wk05eWJxQUZ3dXBSSERyM1ZyVGo3aDVoZVRKRVlrcmxDaDFRdll1WGNNQXYzNlI0dUo2Tk9ienhaT29DTEFlSlQ5Y0VTZXIzNXBoMnRaRXBPZS1DWXRtaFUwS3JB?oc=5",
       "published": "Tue, 15 Sep 2026 09:44:37 GMT"
     },
@@ -115,5 +115,5 @@
       "published": "Tue, 15 Sep 2026 12:20:28 GMT"
     }
   ],
-  "last_updated": "2026-09-15 18:07 UTC"
+  "last_updated": "2026-09-15 18:26 UTC"
 }
