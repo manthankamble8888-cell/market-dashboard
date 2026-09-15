@@ -33,9 +33,9 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "price": 63497.29,
-    "change": 4.3,
-    "pct": 0.01
+    "price": 63349.5,
+    "change": -143.49,
+    "pct": -0.23
   },
   "Hang Seng": {
     "price": 24859.45,
@@ -43,34 +43,34 @@
     "pct": -0.23
   },
   "Crude Oil (Brent)": {
-    "price": 107.34,
-    "change": 1.66,
-    "pct": 1.57
+    "price": 107.45,
+    "change": 1.77,
+    "pct": 1.67
   },
   "Crude Oil (WTI)": {
-    "price": 103.24,
-    "change": 1.85,
-    "pct": 1.82
+    "price": 103.3,
+    "change": 1.91,
+    "pct": 1.88
   },
   "Gold": {
-    "price": 4343.7,
-    "change": -8.2,
-    "pct": -0.19
+    "price": 4344.3,
+    "change": -7.6,
+    "pct": -0.17
   },
   "Silver": {
-    "price": 63.81,
-    "change": 0.3,
-    "pct": 0.47
+    "price": 63.9,
+    "change": 0.39,
+    "pct": 0.62
   },
   "USD/INR": {
-    "price": 95.83,
-    "change": 0.8,
-    "pct": 0.84
+    "price": 95.86,
+    "change": 0.82,
+    "pct": 0.87
   },
   "Dollar Index": {
-    "price": 99.62,
-    "change": 0.16,
-    "pct": 0.16
+    "price": 99.6,
+    "change": 0.14,
+    "pct": 0.14
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -94,14 +94,14 @@
       "published": "Tue, 15 Sep 2026 02:18:08 GMT"
     },
     {
-      "title": "India rethinks newly implemented stock market pricing mechanism - ft.com",
+      "title": "India rethinks newly implemented stock market pricing mechanism - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc2lrUE5DbkxFZmprdkpabmVWNm16U19hZ21oUmFvZXZMaEQ2OTFRaDIxRHBEUVBMdU5RRHR2YXhoaDRuMExRNHdlVTVkM0IwVnM1Y081V3dsTkowSklmV05jRVRBMXB4TW9MTjE3M3YwN3dFQ21aaEpYOTRwUEkzX3RYS0c?oc=5",
       "published": "Tue, 15 Sep 2026 01:30:06 GMT"
     },
     {
-      "title": "Digilogic Systems Secures Major Defence Contract | Fino Payments Bank Reports Strong August Growth | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxONzVFSXd1YWZiYnVyNVFqT1FFTk80MFgtbFNhVnhqMlp4cDdVUV8xQWNfYVdvd0hxdzUwa1hrVlh2SlRrdlo2TllKQm5BOTBDTkFWTDRJYmQ0N0xmTFJrWU1VcDRyS3NTSV81TWFLZTdVVzQtcXlCalhrYlE3dlF1RDJTMjJGSWc1NHgybGpvcmY0Y2VlRE5WMEVHbEtvb3BlUlJ2bk9HR3V6TU8tc3FfcVZPV29hSTEtQjkxNWwway1fQ181cWVZSm9idzdJNlZ1eF9TV0xGWjMtUEJGNnl0Ny1KQlFkRU1ZRUlXT29wY1A4OTN2T1JOd0NLbWstQl9mdE9SaXFDZXAzNHFKZDBWTQ?oc=5",
-      "published": "Tue, 15 Sep 2026 00:30:00 GMT"
+      "title": "Sensex Today Trades Higher | Nifty Above 23,450 | IT stocks Shine - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTmRVTkJRYmhaUmVQR0hXVFV0WmpNNU8tSVJiNU9DT0xaRDg4dTZmaHp1X29LR3ladlZOZlN1cTV5REJFbkYxSGJXaE9LY0pHLTZFZkJHQVJ0REJMZkFFdnhuU0g3VVlFVWxLLW00LWNQVDc5TVRKeGNPZlgtTElvVlFpd2tTUWwwNkZfRFpMelpkVE13WDE2RmtVQUhldzR1NlYyRzRPQ1JDUDNWSDlFVnJObm5RR1hZdEEyLVhVNA?oc=5",
+      "published": "Tue, 15 Sep 2026 04:45:45 GMT"
     },
     {
       "title": "India Stocks Open Higher as Oil Prices Stay Above $100 - Investing.com India",
@@ -109,15 +109,15 @@
       "published": "Tue, 15 Sep 2026 03:54:20 GMT"
     },
     {
-      "title": "Indian equity markets snap 5-day losing streak; Sensex gains over 400 points, Nifty crosses 23,500; IT leads - ANI News",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM2xDMUNRMExlMER3WGFQNmY5ZlJsWGFnbHRkSDFpWWlUUU11Tmt0TUtvNUtZT3duaVBlR2FGbXVZbzN5LUt0amRxRjgwN08zYWtiZmxjdUZ4REtrdkh5Qkg2REtNSGcyYXZkanduVUQ5NXlRRDlSeXdMV0dyUGtFVmdWMDA0ZldZRDYwdUVPMFR0cllfUDZ2ZXlNZ2lzZ2txT1BBdWRHSGI2N1ExRGVIakxNRURXal92U2xaWktZTnlLLTBWWVA3amF3eG5DcFJOeGtLMGNFYXNqOWpyMFNuU0gzNDRxQlhUaW5R?oc=5",
-      "published": "Tue, 15 Sep 2026 04:33:00 GMT"
+      "title": "Markets Climb: IT Stocks & HDFC Bank Drive Early Gains - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMm43NllaYl8zZ2s5ZGZCSEEzSkVFb2REbXNsSDNTQVRPRFJRRGZrWU4wSTlZdnR2WjE1ZFBWcDhQdDNMR0xRbkhJU3pWWC1iaFduVFM5MTlRbnJ4cU11U2prWDNJNlkteDhaT1JXSXZpZkg2WmRkWHE0ZEwxY3YwXzJHdUl5TFp2OE9NSFBEV1VLRzM1YTEwczBNc3NXZEJLZXFLZ1lB0gGrAUFVX3lxTE0yOVM2aWlUS2tPV05ZX1g1em5ha0RuRUdBakxoYjBmREo3azQ3VWY4Y3BOTWtMTmFrMjA5Mjdaclo1QXVYdjNZMU5Ba2l1Rmw3MkU4U1Y3WHdlakgxbFE2bGVYWTJmb3lMUC1tUnVnZUdTVm12OUFRSnZSM19XLVN2TUpiczFkMkdERjA5TFlPckI2TU45S2JWYjNsZ0d3U0RFZ0QwTUZxSkZQVQ?oc=5",
+      "published": "Tue, 15 Sep 2026 04:40:45 GMT"
     },
     {
-      "title": "Sensex up by 400 points, Nifty above 23,500 as stock markets open in green | Business News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcHhFUXJWXzhxakhnNTZRNXBUX1JocUNucUg3aDU0Y2w1YlJBOFJVaklKb0JMeEZCdTJLRTJJcDlqNzk1QVdsZ0RnZWlnS1lBNkVPQmg3TkVxWW9PSTlydHB3OTZGeTFWX0VPS3FTOFI3cW9sVGJZMlc0aEx1RjZmQ05JNGZpSkp1M0N1VzNkSnhTLUxWemhMdjZPTnpqOTVINDdFYzBBeTZ4cWJLbmdLdDkxSGt1dGU4QTM0QW9DSjd0QS1ZWUZfY1VKV0lpOW1vSkI1VlFHOVJiUXA5dW8yRl9kaGdIWG930gHuAUFVX3lxTE8zRWhIRG0zbWJveWNEUmlsU3JydnRQaGhubFRKemNBUjFuOHRSM0ZfUFNzOTA5MEFvSGpmZUlVQldQOUVnTUZFRThCLTBhRElEUE1WZVU1ZmlpTmEwMG5qV2ZmUlVjNTdpZjZEQzN4ZnRtZG5KMUIta1VqeGFxeUdUNkdpMVNmNThCb3BxZlNUZ3dyaU1xaHpZbDdxZFl2b0ZicjIyajVBeVhPeW5ScElPSWpXdzExNUpwck5kcFM5NFlHZkVxZVlNUHhGYVowSnN3T0tLbGlFaVMxSUt2N2hJMWJGWE40Vk1sMFhPcEE?oc=5",
-      "published": "Tue, 15 Sep 2026 03:54:25 GMT"
+      "title": "Why is stock market rising today? 3 key factors driving Sensex and Nifty rebound - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdGFoM0FTRk9EQW9INTRKd1kzaXVCZ2hadzRRTFJWS2JGaWxqTTdWX0ZfeUVqbk9JSUctRWtheE90U1FQbE1uM1QtZE9HZ3djREpfcmpTSHJhUFNEUWh6cG9OSzlMNTByWkFONlFnS25JYVVzc3pGTWNpeTUzcW0yY3M2MWJLWFNvdk00ZUdPbXFZLXYzZ2lEYng3eEJudTVzMnFVeG5ka1VLZEdUUDk4ck1KZzJJZFUyN2hGc3VObEpzTF9DNVBrWDNFbF9jaDJYSjAyaUpOa2FGcjFzMXRacHFNVHdLdEt60gHuAUFVX3lxTE9ZNnR1Uk9BSVF5bzZBdE1wMmc2OGk5SWxVMVNiV0dCTWh0MjBfV09LQW5TRDFfUnRMOTl4b0VSUE5OTmg0TlRvSE9jSVR3eWRmZnhkRFI1VTVSYWd3bml4cVFjaHA5aFBsUU9WNHVRZjJkWnhRSWlIZGFCemppVlhKQW1VMk00RDlMZXd3aGtiUmdmaGtUUS11YWVPZGdfaGlpRU41RWJOXzNmbVR0cndfM1ZBYmpkYm5xM0FqZGNWVlZISVdzbENuZlVlbGx3VGtiS1hNaHZWVDd3dXA2WVZ4QVNFSUJEWFB6dXpCWHc?oc=5",
+      "published": "Tue, 15 Sep 2026 04:23:13 GMT"
     }
   ],
-  "last_updated": "2026-09-15 04:41 UTC"
+  "last_updated": "2026-09-15 04:55 UTC"
 }
