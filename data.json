@@ -43,34 +43,34 @@
     "pct": -1.0
   },
   "Crude Oil (Brent)": {
-    "price": 102.87,
-    "change": -2.81,
-    "pct": -2.66
+    "price": 102.62,
+    "change": -3.06,
+    "pct": -2.9
   },
   "Crude Oil (WTI)": {
-    "price": 104.02,
-    "change": 2.63,
-    "pct": 2.59
+    "price": 103.88,
+    "change": 2.49,
+    "pct": 2.46
   },
   "Gold": {
-    "price": 4311.0,
-    "change": -40.9,
-    "pct": -0.94
+    "price": 4308.5,
+    "change": -43.4,
+    "pct": -1.0
   },
   "Silver": {
-    "price": 63.47,
-    "change": -0.04,
-    "pct": -0.07
+    "price": 63.55,
+    "change": 0.04,
+    "pct": 0.06
   },
   "USD/INR": {
-    "price": 95.94,
-    "change": 0.91,
-    "pct": 0.96
+    "price": 95.96,
+    "change": 0.92,
+    "pct": 0.97
   },
   "Dollar Index": {
-    "price": 99.63,
-    "change": 0.17,
-    "pct": 0.17
+    "price": 99.61,
+    "change": 0.15,
+    "pct": 0.15
   },
   "US 10Y Yield": {
     "price": 4.96,
@@ -114,10 +114,10 @@
       "published": "Tue, 15 Sep 2026 03:54:20 GMT"
     },
     {
-      "title": "Nifty IT Jumps Over 5%: Why HCLTech, TCS, Infosys Shares Are Up Today - Outlook Money",
+      "title": "Nifty IT Jumps Over 5%: Why HCLTech, TCS, Infosys Shares Are Up Today - outlookmoney.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeU1vZEZjRlp1dFZCUGtPQUNWMWQ4c0NBT2JZbGEyVVlUMnk1SmFZcTFPVk5POGVJb3E1RWJCc2pmUlpWTjlvLWNSR2hWMWNFblV0RjJtclA3SlZfTmtjLVV1ckpXVUZjMVBJQ2djUm5NWk5vWHFRUllBcG5VSkZrT09yWjR6aHdWR3I0U0RyN2p4RmlZeXdTUXd1WdIBqAFBVV95cUxQdTNmWUhYRkIzSHpWdVFCanZUQUdMX0Y4TWZEdVRUS0JPX3g1ejdMLXYyNXRGSFZjeTB4OElpTWFGYkpUT0luVzMxT1ptMm1iRGZGOUdZd0tGd0ZTdlpibERhLU5KdEhXR2JBUEs4SXUtRDVPSmV0UFhZZG9YOWtMclU1c0xOQWdpMnBIa3draUVYTmQxRkFBZHNrb1dRLWlONmthZUkzcXU?oc=5",
       "published": "Tue, 15 Sep 2026 04:38:53 GMT"
     }
   ],
-  "last_updated": "2026-09-15 09:53 UTC"
+  "last_updated": "2026-09-15 10:08 UTC"
 }
