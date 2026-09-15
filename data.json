@@ -33,7 +33,9 @@
     "pct": -0.48
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 63985.02,
+    "change": 492.03,
+    "pct": 0.77
   },
   "Hang Seng": {
     "error": "single positional indexer is out-of-bounds"
@@ -63,9 +65,9 @@
   },
   "news": [
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Mon, 14 Sep 2026 14:07:41 GMT"
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
       "title": "Stock Market prediction today: Sensex, Nifty outlook for Tue | Kospi, Taiwan Index, Nikkei cues to watch | 15 Sept - Livemint",
@@ -103,5 +105,5 @@
       "published": "Mon, 14 Sep 2026 06:55:39 GMT"
     }
   ],
-  "last_updated": "2026-09-15 01:27 UTC"
+  "last_updated": "2026-09-15 01:41 UTC"
 }
