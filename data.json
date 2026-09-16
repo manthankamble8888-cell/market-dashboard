@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52033.64,
-    "change": -59.47,
-    "pct": -0.11
+    "price": 52076.97,
+    "change": -16.14,
+    "pct": -0.03
   },
   "Nasdaq": {
-    "price": 26148.35,
-    "change": 166.78,
-    "pct": 0.64
+    "price": 26150.58,
+    "change": 169.01,
+    "pct": 0.65
   },
   "S&P 500": {
-    "price": 7605.37,
-    "change": 19.64,
-    "pct": 0.26
+    "price": 7608.07,
+    "change": 22.34,
+    "pct": 0.29
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.98,
-    "change": -2.77,
-    "pct": -2.55
+    "price": 105.8,
+    "change": -2.95,
+    "pct": -2.71
   },
   "Crude Oil (WTI)": {
-    "price": 102.68,
-    "change": -3.15,
-    "pct": -2.98
+    "price": 102.54,
+    "change": -3.29,
+    "pct": -3.11
   },
   "Gold": {
-    "price": 4389.0,
-    "change": 56.2,
-    "pct": 1.3
+    "price": 4384.1,
+    "change": 51.3,
+    "pct": 1.18
   },
   "Silver": {
-    "price": 64.97,
-    "change": 1.74,
-    "pct": 2.75
+    "price": 64.85,
+    "change": 1.61,
+    "pct": 2.54
   },
   "USD/INR": {
     "price": 95.94,
@@ -74,9 +74,9 @@
     "pct": 0.11
   },
   "Dollar Index": {
-    "price": 99.69,
-    "change": 0.04,
-    "pct": 0.04
+    "price": 99.73,
+    "change": 0.08,
+    "pct": 0.08
   },
   "US 10Y Yield": {
     "price": 4.95,
@@ -90,14 +90,14 @@
       "published": "Wed, 16 Sep 2026 13:01:22 GMT"
     },
     {
-      "title": "How could Indian markets react if Fed goes for rate hike tonight? Check what analysts say - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOHJDdHdYUGt6WldUcHp2Z2xITlBuY2FQZnIzNFJUWmpVYnZGOGFiVTZxcWlkakJEWVpmNmxOTUg4bWEyWkNMbnRwclVfSWZUR1lzRnlSMThtWWtHa2NoNDdjdGJZX05VZkpEMnFZSEpJLS1FczBrcnY5MDRyNHhZdjk5MmpaRzFsZnBjX05YZjBvV2FIRnJPak9OLXZuVW00eFlZUzl0UEtqb2gwMHNnNU41M3lWcW1pWkkyVk1Scm9xR195RWx3bi1SYVdKeE1hQTZ0NGlvUThVQlIyMi1POC1oMGhEd9IB6wFBVV95cUxPSHQwNThTa3RwOFhpSmhwbG9yMkYzX1UwazlsV3JKcnNHczBESmo5Q29BZDdKUHptTmk0cjVjaFd2Uzl5ZTU0Z3dTWHg0ZXp4YmJWc2JuMm1KUEJsWm5rVFhKbUZVSEhQczJOMWN0WS1NZXlNdm91UlZsWjdjbDd4aGhfUHBFNFpfOVJpN0otMHJIUDRKN0lDOTZnQnNwYVNmRkhWZHdIYnEyLWRvczhpNDNLTDhWQktHb3ZLUl9sUk83NC1DSmRkRVpseWZSLW1CWDBBM3pybExnUHVQUXFyV2ZFOUh6X0psam1Z?oc=5",
-      "published": "Wed, 16 Sep 2026 09:29:46 GMT"
-    },
-    {
       "title": "US Fed rate hike after 3 years? Here\u2019s what it could mean for Indian stock markets - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVUzOTZTZEF6ZGVOZVBOTnNLMVJWMW1fQ2tCV1RVSENPWU9JemYyM2JpLVBfdE5fV1VKM0JiV2RSV0JEZHpFaG1kUzc0UW52OTFDUi1sUXI3LUN5b0t1WXJlWk9vemFscFhoVGVZWnU0V0pGYTIyV0RNMkFISGdSNEVjRl9NcXl5MUlJRmxTQnZTeVZfUlF4eFJoZDd6VXhVWi1qdjF3WGFjLXhaN0N0SGR3LXVVM1hOLWdEWjhIMWJ5RUtuTlFJTkExUTFaQ2JUQ1Rhd0NDRURhejVjQW12MEw4R0lnd9IB6wFBVV95cUxNMWczeDRfOHRYTmIyVUN0YTRybVh6V3M3SjJqUjljd25FYzJWcEVlTHBOa21MRElaME9tX1hMRTBEV3JzUGc4Q3kwRElxU2FLNDBGZUl1Qk01bkxtbHJYWjFNWWFTZDBFcVJYMnluaE83bld3QnI3aWRScmt6VWlucDNHSEtMcVBiSjdyTzdWdXBnb0tEUFMzdnB4N2ZMTFhza281WW9ibVUyclhkU0xfZ1JBdC14eGVuSGptRHNNSF8xR0RneXNmNmx4S21vS2dmd3ZtWTdBMjN1YlBQZU9mNkNjRlZ4Wk1HOHFn?oc=5",
       "published": "Wed, 16 Sep 2026 12:13:30 GMT"
+    },
+    {
+      "title": "How could Indian markets react if Fed goes for rate hike tonight? Check what analysts say - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOHJDdHdYUGt6WldUcHp2Z2xITlBuY2FQZnIzNFJUWmpVYnZGOGFiVTZxcWlkakJEWVpmNmxOTUg4bWEyWkNMbnRwclVfSWZUR1lzRnlSMThtWWtHa2NoNDdjdGJZX05VZkpEMnFZSEpJLS1FczBrcnY5MDRyNHhZdjk5MmpaRzFsZnBjX05YZjBvV2FIRnJPak9OLXZuVW00eFlZUzl0UEtqb2gwMHNnNU41M3lWcW1pWkkyVk1Scm9xR195RWx3bi1SYVdKeE1hQTZ0NGlvUThVQlIyMi1POC1oMGhEd9IB6wFBVV95cUxPSHQwNThTa3RwOFhpSmhwbG9yMkYzX1UwazlsV3JKcnNHczBESmo5Q29BZDdKUHptTmk0cjVjaFd2Uzl5ZTU0Z3dTWHg0ZXp4YmJWc2JuMm1KUEJsWm5rVFhKbUZVSEhQczJOMWN0WS1NZXlNdm91UlZsWjdjbDd4aGhfUHBFNFpfOVJpN0otMHJIUDRKN0lDOTZnQnNwYVNmRkhWZHdIYnEyLWRvczhpNDNLTDhWQktHb3ZLUl9sUk83NC1DSmRkRVpseWZSLW1CWDBBM3pybExnUHVQUXFyV2ZFOUh6X0psam1Z?oc=5",
+      "published": "Wed, 16 Sep 2026 09:29:46 GMT"
     },
     {
       "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
@@ -110,14 +110,14 @@
       "published": "Wed, 16 Sep 2026 11:57:25 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "India stocks higher at close of trade; Nifty 50 up 0.43% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhFVE9BZ0ROTHZrN2VXZGM5NlBIRzIzR2pfUF9FOEQxcmtHeGswbU9DY2dDdnQxSDRzbHRVdmNTSFZCWlBDSzN3MU1WYUl6czNtUk13Z3FNS0JOenFxNzcwc3NQTDRqTlpwcnhpZGNCeUtHMlJqSC13ZUZ1UUVEM1RWRWhPeFpxVWl1NVJfdlBCWWNlTWJWOWZLSGZRcDF6Uml5U3VvQUxBeTFYdncw?oc=5",
       "published": "Wed, 16 Sep 2026 10:35:50 GMT"
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
@@ -125,5 +125,5 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-16 17:06 UTC"
+  "last_updated": "2026-09-16 17:23 UTC"
 }
