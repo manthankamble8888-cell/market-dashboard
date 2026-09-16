@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23224.15,
-    "change": 105.55,
-    "pct": 0.46
+    "price": 23217.6,
+    "change": 99.0,
+    "pct": 0.43
   },
   "Bank Nifty": {
-    "price": 56226.75,
-    "change": 432.0,
-    "pct": 0.77
+    "price": 56292.45,
+    "change": 497.7,
+    "pct": 0.89
   },
   "Sensex": {
-    "price": 74298.63,
-    "change": 294.81,
-    "pct": 0.4
+    "price": 74493.31,
+    "change": 489.49,
+    "pct": 0.66
   },
   "India VIX": {
-    "price": 13.15,
-    "change": -0.28,
-    "pct": -2.08
+    "price": 13.2,
+    "change": -0.23,
+    "pct": -1.69
   },
   "Nifty IT": {
-    "price": 29027.0,
-    "change": -528.3,
-    "pct": -1.79
+    "price": 29087.65,
+    "change": -467.65,
+    "pct": -1.58
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": 0.19
   },
   "Crude Oil (Brent)": {
-    "price": 107.69,
-    "change": -1.06,
-    "pct": -0.97
+    "price": 107.78,
+    "change": -0.97,
+    "pct": -0.89
   },
   "Crude Oil (WTI)": {
-    "price": 104.22,
-    "change": -1.61,
-    "pct": -1.52
+    "price": 104.07,
+    "change": -1.76,
+    "pct": -1.66
   },
   "Gold": {
-    "price": 4375.5,
-    "change": 42.7,
-    "pct": 0.99
+    "price": 4376.5,
+    "change": 43.7,
+    "pct": 1.01
   },
   "Silver": {
-    "price": 65.03,
-    "change": 1.79,
-    "pct": 2.84
+    "price": 65.02,
+    "change": 1.78,
+    "pct": 2.82
   },
   "USD/INR": {
     "price": 95.96,
-    "change": 0.13,
-    "pct": 0.14
+    "change": 0.12,
+    "pct": 0.12
   },
   "Dollar Index": {
-    "price": 99.65,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 99.66,
+    "change": 0.01,
+    "pct": 0.01
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -114,12 +114,12 @@
       "published": "Wed, 16 Sep 2026 04:00:30 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - upstox.com",
+      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Wed, 16 Sep 2026 01:39:15 GMT"
     }
   ],
-  "last_updated": "2026-09-16 09:52 UTC"
+  "last_updated": "2026-09-16 10:06 UTC"
 }
