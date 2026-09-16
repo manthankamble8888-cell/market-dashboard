@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51322.07,
-    "change": -771.04,
-    "pct": -1.48
+    "price": 51398.05,
+    "change": -695.06,
+    "pct": -1.33
   },
   "Nasdaq": {
-    "price": 25900.72,
-    "change": -80.85,
-    "pct": -0.31
+    "price": 25959.04,
+    "change": -22.53,
+    "pct": -0.09
   },
   "S&P 500": {
-    "price": 7530.97,
-    "change": -54.76,
-    "pct": -0.72
+    "price": 7544.31,
+    "change": -41.42,
+    "pct": -0.55
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.59,
-    "change": -3.16,
-    "pct": -2.91
+    "price": 105.05,
+    "change": -3.7,
+    "pct": -3.4
   },
   "Crude Oil (WTI)": {
-    "price": 102.16,
-    "change": -3.67,
-    "pct": -3.47
+    "price": 101.75,
+    "change": -4.08,
+    "pct": -3.86
   },
   "Gold": {
-    "price": 4283.0,
-    "change": -49.8,
-    "pct": -1.15
+    "price": 4298.0,
+    "change": -34.8,
+    "pct": -0.8
   },
   "Silver": {
-    "price": 62.92,
-    "change": -0.32,
-    "pct": -0.51
+    "price": 63.24,
+    "change": 0.01,
+    "pct": 0.01
   },
   "USD/INR": {
     "price": 95.95,
@@ -64,9 +64,9 @@
     "pct": 0.12
   },
   "Dollar Index": {
-    "price": 100.32,
-    "change": 0.67,
-    "pct": 0.67
+    "price": 100.24,
+    "change": 0.59,
+    "pct": 0.59
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -105,15 +105,15 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - brut.media",
+      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "Today's Market: Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Indian Stock Market News - Equitymaster",
+      "title": "Today's Market: Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Indian Stock Market News - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFZ6ckhkSzlFYThRYjlIeWdkbFNScHRrak1ZVXRGTGh2b3RoR1J6b0dHR0M0S0FMOUgwdXVHdWQtaERFLXRLVndrRXVOb19ZbDhBYkc4bjV2S0NuVm1vVjBwZUNUTDdxZTBrb3dvM3NpVnZMX2NCbjZWaXZ1YnR0eUIwd1NkM1ZtQ21Za0gzal9IMWdqUnEwdVMtb0s0c1NCWGlfLTBvNV9sZE5iS2JyTDZZTkZTelFaX1M4UUJLR19yckp5?oc=5",
       "published": "Wed, 16 Sep 2026 10:34:40 GMT"
     }
   ],
-  "last_updated": "2026-09-16 19:36 UTC"
+  "last_updated": "2026-09-16 19:48 UTC"
 }
