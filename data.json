@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52052.39,
-    "change": -40.72,
-    "pct": -0.08
+    "price": 52035.5,
+    "change": -57.61,
+    "pct": -0.11
   },
   "Nasdaq": {
-    "price": 26163.77,
-    "change": 182.2,
-    "pct": 0.7
+    "price": 26164.86,
+    "change": 183.29,
+    "pct": 0.71
   },
   "S&P 500": {
-    "price": 7609.84,
-    "change": 24.11,
-    "pct": 0.32
+    "price": 7609.1,
+    "change": 23.37,
+    "pct": 0.31
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +49,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.6,
-    "change": -3.15,
-    "pct": -2.9
+    "price": 105.78,
+    "change": -2.97,
+    "pct": -2.73
   },
   "Crude Oil (WTI)": {
-    "price": 102.5,
-    "change": -3.33,
-    "pct": -3.15
+    "price": 102.53,
+    "change": -3.3,
+    "pct": -3.12
   },
   "Gold": {
-    "price": 4386.3,
-    "change": 53.5,
-    "pct": 1.23
+    "price": 4389.2,
+    "change": 56.4,
+    "pct": 1.3
   },
   "Silver": {
-    "price": 65.03,
-    "change": 1.79,
-    "pct": 2.83
+    "price": 65.04,
+    "change": 1.8,
+    "pct": 2.85
   },
   "USD/INR": {
     "price": 95.94,
@@ -74,14 +74,14 @@
     "pct": 0.11
   },
   "Dollar Index": {
-    "price": 99.7,
-    "change": 0.05,
-    "pct": 0.05
+    "price": 99.69,
+    "change": 0.04,
+    "pct": 0.04
   },
   "US 10Y Yield": {
     "price": 4.96,
-    "change": -0.03,
-    "pct": -0.7
+    "change": -0.04,
+    "pct": -0.74
   },
   "news": [
     {
@@ -105,14 +105,9 @@
       "published": "Wed, 16 Sep 2026 08:16:57 GMT"
     },
     {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 16, 2026 - blog.liquide.life",
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 16, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJKSzRGV1Q0SUh4UWxyTnJoNHkwbVc2QzhxQW8xbjk0U2dMTEdMbHYta3AtazExczhNWmpFckM1d1N2SGQ5ZGNxNHJwQkNTc00tVjdra1RDa05DcndOOXl0WFlIank2ZGdoUUFtRUROMWpXSHBBMS0tcWN2VGVGVHdSNlIzVExucVJCREdnRDlWUUt6el9DNnNWZmp0T2Y1c214YndXWENHQQ?oc=5",
       "published": "Wed, 16 Sep 2026 11:57:25 GMT"
-    },
-    {
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.43% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhFVE9BZ0ROTHZrN2VXZGM5NlBIRzIzR2pfUF9FOEQxcmtHeGswbU9DY2dDdnQxSDRzbHRVdmNTSFZCWlBDSzN3MU1WYUl6czNtUk13Z3FNS0JOenFxNzcwc3NQTDRqTlpwcnhpZGNCeUtHMlJqSC13ZUZ1UUVEM1RWRWhPeFpxVWl1NVJfdlBCWWNlTWJWOWZLSGZRcDF6Uml5U3VvQUxBeTFYdncw?oc=5",
-      "published": "Wed, 16 Sep 2026 10:35:50 GMT"
     },
     {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
@@ -120,10 +115,15 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.43% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhFVE9BZ0ROTHZrN2VXZGM5NlBIRzIzR2pfUF9FOEQxcmtHeGswbU9DY2dDdnQxSDRzbHRVdmNTSFZCWlBDSzN3MU1WYUl6czNtUk13Z3FNS0JOenFxNzcwc3NQTDRqTlpwcnhpZGNCeUtHMlJqSC13ZUZ1UUVEM1RWRWhPeFpxVWl1NVJfdlBCWWNlTWJWOWZLSGZRcDF6Uml5U3VvQUxBeTFYdncw?oc=5",
+      "published": "Wed, 16 Sep 2026 10:35:50 GMT"
+    },
+    {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-16 16:38 UTC"
+  "last_updated": "2026-09-16 16:52 UTC"
 }
