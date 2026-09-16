@@ -53,24 +53,24 @@
     "pct": 0.19
   },
   "Crude Oil (Brent)": {
-    "price": 107.6,
-    "change": -1.15,
-    "pct": -1.06
+    "price": 107.77,
+    "change": -0.98,
+    "pct": -0.9
   },
   "Crude Oil (WTI)": {
-    "price": 103.72,
-    "change": -2.11,
-    "pct": -1.99
+    "price": 103.9,
+    "change": -1.93,
+    "pct": -1.82
   },
   "Gold": {
-    "price": 4384.1,
-    "change": 51.3,
-    "pct": 1.18
+    "price": 4389.2,
+    "change": 56.4,
+    "pct": 1.3
   },
   "Silver": {
-    "price": 65.09,
-    "change": 1.85,
-    "pct": 2.93
+    "price": 65.1,
+    "change": 1.86,
+    "pct": 2.95
   },
   "USD/INR": {
     "price": 95.94,
@@ -78,9 +78,9 @@
     "pct": 0.11
   },
   "Dollar Index": {
-    "price": 99.67,
-    "change": 0.02,
-    "pct": 0.02
+    "price": 99.68,
+    "change": 0.03,
+    "pct": 0.04
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -89,14 +89,19 @@
   },
   "news": [
     {
-      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
+      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - indiatoday.in",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWZ2NmFEVy1WNUVnWEZ5REwxTUgtNE5CcFRUSW83MFV0a0tjZDNSMmk4V2tRYWMyeVVjV3J4TFBiQ1lSc2djdW85NGtxWmlFZUJxWTRWV0E0SkR1bW93QUU1cHJOaVE5QUJMMUlwVmZKaGNaUDNxeWVQQ1ZYZkNaejdRUHdoRVZDVElFMjdQdEswUmdBMG1kbVpQRGFQOVpTVDQxYllRRTBxN0NsTk5lZlo1cXNZX1BIMHJzU3ZJSS1GbFJNaEJ3bG9Lcjg5S0puSWJJaXdndU9rcE52QzBrVlJuTklma0g0Vng4aVprdzF3Uk3SAfgBQVVfeXFMUHZtZDRFMU5EWGVXd2o0bDdJaDV0MGM2SDQ2VnR0eDdEdk9HZThBeFBlbndmZ3J4SkNRcG1lLTdrVk81ck1qX0ZhT1E0cDh6WHQ4dUZkeE1fTFVPVEMzc1piZzFERlJ6OWxuYUp6R1BmV2FKdEs4cU5qZktyaTJWeEVtc1hEUU9xcFFRb2RkTWNBbC1OWkFGZHRqUDQ0TlN6SjFlTWhYcHh0VGozb3duR0NMSXVlcndhbTRGektxSnRGUjRRc2FKZ3NQcFAzNXdiSXVxRzhJOFVOZWRKWURyRjl4QV90NEFueXI3NllTN2ZuYjktU2M0UE4?oc=5",
       "published": "Wed, 16 Sep 2026 03:19:22 GMT"
     },
     {
-      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
+      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
       "published": "Wed, 16 Sep 2026 08:16:57 GMT"
+    },
+    {
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
+      "published": "Wed, 16 Sep 2026 01:54:55 GMT"
     },
     {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
@@ -104,9 +109,9 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
-      "published": "Wed, 16 Sep 2026 01:54:55 GMT"
+      "title": "Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNa3Z1Rk9oTi01b0llcnoyaFY2ZWtQRDA5RHhyOGh4MmlZYkZRTnNmQnZsMUU0N1I1Uk8ta0RXUmlGLTBBWjNMRDJjSWtZa3NjblNESzYzTFZncWNvTV8tWUZvdnhXZ0RVZkd2N3AteWhHT3ZWa2dxRldEM3ZON1JOcUtyRlBiVU1qdTdxOXJqUUJ5dnBxTWdxNUJ3STQ0clN0TmdOdmdTMVk1WEhZb21VYnpzemM2TkZvemlBbm4yYmpFTU4yQ0wzQW5TQXZncmEyYkZHaWpvZ201M0J0ZXpQQ1k2YUhQV0Fxam9PZ1hDTm1XcngtVzNaZ2FhSE9mYWNVTzF3cHR5bUtaaUJubWdNNHRiUktSZ2xsQVFycDFRa0V1dDN2ME81TVI0VnRzamRMWTZzTVp2TXJUWDJEVVhGSHJYaw?oc=5",
+      "published": "Wed, 16 Sep 2026 10:34:40 GMT"
     },
     {
       "title": "Indian Stocks Open Higher as Nifty, Sensex Gain Amid Easing Oil Prices - Investing.com India",
@@ -122,12 +127,7 @@
       "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
-    },
-    {
-      "title": "Markets rebound after sharp sell-off; Sensex rises over 300 points, Nifty crosses 23,200 - bfsi.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYURSMXVOanRRVVk0b2VUQXJUaF91Z1hNbWJPcHpzY2NPX2Y4QW1EeVpmTGdjcUZIWG9nd2E0elRXd0FrR0tqMjJ5Z1ItTG9VcFRsOENnUkRINW9mWTJYeENlM3RPb2JiUXhfWk95bTBERTY1VE53OHFyZXk4S0dnS25jdkwySXZNcmJmMkN1OEU5M0toREl0OFlibkZuanBtS3I4UFBsOTl3M19keHpNVVhhTkc4US1DU2VROGpzNU1rTG4zdjJaOTA4Q0RHWVNFQ3JzT0Fma2JQeXI2Q0pB0gHkAUFVX3lxTFBUWVA5amNYRDg0cUViTGxrN193SUhsbjc2SGxZRFpjTXJ6TTRua1lCd2wxX2dOV19xRnZkUnBiVEM1RFdET2RqaUJOU0RFQzRxX00yREU4cURwR19XQlg5RFd3UDBCSFdGdm1tbUduQjQ5eEQ2VGNHbVp3UnFWMEdHYnVsVllpTmtHYmVKOGlKYmhvX3htQ3NHSElwV3FCVDZrNEcxWXc3ZG5NTlByaWJXTHVQbUs5Rlo3bmR1VXowc182WXZEY1JEWGRQTVpXMmlTd3gyTGNUcVdCTGdzSFNFRVYtcg?oc=5",
-      "published": "Wed, 16 Sep 2026 05:13:18 GMT"
     }
   ],
-  "last_updated": "2026-09-16 10:26 UTC"
+  "last_updated": "2026-09-16 10:39 UTC"
 }
