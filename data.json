@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23235.15,
-    "change": 116.55,
-    "pct": 0.5
+    "price": 23242.3,
+    "change": 123.7,
+    "pct": 0.54
   },
   "Bank Nifty": {
-    "price": 56308.15,
-    "change": 513.4,
-    "pct": 0.92
+    "price": 56293.4,
+    "change": 498.65,
+    "pct": 0.89
   },
   "Sensex": {
-    "price": 74333.32,
-    "change": 329.5,
-    "pct": 0.45
+    "price": 74303.06,
+    "change": 299.24,
+    "pct": 0.4
   },
   "India VIX": {
-    "price": 13.19,
-    "change": -0.24,
-    "pct": -1.79
+    "price": 13.16,
+    "change": -0.27,
+    "pct": -1.99
   },
   "Nifty IT": {
-    "price": 29060.0,
-    "change": -495.3,
-    "pct": -1.68
+    "price": 29041.5,
+    "change": -513.8,
+    "pct": -1.74
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": 0.19
   },
   "Crude Oil (Brent)": {
-    "price": 107.97,
-    "change": -0.78,
-    "pct": -0.72
+    "price": 108.4,
+    "change": -0.35,
+    "pct": -0.32
   },
   "Crude Oil (WTI)": {
-    "price": 104.54,
-    "change": -1.29,
-    "pct": -1.22
+    "price": 104.83,
+    "change": -1.0,
+    "pct": -0.94
   },
   "Gold": {
-    "price": 4370.4,
-    "change": 37.6,
-    "pct": 0.87
+    "price": 4373.3,
+    "change": 40.5,
+    "pct": 0.93
   },
   "Silver": {
-    "price": 65.04,
-    "change": 1.8,
-    "pct": 2.85
+    "price": 65.01,
+    "change": 1.78,
+    "pct": 2.81
   },
   "USD/INR": {
     "price": 95.97,
-    "change": 0.14,
+    "change": 0.13,
     "pct": 0.14
   },
   "Dollar Index": {
-    "price": 99.65,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 99.64,
+    "change": -0.01,
+    "pct": -0.01
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -94,17 +94,12 @@
       "published": "Wed, 16 Sep 2026 03:19:22 GMT"
     },
     {
-      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-      "published": "Tue, 15 Sep 2026 02:35:00 GMT"
-    },
-    {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - livemint.com",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
       "published": "Wed, 16 Sep 2026 01:54:55 GMT"
     },
@@ -114,12 +109,7 @@
       "published": "Wed, 16 Sep 2026 04:00:30 GMT"
     },
     {
-      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
-      "published": "Wed, 16 Sep 2026 08:16:57 GMT"
-    },
-    {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
@@ -127,7 +117,17 @@
       "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
+    },
+    {
+      "title": "Stock Market Today: Gift Nifty, Bond Yields To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On September 16 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa1AzVjdocS1JRnhwcnZKcXBzNnpudTR4Zm9ydG94N25IdlRBTXl4NlBsRUN1M1NZTFV2QlVEYlhJaGtZdGp4TkxwcHhaVk1iUlU4SWNHTldTQlNCYU5vN1kyZEZkU1V1UEdKclBJWWRnU1hfNFZFMTMyNWxmeWNpWjdlQzE4dmg5SzZtTmZtREpQbDhPeWdQZGFqS0Fmb0c5TkNxbmY2YzNTTU9ScktxN2hpclotNDQzaEx0eXlKWlB2NXh0aUFoNXhxcjlCUXNuTmVYMV9fYkhwQlVmOVcyNzJjTG1ZcFhxVW9aVW1ETFg5VnVuakY00gH_AUFVX3lxTE45LUhsSTZyODJmMXNvOWFkSC1vMzE2TklxUTliWGZvdDdnOXNsSXJpX2pVN3NOaVpHLUtyN2h0S1BfWlpGV2g3N05jNlJSV2N1YklsdlZqQUwwNzh6VklrNXloWkNidXgzdHVBbE5ibl9uVUtMTU5YT1Jrb3VYZjdJSGpQWGVvcGNVNHR3ZTI1U0xuRmJGZGVJRVdFVGtfQ1FSZ1BhNHM1R2ZLYUc2WkdwWjJXX1p2QlZhUnR2YUxqRERTUUltYXNhYzJyYV9jZkZvbk5VaXBtdkF1dElLWDVwQ3o3czZrQUhaQ2t1emlPSGZOSTR0ajl5a3hIckFVRQ?oc=5",
+      "published": "Wed, 16 Sep 2026 01:39:15 GMT"
+    },
+    {
+      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
+      "published": "Wed, 16 Sep 2026 08:16:57 GMT"
     }
   ],
-  "last_updated": "2026-09-16 09:06 UTC"
+  "last_updated": "2026-09-16 09:25 UTC"
 }
