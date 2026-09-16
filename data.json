@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.26,
-    "change": 2.58,
-    "pct": 2.44
+    "price": 108.38,
+    "change": 2.7,
+    "pct": 2.55
   },
   "Crude Oil (WTI)": {
-    "price": 104.97,
-    "change": 3.58,
-    "pct": 3.53
+    "price": 105.14,
+    "change": 3.75,
+    "pct": 3.7
   },
   "Gold": {
-    "price": 4331.4,
-    "change": -20.5,
-    "pct": -0.47
+    "price": 4327.3,
+    "change": -24.6,
+    "pct": -0.57
   },
   "Silver": {
-    "price": 64.39,
-    "change": 0.87,
-    "pct": 1.37
+    "price": 64.12,
+    "change": 0.61,
+    "pct": 0.96
   },
   "USD/INR": {
     "price": 95.94,
@@ -64,9 +64,9 @@
     "pct": 0.11
   },
   "Dollar Index": {
-    "price": 99.71,
-    "change": 0.25,
-    "pct": 0.25
+    "price": 99.72,
+    "change": 0.26,
+    "pct": 0.27
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -80,14 +80,14 @@
       "published": "Tue, 15 Sep 2026 02:35:00 GMT"
     },
     {
-      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
-      "published": "Tue, 15 Sep 2026 09:49:03 GMT"
-    },
-    {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
+    },
+    {
+      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
+      "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
@@ -110,10 +110,10 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - Livemint",
+      "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Eight stocks to buy - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQU1R0a1lYOHZ0MDF0TzNtZXVnRVo2SVJteXNnNlZHMmJDRXpQQ2N0SERtbVpiNmFyVFR0WXpJaG5TYjVWc0pMNjBYanRtX1hseGU4MzB5UW5Jc1NvbFNWQTJma05fYUxOQWZHdlZwYnhsejU0RnRRZmhIZDZOY0Q1WXB2ZXlILU1kMDVRcTF5aFQ2RDk1SHNVelZGd3NoMFFyU0hldjVBYk1Va2Jfc1hMTnVwZHY3dVJCdjJvcmVEeVFMVmlhcGJFbURIeVlQY0pxV21rMVB3WklqaFE3aGtNbldhNUZkZnp2Q0xRNWxHQdIB9AFBVV95cUxQa21wNFM4XzhfdTY5QXN4M0NUMjA5R3RfMnQzSmc2SEVsOEg2Rm5TYmY0bjJmWUNYY3VDUV9mdml5RTcxTmdRXzdLMXE5MTZ4TTBReDFCTERPT09wOUxNUkI4dVVCWHNUVWpweHE2alhJLUx0d21IUlo1YTNxdGFIZ1dIRTRwenN5ZDNadTliYWNCbk1RTlo3V3R3VFB6UWJPVzFjSExGaXNINmNNcU9zdEpjOFNVTjRuS0FpMGFlemFCcUpRYkdkanhfWWdFbVVNTWJnbHN1UDFIN3FqUHdBTzRKVndOb0F4NkJWTU1YNUZ3RXlQ?oc=5",
       "published": "Tue, 15 Sep 2026 02:18:08 GMT"
     }
   ],
-  "last_updated": "2026-09-16 01:36 UTC"
+  "last_updated": "2026-09-16 01:50 UTC"
 }
