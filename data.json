@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23260.1,
-    "change": 141.5,
-    "pct": 0.61
+    "price": 23229.1,
+    "change": 110.5,
+    "pct": 0.48
   },
   "Bank Nifty": {
-    "price": 56309.2,
-    "change": 514.45,
-    "pct": 0.92
+    "price": 56233.0,
+    "change": 438.25,
+    "pct": 0.79
   },
   "Sensex": {
-    "price": 74443.86,
-    "change": 440.04,
+    "price": 74438.1,
+    "change": 434.28,
     "pct": 0.59
   },
   "India VIX": {
-    "price": 12.96,
-    "change": -0.47,
-    "pct": -3.5
+    "price": 13.16,
+    "change": -0.27,
+    "pct": -2.01
   },
   "Nifty IT": {
-    "price": 29227.1,
-    "change": -328.2,
-    "pct": -1.11
+    "price": 29167.95,
+    "change": -387.35,
+    "pct": -1.31
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": 0.69
   },
   "Hang Seng": {
-    "price": 24722.0,
-    "change": 54.76,
-    "pct": 0.22
+    "price": 24709.9,
+    "change": 42.66,
+    "pct": 0.17
   },
   "Crude Oil (Brent)": {
-    "price": 107.48,
-    "change": -1.27,
-    "pct": -1.17
+    "price": 107.7,
+    "change": -1.05,
+    "pct": -0.97
   },
   "Crude Oil (WTI)": {
-    "price": 104.06,
-    "change": -1.77,
-    "pct": -1.67
+    "price": 104.22,
+    "change": -1.61,
+    "pct": -1.52
   },
   "Gold": {
-    "price": 4376.0,
-    "change": 43.2,
-    "pct": 1.0
+    "price": 4370.1,
+    "change": 37.3,
+    "pct": 0.86
   },
   "Silver": {
-    "price": 65.25,
-    "change": 2.01,
-    "pct": 3.18
+    "price": 65.1,
+    "change": 1.86,
+    "pct": 2.94
   },
   "USD/INR": {
-    "price": 95.94,
-    "change": 0.1,
-    "pct": 0.11
+    "price": 95.96,
+    "change": 0.12,
+    "pct": 0.13
   },
   "Dollar Index": {
-    "price": 99.58,
-    "change": -0.07,
-    "pct": -0.07
+    "price": 99.59,
+    "change": -0.06,
+    "pct": -0.06
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -89,17 +89,12 @@
   },
   "news": [
     {
-      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - indiatoday.in",
+      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWZ2NmFEVy1WNUVnWEZ5REwxTUgtNE5CcFRUSW83MFV0a0tjZDNSMmk4V2tRYWMyeVVjV3J4TFBiQ1lSc2djdW85NGtxWmlFZUJxWTRWV0E0SkR1bW93QUU1cHJOaVE5QUJMMUlwVmZKaGNaUDNxeWVQQ1ZYZkNaejdRUHdoRVZDVElFMjdQdEswUmdBMG1kbVpQRGFQOVpTVDQxYllRRTBxN0NsTk5lZlo1cXNZX1BIMHJzU3ZJSS1GbFJNaEJ3bG9Lcjg5S0puSWJJaXdndU9rcE52QzBrVlJuTklma0g0Vng4aVprdzF3Uk3SAfgBQVVfeXFMUHZtZDRFMU5EWGVXd2o0bDdJaDV0MGM2SDQ2VnR0eDdEdk9HZThBeFBlbndmZ3J4SkNRcG1lLTdrVk81ck1qX0ZhT1E0cDh6WHQ4dUZkeE1fTFVPVEMzc1piZzFERlJ6OWxuYUp6R1BmV2FKdEs4cU5qZktyaTJWeEVtc1hEUU9xcFFRb2RkTWNBbC1OWkFGZHRqUDQ0TlN6SjFlTWhYcHh0VGozb3duR0NMSXVlcndhbTRGektxSnRGUjRRc2FKZ3NQcFAzNXdiSXVxRzhJOFVOZWRKWURyRjl4QV90NEFueXI3NllTN2ZuYjktU2M0UE4?oc=5",
       "published": "Wed, 16 Sep 2026 03:19:22 GMT"
     },
     {
-      "title": "India's Nifty 50 closes at 5-month low on elevated oil prices, bond yields - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
-      "published": "Tue, 15 Sep 2026 02:35:00 GMT"
-    },
-    {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
+      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - brut.media",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
@@ -119,7 +114,7 @@
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
@@ -127,7 +122,12 @@
       "title": "Stock Market Today: Gift Nifty, Bond Yields To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On September 16 - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa1AzVjdocS1JRnhwcnZKcXBzNnpudTR4Zm9ydG94N25IdlRBTXl4NlBsRUN1M1NZTFV2QlVEYlhJaGtZdGp4TkxwcHhaVk1iUlU4SWNHTldTQlNCYU5vN1kyZEZkU1V1UEdKclBJWWRnU1hfNFZFMTMyNWxmeWNpWjdlQzE4dmg5SzZtTmZtREpQbDhPeWdQZGFqS0Fmb0c5TkNxbmY2YzNTTU9ScktxN2hpclotNDQzaEx0eXlKWlB2NXh0aUFoNXhxcjlCUXNuTmVYMV9fYkhwQlVmOVcyNzJjTG1ZcFhxVW9aVW1ETFg5VnVuakY00gH_AUFVX3lxTE45LUhsSTZyODJmMXNvOWFkSC1vMzE2TklxUTliWGZvdDdnOXNsSXJpX2pVN3NOaVpHLUtyN2h0S1BfWlpGV2g3N05jNlJSV2N1YklsdlZqQUwwNzh6VklrNXloWkNidXgzdHVBbE5ibl9uVUtMTU5YT1Jrb3VYZjdJSGpQWGVvcGNVNHR3ZTI1U0xuRmJGZGVJRVdFVGtfQ1FSZ1BhNHM1R2ZLYUc2WkdwWjJXX1p2QlZhUnR2YUxqRERTUUltYXNhYzJyYV9jZkZvbk5VaXBtdkF1dElLWDVwQ3o3czZrQUhaQ2t1emlPSGZOSTR0ajl5a3hIckFVRQ?oc=5",
       "published": "Wed, 16 Sep 2026 01:39:15 GMT"
+    },
+    {
+      "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdUZaOC1oYTI1ZGhSWkZ4cEtqNU1lck5qdlBXZVVyQllhMTQwblcxejVIU3VTU2U1MTJNdC1ObVdpUUpzb3RMeWJKZEZ3X0Fua1RTWEhBNE9Nc3JYclRxM1hNdkNSS1premRvOURtcTRKZGNFMUpiUWZ0S1poamZFYllqNU1rOGRnQnlEcll0TnMyRHNSYWQ4OTBKaDlKQ3BTdGtvck5oZ0F2NlhBMFBuemdhSVJOYXdJbEtFRl9BclJRWUpOZlZQVWN2UDRWWl9oVURMOVpOQ2c1TnhlT0tzN0g5c1hLT1BybENSRlhXbmpjSENEdGhIZEp4Vk0yeWFfVTM2NlRrQ0doTDZWQVp5WjZsa1A2UnBrTUdWOERESy3SAaYCQVVfeXFMT21oOGNyczJnMTQ1U0FCVi1uczVmVjQ0YkhBNkk2anFBRVVUcjktRzVFZHY4UTZoUFZxMk1XNHpnQW5CMHAyZ25XNnZhY1FGV2VvcXdkMTdVSHRpR25aNEoyZ25nWXY0dXhhYjU3WkFqd0Y5V2tGRUZpdkNqSGR3N093OTV0ZUdmM25vai1qNWhUN0I3UlVEbHBhTGFLNlhEM1UzaTh0ak80RWFrMGozUzlObFI3XzJmSWlNal9Vd25ZdWpoRWI4b2c4Wk05eWJxQUZ3dXBSSERyM1ZyVGo3aDVoZVRKRVlrcmxDaDFRdll1WGNNQXYzNlI0dUo2Tk9ienhaT29DTEFlSlQ5Y0VTZXIzNXBoMnRaRXBPZS1DWXRtaFUwS3JB?oc=5",
+      "published": "Tue, 15 Sep 2026 09:44:37 GMT"
     }
   ],
-  "last_updated": "2026-09-16 07:52 UTC"
+  "last_updated": "2026-09-16 08:06 UTC"
 }
