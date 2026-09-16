@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51525.68,
-    "change": -567.43,
-    "pct": -1.09
+    "price": 51245.93,
+    "change": -847.18,
+    "pct": -1.63
   },
   "Nasdaq": {
-    "price": 25966.68,
-    "change": -14.89,
-    "pct": -0.06
+    "price": 25834.95,
+    "change": -146.62,
+    "pct": -0.56
   },
   "S&P 500": {
-    "price": 7551.91,
-    "change": -33.82,
-    "pct": -0.45
+    "price": 7514.66,
+    "change": -71.07,
+    "pct": -0.94
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.7,
-    "change": -3.05,
-    "pct": -2.8
+    "price": 105.95,
+    "change": -2.8,
+    "pct": -2.57
   },
   "Crude Oil (WTI)": {
-    "price": 102.41,
-    "change": -3.42,
-    "pct": -3.23
+    "price": 102.48,
+    "change": -3.35,
+    "pct": -3.17
   },
   "Gold": {
-    "price": 4312.1,
-    "change": -20.7,
-    "pct": -0.48
+    "price": 4281.1,
+    "change": -51.7,
+    "pct": -1.19
   },
   "Silver": {
-    "price": 63.82,
-    "change": 0.58,
-    "pct": 0.92
+    "price": 63.06,
+    "change": -0.18,
+    "pct": -0.29
   },
   "USD/INR": {
     "price": 95.95,
@@ -64,14 +64,14 @@
     "pct": 0.12
   },
   "Dollar Index": {
-    "price": 100.2,
-    "change": 0.55,
-    "pct": 0.56
+    "price": 100.27,
+    "change": 0.62,
+    "pct": 0.62
   },
   "US 10Y Yield": {
-    "price": 4.97,
-    "change": -0.02,
-    "pct": -0.42
+    "price": 5.01,
+    "change": 0.01,
+    "pct": 0.2
   },
   "news": [
     {
@@ -110,10 +110,10 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "Today's Market: Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Indian Stock Market News - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFZ6ckhkSzlFYThRYjlIeWdkbFNScHRrak1ZVXRGTGh2b3RoR1J6b0dHR0M0S0FMOUgwdXVHdWQtaERFLXRLVndrRXVOb19ZbDhBYkc4bjV2S0NuVm1vVjBwZUNUTDdxZTBrb3dvM3NpVnZMX2NCbjZWaXZ1YnR0eUIwd1NkM1ZtQ21Za0gzal9IMWdqUnEwdVMtb0s0c1NCWGlfLTBvNV9sZE5iS2JyTDZZTkZTelFaX1M4UUJLR19yckp5?oc=5",
-      "published": "Wed, 16 Sep 2026 10:34:40 GMT"
+      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
+      "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     }
   ],
-  "last_updated": "2026-09-16 19:05 UTC"
+  "last_updated": "2026-09-16 19:23 UTC"
 }
