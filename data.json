@@ -1,18 +1,26 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23247.15,
+    "change": 128.55,
+    "pct": 0.56
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 56139.6,
+    "change": 344.85,
+    "pct": 0.62
   },
   "Sensex": {
     "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 13.1,
+    "change": -0.34,
+    "pct": -2.49
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 29598.65,
+    "change": 43.35,
+    "pct": 0.15
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,44 +41,44 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 63396.0,
-    "change": -88.1,
-    "pct": -0.14
+    "price": 63638.63,
+    "change": 154.53,
+    "pct": 0.24
   },
   "Hang Seng": {
-    "price": 24638.57,
-    "change": -28.67,
-    "pct": -0.12
+    "price": 24653.2,
+    "change": -14.04,
+    "pct": -0.06
   },
   "Crude Oil (Brent)": {
-    "price": 107.64,
-    "change": 1.96,
-    "pct": 1.85
+    "price": 108.09,
+    "change": 2.41,
+    "pct": 2.28
   },
   "Crude Oil (WTI)": {
-    "price": 104.46,
-    "change": 3.07,
-    "pct": 3.03
+    "price": 104.89,
+    "change": 3.5,
+    "pct": 3.45
   },
   "Gold": {
-    "price": 4375.0,
-    "change": 23.1,
-    "pct": 0.53
+    "price": 4368.2,
+    "change": 16.3,
+    "pct": 0.37
   },
   "Silver": {
-    "price": 65.24,
-    "change": 1.72,
-    "pct": 2.71
+    "price": 65.08,
+    "change": 1.57,
+    "pct": 2.47
   },
   "USD/INR": {
-    "price": 95.88,
-    "change": 0.04,
-    "pct": 0.04
+    "price": 95.86,
+    "change": 0.02,
+    "pct": 0.02
   },
   "Dollar Index": {
-    "price": 99.65,
-    "change": 0.19,
-    "pct": 0.19
+    "price": 99.66,
+    "change": 0.2,
+    "pct": 0.21
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -89,19 +97,24 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - upstox.com",
+      "title": "India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcXpOVnowTEZYVUF4WHAxelB3d1BHWkdvczBMMEZ4alQwdkdlNjJidnFkeEVIblRhMU44ZDFQZkJKVDloT2poLU1CaEtManZaM3Y2TGNPWnBWUzZock5MSGpLS1dKU0h1ZVY0U25XTTllSnFiUzdtTjE2YU50YVJieGpWX3NYaDFYSTFfNzdtY2J3SmtrblpZN2dDLU1mZUdhMjYzMmoxa1RUOHRRZ0NuY1dveGxQdnpqVTRDSy1wLWR3U0ZsRG90Qm1GVUVwU0VpLUhtY2c5c0llekloeDJ6VUx6ZWFqWDA?oc=5",
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
-    },
-    {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Mon, 14 Sep 2026 21:30:13 GMT"
     },
     {
       "title": "Stock market today: Trade guide for Sensex, Nifty 50, crude oil and gold | Seven stocks to buy - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZWl0allDLTJ6TzItdGRCUGdkUmMtNmNmV3JXODNDVk83dXhCajVMR3pBS28tdWZQS2RTQmY1U1hHcC1DaVN1ajR3V2t6dDlIdFVlaWpYT3NrSHctbElzV21jN1QxYU11R3lxOW9TMDdSRlZsUjgtUWlERlVSbXBvdXpsWmgwS1ZpZ2d2QUF1MnQyR190TGVGQTFKSk1mNFZhYlRRdTdZMk5IeUxOYXJkZUVuZl8xMDFpS004RzFlMVQ4UjhkTEF6SnhOMjFYc3VvQzBLRkRqWlF2SmczUDYzMklTM3JKeVJlX1Vfd0oyTHrSAfYBQVVfeXFMUEw0RzE2T1JoV1Y1WlJQVzloYnVRaWVzTE4xVGx0MmVGVFdVYmE2bW5GMmxRbkstSnVubG9udTAtRncwbWxlT2ZHWmxaZko5YXZURF9pWlhwSXNLTFZJSXRhSldaeHN5elNCS3NoZFl1QVVRRGZWb0p5YTdmQ3BKRzBWUU4wNlJKQ3dzSmFQN3ZkRnpHYzZLTkNMS3ZiQVpId0NxRzRqY0ZReDlNNWhFS2FMM3BKblh6Q3A2OUFIOHpVbEZ1dWRCZDYtV1Bvekk5U0JHb29pSmQ4WVI1VlZyWTJUVmpnUTFUTTQ0blRjakxqc1FaRnFn?oc=5",
       "published": "Wed, 16 Sep 2026 01:54:57 GMT"
+    },
+    {
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:30:13 GMT"
+    },
+    {
+      "title": "Sensex, Nifty opening: Will stock markets crash again today? Paytm to be in focus - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWZ2NmFEVy1WNUVnWEZ5REwxTUgtNE5CcFRUSW83MFV0a0tjZDNSMmk4V2tRYWMyeVVjV3J4TFBiQ1lSc2djdW85NGtxWmlFZUJxWTRWV0E0SkR1bW93QUU1cHJOaVE5QUJMMUlwVmZKaGNaUDNxeWVQQ1ZYZkNaejdRUHdoRVZDVElFMjdQdEswUmdBMG1kbVpQRGFQOVpTVDQxYllRRTBxN0NsTk5lZlo1cXNZX1BIMHJzU3ZJSS1GbFJNaEJ3bG9Lcjg5S0puSWJJaXdndU9rcE52QzBrVlJuTklma0g0Vng4aVprdzF3Uk3SAfgBQVVfeXFMUHZtZDRFMU5EWGVXd2o0bDdJaDV0MGM2SDQ2VnR0eDdEdk9HZThBeFBlbndmZ3J4SkNRcG1lLTdrVk81ck1qX0ZhT1E0cDh6WHQ4dUZkeE1fTFVPVEMzc1piZzFERlJ6OWxuYUp6R1BmV2FKdEs4cU5qZktyaTJWeEVtc1hEUU9xcFFRb2RkTWNBbC1OWkFGZHRqUDQ0TlN6SjFlTWhYcHh0VGozb3duR0NMSXVlcndhbTRGektxSnRGUjRRc2FKZ3NQcFAzNXdiSXVxRzhJOFVOZWRKWURyRjl4QV90NEFueXI3NllTN2ZuYjktU2M0UE4?oc=5",
+      "published": "Wed, 16 Sep 2026 03:19:22 GMT"
     },
     {
       "title": "Sensex crashes over 1,400 pts from day\u2019s high, Nifty below 23,150. 5 triggers behind Rs 9L cr wipeout - The Economic Times",
@@ -112,12 +125,7 @@
       "title": "Stock Market Today: Gift Nifty, Bond Yields To US-Iran War \u2014 Five Key Factors That May Drive Sensex, Nifty 50 On September 16 - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa1AzVjdocS1JRnhwcnZKcXBzNnpudTR4Zm9ydG94N25IdlRBTXl4NlBsRUN1M1NZTFV2QlVEYlhJaGtZdGp4TkxwcHhaVk1iUlU4SWNHTldTQlNCYU5vN1kyZEZkU1V1UEdKclBJWWRnU1hfNFZFMTMyNWxmeWNpWjdlQzE4dmg5SzZtTmZtREpQbDhPeWdQZGFqS0Fmb0c5TkNxbmY2YzNTTU9ScktxN2hpclotNDQzaEx0eXlKWlB2NXh0aUFoNXhxcjlCUXNuTmVYMV9fYkhwQlVmOVcyNzJjTG1ZcFhxVW9aVW1ETFg5VnVuakY00gH_AUFVX3lxTE45LUhsSTZyODJmMXNvOWFkSC1vMzE2TklxUTliWGZvdDdnOXNsSXJpX2pVN3NOaVpHLUtyN2h0S1BfWlpGV2g3N05jNlJSV2N1YklsdlZqQUwwNzh6VklrNXloWkNidXgzdHVBbE5ibl9uVUtMTU5YT1Jrb3VYZjdJSGpQWGVvcGNVNHR3ZTI1U0xuRmJGZGVJRVdFVGtfQ1FSZ1BhNHM1R2ZLYUc2WkdwWjJXX1p2QlZhUnR2YUxqRERTUUltYXNhYzJyYV9jZkZvbk5VaXBtdkF1dElLWDVwQ3o3czZrQUhaQ2t1emlPSGZOSTR0ajl5a3hIckFVRQ?oc=5",
       "published": "Wed, 16 Sep 2026 01:39:15 GMT"
-    },
-    {
-      "title": "Hero Motors IPO Opens Today | Rupee Sees Sharpest Single-Day Drop| Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejlVd3pteVdYb1dZb2NYM2JoMlJrM2JNd21xNFZVejVCVHp0RmFXT3BHdllxd1pYTjdKemY5MUhUNVlmNmY1YVJwRHEwbTF2ZktMUTlSNHg5Q0xjM3hLU2dkWjRha0tDUkwxbnJTOTg3dngzeTlWaG14QU5QcDlPcHl0ckNtRHFFX3ZrQW1KTGFJNGU3M2lEaHh0QXJzcng0V016ZWM5UzJqRW5yMEZ5MzBiRFplME4teTI4OFNqaldYRUZscEY3aVAwV08tVVpLOFpMX3NhenBOWVpKR3NSOXZBUQ?oc=5",
-      "published": "Wed, 16 Sep 2026 00:30:00 GMT"
     }
   ],
-  "last_updated": "2026-09-16 03:38 UTC"
+  "last_updated": "2026-09-16 03:52 UTC"
 }
