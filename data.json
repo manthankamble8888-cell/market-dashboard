@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52001.95,
-    "change": -91.16,
-    "pct": -0.17
+    "price": 52026.08,
+    "change": -67.03,
+    "pct": -0.13
   },
   "Nasdaq": {
-    "price": 26137.96,
-    "change": 156.39,
-    "pct": 0.6
+    "price": 26154.3,
+    "change": 172.73,
+    "pct": 0.66
   },
   "S&P 500": {
-    "price": 7605.22,
-    "change": 19.49,
-    "pct": 0.26
+    "price": 7608.65,
+    "change": 22.92,
+    "pct": 0.3
   },
   "Nikkei 225": {
     "price": 63923.0,
@@ -53,24 +53,24 @@
     "pct": 0.19
   },
   "Crude Oil (Brent)": {
-    "price": 106.84,
-    "change": -1.91,
-    "pct": -1.76
+    "price": 106.64,
+    "change": -2.11,
+    "pct": -1.94
   },
   "Crude Oil (WTI)": {
-    "price": 103.27,
-    "change": -2.56,
-    "pct": -2.42
+    "price": 103.07,
+    "change": -2.76,
+    "pct": -2.61
   },
   "Gold": {
-    "price": 4379.6,
-    "change": 46.8,
-    "pct": 1.08
+    "price": 4383.9,
+    "change": 51.1,
+    "pct": 1.18
   },
   "Silver": {
-    "price": 64.81,
-    "change": 1.57,
-    "pct": 2.48
+    "price": 64.92,
+    "change": 1.68,
+    "pct": 2.66
   },
   "USD/INR": {
     "price": 95.94,
@@ -78,21 +78,16 @@
     "pct": 0.11
   },
   "Dollar Index": {
-    "price": 99.69,
-    "change": 0.04,
-    "pct": 0.04
+    "price": 99.66,
+    "change": 0.01,
+    "pct": 0.01
   },
   "US 10Y Yield": {
     "price": 4.97,
     "change": -0.03,
-    "pct": -0.58
+    "pct": -0.54
   },
   "news": [
-    {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
-      "published": "Wed, 16 Sep 2026 13:01:22 GMT"
-    },
     {
       "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
@@ -109,11 +104,6 @@
       "published": "Wed, 16 Sep 2026 11:57:25 GMT"
     },
     {
-      "title": "Today's Market: Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Indian Stock Market News - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFZ6ckhkSzlFYThRYjlIeWdkbFNScHRrak1ZVXRGTGh2b3RoR1J6b0dHR0M0S0FMOUgwdXVHdWQtaERFLXRLVndrRXVOb19ZbDhBYkc4bjV2S0NuVm1vVjBwZUNUTDdxZTBrb3dvM3NpVnZMX2NCbjZWaXZ1YnR0eUIwd1NkM1ZtQ21Za0gzal9IMWdqUnEwdVMtb0s0c1NCWGlfLTBvNV9sZE5iS2JyTDZZTkZTelFaX1M4UUJLR19yckp5?oc=5",
-      "published": "Wed, 16 Sep 2026 10:34:40 GMT"
-    },
-    {
       "title": "India stocks higher at close of trade; Nifty 50 up 0.43% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhFVE9BZ0ROTHZrN2VXZGM5NlBIRzIzR2pfUF9FOEQxcmtHeGswbU9DY2dDdnQxSDRzbHRVdmNTSFZCWlBDSzN3MU1WYUl6czNtUk13Z3FNS0JOenFxNzcwc3NQTDRqTlpwcnhpZGNCeUtHMlJqSC13ZUZ1UUVEM1RWRWhPeFpxVWl1NVJfdlBCWWNlTWJWOWZLSGZRcDF6Uml5U3VvQUxBeTFYdncw?oc=5",
       "published": "Wed, 16 Sep 2026 10:35:50 GMT"
@@ -124,10 +114,20 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "Sensex Today Ends 333 Points Higher | Nifty Above 23,200 | Paytm Up 3% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRVNqRE9oc2xzUmd3VVc3ZnFxT0hXTXZDNDl3SHJKbG5CTDBHR1pKNUFxdklXdkM2TFBYc2xjWFhZMFFlNHl2b1I4MXJYcEtoM1pPVTdkS0hmN3FuRnNYSGRqZnVtNTRLVWxYRmZRSEc2cnY3Q1EtNW1HcGFSY003ejF4cVVGM1RYVkdoX1lmcGxRU3BOMDBkSWt2aGJaTEwwY0tXNGpGcklIQjhZZG9EUUdYMlUxamJBcHhvMm5tZ1lwdlda?oc=5",
+      "published": "Wed, 16 Sep 2026 10:34:40 GMT"
+    },
+    {
       "title": "Indian Markets Rebound: Sensex Climbs 333 Pts, Nifty Above 23,200 - Rediff MoneyWiz",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcndDTVhJeUczNWdIQnhaUnRkeVVUQm5mQ2xpc0tSckllYWpBcnRQRGZ5ODdwVlRGZGpPNjdqTGpiRDFaWmgzVDNGRkpSYmZvcmNIRkVhRFlWRlM2YlFuX0lTV0czaklZN2hHRE13NUZ1ZGJGSm5lTDI1c2RnT3hRYVU4MlVDTzZhS0VnRjdLV21hWUxkblFlWDVua2o5WjBmTjBRMksyNWZ5SG52dElIN2RQbHU1d9IBuwFBVV95cUxOcmwwNk5rd082dFhSeTJ0OTY5bE1NRmJYRHo1TDBwMVFiQjBpRmR5eWMwS0tHbVlKNmhZVm5Sbk96U2xLazZ3Nm84a0kwd2dSTnhtZF8xeEpPRmlSOTRxdG80MUw5X1EtNzF5a2t6bGE5TkNQaDVueWhIeDFmRjlBYmJsODBnWVJoOHRVYzBjbF9ja294OFBNMjVDVDVoLUxLZXRyY215YkRoeFhwNjlGcDYySkZvQ3FUUDN3?oc=5",
       "published": "Wed, 16 Sep 2026 11:08:41 GMT"
+    },
+    {
+      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
+      "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-16 14:39 UTC"
+  "last_updated": "2026-09-16 14:52 UTC"
 }
