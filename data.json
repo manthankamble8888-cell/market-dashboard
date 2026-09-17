@@ -39,32 +39,32 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.51,
-    "change": -3.24,
-    "pct": -2.98
+    "price": 105.2,
+    "change": -3.55,
+    "pct": -3.26
   },
   "Crude Oil (WTI)": {
-    "price": 101.91,
-    "change": -3.92,
-    "pct": -3.7
+    "price": 101.68,
+    "change": -4.15,
+    "pct": -3.92
   },
   "Gold": {
-    "price": 4308.7,
-    "change": -24.1,
-    "pct": -0.56
+    "price": 4311.0,
+    "change": -21.8,
+    "pct": -0.5
   },
   "Silver": {
-    "price": 63.57,
-    "change": 0.33,
-    "pct": 0.53
+    "price": 63.71,
+    "change": 0.47,
+    "pct": 0.74
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 100.34,
-    "change": 0.69,
-    "pct": 0.69
+    "price": 100.26,
+    "change": 0.61,
+    "pct": 0.61
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -83,14 +83,14 @@
       "published": "Wed, 16 Sep 2026 13:01:22 GMT"
     },
     {
-      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
-      "published": "Wed, 16 Sep 2026 08:16:57 GMT"
-    },
-    {
       "title": "How could Indian markets react if Fed goes for rate hike tonight? Check what analysts say - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOHJDdHdYUGt6WldUcHp2Z2xITlBuY2FQZnIzNFJUWmpVYnZGOGFiVTZxcWlkakJEWVpmNmxOTUg4bWEyWkNMbnRwclVfSWZUR1lzRnlSMThtWWtHa2NoNDdjdGJZX05VZkpEMnFZSEpJLS1FczBrcnY5MDRyNHhZdjk5MmpaRzFsZnBjX05YZjBvV2FIRnJPak9OLXZuVW00eFlZUzl0UEtqb2gwMHNnNU41M3lWcW1pWkkyVk1Scm9xR195RWx3bi1SYVdKeE1hQTZ0NGlvUThVQlIyMi1POC1oMGhEd9IB6wFBVV95cUxPSHQwNThTa3RwOFhpSmhwbG9yMkYzX1UwazlsV3JKcnNHczBESmo5Q29BZDdKUHptTmk0cjVjaFd2Uzl5ZTU0Z3dTWHg0ZXp4YmJWc2JuMm1KUEJsWm5rVFhKbUZVSEhQczJOMWN0WS1NZXlNdm91UlZsWjdjbDd4aGhfUHBFNFpfOVJpN0otMHJIUDRKN0lDOTZnQnNwYVNmRkhWZHdIYnEyLWRvczhpNDNLTDhWQktHb3ZLUl9sUk83NC1DSmRkRVpseWZSLW1CWDBBM3pybExnUHVQUXFyV2ZFOUh6X0psam1Z?oc=5",
       "published": "Wed, 16 Sep 2026 09:29:46 GMT"
+    },
+    {
+      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
+      "published": "Wed, 16 Sep 2026 08:16:57 GMT"
     },
     {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
@@ -108,10 +108,10 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     },
     {
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.43% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGhFVE9BZ0ROTHZrN2VXZGM5NlBIRzIzR2pfUF9FOEQxcmtHeGswbU9DY2dDdnQxSDRzbHRVdmNTSFZCWlBDSzN3MU1WYUl6czNtUk13Z3FNS0JOenFxNzcwc3NQTDRqTlpwcnhpZGNCeUtHMlJqSC13ZUZ1UUVEM1RWRWhPeFpxVWl1NVJfdlBCWWNlTWJWOWZLSGZRcDF6Uml5U3VvQUxBeTFYdncw?oc=5",
-      "published": "Wed, 16 Sep 2026 10:35:50 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 16, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJKSzRGV1Q0SUh4UWxyTnJoNHkwbVc2QzhxQW8xbjk0U2dMTEdMbHYta3AtazExczhNWmpFckM1d1N2SGQ5ZGNxNHJwQkNTc00tVjdra1RDa05DcndOOXl0WFlIank2ZGdoUUFtRUROMWpXSHBBMS0tcWN2VGVGVHdSNlIzVExucVJCREdnRDlWUUt6el9DNnNWZmp0T2Y1c214YndXWENHQQ?oc=5",
+      "published": "Wed, 16 Sep 2026 11:57:25 GMT"
     }
   ],
-  "last_updated": "2026-09-16 23:48 UTC"
+  "last_updated": "2026-09-17 00:08 UTC"
 }
