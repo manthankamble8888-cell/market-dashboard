@@ -1,26 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23252.5,
-    "change": 34.9,
-    "pct": 0.15
+    "price": 23297.7,
+    "change": 80.1,
+    "pct": 0.34
   },
   "Bank Nifty": {
-    "price": 56294.25,
-    "change": 1.8,
-    "pct": 0.0
+    "price": 56525.25,
+    "change": 232.8,
+    "pct": 0.41
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 74393.81,
+    "change": 57.36,
+    "pct": 0.08
   },
   "India VIX": {
-    "price": 12.83,
-    "change": -0.34,
-    "pct": -2.6
+    "price": 12.64,
+    "change": -0.53,
+    "pct": -4.01
   },
   "Nifty IT": {
-    "price": 28930.35,
-    "change": -157.3,
-    "pct": -0.54
+    "price": 28932.35,
+    "change": -155.3,
+    "pct": -0.53
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -31,8 +33,8 @@
     "pct": -1.21
   },
   "Nasdaq": {
-    "price": 25978.42,
-    "change": -3.15,
+    "price": 25978.43,
+    "change": -3.14,
     "pct": -0.01
   },
   "S&P 500": {
@@ -41,44 +43,34 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 64134.02,
-    "change": 211.02,
-    "pct": 0.33
+    "price": 64303.64,
+    "change": 380.64,
+    "pct": 0.6
   },
   "Hang Seng": {
-    "price": 24489.83,
-    "change": -223.95,
-    "pct": -0.91
+    "price": 24524.06,
+    "change": -189.72,
+    "pct": -0.77
   },
   "Crude Oil (Brent)": {
-    "price": 105.54,
-    "change": -3.21,
-    "pct": -2.95
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 102.1,
-    "change": -3.73,
-    "pct": -3.52
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4333.2,
-    "change": 0.4,
-    "pct": 0.01
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 64.14,
-    "change": 0.9,
-    "pct": 1.42
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 96.08,
-    "change": 0.08,
-    "pct": 0.09
+    "price": 95.93,
+    "change": -0.06,
+    "pct": -0.07
   },
   "Dollar Index": {
-    "price": 100.32,
-    "change": 0.67,
-    "pct": 0.68
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -87,7 +79,7 @@
   },
   "news": [
     {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market? - ndtvprofit.com",
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market? - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
       "published": "Thu, 17 Sep 2026 01:33:32 GMT"
     },
@@ -122,10 +114,10 @@
       "published": "Thu, 17 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
-      "published": "Tue, 15 Sep 2026 12:40:36 GMT"
+      "title": "Indian Stocks Open Slightly Higher as Oil Holds Above $100 - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjZpNVY3dzk4ZXdCaldscFhqemdQbURVRll0UDBVa29KUzJYT1NvQTR0Ymt1MXJHVjNpdEZOdFZCc0J4YkhvYjExYzdYTFN0YWgwdUFxUHVwVHdsOXdWVERPVW5hSnNFLU9xbjZ0UjN3aWVLdG1Sblp6VjFGc0hKNl9Kaml3anBuY3B1czFUaHRCY0NHU01xRjBfaS1sS3gtY1VYRVlRVjBwanJuLWU3OFJRYw?oc=5",
+      "published": "Thu, 17 Sep 2026 03:57:22 GMT"
     }
   ],
-  "last_updated": "2026-09-17 03:52 UTC"
+  "last_updated": "2026-09-17 04:06 UTC"
 }
