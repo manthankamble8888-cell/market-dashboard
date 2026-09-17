@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23338.8,
-    "change": 121.2,
-    "pct": 0.52
+    "price": 23325.0,
+    "change": 107.4,
+    "pct": 0.46
   },
   "Bank Nifty": {
-    "price": 56283.25,
-    "change": -9.2,
+    "price": 56283.65,
+    "change": -8.8,
     "pct": -0.02
   },
   "Sensex": {
-    "price": 74654.13,
-    "change": 317.68,
-    "pct": 0.43
+    "price": 74591.43,
+    "change": 254.98,
+    "pct": 0.34
   },
   "India VIX": {
-    "price": 12.31,
-    "change": -0.86,
-    "pct": -6.51
+    "price": 12.32,
+    "change": -0.85,
+    "pct": -6.44
   },
   "Nifty IT": {
-    "price": 29073.65,
-    "change": -14.0,
-    "pct": -0.05
+    "price": 29052.7,
+    "change": -34.95,
+    "pct": -0.12
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,34 +48,34 @@
     "pct": 0.33
   },
   "Hang Seng": {
-    "price": 24568.17,
-    "change": -145.61,
-    "pct": -0.59
+    "price": 24554.79,
+    "change": -158.99,
+    "pct": -0.64
   },
   "Crude Oil (Brent)": {
-    "price": 103.92,
-    "change": -1.91,
-    "pct": -1.8
+    "price": 103.9,
+    "change": -1.93,
+    "pct": -1.82
   },
   "Crude Oil (WTI)": {
-    "price": 101.07,
-    "change": -1.36,
-    "pct": -1.33
+    "price": 100.92,
+    "change": -1.51,
+    "pct": -1.47
   },
   "Gold": {
-    "price": 4365.7,
-    "change": -21.8,
-    "pct": -0.5
+    "price": 4368.8,
+    "change": -18.7,
+    "pct": -0.43
   },
   "Silver": {
-    "price": 64.5,
-    "change": 0.22,
-    "pct": 0.34
+    "price": 64.78,
+    "change": 0.49,
+    "pct": 0.76
   },
   "USD/INR": {
-    "price": 95.89,
-    "change": -0.11,
-    "pct": -0.11
+    "price": 95.92,
+    "change": -0.08,
+    "pct": -0.08
   },
   "Dollar Index": {
     "price": 100.14,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - ndtvprofit.com",
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
       "published": "Thu, 17 Sep 2026 01:33:32 GMT"
     },
@@ -114,14 +114,14 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
+      "published": "Wed, 16 Sep 2026 13:01:22 GMT"
+    },
+    {
       "title": "Indian Stocks Open Slightly Higher as Oil Holds Above $100 - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjZpNVY3dzk4ZXdCaldscFhqemdQbURVRll0UDBVa29KUzJYT1NvQTR0Ymt1MXJHVjNpdEZOdFZCc0J4YkhvYjExYzdYTFN0YWgwdUFxUHVwVHdsOXdWVERPVW5hSnNFLU9xbjZ0UjN3aWVLdG1Sblp6VjFGc0hKNl9Kaml3anBuY3B1czFUaHRCY0NHU01xRjBfaS1sS3gtY1VYRVlRVjBwanJuLWU3OFJRYw?oc=5",
       "published": "Thu, 17 Sep 2026 03:58:07 GMT"
-    },
-    {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
-      "published": "Wed, 16 Sep 2026 13:01:22 GMT"
     },
     {
       "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
@@ -129,5 +129,5 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-17 07:26 UTC"
+  "last_updated": "2026-09-17 07:40 UTC"
 }
