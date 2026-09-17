@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23359.35,
-    "change": 141.75,
-    "pct": 0.61
+    "price": 23338.8,
+    "change": 121.2,
+    "pct": 0.52
   },
   "Bank Nifty": {
-    "price": 56369.8,
-    "change": 77.35,
-    "pct": 0.14
+    "price": 56283.25,
+    "change": -9.2,
+    "pct": -0.02
   },
   "Sensex": {
-    "price": 74672.66,
-    "change": 336.2,
-    "pct": 0.45
+    "price": 74654.13,
+    "change": 317.68,
+    "pct": 0.43
   },
   "India VIX": {
     "price": 12.31,
     "change": -0.86,
-    "pct": -6.55
+    "pct": -6.51
   },
   "Nifty IT": {
-    "price": 29135.5,
-    "change": 47.85,
-    "pct": 0.16
+    "price": 29073.65,
+    "change": -14.0,
+    "pct": -0.05
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": 0.33
   },
   "Hang Seng": {
-    "price": 24571.24,
-    "change": -142.54,
-    "pct": -0.58
+    "price": 24568.17,
+    "change": -145.61,
+    "pct": -0.59
   },
   "Crude Oil (Brent)": {
-    "price": 103.89,
-    "change": -1.94,
-    "pct": -1.83
+    "price": 103.92,
+    "change": -1.91,
+    "pct": -1.8
   },
   "Crude Oil (WTI)": {
-    "price": 100.73,
-    "change": -1.7,
-    "pct": -1.66
+    "price": 101.07,
+    "change": -1.36,
+    "pct": -1.33
   },
   "Gold": {
-    "price": 4349.1,
-    "change": -38.4,
-    "pct": -0.88
+    "price": 4365.7,
+    "change": -21.8,
+    "pct": -0.5
   },
   "Silver": {
-    "price": 64.26,
-    "change": -0.03,
-    "pct": -0.04
+    "price": 64.5,
+    "change": 0.22,
+    "pct": 0.34
   },
   "USD/INR": {
     "price": 95.89,
-    "change": -0.1,
+    "change": -0.11,
     "pct": -0.11
   },
   "Dollar Index": {
-    "price": 100.12,
-    "change": -0.19,
-    "pct": -0.19
+    "price": 100.14,
+    "change": -0.17,
+    "pct": -0.17
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -89,7 +89,7 @@
   },
   "news": [
     {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - NDTV Profit",
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - ndtvprofit.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
       "published": "Thu, 17 Sep 2026 01:33:32 GMT"
     },
@@ -119,7 +119,7 @@
       "published": "Thu, 17 Sep 2026 03:58:07 GMT"
     },
     {
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
+      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
       "published": "Wed, 16 Sep 2026 13:01:22 GMT"
     },
@@ -129,5 +129,5 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-17 07:08 UTC"
+  "last_updated": "2026-09-17 07:26 UTC"
 }
