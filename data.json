@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51842.33,
-    "change": 380.43,
-    "pct": 0.74
+    "price": 51778.04,
+    "change": 316.14,
+    "pct": 0.61
   },
   "Nasdaq": {
-    "price": 26414.39,
-    "change": 435.96,
-    "pct": 1.68
+    "price": 26418.3,
+    "change": 439.87,
+    "pct": 1.69
   },
   "S&P 500": {
-    "price": 7640.02,
-    "change": 88.21,
-    "pct": 1.17
+    "price": 7637.76,
+    "change": 85.95,
+    "pct": 1.14
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 104.69,
-    "change": -1.14,
-    "pct": -1.08
+    "price": 104.09,
+    "change": -1.74,
+    "pct": -1.64
   },
   "Crude Oil (WTI)": {
-    "price": 101.84,
-    "change": -0.59,
-    "pct": -0.58
+    "price": 101.09,
+    "change": -1.34,
+    "pct": -1.31
   },
   "Gold": {
-    "price": 4390.8,
-    "change": 3.3,
-    "pct": 0.08
+    "price": 4380.6,
+    "change": -6.9,
+    "pct": -0.16
   },
   "Silver": {
-    "price": 65.86,
-    "change": 1.57,
-    "pct": 2.44
+    "price": 65.71,
+    "change": 1.43,
+    "pct": 2.22
   },
   "USD/INR": {
     "price": 95.92,
@@ -64,25 +64,25 @@
     "pct": -0.08
   },
   "Dollar Index": {
-    "price": 100.25,
-    "change": -0.06,
-    "pct": -0.06
+    "price": 100.22,
+    "change": -0.09,
+    "pct": -0.09
   },
   "US 10Y Yield": {
     "price": 4.95,
     "change": -0.06,
-    "pct": -1.1
+    "pct": -1.18
   },
   "news": [
     {
-      "title": "NSE IPO: India's biggest stock exchange launches mega share sale - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
-      "published": "Thu, 17 Sep 2026 08:13:59 GMT"
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Thu, 17 Sep 2026 13:59:26 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Thu, 17 Sep 2026 10:07:42 GMT"
+      "title": "NSE IPO: India's biggest stock exchange launches mega share sale - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
+      "published": "Thu, 17 Sep 2026 08:13:59 GMT"
     },
     {
       "title": "How India Built and Broke the World\u2019s Biggest Options Market - Bloomberg.com",
@@ -90,19 +90,19 @@
       "published": "Thu, 17 Sep 2026 09:00:00 GMT"
     },
     {
+      "title": "Stock Market Opens Strong: Nifty Up 1.5%, Sensex Rallies 1,516 Pts; Rupee Recovers as Trump Delays Iran Strike - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcm00Zl9MbkdZSWxpRF9NVm41U0xDRUpqaHRVWDN3MjNYeUJZYTQ4WExLQVJ4N1lyRXlnTGhqeDVBNk5OOWctVXgxRzZGdGEteFM0OUtrYlU0ajRCajJKWVdwWHduWHRISGRVNkpTMnFBYmREdi1jTW81b3JtRVJscUpNcGJzSGdnNVU4REFBWDVoZHNtSFY3VDBMaS0xb1hKX3ZQZ2ktOTdqenV6TFFTcV94R240c25YTXlZTU5RSVZ6ZG1hY19nVnFJQV9IcWl4Ym5UZ1d6WQ?oc=5",
+      "published": "Thu, 17 Sep 2026 14:45:32 GMT"
+    },
+    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     },
     {
-      "title": "How Asian markets, crude will impact Sensex, Nifty today: What GIFT Nifty, Nikkei, Kospi, Taiwan signals for India - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVVN5UGdzajg4dGRIY2k2REdEaVg5SkQ0c096YUJpN0xHSmhicDFDd0RLVFo3R3k0SVZSc2lxNEhTNzlyR2NLS1pmckUzQ19NaDNuZzBsWGFjTkcyRC12b2VlRmN6OWpXb2dJUmY1am5pMDZHMUpDSWdCLTV1QkJKT2ZDRERGYTU0UmpjMnNsTElieGpjUHgwRzlEWm4zb2dma3pESFRTLXVVSzNlMTJLY1pzVWpvRllobE5fUVo0WTV2VlN2QlNNWE8xbm5RNndlcFRqVDY3NGlTc2VsMk9XUWprSXd2NFE0WURZc0k4dVdQdXFlTDV2ZGJKazVFTVNFMkF1V05LeG9aQdIBjwJBVV95cUxQZFFmYnNRVl8tdEhHZGp3bUlmZjZtV3VPTUs2c1diekZYYlVRUVRMVGJ3Tmh4SURfTDhTMEs1UHlWcHU0cWpiVm55dFFnTW5ZNF92QXYxaGNjRmZqMHJZbTVBOE9BVHlTLWxDQVM3YjBjU0YyU251ckl2ODlwdkF4RVFfdnJ6QXpYdFh4QUJfWVlWUV81UzUxdjBXaWxRc3ZWY2ZjRlBBZlVjWWZmSlRkbl9YdTdDNHZzSjBoVzNRemdIWWJBd3VvN2VHdnZyXzdPcnVWYVpsTHJUWGI5NGlIUmdRUFo3S3E1d1ZaTXdZb21ZUDl6ZUwxeDZkamhfRG1jZW1qVDNBNzRqY3JQSmNF?oc=5",
-      "published": "Thu, 17 Sep 2026 02:08:33 GMT"
-    },
-    {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
-      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
+      "title": "Fed hikes rates to 4%: Why India\u2019s rupee, FPI and stock market face pressure - WION",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUlXWk92Rzk0UWdmbjhJTVpwNFdyOUpHai0zM282VWF6MDlBZko2S21jd2FISHdyWmF2eW5acnJ1YnNXVzlfMFdZcEw2ZjlNck1GaU1wY1Nzd1NqckJoYko3aG9XSlFmMzFueEZEMkdnVmRTZDBVdTdPU1lOcm5LT3JJd0lMVlk3U0t4UzhhaE9NQnlzMkxKcUZmc3hOb0VVQkpxVThMN0I5d9IBrwFBVV95cUxPYVhaZGxHTXBDMjJoelBvaFRTVWQ3MUFtdnoxYWdkcktsMlpZdzNWS2gwb0kzd3VPeHl6bzlhQmJVdGs1XzFtYi1EbXU3NDFQVjFRaUYzdjVDaV9pWEJLcWxDRGFjckNwUWxiSHJVOWw2UlpubmF5MFlSOXFCOFEyWVQxbmkzOV9TUEFIZHBoSGJFQUJXd2dQbXNYN2szZzhLQ21rRS1oTXJfNFNzNGsw?oc=5",
+      "published": "Thu, 17 Sep 2026 18:49:00 GMT"
     },
     {
       "title": "Indian equity market opens flat after Fed rate hike; Sensex up 80 points; Nifty above 23,200 - ChiniMandi",
@@ -110,10 +110,10 @@
       "published": "Thu, 17 Sep 2026 04:42:58 GMT"
     },
     {
-      "title": "Sensex Today Ends Flat | Nifty Above 23,250 | Syrma SGS Technology Up 7% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdk9kcFo2bTZBSC11WWY2M3FLTzRWTmtyLTNsZGkzalROSlY3UTB5c2dhTm9vZnU0bFlLSUlMWEF4MlAxYjhCV3otMnJvaXplZEw1YjZTRnlFQ2haRVNOYmlzajJhRzM0emhTM21Kb28zTEtwSHdCVHc0cEF1a1Q1M0VrSEIyakducDVUa0p2MXpXejd0YVRhMWtta2NnUkp6R3pvQzhBU0RuZVlzS3pCYllHQWdDWGtadHdTNDBVTVA1Q2pNS2Jj?oc=5",
-      "published": "Thu, 17 Sep 2026 10:23:28 GMT"
+      "title": "US Fed rate hike impact on Indian stock market - Sensex, Nifty, Bank Nifty, Nifty IT - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDNZSldlWTJKSE5sTW95UzgzQTlnTU9iTFpKdkdsaWFmaG1uTDE2MDFFSS1qQUc5ODVqLVh1TXlFWld4ZHFUcjU0NmFKbUt5d0hZOEJQSzNubW52dlJ3S1VzQ2tpSFc0NHB2bjRsVVdSMy1OTlR0YkZoYmF6MkdGQ3kwX3NQLVU2YV9OTERyWXZhODByRHgyVEZFaS1XdVBlRWhQODB5TjhZbFVzZUx4cmRLVXFraENQS2Fhb2ZNZHVPdlg4S25CMjhudmJhblluQWo0SkczUjJMM1AyeXIwT2VRd9IB6AFBVV95cUxOMHI5aUpLdzZvejlnQlZHcmtCT3UyVDRxX2o5eXJpWG1EUVJWOG5yMjROTFZYZUtKNGpVMmtnSDJ1S0JPWEMxZzZ6WV91dGF3WV9tcGFSNmdDRk9zTU5JV0RlMS02RW5WYnJDc254RDYyLTBIUVdaSDA4c1FISjRHTzdOWk5POFVTZ0dsanRHalZQTXhsR2s0TkktRzVNckZ6U1diR3V0LXRIZjBBYVlSQUhSbTZ3ZXNORG5WVmRhc2c4OXZ3OW01WFp1Zzl4REZNTmxnTXBPTmNaMzhyd1laQzE2U3ZmeEdG?oc=5",
+      "published": "Wed, 16 Sep 2026 18:44:30 GMT"
     }
   ],
-  "last_updated": "2026-09-17 19:09 UTC"
+  "last_updated": "2026-09-17 22:08 UTC"
 }
