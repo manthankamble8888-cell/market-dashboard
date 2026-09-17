@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23287.95,
-    "change": 70.35,
-    "pct": 0.3
+    "price": 23307.6,
+    "change": 90.0,
+    "pct": 0.39
   },
   "Bank Nifty": {
-    "price": 56440.8,
-    "change": 148.35,
-    "pct": 0.26
+    "price": 56450.45,
+    "change": 158.0,
+    "pct": 0.28
   },
   "Sensex": {
-    "price": 74434.08,
-    "change": 97.62,
-    "pct": 0.13
+    "price": 74467.81,
+    "change": 131.36,
+    "pct": 0.18
   },
   "India VIX": {
-    "price": 12.58,
-    "change": -0.59,
-    "pct": -4.46
+    "price": 12.53,
+    "change": -0.64,
+    "pct": -4.82
   },
   "Nifty IT": {
-    "price": 28985.45,
-    "change": -102.2,
-    "pct": -0.35
+    "price": 28978.4,
+    "change": -109.25,
+    "pct": -0.38
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 64245.0,
-    "change": 322.0,
-    "pct": 0.5
+    "price": 64130.63,
+    "change": 207.63,
+    "pct": 0.32
   },
   "Hang Seng": {
     "price": 24533.46,
@@ -53,34 +53,34 @@
     "pct": -0.73
   },
   "Crude Oil (Brent)": {
-    "price": 105.81,
-    "change": -0.02,
-    "pct": -0.02
+    "price": 105.93,
+    "change": 0.1,
+    "pct": 0.09
   },
   "Crude Oil (WTI)": {
-    "price": 102.34,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 102.37,
+    "change": -0.06,
+    "pct": -0.06
   },
   "Gold": {
-    "price": 4331.7,
-    "change": -55.8,
-    "pct": -1.27
+    "price": 4329.9,
+    "change": -57.6,
+    "pct": -1.31
   },
   "Silver": {
-    "price": 64.11,
-    "change": -0.17,
-    "pct": -0.27
+    "price": 64.08,
+    "change": -0.21,
+    "pct": -0.32
   },
   "USD/INR": {
-    "price": 95.85,
-    "change": -0.14,
-    "pct": -0.15
+    "price": 95.83,
+    "change": -0.17,
+    "pct": -0.17
   },
   "Dollar Index": {
-    "price": 100.33,
-    "change": 0.02,
-    "pct": 0.02
+    "price": 100.31,
+    "change": -0.0,
+    "pct": -0.0
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -129,5 +129,5 @@
       "published": "Thu, 17 Sep 2026 00:30:00 GMT"
     }
   ],
-  "last_updated": "2026-09-17 04:26 UTC"
+  "last_updated": "2026-09-17 04:39 UTC"
 }
