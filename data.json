@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23294.45,
-    "change": 76.85,
-    "pct": 0.33
+    "price": 23284.3,
+    "change": 66.7,
+    "pct": 0.29
   },
   "Bank Nifty": {
-    "price": 56083.55,
-    "change": -208.9,
-    "pct": -0.37
+    "price": 56114.4,
+    "change": -178.05,
+    "pct": -0.32
   },
   "Sensex": {
-    "price": 74448.46,
-    "change": 112.01,
-    "pct": 0.15
+    "price": 74435.14,
+    "change": 98.69,
+    "pct": 0.13
   },
   "India VIX": {
-    "price": 12.45,
-    "change": -0.72,
-    "pct": -5.49
+    "price": 12.4,
+    "change": -0.77,
+    "pct": -5.81
   },
   "Nifty IT": {
-    "price": 29238.9,
-    "change": 151.25,
-    "pct": 0.52
+    "price": 29100.85,
+    "change": 13.2,
+    "pct": 0.05
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,34 +53,34 @@
     "pct": -0.44
   },
   "Crude Oil (Brent)": {
-    "price": 104.45,
-    "change": -1.38,
-    "pct": -1.3
+    "price": 104.96,
+    "change": -0.87,
+    "pct": -0.82
   },
   "Crude Oil (WTI)": {
-    "price": 101.46,
-    "change": -0.97,
-    "pct": -0.95
+    "price": 102.0,
+    "change": -0.43,
+    "pct": -0.42
   },
   "Gold": {
-    "price": 4354.2,
-    "change": -33.3,
-    "pct": -0.76
+    "price": 4345.3,
+    "change": -42.2,
+    "pct": -0.96
   },
   "Silver": {
-    "price": 64.47,
-    "change": 0.18,
-    "pct": 0.28
+    "price": 64.38,
+    "change": 0.09,
+    "pct": 0.14
   },
   "USD/INR": {
-    "price": 95.91,
-    "change": -0.08,
+    "price": 95.92,
+    "change": -0.07,
     "pct": -0.08
   },
   "Dollar Index": {
-    "price": 100.17,
-    "change": -0.14,
-    "pct": -0.14
+    "price": 100.19,
+    "change": -0.12,
+    "pct": -0.12
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -92,11 +92,6 @@
       "title": "NSE IPO: India's biggest stock exchange launches mega share sale - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
       "published": "Thu, 17 Sep 2026 08:13:59 GMT"
-    },
-    {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - ndtvprofit.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
-      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
     },
     {
       "title": "US Fed rate hike impact on Indian stock market - Sensex, Nifty, Bank Nifty, Nifty IT - Livemint",
@@ -114,13 +109,18 @@
       "published": "Thu, 17 Sep 2026 03:58:07 GMT"
     },
     {
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - ndtvprofit.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
+      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
+    },
+    {
       "title": "From HUL to platforms: Where India\u2019s stock market is finding its next growth themes - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPLUloc3F0WC1xUW9xYkpPal9kZG9sYkFBNFY0ZC1pM2F0WkkxNTJGUVI0ZUZwZ0NZSkw3b3JsRU9OTko0SDVQRkJHUkxJU05DeXNucE5FYjlCWWhaZkpnSUxzb0xUVWJzZjBhZTI2WjlJYzhMUXd2Y1hYdXlsb2JQVGttQXFoQnEyTlI5Qzk1bzI0TllZVTU4bVQ4bUVRa1VOTlJWUWhEOWRVblpWYkZRTy1ieGZ2MEk3ZExWT3hENTJwVFZZaTItNHhzWlc5SDdyd2VNTzVR0gHbAUFVX3lxTE81X2FYTTNUWnMtVk1YVWFGeWZGbmhqcWc5am45ZVBXdzFreTFOaXNIZ0ZMMmxQalphQl9uOEFUOVNUNjNLS0JuWXgxUVpPZGc4dHN4MHRFSGxoZ2ZIM3RMNVQtLWFzSEpHbXRoOTQ3ck82MlVqT0FJZzhUZy1FU09tRVdsQ1VZajdZOTR6QWt6QnNQVGk3cUFKdzEwZ2Nidm4yQTJ2bGlzMy03N3VncHBLSjQzaHlMVWU5NUg2VTJpSkk1dGxBZ0FnRHNSdEZRc3FZU3VJaWNkZjdnTQ?oc=5",
       "published": "Thu, 17 Sep 2026 01:13:50 GMT"
     },
     {
       "title": "Sensex Today Trades Flat | Nifty Above 23,200 | Bajaj Finance & Bharat Elec Top Gainers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVo4YTFTcWlkTEhUUlc4ODRUUzFEaXJ3Q1VGRGJWTUdiYmlWWGlENm5fbFRnR0ZtWFcwcEVybGIxaDhQSUZrY1BQS0tHSkZxaWpEWXZ5R2VCbnl4TWRLOVJCZnd6NVpCZnh1SFZMa19iZGNDSEtQckcycWFtRVlVQmI2eVpWMGpPYWQyaVd1cnFJUzFSWFZnYzBHMldrUmJqNjVTSTltRVltTFJ1eG91YV9qbUxGYmlsc0l0VFZWRnk3Wnp4aENfaDM3bGpDSmh5ZldvLTdGSHhHOUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODM3Z1BlZjd1OU1pNUNDQW0zeFU5d2QtNlhITFFicEYtbjhldFZhZHBveEVaUExwdDJVN29LYXBrRmVPREhEVTkzN2xhVWhhbEc0ejA5YVRYRzVnaEM1V2tVRThTWXUtUXZQaTBic3hrWGk4bEJ4Z2tCUW13end0ZFdkUkJJenpLTHFiOGlSMDh4a09XM1FpTE1QYTBHSEI0MEpFbzdUbkRKZVFFd29TR2NLSF91SmxsdTZPTTg1b3g4QzdQQUJNMzhwR2lJTklYMEI1enRRMjl1M3M?oc=5",
       "published": "Thu, 17 Sep 2026 04:48:10 GMT"
     },
     {
@@ -129,5 +129,5 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-09-17 09:25 UTC"
+  "last_updated": "2026-09-17 09:40 UTC"
 }
