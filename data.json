@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23246.35,
-    "change": 28.75,
-    "pct": 0.12
+    "price": 23269.2,
+    "change": 51.6,
+    "pct": 0.22
   },
   "Bank Nifty": {
-    "price": 56053.4,
-    "change": -239.05,
-    "pct": -0.42
+    "price": 56106.1,
+    "change": -186.35,
+    "pct": -0.33
   },
   "Sensex": {
-    "price": 74543.94,
-    "change": 207.48,
-    "pct": 0.28
+    "price": 74371.12,
+    "change": 34.66,
+    "pct": 0.05
   },
   "India VIX": {
-    "price": 12.52,
-    "change": -0.65,
-    "pct": -4.94
+    "price": 12.44,
+    "change": -0.73,
+    "pct": -5.52
   },
   "Nifty IT": {
-    "price": 29042.0,
-    "change": -45.65,
-    "pct": -0.16
+    "price": 29059.5,
+    "change": -28.15,
+    "pct": -0.1
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -48,39 +48,39 @@
     "pct": 0.33
   },
   "Hang Seng": {
-    "price": 24579.47,
-    "change": -134.31,
-    "pct": -0.54
+    "price": 24604.29,
+    "change": -109.49,
+    "pct": -0.44
   },
   "Crude Oil (Brent)": {
-    "price": 104.83,
-    "change": -1.0,
+    "price": 104.84,
+    "change": -0.99,
     "pct": -0.94
   },
   "Crude Oil (WTI)": {
-    "price": 101.74,
-    "change": -0.69,
-    "pct": -0.67
+    "price": 101.83,
+    "change": -0.6,
+    "pct": -0.59
   },
   "Gold": {
-    "price": 4363.6,
-    "change": -23.9,
-    "pct": -0.54
+    "price": 4359.5,
+    "change": -28.0,
+    "pct": -0.64
   },
   "Silver": {
-    "price": 64.64,
-    "change": 0.35,
-    "pct": 0.54
+    "price": 64.59,
+    "change": 0.3,
+    "pct": 0.47
   },
   "USD/INR": {
-    "price": 95.9,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 95.93,
+    "change": -0.06,
+    "pct": -0.06
   },
   "Dollar Index": {
-    "price": 100.21,
-    "change": -0.1,
-    "pct": -0.1
+    "price": 100.24,
+    "change": -0.07,
+    "pct": -0.07
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -88,6 +88,11 @@
     "pct": 0.2
   },
   "news": [
+    {
+      "title": "NSE IPO: India's biggest stock exchange launches mega share sale - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
+      "published": "Thu, 17 Sep 2026 08:13:59 GMT"
+    },
     {
       "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
@@ -122,12 +127,7 @@
       "title": "Indian Stocks Open Slightly Higher as Oil Holds Above $100 - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRjZpNVY3dzk4ZXdCaldscFhqemdQbURVRll0UDBVa29KUzJYT1NvQTR0Ymt1MXJHVjNpdEZOdFZCc0J4YkhvYjExYzdYTFN0YWgwdUFxUHVwVHdsOXdWVERPVW5hSnNFLU9xbjZ0UjN3aWVLdG1Sblp6VjFGc0hKNl9Kaml3anBuY3B1czFUaHRCY0NHU01xRjBfaS1sS3gtY1VYRVlRVjBwanJuLWU3OFJRYw?oc=5",
       "published": "Thu, 17 Sep 2026 03:58:07 GMT"
-    },
-    {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
-      "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-17 08:06 UTC"
+  "last_updated": "2026-09-17 08:27 UTC"
 }
