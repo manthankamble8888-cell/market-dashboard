@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23299.4,
-    "change": 81.8,
-    "pct": 0.35
+    "price": 23287.85,
+    "change": 70.25,
+    "pct": 0.3
   },
   "Bank Nifty": {
-    "price": 56450.9,
-    "change": 158.45,
-    "pct": 0.28
+    "price": 56336.7,
+    "change": 44.25,
+    "pct": 0.08
   },
   "Sensex": {
-    "price": 74517.07,
-    "change": 180.62,
+    "price": 74514.82,
+    "change": 178.37,
     "pct": 0.24
   },
   "India VIX": {
-    "price": 12.53,
-    "change": -0.64,
-    "pct": -4.86
+    "price": 12.51,
+    "change": -0.66,
+    "pct": -4.99
   },
   "Nifty IT": {
-    "price": 28963.05,
-    "change": -124.6,
-    "pct": -0.43
+    "price": 28943.4,
+    "change": -144.25,
+    "pct": -0.5
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 64016.0,
-    "change": 93.0,
-    "pct": 0.15
+    "price": 64098.99,
+    "change": 175.99,
+    "pct": 0.28
   },
   "Hang Seng": {
     "price": 24533.46,
@@ -53,34 +53,34 @@
     "pct": -0.73
   },
   "Crude Oil (Brent)": {
-    "price": 105.9,
-    "change": 0.07,
-    "pct": 0.07
+    "price": 105.7,
+    "change": -0.13,
+    "pct": -0.12
   },
   "Crude Oil (WTI)": {
-    "price": 102.38,
-    "change": -0.05,
-    "pct": -0.05
+    "price": 102.21,
+    "change": -0.22,
+    "pct": -0.21
   },
   "Gold": {
-    "price": 4332.2,
-    "change": -55.3,
-    "pct": -1.26
+    "price": 4336.1,
+    "change": -51.4,
+    "pct": -1.17
   },
   "Silver": {
-    "price": 64.13,
-    "change": -0.16,
-    "pct": -0.25
+    "price": 64.16,
+    "change": -0.13,
+    "pct": -0.2
   },
   "USD/INR": {
-    "price": 95.82,
-    "change": -0.17,
-    "pct": -0.18
+    "price": 95.8,
+    "change": -0.19,
+    "pct": -0.2
   },
   "Dollar Index": {
-    "price": 100.3,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 100.28,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -89,14 +89,14 @@
   },
   "news": [
     {
-      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market? - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
-      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
-    },
-    {
       "title": "US Fed rate hike impact on Indian stock market - Sensex, Nifty, Bank Nifty, Nifty IT - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDNZSldlWTJKSE5sTW95UzgzQTlnTU9iTFpKdkdsaWFmaG1uTDE2MDFFSS1qQUc5ODVqLVh1TXlFWld4ZHFUcjU0NmFKbUt5d0hZOEJQSzNubW52dlJ3S1VzQ2tpSFc0NHB2bjRsVVdSMy1OTlR0YkZoYmF6MkdGQ3kwX3NQLVU2YV9OTERyWXZhODByRHgyVEZFaS1XdVBlRWhQODB5TjhZbFVzZUx4cmRLVXFraENQS2Fhb2ZNZHVPdlg4S25CMjhudmJhblluQWo0SkczUjJMM1AyeXIwT2VRd9IB6AFBVV95cUxOMHI5aUpLdzZvejlnQlZHcmtCT3UyVDRxX2o5eXJpWG1EUVJWOG5yMjROTFZYZUtKNGpVMmtnSDJ1S0JPWEMxZzZ6WV91dGF3WV9tcGFSNmdDRk9zTU5JV0RlMS02RW5WYnJDc254RDYyLTBIUVdaSDA4c1FISjRHTzdOWk5POFVTZ0dsanRHalZQTXhsR2s0TkktRzVNckZ6U1diR3V0LXRIZjBBYVlSQUhSbTZ3ZXNORG5WVmRhc2c4OXZ3OW01WFp1Zzl4REZNTmxnTXBPTmNaMzhyd1laQzE2U3ZmeEdG?oc=5",
       "published": "Wed, 16 Sep 2026 18:44:30 GMT"
+    },
+    {
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market Today? - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
+      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
     },
     {
       "title": "Indian equity market opens flat after Fed rate hike; Sensex up 80 points; Nifty above 23,200 - ChiniMandi",
@@ -110,7 +110,7 @@
     },
     {
       "title": "Sensex Today Trades Flat | Nifty Above 23,200 | Bajaj Finance & Bharat Elec Top Gainers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPeEFIQVVmcVlqZGR6aWdGZk1GamhGUF9hbURvb004Q1ZaQmxnemVMS1Fia2E5eWdPTG04cGlFVl9aSjlLUkZWRjBBMG1JSmpBYVZHMVltVzhlbkR1SU5XWUxPRDFXUjZmVVZrOHM1Rkczbk5SanR2UXZvRmJhU1I3cFhhc2NsMDJndEhJc2R0QU1qU2RRM3RtRWZWU09uc0gyanotTHFTQTVHM2tVMmM0MHQ1bE1jOTZGTFJKSWNLYjhOcHFkR0Z2VTZqa25DS3lWb3pHeEZGeGVuMURGNTJBRTlZZDZTT1VuWWNaYThuSVkwUjQ3WFZSckR3Z01QLUxna211Ymo3TGtnR3VMOHd6Y1Z6LVE5QmoxMHVsSWVPYXFqcHhhREZSZkViSFR1cDhaS0xUS0tmTmZfLWlRdjlYVA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPODM3Z1BlZjd1OU1pNUNDQW0zeFU5d2QtNlhITFFicEYtbjhldFZhZHBveEVaUExwdDJVN29LYXBrRmVPREhEVTkzN2xhVWhhbEc0ejA5YVRYRzVnaEM1V2tVRThTWXUtUXZQaTBic3hrWGk4bEJ4Z2tCUW13end0ZFdkUkJJenpLTHFiOGlSMDh4a09XM1FpTE1QYTBHSEI0MEpFbzdUbkRKZVFFd29TR2NLSF91SmxsdTZPTTg1b3g4QzdQQUJNMzhwR2lJTklYMEI1enRRMjl1M3M?oc=5",
       "published": "Thu, 17 Sep 2026 04:48:10 GMT"
     },
     {
@@ -129,5 +129,5 @@
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-09-17 04:52 UTC"
+  "last_updated": "2026-09-17 05:06 UTC"
 }
