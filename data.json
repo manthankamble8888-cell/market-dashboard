@@ -41,34 +41,34 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 63970.73,
-    "change": 47.73,
-    "pct": 0.07
+    "price": 63971.85,
+    "change": 48.85,
+    "pct": 0.08
   },
   "Hang Seng": {
-    "price": 24415.58,
-    "change": -298.2,
-    "pct": -1.21
+    "price": 24476.93,
+    "change": -236.85,
+    "pct": -0.96
   },
   "Crude Oil (Brent)": {
-    "price": 105.83,
-    "change": -2.92,
-    "pct": -2.69
+    "price": 105.68,
+    "change": -3.07,
+    "pct": -2.82
   },
   "Crude Oil (WTI)": {
-    "price": 102.26,
-    "change": -3.57,
-    "pct": -3.37
+    "price": 102.19,
+    "change": -3.64,
+    "pct": -3.44
   },
   "Gold": {
-    "price": 4325.8,
-    "change": -7.0,
-    "pct": -0.16
+    "price": 4329.7,
+    "change": -3.1,
+    "pct": -0.07
   },
   "Silver": {
-    "price": 63.67,
-    "change": 0.43,
-    "pct": 0.68
+    "price": 63.82,
+    "change": 0.58,
+    "pct": 0.92
   },
   "USD/INR": {
     "price": 95.94,
@@ -76,9 +76,9 @@
     "pct": -0.05
   },
   "Dollar Index": {
-    "price": 100.31,
-    "change": 0.66,
-    "pct": 0.67
+    "price": 100.33,
+    "change": 0.68,
+    "pct": 0.68
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -102,7 +102,7 @@
       "published": "Wed, 16 Sep 2026 13:01:22 GMT"
     },
     {
-      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - economictimes.com",
+      "title": "Inevitable inching closer: US Fed may raise rates after 3 years. What it means for Indian stock market - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDZ3ZXc2RjFXU2NqRllxY01qbGlXWVJlU0xzVXNGV055d3NoZ1FVRUhVS0xnX2xFX1RYYWx5T3FoWnV2Zng5eVRReVg3dzRCNEJzMzZkdUc4bXNNZ3VLYUx1WERQSENSdGdRdlZWMk5BQ0g3ektnLUJSQVpxVTlRZElocElFU1hpUXppNm9Pa3lhMDVueGlPN3MyWUZDX3g5bGs1QVJCUm9xa2UyMENXQW83a01vYWF2M01UbmVyM0RTZmprTGQ5eUhEQUFublNReE85NVYzWGlWSkFLeHRyNTJHYklGTUREdjI5RTVsY0RpNlZtakRjVU10SkRSaEdlZURtStIBigJBVV95cUxOS0F1dUNoNldnYUhjQVJMTWtXeEJEMVN5N3ZHcktRWGRRU0Zldmppd3ctU0ZMSVFWWXBKNkppUFAydERoV2VNd1pMNDJ4Q0pKTVNtMXY4VWVwMVZVV0JlWDdMQ1o1eUZkZEVzX1ZYbjMyUkkzUkFvRGhTQnMwb214Z2JfV0otOVdXVzFXTHJXMG9vaXZIUVpfNHhaTUxaNmRESk8zQWV5TjFnUHVWQk1QcFlJX2YxbXRiOFZaX2xLMWNLX3E4SXk4MHVCSVZfOGFiOGVwMDRMWGlZMnRMNUp2anhMZmhkdmVNUzR0Wjc3UWc2SFg3WHA2RTUwVDNzZFhYQmFpcDB5SGhJdw?oc=5",
       "published": "Wed, 16 Sep 2026 08:16:57 GMT"
     },
@@ -127,5 +127,5 @@
       "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-17 02:25 UTC"
+  "last_updated": "2026-09-17 02:38 UTC"
 }
