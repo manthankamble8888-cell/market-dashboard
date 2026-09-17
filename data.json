@@ -15,7 +15,9 @@
     "pct": 0.45
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 13.17,
+    "change": -0.26,
+    "pct": -1.94
   },
   "Nifty IT": {
     "price": 29087.65,
@@ -41,34 +43,34 @@
     "pct": -0.45
   },
   "Nikkei 225": {
-    "price": 63971.85,
-    "change": 48.85,
-    "pct": 0.08
+    "price": 63966.87,
+    "change": 43.87,
+    "pct": 0.07
   },
   "Hang Seng": {
-    "price": 24476.93,
-    "change": -236.85,
-    "pct": -0.96
+    "price": 24470.55,
+    "change": -243.23,
+    "pct": -0.98
   },
   "Crude Oil (Brent)": {
-    "price": 105.68,
-    "change": -3.07,
-    "pct": -2.82
+    "price": 105.42,
+    "change": -3.33,
+    "pct": -3.06
   },
   "Crude Oil (WTI)": {
-    "price": 102.19,
-    "change": -3.64,
-    "pct": -3.44
+    "price": 102.02,
+    "change": -3.81,
+    "pct": -3.6
   },
   "Gold": {
-    "price": 4329.7,
-    "change": -3.1,
-    "pct": -0.07
+    "price": 4323.4,
+    "change": -9.4,
+    "pct": -0.22
   },
   "Silver": {
-    "price": 63.82,
-    "change": 0.58,
-    "pct": 0.92
+    "price": 63.72,
+    "change": 0.48,
+    "pct": 0.76
   },
   "USD/INR": {
     "price": 95.94,
@@ -76,9 +78,9 @@
     "pct": -0.05
   },
   "Dollar Index": {
-    "price": 100.33,
-    "change": 0.68,
-    "pct": 0.68
+    "price": 100.34,
+    "change": 0.69,
+    "pct": 0.69
   },
   "US 10Y Yield": {
     "price": 5.01,
@@ -86,6 +88,11 @@
     "pct": 0.2
   },
   "news": [
+    {
+      "title": "US Fed Lifts Interest Rates After Three Years: How Will It Impact Indian Stock Market? - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT1RZU3BMcHdkem9qM1BVa0g3VHlsZElYdTdMY1BRTmFHbm0yN05hTzhTYWVfdlVoams0Yk4xQ0Y0SHktYWRaVjRlRUlpblhtR2pWSGVIbFFYd0pPbG50Z05BekJwVDhweVV0Wnd5eUpOYWIyc0RfRGxENGZpSE91ZjJCMkxOTng1QnRqU0NyRnZyeHVQVEt2Rkl4X1RkdGNmbVNaeWkxU1NDOXZJSHFIT1lCRmRaQURLWElzOGlpbnZWVzQ0dW1FX1FJcVRRS0RGOXFuY3A2QmtFZWdRZUxuUXdpONIB6wFBVV95cUxPN0c2SXFzZWRTM09FamZMZHdEWGVodUw4TWN5MnhOZF94Ym5vQW1CSDUtQW5yWGE5M1hiUW9SQm04ektHY2tUOWJoaURzVGgwa2I0S1d0b1FzWUpSbmVRRU1CQld4bnRNak1qMHF0WEE3N0w1V0s4R2djS21EMVVzNmhPVXVJRXVDVmVHQk1iM2dLZThnYlFVbHhqN29rZWFLcl9wb3BRM3JlRVFJWks0ZTJEVzQ5bzB4ZFRBLUJHRDV3ODNxZ2xpZkVTcXNTYVlKWGVsRjhJdHBXaC1kTVprenF4azRORWRsMDVR?oc=5",
+      "published": "Thu, 17 Sep 2026 01:33:32 GMT"
+    },
     {
       "title": "US Fed rate hike impact on Indian stock market - Sensex, Nifty, Bank Nifty, Nifty IT - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSDNZSldlWTJKSE5sTW95UzgzQTlnTU9iTFpKdkdsaWFmaG1uTDE2MDFFSS1qQUc5ODVqLVh1TXlFWld4ZHFUcjU0NmFKbUt5d0hZOEJQSzNubW52dlJ3S1VzQ2tpSFc0NHB2bjRsVVdSMy1OTlR0YkZoYmF6MkdGQ3kwX3NQLVU2YV9OTERyWXZhODByRHgyVEZFaS1XdVBlRWhQODB5TjhZbFVzZUx4cmRLVXFraENQS2Fhb2ZNZHVPdlg4S25CMjhudmJhblluQWo0SkczUjJMM1AyeXIwT2VRd9IB6AFBVV95cUxOMHI5aUpLdzZvejlnQlZHcmtCT3UyVDRxX2o5eXJpWG1EUVJWOG5yMjROTFZYZUtKNGpVMmtnSDJ1S0JPWEMxZzZ6WV91dGF3WV9tcGFSNmdDRk9zTU5JV0RlMS02RW5WYnJDc254RDYyLTBIUVdaSDA4c1FISjRHTzdOWk5POFVTZ0dsanRHalZQTXhsR2s0TkktRzVNckZ6U1diR3V0LXRIZjBBYVlSQUhSbTZ3ZXNORG5WVmRhc2c4OXZ3OW01WFp1Zzl4REZNTmxnTXBPTmNaMzhyd1laQzE2U3ZmeEdG?oc=5",
@@ -117,15 +124,10 @@
       "published": "Tue, 15 Sep 2026 09:49:03 GMT"
     },
     {
-      "title": "Bharat Forge Boosts Aerospace Manufacturing Collaboration | GMR Airports Reports August Traffic Growth | Top Buzzing Stocks Today - Equitymaster",
+      "title": "Bharat Forge Boosts Aerospace Manufacturing Collaboration | GMR Airports Reports August Traffic Growth | Top Buzzing Stocks Today - equitymaster.com",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQT05scmhMQ0dBeWU0N0ZyTmlDRFdMUUlDS2hJem9nZ0xRRHRXVUhtSUIzTXY4MzJ4SFhIVDZxa1NNUVRDalMwUG9WYkhHOFhYSHFZbWhCaDVGQktZOGZJUmtCdFcwMnlXTGpjNjRDZ1NCWTBubnRZc2NYZlZhVWMtSHgzZmJoOWJJZjk3cDJHQjZlNTlHZTBFTDU0OVBtTGNmYVFRWVo1NkZoVXJ1Q0F6MHBUaGMtVkx4cE9WeFVZUHpfUXlLX2RUSU1kUHdZMW82SEh2c21lcmZCTkRpMURCLWdzWlBoaDBUSkF5NTRWMEhSSS1CVE1YdUxsek9qdDRmNWlhQUJtdHc4X2FTbGh0VGd4QVVfZw?oc=5",
       "published": "Thu, 17 Sep 2026 00:30:00 GMT"
-    },
-    {
-      "title": "What Is Nifty 50? How Its 50 Companies Are Selected, How The Index Is Calculated And Why It Matters - Brut",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZGl4NFp0SkZiN3cwdUttM2NYYUZUb29oZllZamNXSm1peF9rS3R1NGlZeTBJb3ZQc1p5emI2YXR0QWNBejBkb2FBZFBJeXYxNGc0cVFPNVd4UGxqQ3FwOGFfVmZZVi1Yb0JVUzFSV0E1Mi1TNlg3ckV2dWM1a3VmbmoyZkg5NURDYzRHNlZjM3YzVGpKZ0NySkE3RnZad2I4c2pHZW1Fb0U1MGMzd2ZfT25mdEVDeW05ZXpBT1ZZMllrWGFveFRDX0thRkQwRTJkUVBxYmkzWWxja2xLelRZNXhHYU1yRGdGRm1HbjBxWUdGdw?oc=5",
-      "published": "Tue, 15 Sep 2026 12:40:36 GMT"
     }
   ],
-  "last_updated": "2026-09-17 02:38 UTC"
+  "last_updated": "2026-09-17 02:52 UTC"
 }
