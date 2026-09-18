@@ -28,49 +28,45 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51658.96,
-    "change": -119.08,
-    "pct": -0.23
+    "price": 51558.61,
+    "change": -219.43,
+    "pct": -0.42
   },
   "Nasdaq": {
-    "price": 26510.19,
-    "change": 91.89,
-    "pct": 0.35
+    "price": 26398.67,
+    "change": -19.63,
+    "pct": -0.07
   },
   "S&P 500": {
-    "price": 7643.69,
-    "change": 5.93,
-    "pct": 0.08
+    "price": 7623.64,
+    "change": -14.12,
+    "pct": -0.18
   },
   "Nikkei 225": {
-    "price": 65018.95,
-    "change": 882.7,
-    "pct": 1.38
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24750.78,
-    "change": 146.49,
-    "pct": 0.6
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 99.79,
-    "change": -5.03,
-    "pct": -4.8
+    "price": 99.2,
+    "change": -5.62,
+    "pct": -5.36
   },
   "Crude Oil (WTI)": {
-    "price": 97.73,
-    "change": -4.18,
-    "pct": -4.1
+    "price": 96.06,
+    "change": -5.85,
+    "pct": -5.74
   },
   "Gold": {
-    "price": 4399.5,
-    "change": -0.2,
-    "pct": -0.0
+    "price": 4424.9,
+    "change": 25.2,
+    "pct": 0.57
   },
   "Silver": {
-    "price": 66.96,
-    "change": 1.49,
-    "pct": 2.28
+    "price": 67.17,
+    "change": 1.69,
+    "pct": 2.59
   },
   "USD/INR": {
     "price": 95.86,
@@ -78,21 +74,16 @@
     "pct": -0.28
   },
   "Dollar Index": {
-    "price": 100.47,
-    "change": 0.25,
-    "pct": 0.25
+    "price": 100.27,
+    "change": 0.05,
+    "pct": 0.05
   },
   "US 10Y Yield": {
-    "price": 4.99,
-    "change": 0.04,
-    "pct": 0.83
+    "price": 5.0,
+    "change": 0.05,
+    "pct": 1.03
   },
   "news": [
-    {
-      "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
-      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-      "published": "Tue, 15 Sep 2026 07:00:00 GMT"
-    },
     {
       "title": "Global Market: European shares edge lower as telecom stocks weigh - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
@@ -109,6 +100,21 @@
       "published": "Fri, 18 Sep 2026 02:02:46 GMT"
     },
     {
+      "title": "NSE IPO: India's biggest stock exchange launches mega share sale - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12WllINEpBanJxS2xaWXlVUjFqVnZycUp2akdfN0R5VXRkNjhsVGVfWS1tazQ0VkdVRUN1dTk5TVJqblp6QTJ3X1lXVlhyLW5wMWFkRUdaYTMtRG8?oc=5",
+      "published": "Thu, 17 Sep 2026 08:13:59 GMT"
+    },
+    {
+      "title": "Indian shares post longest weekly losing streak in six years on oil, rate worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVRkSXFwRVNyZDNJMC1tdGE3bmhadGdUT21fOExqblBPZkdpVFVoa21kWmswNlVJdWw1Yk1xYlA5Z2k0Q3RKVVdXRWJHT3BLcHJMU2JGSE12QzFnTGhMWkZfUFByVWZTNzMyYVR5Y3M4bnFRM2RubXMtdkI4Qk5ldkx5NDcwWDAyek52R1I1bXhZQnQ0QTd5NTZpLUl6RDRwcmxLRGtKdTgyb00?oc=5",
+      "published": "Fri, 18 Sep 2026 03:04:00 GMT"
+    },
+    {
+      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
+      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
       "title": "Sensex Today Ends Flat | Nifty Above 23,300 | Skyways Air Services Up 6% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZTZ4TGlHMXY1VF80cUU2NEg0a1l6S0w4RkpoalNoZzFSWVJ4MlhJd3dnZ1dBNGRFaWJ1TTI1TjFhRWVKNTdTeVoyN2U2VzliSlhyOE1yTDJiYTNucVh6UjFmLTI5aDBIQ1NtRWh3TUlRMTd1clY0TThKRmVhNzJfbkx5emg2NXp0X1U3VTA3RDBOVmROazRnX25UbGwtZEFtNDNfYjFZRkxUTmFwMllqRWliUFZnNnZRX096NkFSNmx5OEJrWjJZ?oc=5",
       "published": "Fri, 18 Sep 2026 10:49:16 GMT"
@@ -117,17 +123,7 @@
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 18, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTFpybnlXU1d5RzJuc3NpaVo0aXZWLWZKbExsMHJkaDZodkczekRoaGRNMGo4Ti1RYjM3QUxEWDhtLXVsODR2VWYyYkozWEgzaEJmajNvT2g1YTBoRFBNMzRXSm1vbTlMSE5BMFdGQkRRbUk4YjluS0hlNV9aQW5lamFtajAtdmxfNlNycXZWUDU4V0JCcWhpQ2lKY3FYX1Q3UThPY215QlBJMDJPckRadzhNSnR5QW1K?oc=5",
       "published": "Fri, 18 Sep 2026 11:15:10 GMT"
-    },
-    {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "India stocks mixed at close of trade; Nifty 50 up 0.33% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb2JTdWRzQUN6Z2JXbmU3S2tWUFFXbkxBN3BrRDNvdkZUOEp4alVpZlZzZzR1c1c0cTRrQjJ2SHhEUUFUYnJGMkx6dFI2SkxRU3FoaGxFWmVpSEpjOElXRGJsd2hZZlU5NzNTZWlIWTJFS2ZYWkpTaVp1SUwxM2ZVeGVuN3NMZm9TdndvWWlmTVoyeWNZUkZ5dTFobmxZU1pKaFYwb2FnRV8tMDg2V2c?oc=5",
-      "published": "Fri, 18 Sep 2026 10:34:17 GMT"
     }
   ],
-  "last_updated": "2026-09-18 13:42 UTC"
+  "last_updated": "2026-09-18 17:13 UTC"
 }
