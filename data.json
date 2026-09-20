@@ -53,24 +53,16 @@
     "pct": 0.6
   },
   "Crude Oil (Brent)": {
-    "price": 103.87,
-    "change": -0.95,
-    "pct": -0.91
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 100.3,
-    "change": -1.61,
-    "pct": -1.58
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4424.9,
-    "change": 25.2,
-    "pct": 0.57
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 66.56,
-    "change": 1.09,
-    "pct": 1.66
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
     "price": 95.88,
@@ -78,9 +70,7 @@
     "pct": 0.08
   },
   "Dollar Index": {
-    "price": 100.22,
-    "change": 0.0,
-    "pct": 0.0
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -94,9 +84,14 @@
       "published": "Sat, 19 Sep 2026 16:21:20 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find Support; Crude, FII in Focus - Goodreturns",
+      "title": "Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find Support; Crude, FII in Focus - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjFYa3JlZjM1azhfaTJtemJ4ZzVjRTc4R3p4WHJ0M1NFY25Jc21OQnlPRDhWbGJTRnZRd2x5VFdXdHJWNHNNM0RlV3Q3Ym9xWlZXeVRZZFlQQ3RFb0gwVk50aGkxdldfWldxcmRodU5VQUVZdW1QMHc5VGdUWm1lUDJ3LVpPdzVUbTk3bGFLYk80SlBiUEhNazA3b1lzT2lzbmI0cUliZ0UzMkhTV1ktTnRIdTdZMWpiQW95UkI1MjVBNzJSWE92ZGN3cHF3cWZSYUZyYjNhRQ?oc=5",
       "published": "Sat, 19 Sep 2026 11:35:23 GMT"
+    },
+    {
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
+      "published": "Sun, 20 Sep 2026 04:41:26 GMT"
     },
     {
       "title": "NSE IPO: India's biggest stock exchange launches mega share sale - BBC",
@@ -104,19 +99,9 @@
       "published": "Thu, 17 Sep 2026 08:13:59 GMT"
     },
     {
-      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM01PZEFMcm9lVDMzVlRfS3NJNFNnUGlpdWlneEVVZmdlOGhNdVBkeGlRLW9OQ2dCVWVMLWZhdHRlQlJPVjgyWTBOWFVVS1R0Ql9LYWg1ZWYybk1BODFKQnRuSXBNWkp3YkNTbnpXZnk3bnduSmJQakN6U05VSHJzV19icVUzYUpqdWR5ZUQ4SER5eTRwZzFHcFdUd1FNVXVVWjU4V2dIR1d3Tkx6MW52MldzMkU1bW9rVmU0MGEzZTJBM1l4TTFxTW91OVhPVXp3MGlLbmlGS2E0d0d3dzBxM2dlTDhvYXVCb3JzbVI5alg3d9IB9wFBVV95cUxOai1pbnhCNVI5WEhXeENqVWl3VFhseVBOV1Q1aVdDOG40SVZFQk9mbkFFNFVsQ1diQzdrazRKWEhQWWpfbjU5dlRFTXVCOXV3d252bzhYZThXY25qMVFORVhGVXFSWEE1eG1qVElyb0JMQXZFNl9rNWpZSV9mejBSenRmYXZYNTBWOHJFNlktdWRtN3dVY2xWbXQyazJTZFNUQV9Jelc5cVMtVElacTIwZ203RExnc3lhV2ZsZnUzS0FpMTJwa1hCOGstQlo2SzBFRUpfTmxCV0ktTXhscng5blZDdmZpYklqaUlSdmphdDJtUE02eXM4?oc=5",
-      "published": "Fri, 18 Sep 2026 16:52:07 GMT"
-    },
-    {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How India Built (and Broke) the World\u2019s Biggest Options Casino - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUtZQkg5TFRtbjJmLVhaNjQ5Vy1mMmVxLVRFenlUTzlfUF9wN1lzOGlHYmtha2V3VEd6Wi1yVGFSMXJBeXJTY09RWG9EWkdhMk42RGdya1ktUnVqVHNaMVpWOEVFZmRXT0pZTFhYTkppNHhTNVNxNWZ0THJHVk40bGV3?oc=5",
-      "published": "Thu, 17 Sep 2026 09:00:00 GMT"
     },
     {
       "title": "Zee Business. . Stock Of The Day \ud83d\udccc Buy Tilaknagar Ind (Cash): SL 530 Tgt 550, 555, 560 Stock in strong uptrend Buy HDFC Bank Futures: SL 700 Tgt 722, 730, 738 Stock taking support near 700 level #StockOfTheDay #TilaknagarIndustries #TilaknagarIndust - facebook.com",
@@ -124,10 +109,15 @@
       "published": "Fri, 18 Sep 2026 04:16:36 GMT"
     },
     {
-      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained - tradingview.com",
+      "title": "How India Built (and Broke) the World\u2019s Biggest Options Casino - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORUtZQkg5TFRtbjJmLVhaNjQ5Vy1mMmVxLVRFenlUTzlfUF9wN1lzOGlHYmtha2V3VEd6Wi1yVGFSMXJBeXJTY09RWG9EWkdhMk42RGdya1ktUnVqVHNaMVpWOEVFZmRXT0pZTFhYTkppNHhTNVNxNWZ0THJHVk40bGV3?oc=5",
+      "published": "Thu, 17 Sep 2026 09:00:00 GMT"
+    },
+    {
+      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbEJhbHdpR25YcnhiQTQ5YXd4OEdGdnlMM1ZyeGhhYkJ1U0cySHE2Q1pEY2xpOWlyYi1oNHlDcDNjYzZlS3lyTnZxOTlPUG5ZRUtXZ1RoSW1qeHM5UmxRa0pvaFBMVUZ2WUJ4REpFTDM3SjZXTnI5akowVUJqN2RncnRPRlN0bUNZQUMwaVRiaVhGOHdRMGU1MjdtTVZDeFdTU0dFS3lENkhoVHFnZ2FBVTRGWTBLY0w1TmFkalBIRGl5N3dnZVdjTS1KTms3TmhRSjk2YjNlVzFNR1pmZjFOVg?oc=5",
       "published": "Fri, 18 Sep 2026 20:03:12 GMT"
     }
   ],
-  "last_updated": "2026-09-20 00:23 UTC"
+  "last_updated": "2026-09-20 05:07 UTC"
 }
