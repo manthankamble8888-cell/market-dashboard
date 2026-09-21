@@ -1,46 +1,46 @@
 {
   "Nifty 50": {
-    "price": 23412.4,
-    "change": 66.0,
-    "pct": 0.28
+    "price": 23414.3,
+    "change": 67.9,
+    "pct": 0.29
   },
   "Bank Nifty": {
-    "price": 56431.8,
-    "change": 73.1,
-    "pct": 0.13
+    "price": 56470.65,
+    "change": 111.95,
+    "pct": 0.2
   },
   "Sensex": {
-    "price": 74807.02,
-    "change": 512.06,
-    "pct": 0.69
+    "price": 74858.99,
+    "change": 564.03,
+    "pct": 0.76
   },
   "India VIX": {
-    "price": 11.4,
-    "change": 0.01,
-    "pct": 0.04
+    "price": 11.25,
+    "change": -0.14,
+    "pct": -1.25
   },
   "Nifty IT": {
-    "price": 28734.6,
-    "change": -119.95,
-    "pct": -0.42
+    "price": 28830.9,
+    "change": -23.65,
+    "pct": -0.08
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51682.64,
-    "change": -95.4,
-    "pct": -0.18
+    "price": 51777.34,
+    "change": 94.7,
+    "pct": 0.18
   },
   "Nasdaq": {
-    "price": 26522.54,
-    "change": 104.24,
-    "pct": 0.39
+    "price": 26847.18,
+    "change": 324.64,
+    "pct": 1.22
   },
   "S&P 500": {
-    "price": 7650.5,
-    "change": 12.74,
-    "pct": 0.17
+    "price": 7702.46,
+    "change": 51.96,
+    "pct": 0.68
   },
   "Nikkei 225": {
     "price": 65018.95,
@@ -48,9 +48,9 @@
     "pct": 1.38
   },
   "Hang Seng": {
-    "price": 24968.74,
-    "change": 217.96,
-    "pct": 0.88
+    "price": 25042.71,
+    "change": 291.93,
+    "pct": 1.18
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,23 +65,23 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.83,
-    "change": 0.04,
-    "pct": 0.04
+    "price": 95.81,
+    "change": 0.01,
+    "pct": 0.01
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 5.0,
-    "change": 0.05,
-    "pct": 1.03
+    "price": 4.97,
+    "change": -0.03,
+    "pct": -0.54
   },
   "news": [
     {
-      "title": "When will FIIs return to the Indian stock market? Bernstein answers - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUNESE05TUluTEU1SUduUFpva015Q0VHZzZkcjVWcG9FOC1rQ0pMNm9jNWxnVktUaE9jamR4UjVuUzNpcGsyOWludXU1cG5neFd6Zjc3VkllN3J3cXJyX3hKMWVNU3JFM2pJRTVoLUFIQWUxSmUxREs2aTRnak1iUkU4aG13bHlYQ2x6MUlmd0hUcm8zNkkzTl9RYzJ2d0pHVmJsTHNEUXA5ZFI2djRoZjNkMTdTSkhxUkVtd1VhZEJFZ09lYTdBeVpJRkJBd9IB0wFBVV95cUxOLVNNRk51RG1SZVRVd0tMcGVvOWdsNEE2RjgzTEhPN0IxVUVpcHNWSGhDeWloOThweS0tOVZ4TmRVM251RVkxMmdCeTgwUHBWbDJyWFVhOFIySHFfUjVVM054Mi1OSmFrMHl4dEZfRGZOT1JyMzFtRjh3bUtvYXhDTFRyYlRBcFEwQnVRdUxnUktDMDZlSGlVYVBlc0dlNG5OMzFOSzZBNER2NmlxUDFnRHRCaS13U2k4WXBJNUdlbGNLb19Ma0h6S1BodHlTajdJZEZZ?oc=5",
-      "published": "Mon, 21 Sep 2026 04:45:37 GMT"
+      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - newsonair.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
+      "published": "Mon, 21 Sep 2026 07:42:48 GMT"
     },
     {
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
@@ -89,35 +89,35 @@
       "published": "Sun, 20 Sep 2026 07:52:08 GMT"
     },
     {
-      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
-      "published": "Sun, 20 Sep 2026 17:00:58 GMT"
+      "title": "Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensions - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnM5MkZHWUozc1Z5cVBnbTVNMkhtZ0pFTGdIS0tERnN4NnNaVGdZSUxMcEdNLVkyTzVwcTBUN1JtcjVabDdFWTg5TmNuN0hMLVVIamhhZ1daSVFnR003SUhNUDJlbFBHMl9UVklNelRXeGVGTjVLa0RHb25aVTdRYzlFM3BlQTYxeDQyNkZqVzVKeE9UREZwVnd4M0NSdkJ1RnB1Mk9kcllkTDQ4Q2RwRHVNbUlJZ0dyZ3U0NkNnOTZ1c3lRV1hzem5wQTVDQlNyNlkzWnQ0MHF3eUtj0gHiAUFVX3lxTE85WTBNS0NuMzZjcFRTbGUtZ2ZFVTJOMFJSR1hrUHNGQkJ5LVpKY1RKZnVGaDB4MHZNRzFIZVFmb2V3eHVTZTVtckZoTE5DMWZ6Y2Z4OGEtQTM4ZmNqS1NyVmhBa1VVMUdUdVlqclVzQmJKeXRzNXBVb2JmT1h5N1A0MDFQUUFDclBPMnpiMnNiQzVxT1NESk5JZDd3OWlEUVdaTW9xZ1JnVmV4cWNNOU5qMm5pZEFBTXFKN2tqMlR4czZwMVJBQmwwQW1wc0RmWjZKc29NQkZwdURuTV9TTWNYMnc?oc=5",
+      "published": "Mon, 21 Sep 2026 08:56:49 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXBSZzFvWEJoWUd6WTJvWDR6d1JhTUpiRGQyUGJTRUZVZGR0dHNwR01MR3ZWREY3NG56TFVXZlNNcVl3alNuNU5oWkFBMU4wamlkcGEtYmt5VzdsZ1B2UlJiZlA1TURfSm5hLTB2Q2VZb3lNZS1meHZ0Mkw0TTNmY2Z6bThxRmlRYTJGOEpsU0cwYTYzSE1iRWhFYVpNLTVSZktSMjd0NU9iODdUYnJfWlp6bUwya3RlWG91dUJJRHVJNzNlZDllQnVoOW5aT0x2dHRXa3BDTE13Y0tkTmFj0gHkAUFVX3lxTE9TNTFJY3Zpb0ZSbXVGT3RWMjFuQXAyQUdHOWdGcUc3OVVwenhBQ3hHako2MEZwV2U3b254RXAwbUlIYmpDN0hFNUZTVXBTT0VudGZXeVcyclRKY19vSnB1TnJXRTVnWF90VVNWM0RHLWtqV3pUSzREQW0wLUhsRGFCN2lXbnc0SjI3WjlZVFVCRzE3WE1vb1ZCQU1hWmVaamVPcTZDdmRrRXV6SjZwMjRIalduZGVEZnFkT1p3NXV4Y1VyS0VZTzdrYUZpQlhfdjFSbXhaWDA4ajdtWmd4TE9HUTFCXw?oc=5",
-      "published": "Sun, 20 Sep 2026 11:18:48 GMT"
+      "title": "Sensex Today Rallies 564 Points | Nifty Above 23,400 | 4 Reasons Why Indian Share Markets Are Rising - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNb3Y5TEZRZkEyblRGWC1fMmthcUM4c280UnhsUV9mSzJicXBZY2VzTHRGMG1JV2lxOFJrRVlnUGRURXY3SmtoY2Vqd19mRTJuTVAtLVpkeWFFMmxuTUtrd3M0QTFUWVJWMFZsYUdfaWFDenlHNHJSbU5sT0JXZUFSWmhEZWxxbUNGNDVpUVpoYVFtVC1zYzhrSW5WWndzUmdRc2NKdjFQQ1hZeURCZldjd2JESGw3Rjk2d1R4cVRGSXNJUnA2Z1BjbWJPVjU4MkdKRExVOExKbmI0dlhySE1YTVVrelVzTmZuYUJ4RGZ3?oc=5",
+      "published": "Mon, 21 Sep 2026 11:05:19 GMT"
     },
     {
-      "title": "Indian shares inch higher after recent slide - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ3NYaXdLM1g3c3NKZkFDM2I0b0xENENVUGJFaFJIY01mVjQtV2swdVJVelBWV0hMNjBNeGFyTTItOGtRM0tYOTkxcTR1ZXJyS01WclBmMXRCTkdMOUdpbnpTdHhSamd2elBWMWlKVWpVNUoxX1c1emdyU2FlOE1aOHNvZXc1MDRtVlFtYzN4Ui0wMDZSUWNHZFRwSHE4Wm8?oc=5",
-      "published": "Mon, 21 Sep 2026 02:26:00 GMT"
+      "title": "India's NSE IPO draws over $10 billion, traders eye modest listing pop - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0JKbTN2UFdSR2lMbEFsaXhqZWstRU12VTlNOHg2d2d2bE95V2ZFQURkX2luX3p0SDB4T0dLVEdmLVdVOHNqTHNyWUxjWnNHTV9MMDAxVGFWbjNRemlmRlZGdUl3WnpiNHAwSG10T1FmaHBjZ3dpVlpHdm5rWUE5czRlaHY3RDVfRDNSbg?oc=5",
+      "published": "Mon, 21 Sep 2026 13:21:48 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,350 | Sun Pharma & HCL Tech Top Gainers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0daeXdCSjhreWZPYnpPMjlxSnYyTVdEZXNmV1pCSThUWDBKUHVzd0YwekFIQktyRWI0WHdXSVlSVTNrZ2dMOWYtbjVLeVpiYWRWLTdMYUp5dUZtR0kzUERidXVjZFhOYWQzb0ZGR0VxWWtXeTRSbXFVTm50V2xhc0tyX2w2MnN4X0p5azJCTE92ZF9QN25TZllEUlVWdnpvS01SSTN0R25BMDZUMXJneGtaVUJuX0tuR0VmYld4SzVMMlprUnkzWWg3QlRCQUs2dC1TUXJR?oc=5",
-      "published": "Mon, 21 Sep 2026 04:32:41 GMT"
+      "title": "When will FIIs return to the Indian stock market? Bernstein answers - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUNESE05TUluTEU1SUduUFpva015Q0VHZzZkcjVWcG9FOC1rQ0pMNm9jNWxnVktUaE9jamR4UjVuUzNpcGsyOWludXU1cG5neFd6Zjc3VkllN3J3cXJyX3hKMWVNU3JFM2pJRTVoLUFIQWUxSmUxREs2aTRnak1iUkU4aG13bHlYQ2x6MUlmd0hUcm8zNkkzTl9RYzJ2d0pHVmJsTHNEUXA5ZFI2djRoZjNkMTdTSkhxUkVtd1VhZEJFZ09lYTdBeVpJRkJBd9IB0wFBVV95cUxOLVNNRk51RG1SZVRVd0tMcGVvOWdsNEE2RjgzTEhPN0IxVUVpcHNWSGhDeWloOThweS0tOVZ4TmRVM251RVkxMmdCeTgwUHBWbDJyWFVhOFIySHFfUjVVM054Mi1OSmFrMHl4dEZfRGZOT1JyMzFtRjh3bUtvYXhDTFRyYlRBcFEwQnVRdUxnUktDMDZlSGlVYVBlc0dlNG5OMzFOSzZBNER2NmlxUDFnRHRCaS13U2k4WXBJNUdlbGNLb19Ma0h6S1BodHlTajdJZEZZ?oc=5",
+      "published": "Mon, 21 Sep 2026 04:45:37 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
-      "published": "Sun, 20 Sep 2026 04:41:26 GMT"
+      "title": "3 Warren Buffett quotes for Indian stock market investors today - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaUdqVXVzbE5RU0ZRSlhMbS1xNGFpYzVMNmY3ZTVYc2JlVTBlWjdqbTdSd1hpLVA5amxXS3pZNkJQWmlmMXJ6Sjg5c21LMEVVemdTTzBFSUVobGFtR29kNGRDQ0hCclVTWWpXQWVuMFM2MmV2M1RIR2pUZVd0RFYyc2tQdTdlcVRQQm9XYW40QndTOHZtcWFGOU1mOGpYZHFYS2hCLWJwVjNINXZBb2hHS3hmWTZJNWxHeEt4X0RxekdDcjRjelluNkt0WdIB0AFBVV95cUxOSGRRbnBtNG1SZ1pGeWtyYmlzbEtUSk9rS185ckNZZGxoS0VtdGxkaUxibW4zd19ocGlBVEF4UEl1R01ZNU9DVTRSQUZwLTVCMlhvTnJ5SG5WT1A1ekZGcVBkMU52b1ZPWV9pZExITng2S2JlVXBILTlrS2h1cDgxV0ZrQ1FWWWNWOGNVdEd5S2t4VDVLYk1aMmMtQkVGNE1saGRnTTFkUUVra2JoeG5ldXdmNTdMNXdfVG51dGRTYjhzSVB6RVdqRjZRVE9GOUNJ?oc=5",
+      "published": "Mon, 21 Sep 2026 11:23:26 GMT"
     },
     {
-      "title": "Stock market opening today: Will Sensex, Nifty rise or fall? - indiatoday.in",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWXM3cTVIX2VZZS1xd3FNWmw1ZzI5V05kZUt1QVpiX1ptb0xHTEtQRjh5cERqdVMwZVd6eDVKZkVkMTkxa2hXWVRRS3ZvZHFwRXRHNFd6cFVDcHhoS0oyUEJvaXpCcEFOa0RqNGJHM3IyeVFfV3REUjMxNGtkMXYtLXF2M3JWZ2s0c0hUUW40TGRKQjBLWk1HZGNiZjVTU1lJeGV2MHF2MFZIdzZxTWI0ekdZTnVDNzB6dERXVG4wSFNqcU9xWWNBcEpYMEVtUjVrMEVwT0FFYlhHNUdldXR6cXlNb3B5QdIB6wFBVV95cUxPcXQySjJwUzZ4dDAxRkp3WGVtSkFHVFUzWnpST2ZDcUhXWEU5MEF0S3VBRzNmSnVWYW9OUi0tWXhGOGZZREZYdW11UFRXQVpPU1BuYjZpQVpzR3NreGJKV1MzM3h5WjM2andCZ1NYdE1jVGttVWpyTktqdmFDeklwaW9HakpvS2JPRWNWYWVGb3o3S3hGQy1MNS1pVmhFcGRMVkRraE0zaE4wUlhJckxoQnljSEUwaUdWOHQxRWxOcHFmc3ZSc3VwY09HU1VJSVBFUzRFcnh2bFJtdmU5LW15RmpSWHJnYVVzNmdN?oc=5",
-      "published": "Mon, 21 Sep 2026 03:34:16 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 21, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUExTWDN2eUxRSVg0SnZtNjdrbTdJLWlrUjNoNS1yZ0U3dmdxU0ZFMlUxbzNZeEl5T3l2dWx0eGl6WlQtQ2ZUbGl3ZHJTZzFsQTFYR0FMZlVhWm9sRHdDeHJlOXNaYVVrZGdBLTZ2THZaT1BxaG5YYnY4TVRzNDkwM0l4MWF2Um5EWjJFc0pjUDFXRFV6TFBYNjVQS3NkNG5BbnQ3SUJiSjFtQ1hKVVhaWXlZMGxDZw?oc=5",
+      "published": "Mon, 21 Sep 2026 11:10:15 GMT"
     }
   ],
-  "last_updated": "2026-09-21 07:10 UTC"
+  "last_updated": "2026-09-21 14:05 UTC"
 }
