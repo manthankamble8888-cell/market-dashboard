@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23370.8,
+    "change": -43.5,
+    "pct": -0.19
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 56261.75,
+    "change": -208.9,
+    "pct": -0.37
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 74778.17,
+    "change": -80.82,
+    "pct": -0.11
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 11.27,
+    "change": 0.02,
+    "pct": 0.13
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 28447.0,
+    "change": -383.9,
+    "pct": -1.33
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -38,31 +48,43 @@
     "pct": 1.38
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25120.32,
+    "change": 77.61,
+    "pct": 0.31
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 97.77,
+    "change": -2.57,
+    "pct": -2.56
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 93.63,
+    "change": -2.15,
+    "pct": -2.24
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4357.7,
+    "change": -26.2,
+    "pct": -0.6
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 66.01,
+    "change": 0.19,
+    "pct": 0.29
   },
   "USD/INR": {
-    "price": 95.81,
-    "change": -0.21,
+    "price": 95.8,
+    "change": -0.22,
     "pct": -0.22
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 100.4,
+    "change": -0.03,
+    "pct": -0.03
   },
   "US 10Y Yield": {
     "price": 4.96,
-    "change": -0.03,
+    "change": -0.04,
     "pct": -0.7
   },
   "news": [
@@ -72,40 +94,40 @@
       "published": "Mon, 21 Sep 2026 21:39:21 GMT"
     },
     {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
-      "published": "Sun, 20 Sep 2026 07:52:08 GMT"
+      "title": "Sensex, Nifty prediction today: How Asian markets, crude will impact Indian markets? GIFT Nifty, KOSPI, Taiwan signals - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTk1GSTRzU0ZudUZVTkVseF9nU1ZyYndiVkRCZTdKSVlQOHBqQ0JHNTFzV3dpeGNKS3BPa2R1VDcxR056YlUxYXdwLVAwMVhsXzlDTi1nMk83b1FRd2VHamlFaFJaQTBuNE5aWTN3bUJBZ1M5RE1qT0ZmWlgyeEFqT3k5U21CS1hvTnMzOVd3YnBCMmliSDJieFRNZW5fdm9fRUtmQ0hSaU9pb1ZBYzRwQ0VmekY5VWk4aVNGb2lFN09yN1pZb0FITjlNYmxSNVlTQW9VVjlYTVZsT1BTU2FFRmF6a2JONFpCRWtrSkg3T0dIZjlaTjJZdDVybElxdw?oc=5",
+      "published": "Tue, 22 Sep 2026 04:40:00 GMT"
     },
     {
-      "title": "HEG Materials Receives Battery Storage Orders | Coforge Expands AI Vehicle Inspection Capabilities | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRUtudHozc2NNMWtEV2IwQWpvVTVHY3lXOUhqWFBmeVFDdFB3SGYwUk9aNnFzSzZmdTBENE1CRDhaczhSbDRqU0EwSUJ5RmJYV3ZPUHpvRlRnVlVwbXIxOXNseFBYX2JjY01tUEU4NUhpM3RrdThqWlgtX1A0T1RGbzFOdURsOVJWdFQxZE5CNDd2LUNueEZCUXVOLVY3Q0h1MTFEQ3A3aGw1c3U1Ym5UMlNvQ0RuYXhQNXZnM0NsdzNyakQ1YS1oUnlBZkhzVDl3UFhkVUxBVkJjVVVxNndUT05CUURkWC1aczNXeThvSS1STmNmVl81U1hMejhWbTlBbGRsOWpxUHV4TTBicWNTTmVRbk9GNlU5cXQweDFUSURCZU1IWmNnb1MxZVdGdlpPVzl1U3VrbTlzX3RwVXY0VFR1S3Y4dE92cFVMNGltY0xHLXk3SjRiMWlBOVZRMmVCQVoxMll2R1RhMWl4ZFFEaEdZdXpRQQ?oc=5",
-      "published": "Tue, 22 Sep 2026 00:30:00 GMT"
+      "title": "World\u2019s biggest derivatives exchange finally set for $46bn market debut - ft.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLWxqMjFRWUtaaXRYVS1IOUZkNGRYSFVXM0YyQU9GUURPRXQwU3ZQdU5qYUpmdnQ1Um1sd01TMHFSRThIczZ2QVZWb3RWNC1UMnJzTFFjTmViMkFybW14MU5TRUkweTY1SXZtaFhJc1BUMnJBa05XWkNVVjFYMzhmYk5rd0s?oc=5",
+      "published": "Mon, 21 Sep 2026 21:00:07 GMT"
     },
     {
-      "title": "When will FIIs return to the Indian stock market? Bernstein answers - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUNESE05TUluTEU1SUduUFpva015Q0VHZzZkcjVWcG9FOC1rQ0pMNm9jNWxnVktUaE9jamR4UjVuUzNpcGsyOWludXU1cG5neFd6Zjc3VkllN3J3cXJyX3hKMWVNU3JFM2pJRTVoLUFIQWUxSmUxREs2aTRnak1iUkU4aG13bHlYQ2x6MUlmd0hUcm8zNkkzTl9RYzJ2d0pHVmJsTHNEUXA5ZFI2djRoZjNkMTdTSkhxUkVtd1VhZEJFZ09lYTdBeVpJRkJBd9IB0wFBVV95cUxOLVNNRk51RG1SZVRVd0tMcGVvOWdsNEE2RjgzTEhPN0IxVUVpcHNWSGhDeWloOThweS0tOVZ4TmRVM251RVkxMmdCeTgwUHBWbDJyWFVhOFIySHFfUjVVM054Mi1OSmFrMHl4dEZfRGZOT1JyMzFtRjh3bUtvYXhDTFRyYlRBcFEwQnVRdUxnUktDMDZlSGlVYVBlc0dlNG5OMzFOSzZBNER2NmlxUDFnRHRCaS13U2k4WXBJNUdlbGNLb19Ma0h6S1BodHlTajdJZEZZ?oc=5",
-      "published": "Mon, 21 Sep 2026 04:45:37 GMT"
+      "title": "Sensex, Nifty open marginally higher over crude price correction - DD India",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDhlWUhXSS1jTkx6SUhVQU1uRWM4VlY0Sl9oSUV2VHU1WEMwbXNyempYc1VFbmlMMU1FQ1pidkozcUljU3g4eU9LckNNc3A5YmZzNXVTeml4ZHkzMy1GdS1vdTNYQlJHeV9LdUtWYWlPMWRRN09fNmNDTW4yTVhjZ1JYbkdNcl9aY21tZHNuU2tKTC1BcF9hOGhn?oc=5",
+      "published": "Tue, 22 Sep 2026 06:03:00 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
-      "published": "Sun, 20 Sep 2026 04:41:26 GMT"
-    },
-    {
-      "title": "Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensions - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQnM5MkZHWUozc1Z5cVBnbTVNMkhtZ0pFTGdIS0tERnN4NnNaVGdZSUxMcEdNLVkyTzVwcTBUN1JtcjVabDdFWTg5TmNuN0hMLVVIamhhZ1daSVFnR003SUhNUDJlbFBHMl9UVklNelRXeGVGTjVLa0RHb25aVTdRYzlFM3BlQTYxeDQyNkZqVzVKeE9UREZwVnd4M0NSdkJ1RnB1Mk9kcllkTDQ4Q2RwRHVNbUlJZ0dyZ3U0NkNnOTZ1c3lRV1hzem5wQTVDQlNyNlkzWnQ0MHF3eUtj0gHiAUFVX3lxTE85WTBNS0NuMzZjcFRTbGUtZ2ZFVTJOMFJSR1hrUHNGQkJ5LVpKY1RKZnVGaDB4MHZNRzFIZVFmb2V3eHVTZTVtckZoTE5DMWZ6Y2Z4OGEtQTM4ZmNqS1NyVmhBa1VVMUdUdVlqclVzQmJKeXRzNXBVb2JmT1h5N1A0MDFQUUFDclBPMnpiMnNiQzVxT1NESk5JZDd3OWlEUVdaTW9xZ1JnVmV4cWNNOU5qMm5pZEFBTXFKN2tqMlR4czZwMVJBQmwwQW1wc0RmWjZKc29NQkZwdURuTV9TTWNYMnc?oc=5",
-      "published": "Mon, 21 Sep 2026 08:56:49 GMT"
-    },
-    {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 21, 2026 - blog.liquide.life",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUExTWDN2eUxRSVg0SnZtNjdrbTdJLWlrUjNoNS1yZ0U3dmdxU0ZFMlUxbzNZeEl5T3l2dWx0eGl6WlQtQ2ZUbGl3ZHJTZzFsQTFYR0FMZlVhWm9sRHdDeHJlOXNaYVVrZGdBLTZ2THZaT1BxaG5YYnY4TVRzNDkwM0l4MWF2Um5EWjJFc0pjUDFXRFV6TFBYNjVQS3NkNG5BbnQ3SUJiSjFtQ1hKVVhaWXlZMGxDZw?oc=5",
-      "published": "Mon, 21 Sep 2026 11:10:07 GMT"
+      "title": "Gift Nifty Signals Weak Opening for Indian Stock Market - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZElFMlA5ZWZnT0JUNTd4Q19KV3lHbUMtaGtfTm05ellfaUpBN1NVMDJCeHNjdDdmNW5md3VQa21FT0VFaVFIXzlwc1drRlc1UDUxOXRCaDRLUjJlWk8wMWFnS0lBeE4ybUcxNXVLVFh3VzhXNzZmV2R4Y3JubGVJWGlFc29XSDlUZ2puWlVHOFlDTG1rZHhBN3JYcnhESVVfTk00UENUdEMyUQ?oc=5",
+      "published": "Tue, 22 Sep 2026 03:38:12 GMT"
     },
     {
       "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
       "published": "Wed, 02 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "title": "HEG Materials Receives Battery Storage Orders | Coforge Expands AI Vehicle Inspection Capabilities | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPbEx5RU8wZ1Z4YnlJWWFGSVdLSEkxckJCUE1UaXZCa3JYeW1IQzloR1EwdTI0RTFTZFdlRmk1WTRaQ2hsc1ZHQ3YxSGxUUlN3VTNOU21ydGl5emRwdWdFUkhwYTE1a09SVDEtYXhmUVZ5cmxKWndaSVc0eGxtX3JlRlBkUm9OdFBnZmppb1I0QjFaalA1enVwVzlnaWtPSGRwYlBMTDRWdXlOWkFla2h6M0pWa1drYzA1YjdOMUt0blc3al90TWE4d21JUUZkMmVWNmRWOHo5M0xVZVEwOTF6TTZSUGpXcjBKbmtScXppREgwOEhwR0xYY0ZxYnJaU1A4WVpZUm83MFhReE4tUHlLLU5B?oc=5",
+      "published": "Tue, 22 Sep 2026 00:30:00 GMT"
+    },
+    {
+      "title": "Indian Stocks Open Higher Despite Rise in Crude Oil Prices - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcU91Mk5POGZac1FuTnEyYlJWUVJRa1k1dEFyamh2dE81T1o0cTV0Y3RaTEU4NHhHQ0pyTFlENTVWN0NlS1c0YkxmcEJnc280VXZic3RBRDZaSUtmMktsdkJKMzU0M0VMd2d2VTFOeUVmTEFSZDdDWU1xek9GN2JGVEVlUFpRREVoQ0M4SU12ZW44aklZOWxYTkUycXRyV3VwRjVvQVhuRWNsQQ?oc=5",
+      "published": "Tue, 22 Sep 2026 04:02:33 GMT"
     }
   ],
-  "last_updated": "2026-09-22 01:10 UTC"
+  "last_updated": "2026-09-22 06:12 UTC"
 }
