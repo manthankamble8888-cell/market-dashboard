@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51892.8,
-    "change": -156.03,
-    "pct": -0.3
+    "price": 51863.69,
+    "change": -185.14,
+    "pct": -0.36
   },
   "Nasdaq": {
-    "price": 27248.94,
-    "change": 126.85,
-    "pct": 0.47
+    "price": 27244.28,
+    "change": 122.19,
+    "pct": 0.45
   },
   "S&P 500": {
-    "price": 7769.64,
-    "change": 4.94,
-    "pct": 0.06
+    "price": 7764.64,
+    "change": -0.06,
+    "pct": -0.0
   },
   "Nikkei 225": {
     "price": 65018.95,
@@ -41,24 +41,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 99.38,
-    "change": -0.96,
-    "pct": -0.96
+    "price": 98.65,
+    "change": -1.69,
+    "pct": -1.68
   },
   "Crude Oil (WTI)": {
-    "price": 90.6,
-    "change": -5.18,
-    "pct": -5.41
+    "price": 89.85,
+    "change": -5.93,
+    "pct": -6.19
   },
   "Gold": {
-    "price": 4392.2,
-    "change": 8.3,
-    "pct": 0.19
+    "price": 4396.2,
+    "change": 12.3,
+    "pct": 0.28
   },
   "Silver": {
-    "price": 67.5,
-    "change": 1.67,
-    "pct": 2.54
+    "price": 67.61,
+    "change": 1.79,
+    "pct": 2.71
   },
   "USD/INR": {
     "price": 95.58,
@@ -66,14 +66,14 @@
     "pct": -0.45
   },
   "Dollar Index": {
-    "price": 100.6,
-    "change": 0.17,
-    "pct": 0.17
+    "price": 100.53,
+    "change": 0.1,
+    "pct": 0.1
   },
   "US 10Y Yield": {
     "price": 4.97,
     "change": 0.01,
-    "pct": 0.14
+    "pct": 0.1
   },
   "news": [
     {
@@ -85,6 +85,11 @@
       "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
       "published": "Sun, 20 Sep 2026 07:52:08 GMT"
+    },
+    {
+      "title": "Investors rush into India\u2019s National Stock Exchange IPO at valuation multiple above Nasdaq - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1cXBPOTl4Y1ZEMHdBaG1oVExYd0JkUVBXOFVucUgtYW5WdnBJYThQZFVyVkQzVTdCem56N25zRWJGeWpFMUUzME54RmxmZXBGd0FJdnlzc3ZKSEZWYkNScVJCQVR6bVhEbGl2T2tHcGYxbFXSAXhBVV95cUxOSUtpdndBQi1IZ3g3ZEZseGdkQkp5RFB6dW8yRkhrS1lVOUxWVE5MaVU2ZjZlTDIzQW1IVmI3VGc3UDlvZDg2dHRRWlFnMXZpc0lWWlB1elF3OHJvN2JmWHA0RkRVc01WY19QTEpCVlpsUGhmbTJ3dzk?oc=5",
+      "published": "Tue, 22 Sep 2026 04:00:28 GMT"
     },
     {
       "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
@@ -102,11 +107,6 @@
       "published": "Tue, 22 Sep 2026 11:12:42 GMT"
     },
     {
-      "title": "Inside India newsletter: India\u2019s economic growth is smashing forecasts, but its biggest stocks aren't feeling the love - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmMtMC1ZYXZVbWQ3OFdmVFpod1RlV2JxRzBEZ2hlZmM5NmV4NVZTVUtmbFJvZnRTc2lFVVNlNVIxcFd0SVktT0pvUGJnbjBodU1Xb3dJSlp4a1JNS3otSHIwTVpwWVZmNDl4Q3U2Yk1LNkZMS1dubDZqZ0c2MVcyc3V5RUFSY1ZR0gGOAUFVX3lxTE14amIzRGJYTjFlNWtTTjhkWElGLTVVQ3ZpWVFlX3lGSHotbEVDRkUwWmVjeGJCZ0pOTmxvRkZENEVKWGhnbVJEalcwSDlmQnE5SDV0b194REp1Q3lkMHJGdU5HZlVXdHhJS3R5Zm11ZGtVSDBCV1ZBdmxWb1NxRnJwWTFQMV9Hd3NTZ1NJN1E?oc=5",
-      "published": "Wed, 02 Sep 2026 07:00:00 GMT"
-    },
-    {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.36% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUVUb1Z3d1BFS0l2R3ZqM0RnLTVEbXRSS1ZmcHhFY3RmWnp6ODFyTTNzcDRiNkpOVGlhQkVLLUtNZjhJQkZWTHJyTkVCV1NxN1dtNW5rc1c3VF94NVQxS2ZzcEFPOG9UVk1ZZ1JDYXBiMHA2LXRiRlpxbXJTM2ZZT0d4bGJlbzNxaUpzamZUTUVrdEQ0V1JlRERGOWlFam5yTDZzbVJLN1Z1bGtGdzNKYg?oc=5",
       "published": "Tue, 22 Sep 2026 10:40:04 GMT"
@@ -117,5 +117,5 @@
       "published": "Tue, 22 Sep 2026 06:05:37 GMT"
     }
   ],
-  "last_updated": "2026-09-22 19:11 UTC"
+  "last_updated": "2026-09-22 22:08 UTC"
 }
