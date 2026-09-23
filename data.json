@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51863.69,
-    "change": -185.14,
-    "pct": -0.36
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Nasdaq": {
-    "price": 27244.28,
-    "change": 122.19,
-    "pct": 0.45
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "S&P 500": {
-    "price": 7764.64,
-    "change": -0.06,
-    "pct": -0.0
+    "price": NaN,
+    "change": NaN,
+    "pct": NaN
   },
   "Nikkei 225": {
     "price": 65018.95,
@@ -41,48 +41,51 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 98.71,
-    "change": -1.63,
-    "pct": -1.62
+    "price": 98.0,
+    "change": -1.25,
+    "pct": -1.26
   },
   "Crude Oil (WTI)": {
-    "price": 89.78,
-    "change": -6.0,
-    "pct": -6.26
+    "price": 88.8,
+    "change": -5.79,
+    "pct": -6.12
   },
   "Gold": {
-    "price": 4401.6,
-    "change": 17.7,
-    "pct": 0.4
+    "price": 4381.8,
+    "change": 5.4,
+    "pct": 0.12
   },
   "Silver": {
-    "price": 67.97,
-    "change": 2.15,
-    "pct": 3.26
+    "price": 67.14,
+    "change": 1.2,
+    "pct": 1.82
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 95.63,
+    "change": -0.08,
+    "pct": -0.09
   },
   "Dollar Index": {
-    "price": 100.57,
-    "change": 0.14,
-    "pct": 0.14
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.97,
-    "change": 0.01,
-    "pct": 0.1
+    "error": "single positional indexer is out-of-bounds"
   },
   "news": [
+    {
+      "title": "Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, Kospi, Taiwan signal - tradingview.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMTZzR3ZqMHZzSU02MWRJbTctTFBwclhXM0YzNXUwZ1BQOG5TWm5KMUVYY3Rydkprd3N0OTlyRjRTZkNuRGV6ZTFMYnNaOG8welJmQzRDWWZuRmRicHI4eUdFai1yWFF1bVR1ZFlNT0VHTVVQa21uc2pxZzFmdTBHVi1TWWhuVG1JdldpNlBEaWlRUUtkbVNBaUVwZVQ4Zmd5YjF0aHRsVGVGUjN6SE1LTHViNHh4WlJXTVozWXJGMXUxcGdZYU9TMjZpREVfMnM3WGFESEc3MmdDSmhiQ2dUZmktTlFkR1A0dUlqa183OFhCZHowb1NNOWR1Z1QzeHMy?oc=5",
+      "published": "Wed, 23 Sep 2026 04:23:13 GMT"
+    },
+    {
+      "title": "India's trading tweaks target the wrong problem - Breakingviews",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzRKNGNTNlB6TkFmQUdsZWpTeXhCTFh0NjgxbjJ0b08ybkJpcURta013ZGJuN2N1bXUtWjZJY3VVNGpOQ2dQX2FOeDlhWDFIYkIyM1NBVHctcUMxaFEyVzZwdl81M1dkR1R1d2NPb0pMaHZJRDM0RzdiT2JMMTRjT044RDM5c2pfNUxiTjVKQ25EY3FmaXNnMmN0VkFCLUVxN256aHdGVVFMMjhv?oc=5",
+      "published": "Wed, 23 Sep 2026 01:28:33 GMT"
+    },
     {
       "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
       "published": "Mon, 21 Sep 2026 21:39:21 GMT"
-    },
-    {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUF9yc1dtakp4OG9GOWJ6elRVNVFvTGRRRHVBWUhMaXpXblE4dWtOckpWcHExRmYxTHZ3RTdveV92VW5LcXExa081eVlwT0kzSjh0eFlZVzJVQ0lkWllCaHRQc25fQkFnSmVfMkxhaDN1V3hDYjNTamwyWGVhR1ExUGxWd3JyZzZOQlBta1BjQ0lRR1NxYTU4dm9PaE5NSUd3RTNhdlRwQ2hkUnp3emUySUJ0a0ttOFdrdXlMTGVvaGE5dURoXzhZMy13WnR1eTRSZWJDazluOXRmSlRhM0FKVVlwVG95ZXJGUGt0c21hbEZnczBpUjRhLVhmTQ?oc=5",
-      "published": "Sun, 20 Sep 2026 07:52:08 GMT"
     },
     {
       "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
@@ -90,30 +93,25 @@
       "published": "Tue, 22 Sep 2026 10:58:01 GMT"
     },
     {
-      "title": "Investors rush into India\u2019s National Stock Exchange IPO at valuation multiple above Nasdaq - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1cXBPOTl4Y1ZEMHdBaG1oVExYd0JkUVBXOFVucUgtYW5WdnBJYThQZFVyVkQzVTdCem56N25zRWJGeWpFMUUzME54RmxmZXBGd0FJdnlzc3ZKSEZWYkNScVJCQVR6bVhEbGl2T2tHcGYxbFXSAXhBVV95cUxOSUtpdndBQi1IZ3g3ZEZseGdkQkp5RFB6dW8yRkhrS1lVOUxWVE5MaVU2ZjZlTDIzQW1IVmI3VGc3UDlvZDg2dHRRWlFnMXZpc0lWWlB1elF3OHJvN2JmWHA0RkRVc01WY19QTEpCVlpsUGhmbTJ3dzk?oc=5",
-      "published": "Tue, 22 Sep 2026 04:00:28 GMT"
+      "title": "Augmont Enterprises Q1 FY27 Results | Pace Digitek Arm Secures BESS Supply Order | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPeTJiSXBleGFFTmNleUU1SU5hY19Qak1GU29XMEVrQWdtUy04NmRvSDZSRGV4NU9CTDVJaWtGQWtvbXgwNER4dFFzQlVvdVlmanNZSDJHS1NYMHZyOWFseG9pUy1nUkY3VzZDS1JWSnZpekVVWUpOZzB4UV9IVFZJUTlOQ1RIZGQ5QU9wenBqZzZYcWFZYjZtUDRkNnA4QnNLRG5BRUszSmVCRHNONWc4SXRMU1FERFBVX2hDRDJsWWM3M0JoMmRkTHF3cF9fMGxoZmxmVzYzMXpsRnpfbXljaE5qQ0xpWUN4QVBSOGtJeHNlMmNORy0wVjR1Tnc4VU41SDZEczZfT3Jib0hDcFUyU2YxLUpTcDcxTWxWWk41Mmh5WHhJSW0xekRtWDdYa0VCMzNjV2dtRHhNVnNJTnUtZl95YjVOOEhnc0l2TmtZRG5QVE04aW40NkNucjNuQQ?oc=5",
+      "published": "Wed, 23 Sep 2026 00:30:00 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
+      "title": "Indian Stocks Open Higher As Crude Oil Prices Retreat - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUx1enlYWXNqbG1RNENHc3ZGLWotLWt5NlBwZkNvMUdiYkdhWTB0ZkVGb1JVbmdOck5YRGY4Zm5wWUExRUtfX1RQR0JwbmwzcklPX3k0QlVZTFY1bnpyYnhESFNUeDRqdGI2dzZhT2RPWFo5RXBHNkMzZWZxeTVBOEFfUDh4aFBtb054SjYwcTZ4SmhDUzZYRGRRVUNBNGQ3R3BMV0xrWDZTRGF3RVE?oc=5",
+      "published": "Wed, 23 Sep 2026 03:56:32 GMT"
+    },
+    {
+      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
       "published": "Tue, 22 Sep 2026 15:12:29 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook - What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0ZiRUpZZXE0ZjA4dUhlTW80bW83Y3BMYXN1X0lNYlZCcjRveEp3LXlXT1JmamdZYzgzbmt0U1RwXzgteE9WQUFMcUx4TlRoRzdYdjI3OUpLekR1aHVROFV2OC1UY1NMU3RLSDdDVWpLcFJLMzg4RFZxTVRiaHROQ1JkR2Z2X3p2d05PTGpLRFk5S2NXa3pGWXhSNUFjMDFUREJiSGIyUEd2anNQTFdqaXdhRklKVDdaYzNTWi1KNHltRXFWQ0FzQVM2T2lwUVFpR183Qk1oekV1VHZoYVNaQlQ5Mkw0MnlUVG5rOUhsaEpXMjhDaWVfcG8xc2hfMnJINDg5bXpoNVBWV1Rv0gGSAkFVX3lxTE9SWjBQeFFKLUplLVYyNnRKWmxnLWZhZUpuOHFCQXFvZGpiaEFHVVZKaUtZME94clRFbFZIejZnUkduSGwxczFBU1ZuVUxWLTl6NHBOeF8yMkpmUGhWQ2h2STEwSkJNZm9PWGRIdDd2YkgwZFl2ZWZQckE5Z3FnM2xlSjZHem9lQnVhTEd1Q1RKTVAxeHE5bnJfOWp1N3V2eFJXTXh0ZjNRa0VrY284M1RnOVVuaUdfRUhDZllIY3RfZFVSVDlIZGIxMS0yUmRiU09jRDR5YnJDV1hxOGhkVC00X05tWXVidlNpS0tHVlR1N2JBdmxaY1dpUjd1Q2tWVEFLVTVCcmtqVmtyUldybDBpZHc?oc=5",
-      "published": "Sun, 20 Sep 2026 04:41:26 GMT"
-    },
-    {
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 22, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBaX3ZGVEVKTmNLSXhjb0dBWVI5SXlYOFhUVVozdGdqaGU1RHlOTnlmMDhvc1UybTMzUDhrRWNCY3FnODN2emdDYm1QdFZRYlJFMktIQzNKZmJzUmNadGdqYnc5cEtNLTFMQ0VYZHByZG5nQUo5VE1Gbi1tSHM5dTZWcVVrX0ZKbzNhN1BDUmFXS3ZUOHRHNXlBV2VyN2ZMMXQ2ZjVVdXNhQVJOYndqYVl5RWRIZw?oc=5",
-      "published": "Tue, 22 Sep 2026 11:12:22 GMT"
-    },
-    {
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.36% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUVUb1Z3d1BFS0l2R3ZqM0RnLTVEbXRSS1ZmcHhFY3RmWnp6ODFyTTNzcDRiNkpOVGlhQkVLLUtNZjhJQkZWTHJyTkVCV1NxN1dtNW5rc1c3VF94NVQxS2ZzcEFPOG9UVk1ZZ1JDYXBiMHA2LXRiRlpxbXJTM2ZZT0d4bGJlbzNxaUpzamZUTUVrdEQ0V1JlRERGOWlFam5yTDZzbVJLN1Z1bGtGdzNKYg?oc=5",
-      "published": "Tue, 22 Sep 2026 10:40:04 GMT"
+      "title": "Investors rush into India\u2019s National Stock Exchange IPO at valuation multiple above Nasdaq - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1cXBPOTl4Y1ZEMHdBaG1oVExYd0JkUVBXOFVucUgtYW5WdnBJYThQZFVyVkQzVTdCem56N25zRWJGeWpFMUUzME54RmxmZXBGd0FJdnlzc3ZKSEZWYkNScVJCQVR6bVhEbGl2T2tHcGYxbFXSAXhBVV95cUxOSUtpdndBQi1IZ3g3ZEZseGdkQkp5RFB6dW8yRkhrS1lVOUxWVE5MaVU2ZjZlTDIzQW1IVmI3VGc3UDlvZDg2dHRRWlFnMXZpc0lWWlB1elF3OHJvN2JmWHA0RkRVc01WY19QTEpCVlpsUGhmbTJ3dzk?oc=5",
+      "published": "Tue, 22 Sep 2026 04:00:28 GMT"
     }
   ],
-  "last_updated": "2026-09-23 00:29 UTC"
+  "last_updated": "2026-09-23 05:02 UTC"
 }
