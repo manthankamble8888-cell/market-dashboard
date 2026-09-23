@@ -18,19 +18,13 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nasdaq": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "error": "single positional indexer is out-of-bounds"
   },
   "S&P 500": {
-    "price": NaN,
-    "change": NaN,
-    "pct": NaN
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
     "price": 65018.95,
@@ -41,29 +35,29 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 95.98,
-    "change": -3.27,
-    "pct": -3.29
+    "price": 97.42,
+    "change": -1.83,
+    "pct": -1.84
   },
   "Crude Oil (WTI)": {
-    "price": 90.3,
-    "change": -4.29,
-    "pct": -4.54
+    "price": 91.88,
+    "change": -2.71,
+    "pct": -2.86
   },
   "Gold": {
-    "price": 4349.6,
-    "change": -26.8,
-    "pct": -0.61
+    "price": 4322.0,
+    "change": -54.4,
+    "pct": -1.24
   },
   "Silver": {
-    "price": 65.75,
-    "change": -0.18,
-    "pct": -0.27
+    "price": 65.21,
+    "change": -0.72,
+    "pct": -1.1
   },
   "USD/INR": {
-    "price": 95.75,
-    "change": 0.03,
-    "pct": 0.03
+    "price": 95.73,
+    "change": 0.02,
+    "pct": 0.02
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -73,45 +67,45 @@
   },
   "news": [
     {
-      "title": "Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, Kospi, Taiwan signal - TradingView",
+      "title": "India's trading tweaks target the wrong problem - Breakingviews",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzRKNGNTNlB6TkFmQUdsZWpTeXhCTFh0NjgxbjJ0b08ybkJpcURta013ZGJuN2N1bXUtWjZJY3VVNGpOQ2dQX2FOeDlhWDFIYkIyM1NBVHctcUMxaFEyVzZwdl81M1dkR1R1d2NPb0pMaHZJRDM0RzdiT2JMMTRjT044RDM5c2pfNUxiTjVKQ25EY3FmaXNnMmN0VkFCLUVxN256aHdGVVFMMjhv?oc=5",
+      "published": "Wed, 23 Sep 2026 10:34:33 GMT"
+    },
+    {
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.50% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU21TeE96bnZqUlo5NTVPdk9LQzY5ZnJjcE0zV3RtRXVCY0swZy1WdVkzQnA5dm5MWHZNN3FLcERVT1dwRzAtQlJwbU9scDlkdnF6bVYxQXFiMzRpV19Cd2I4dU1fYnd2ekNMSkRqVjBHTWdKLUQzRHhwT1Y2YnpvSFNLM2hJX19KcXo4a1VIbnJFSGctcndibmMzVWlyN2dvMnA5ZmVCV3JseVl6X1dz?oc=5",
+      "published": "Wed, 23 Sep 2026 10:34:04 GMT"
+    },
+    {
+      "title": "Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, Kospi, Taiwan signal - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMTZzR3ZqMHZzSU02MWRJbTctTFBwclhXM0YzNXUwZ1BQOG5TWm5KMUVYY3Rydkprd3N0OTlyRjRTZkNuRGV6ZTFMYnNaOG8welJmQzRDWWZuRmRicHI4eUdFai1yWFF1bVR1ZFlNT0VHTVVQa21uc2pxZzFmdTBHVi1TWWhuVG1JdldpNlBEaWlRUUtkbVNBaUVwZVQ4Zmd5YjF0aHRsVGVGUjN6SE1LTHViNHh4WlJXTVozWXJGMXUxcGdZYU9TMjZpREVfMnM3WGFESEc3MmdDSmhiQ2dUZmktTlFkR1A0dUlqa183OFhCZHowb1NNOWR1Z1QzeHMy?oc=5",
       "published": "Wed, 23 Sep 2026 04:23:13 GMT"
     },
     {
-      "title": "Indian stock markets remain closed on account of Good Friday | Akashvani News - News On AIR",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHFzTXo5azNDUkNSNG1zbTJiQTFFMnZjUk5tbi05a0ROUzB0NnNMVEpIXzkyTVFPT1B5NWFTMHh6VDRYaTJxcmdTcS1LUlhaSWJWQkxCaDlnWV9abU5ibEZaS2ZBSnZhRktUOTc2aXhXTTJxVURaRElHWDhScUFkZjdDSlQzMWxsdExLaDlXbw?oc=5",
-      "published": "Mon, 21 Sep 2026 21:39:21 GMT"
+      "title": "Sensex Today Ends 299 Points Higher | Nifty Above 23,400 | Ola Electric Mobility Up 11% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPYWJsY29xYUF6S2dLb2VybGFHVG4xLV9ObnBsZzBtWGpjMkpwZFNHZDlBUk1JTExmUmtDQlYzVEdjTXZoOEVPLWRRZ255MkZaQTBVZHQ2dFNlaXNWbThfeW9NQkxfRVVVZk5xd21yMk56VVIxRElVTTFzQXBfYzZNamswM2tRanBQcFJORnRwOUg1aW5Jbm9LRkJxYWN3Vm03Wm1jeF85eXRSUGRVSHhjM3JXekxXSFc5YnpHSndrVldXOExGcVp5dUFndE9aRGtCMlljcGE3cXlrN2dTa2VvakNyWjVQakhzN1JrWkVlNS1wOHJzV1ljY1RmTUVRZnpHLWxrM0dGbzhQTi1XeV9OcENjTFNGb3pON3dQMHItUTlHQlYzTTVjUjhGWjRCbXAza2ExaUNZQ0pYVnY4YVBITw?oc=5",
+      "published": "Wed, 23 Sep 2026 10:37:16 GMT"
     },
     {
-      "title": "India's trading tweaks target the wrong problem - Breakingviews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzRKNGNTNlB6TkFmQUdsZWpTeXhCTFh0NjgxbjJ0b08ybkJpcURta013ZGJuN2N1bXUtWjZJY3VVNGpOQ2dQX2FOeDlhWDFIYkIyM1NBVHctcUMxaFEyVzZwdl81M1dkR1R1d2NPb0pMaHZJRDM0RzdiT2JMMTRjT044RDM5c2pfNUxiTjVKQ25EY3FmaXNnMmN0VkFCLUVxN256aHdGVVFMMjhv?oc=5",
-      "published": "Wed, 23 Sep 2026 01:28:33 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 23, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2diMURYRXluMjVGNUQxRTBSMTRvZ0I2VjJtbjdESTNIdVpEVGZtTzE1Skw5a0Fyd21mc0Zvdll2cWZsZlRaSFJFNWYwdVpFanBmNm52eEF2dkZhSE9sb0QxOW5hS3Jwemp1aktEcVgyMVJmN01pb0FFY191NFZBRjI3MGNzTFFNa3ptM2VyT2tmMmJkMmt0cXFTM3NkSFItR08zN3lZczVnU3pnV2ZrVEI1U0U?oc=5",
+      "published": "Wed, 23 Sep 2026 11:05:46 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,350 | Kotak Mahindra & Bajaj Finance Top Gainers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPZzJFVHk5czZvWkx3Y3NHakVvc0JkOEk3aERUZWx2NlU0ZWdvMk5sOUc0Q2xBWG9LRWRtZEhlR09abmhVRi1tcW41QnQtS2Q0TE1mRXlNdXN5b3VMUDNMSjVDQm8zRC0ta3gyT2NUdERaZ1EyRkNLbEU2ckFPZkdaTkNnbHBQNU1zVkR2bVc0R25GbU1KejlQRE1RSUlFTnN1cXMzVk5KMlJDckFJNjh1WjM2dC1CTk5jclNBUUp6UXZILTEtS1NHS2lWdWN5RFR2cE9TSVJTWDRvYlg2Wk4tV0EtSlJBWGhrNW1Qa1RPdjJvZGFOcHpWYUt0QlpMcDhJeE9kNUZ5RHpWTjBOMkpvSWR3XzhEa0d6WlBZSURxYkVZVkZHbVE3OHZNdjNFUXVRdmtWMGljR295SkVtV184SWNEMEpBX1BKeFJ1bnBlTE1aaHY5R1V3TmtEd2lWbXZp?oc=5",
-      "published": "Wed, 23 Sep 2026 05:03:38 GMT"
+      "title": "Indian billionaire\u2019s payments firm plots biggest London flotation in years - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFFnSnBGMjhCTmc2MngyczdnWDZoUkNLWEFDbi1xRUx2aW9iNVVqQjRETjNGWUx2bUxTY3lYaGUyelZHWERzNF9McVdETzllWkFCVHNKcm5GbjRzU3pwVFBxWmpxSWRtdUNGb2tXV0J2RDgwcE9sOGpONEdLVHJaX2lXTTlZX0lZN1hRVGZFR1pha1ZsMng0c1hwX1J1cEJWVkFLWGFVZExlZG9yWnJURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 11:24:00 GMT"
     },
     {
-      "title": "NSE set for $46 billion market debut after a decade of regulatory delays - PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOUVJMWhWRWx4YWRLT3pBcUZTTXduYkJFMG8xaUNxcExZenlXVUZkZFlZcjI4Z29XdDRzTE9Bc2thTWYzSXFBV0JJT2Y1c3hwODRTM2FsYWdjMjJQTW9nWmN4NF9laFAtTUtDY0FoVVc0RlduSFJkaHZDZkI2TU1rcklWZmNydDd2X2ZLLXJFdm9lWlNBYjEtOXFiZDZ6TFlaS0E?oc=5",
-      "published": "Wed, 23 Sep 2026 05:22:32 GMT"
+      "title": "Sensex, Nifty Rebound on Easing Crude, Hopes of West Asia De-escalation - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU002WGVTMW5kdEhYNFk5QTZfMG8xckQ0VlRSaUhsTFd1LTNPYkhzVUhOek5IU0MwcGJVdFJ3X3BtNjBWR0tyUDdvdk5QcXpBVjVZS3A4OWl6YjF1cHVMbENOQTU4Z3ZfeHZ1LWY3RUJsWWVxXzlDQjRiRHlQRlc5VWtOa1F2Xy1ldkNhOEJCS2gySWQ3RDZSZmQ4U2JNeWpJckhGYTZBb1FETjNiYzVGZVZtbVBWT001RnVsRFJLZlNtdTl1R1lvWVNiTUpYUTlUekthQ1JzSUI3cXQ1NXJNQUZhOGnSAecBQVVfeXFMUHQ2TFZlWkxrXzY3STFLNTNNTjVaM1hJMUpNOTlmcjFNSlVCMnN2RzBvd2ZUbjREaTlwczhhZHRXQzFhNEZPd1lYV2xaYXltSWFqUEw3cHBDUktkd1VrMi1hTGFzX1BEWUI0OExrTHpuNGNmbEw2TU1UU2YzaGpENDJybFBsREJnelRVSy0zZHJ0UjhMR3JfRWtjQjdOMXRkenFUdEJEeFBScnRVT2RqcGlicFZ6UjhIWUdBaVh0WnpMa2hEdDBydTZmaVVJN2dubVZ3WFcybmowa3VzalB3TnNQeERZMktn?oc=5",
+      "published": "Wed, 23 Sep 2026 11:40:10 GMT"
     },
     {
-      "title": "India's large caps stuck in 'bygone economic era', says Bernstein, as foreign investors head for the exit - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd1VMNTctZGktdzdJM05pSld5ZW1MS0Z2alhRV0c0NDBXZ3lMamdzdGlCZ2s0R04xSmNYbXhhODFXQkE2enZfMGxkU3FYZ21VSzhvZWxrbFU2UWJrSTNOTTlZTnUxd01JRnBxc2FCNzk5RG1rZ01PMjlVcnpWMEV3NlVCdGY2VFFFOEg4UdIBkgFBVV95cUxQMUhndXk1SDMwMkktejBaYVJ1bWNqb2wxM3dZSXpaWFpjT3JERVlXWm9qRHJYUmxPM1J6TmgtZEdCN1lOSUlBc01lbkpyVkVxbTZzZ1ltdVhDOGtENW1GVnVUZFNLaUpOdjdpQW5HRG5KQU5xalhwUV9Hb1lTUUJYYmdNVUtaX2w5el9ORmNwRU9MUQ?oc=5",
-      "published": "Tue, 22 Sep 2026 07:26:49 GMT"
-    },
-    {
-      "title": "Indian Stocks Open Higher As Crude Oil Prices Retreat - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUx1enlYWXNqbG1RNENHc3ZGLWotLWt5NlBwZkNvMUdiYkdhWTB0ZkVGb1JVbmdOck5YRGY4Zm5wWUExRUtfX1RQR0JwbmwzcklPX3k0QlVZTFY1bnpyYnhESFNUeDRqdGI2dzZhT2RPWFo5RXBHNkMzZWZxeTVBOEFfUDh4aFBtb054SjYwcTZ4SmhDUzZYRGRRVUNBNGQ3R3BMV0xrWDZTRGF3RVE?oc=5",
-      "published": "Wed, 23 Sep 2026 03:56:32 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
-      "published": "Tue, 22 Sep 2026 15:12:29 GMT"
+      "title": "Indian shares advance on oil retreat; financials lead - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZWUkdWUm0zQnhJSHI0Y3V0eTV6dGd4emdYeHRGTzgtTWx1NUVMcjNfc3VGekFYN1JNTWpjUmNmS1IzZ1pUMC1FTDFwQlM0djJ1YlBYN1RZa25MM0lVTFRqVjhwTXJsVllQTzdFMVZWZ2x5T2Etc0xGZjRHblppWEJ0dXRsNUhSNFBIVlpHUVIyd2dFUEE0MGM1aGFNMTN5UXRxUVh5TDhiVkwyM3lvUg?oc=5",
+      "published": "Wed, 23 Sep 2026 02:24:00 GMT"
     }
   ],
-  "last_updated": "2026-09-23 09:57 UTC"
+  "last_updated": "2026-09-23 14:42 UTC"
 }
