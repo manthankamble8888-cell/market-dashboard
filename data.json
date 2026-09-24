@@ -27,37 +27,35 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Nikkei 225": {
-    "price": 65018.95,
-    "change": 882.7,
-    "pct": 1.38
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 98.36,
-    "change": -0.89,
-    "pct": -0.9
+    "price": 97.95,
+    "change": -1.3,
+    "pct": -1.31
   },
   "Crude Oil (WTI)": {
-    "price": 92.71,
-    "change": -1.88,
-    "pct": -1.99
+    "price": 92.15,
+    "change": -2.44,
+    "pct": -2.58
   },
   "Gold": {
-    "price": 4322.7,
-    "change": -53.7,
-    "pct": -1.23
+    "price": 4324.4,
+    "change": -52.0,
+    "pct": -1.19
   },
   "Silver": {
-    "price": 64.93,
-    "change": -1.0,
-    "pct": -1.52
+    "price": 64.74,
+    "change": -1.19,
+    "pct": -1.81
   },
   "USD/INR": {
     "price": 95.73,
-    "change": 0.02,
-    "pct": 0.02
+    "change": 0.04,
+    "pct": 0.04
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -82,11 +80,6 @@
       "published": "Wed, 23 Sep 2026 10:34:04 GMT"
     },
     {
-      "title": "Indian billionaire\u2019s payments firm plots biggest London flotation in years - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFFnSnBGMjhCTmc2MngyczdnWDZoUkNLWEFDbi1xRUx2aW9iNVVqQjRETjNGWUx2bUxTY3lYaGUyelZHWERzNF9McVdETzllWkFCVHNKcm5GbjRzU3pwVFBxWmpxSWRtdUNGb2tXV0J2RDgwcE9sOGpONEdLVHJaX2lXTTlZX0lZN1hRVGZFR1pha1ZsMng0c1hwX1J1cEJWVkFLWGFVZExlZG9yWnJURQ?oc=5",
-      "published": "Wed, 23 Sep 2026 16:31:00 GMT"
-    },
-    {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 23, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2diMURYRXluMjVGNUQxRTBSMTRvZ0I2VjJtbjdESTNIdVpEVGZtTzE1Skw5a0Fyd21mc0Zvdll2cWZsZlRaSFJFNWYwdVpFanBmNm52eEF2dkZhSE9sb0QxOW5hS3Jwemp1aktEcVgyMVJmN01pb0FFY191NFZBRjI3MGNzTFFNa3ptM2VyT2tmMmJkMmt0cXFTM3NkSFItR08zN3lZczVnU3pnV2ZrVEI1U0U?oc=5",
       "published": "Wed, 23 Sep 2026 11:05:15 GMT"
@@ -102,10 +95,15 @@
       "published": "Wed, 23 Sep 2026 10:37:16 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
+      "title": "Indian billionaire\u2019s payments firm plots biggest London flotation in years - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWFFnSnBGMjhCTmc2MngyczdnWDZoUkNLWEFDbi1xRUx2aW9iNVVqQjRETjNGWUx2bUxTY3lYaGUyelZHWERzNF9McVdETzllWkFCVHNKcm5GbjRzU3pwVFBxWmpxSWRtdUNGb2tXV0J2RDgwcE9sOGpONEdLVHJaX2lXTTlZX0lZN1hRVGZFR1pha1ZsMng0c1hwX1J1cEJWVkFLWGFVZExlZG9yWnJURQ?oc=5",
+      "published": "Wed, 23 Sep 2026 16:31:00 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRnNBLVdGS2tRcXJlVEUwRjcxLURnbGY2cXEwYlNTWWZSQXRNaS12R1NRS25kNTZGdVRXLVNCYnhnRlR6bExWTnZlaE9DMVp2LV91STNEZUtDQnJhS2VwZEV2VGtUTDhNVkdIc3R0LW1jWWtjem5zLVEzZGNUR0hsNFpJak9VQWRDOUwzUW5RSVZmSmxucC1IeW04dWdJY3BsZENZeE9ha3pRc0RmbXhCMFJuS1NEVUh2UjJoS2JSY3ZkSklDRl8xVDJ4aHh2S0JCVzgyZndlNnJhYUJtR2kyTVN30gHnAUFVX3lxTFA2Z0ZKR0E4WHVjWXhqaDZpS1RzYlNYZEFyYk9aX09GYTlJTmd4RkFNN1J0TXBLWGloWUNUVDZpUDY4VzhYLWY5NmRwUkU5WWh5ZGs0OHhoWnpnMEZOb1hJYU9GLV9mX1RPNE0yUFUtZ2QtX1VFSGpMZjZJTU1qLWljb2tpTUpHUktzSy00Rm5yTDdlUDgybVlHRW0weEJDOTJORmVZTFVOUURzamNKZ2lzSXRPZU9RYlZfaVlRTGczNWtxQWtmTmMxMDNKMzhrZ0lILUh1aUlVREtJaXZPb2kydU1vQk5faw?oc=5",
       "published": "Wed, 23 Sep 2026 16:01:34 GMT"
     }
   ],
-  "last_updated": "2026-09-23 21:47 UTC"
+  "last_updated": "2026-09-24 00:10 UTC"
 }
