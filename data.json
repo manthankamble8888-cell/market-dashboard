@@ -1,107 +1,83 @@
 {
   "Nifty 50": {
-    "price": 23063.1,
-    "change": -383.7,
-    "pct": -1.64
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 55438.5,
-    "change": -1110.4,
-    "pct": -1.96
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 73580.54,
-    "change": -1247.71,
-    "pct": -1.67
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 12.69,
-    "change": 2.34,
-    "pct": 22.58
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 28208.85,
-    "change": -125.2,
-    "pct": -0.44
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51325.06,
-    "change": -186.53,
-    "pct": -0.36
+    "price": 51378.31,
+    "change": -133.28,
+    "pct": -0.26
   },
   "Nasdaq": {
-    "price": 26805.07,
-    "change": -130.97,
-    "pct": -0.49
+    "price": 26917.99,
+    "change": -18.04,
+    "pct": -0.07
   },
   "S&P 500": {
-    "price": 7688.18,
-    "change": -17.85,
-    "pct": -0.23
+    "price": 7704.02,
+    "change": -2.01,
+    "pct": -0.03
   },
   "Nikkei 225": {
-    "price": 65513.99,
-    "change": 495.04,
-    "pct": 0.76
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24761.13,
-    "change": -72.99,
-    "pct": -0.29
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 100.17,
-    "change": -2.91,
-    "pct": -2.82
+    "price": 106.59,
+    "change": 3.51,
+    "pct": 3.41
   },
   "Crude Oil (WTI)": {
-    "price": 94.39,
-    "change": 2.23,
-    "pct": 2.42
+    "price": 94.67,
+    "change": 2.51,
+    "pct": 2.72
   },
   "Gold": {
-    "price": 4301.3,
-    "change": -17.1,
-    "pct": -0.4
+    "price": 4303.4,
+    "change": -15.0,
+    "pct": -0.35
   },
   "Silver": {
-    "price": 63.86,
-    "change": -0.52,
-    "pct": -0.81
+    "price": 64.09,
+    "change": -0.29,
+    "pct": -0.45
   },
   "USD/INR": {
-    "price": 95.94,
-    "change": 0.26,
-    "pct": 0.27
+    "price": 95.97,
+    "change": 0.28,
+    "pct": 0.29
   },
   "Dollar Index": {
-    "price": 101.25,
-    "change": 0.15,
-    "pct": 0.15
+    "price": 101.31,
+    "change": 0.21,
+    "pct": 0.21
   },
   "US 10Y Yield": {
-    "price": 5.1,
-    "change": -0.02,
-    "pct": -0.31
+    "price": 5.16,
+    "change": 0.04,
+    "pct": 0.82
   },
   "news": [
     {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
+      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - ndtv.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
       "published": "Thu, 24 Sep 2026 09:02:35 GMT"
-    },
-    {
-      "title": "Stock market crash today: Sensex ends over 1,200 points, Nifty goes below 23,100 - top reasons for fall - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNT1lNOEhqOHFBM0dUS21nbjEzUDVTOVY0YnkweVp1T1pQdy0zTG9LUmppQkhYTGtIZXBSTEtiVHdDNjZxWm5FM1VXYUl5Mk9WcklBS1p0NWlKY1FUWDNqUnlYcDRrTzI2dms1NVNjenlmQkJZdlIyQllHaEF5VVU5OWE1OFgzeE5jaVdSR0ZfNklZOGpsMGRyc3NXcEdsdFVGRl80QXRsZUhkSDVWbXN0TlRKNjJXSkRSc05IQnczMlpyYXJwYnV3NERXY3BQRjdJN0h6REx4LVo3S1dLQjNRQlpNOU9zX0RLaUlxNXUzRzFmTEdGakNJTHotX2cwX0hyb3lMVEZmR0PSAY4CQVVfeXFMTWdFZHhRbFpBMnQtazZaZUpQVk9Ramd2ajI4M296WDFaazhGZG1OV1RmeGRqcDJkeTNsWC1TYXNTbWtJa1RGRktmREpwbkpqNFYzUlFIYkR3ODg3RllZQTNWZ2h1ZzBLUlU0WXpYV2ZlQnN5WE9pN2JCV2sxbEZMdjcwQXcxRGE2c0lLSWdLVHJVYTRuX2gyYnV6MFlPZDhMUmpzVHpUUWk4WmJYNWtsMnRZSTdmNzBzdnhGRzNRUnN4aTdrakZ5QlJ0aHJsaGRGQlk5NFllakp1bHByRFpMbU05S2tqWFExY3lQYkVlUjlyX3hTUXpmRFQtVmdocWFJMG1aQ29LTHNvb200Rlh3?oc=5",
-      "published": "Thu, 24 Sep 2026 08:52:00 GMT"
-    },
-    {
-      "title": "Indian Stocks Slide At Open As Nifty, Sensex Extend Market Weakness - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFpaMjRkMHFmQl80MDZYRWhpSFRCbGtlcGRYbEZHV3ZmaTI2LXJoTHdGcVgwWVg1dWZXTUFaX3dFbUl5ZDlRVjl6QmNvOXAxeXM1Vk83UnpseUQ2Y01IdnhCeF9RZEV4bkV6LTB5N0VnVURTVUQtQkF0QnoyZEQ4djZ3VXZXREcxNzdvdi1JMGVMdXlfb3MzYWdSOW1qbUtlQ205NHBzWmdqWmJ2bmxxZF9WUmp1cXFHVlNoSWtNMA?oc=5",
-      "published": "Thu, 24 Sep 2026 04:12:29 GMT"
     },
     {
       "title": "The battle between India\u2019s stock exchanges is heating up again - The Economist",
@@ -109,9 +85,9 @@
       "published": "Thu, 24 Sep 2026 09:42:29 GMT"
     },
     {
-      "title": "National Stock Exchange of India Rises in Trading Debut - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFdMZmlNS0hCR251Z1JmNEpNSXY3c0lvSXZfTENudWRYUnBRNFBMeGcweEJXZ0VERWRTa3otTUI2X2N1M0E1dk1qeklTVGhpeVNCS0pMZFY1MnRMSXZMQlpxbkxNZGRSbzJRbDNrOGhZeEp2YTRVRzFwUVlJYTZjZ0l2ZUFBaFlGRDUtOWgtY2RSb1d3TF9FODNCUllqLW84?oc=5",
-      "published": "Thu, 24 Sep 2026 07:55:00 GMT"
+      "title": "Indian Stocks Slide At Open As Nifty, Sensex Extend Market Weakness - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFpaMjRkMHFmQl80MDZYRWhpSFRCbGtlcGRYbEZHV3ZmaTI2LXJoTHdGcVgwWVg1dWZXTUFaX3dFbUl5ZDlRVjl6QmNvOXAxeXM1Vk83UnpseUQ2Y01IdnhCeF9RZEV4bkV6LTB5N0VnVURTVUQtQkF0QnoyZEQ4djZ3VXZXREcxNzdvdi1JMGVMdXlfb3MzYWdSOW1qbUtlQ205NHBzWmdqWmJ2bmxxZF9WUmp1cXFHVlNoSWtNMA?oc=5",
+      "published": "Thu, 24 Sep 2026 04:12:29 GMT"
     },
     {
       "title": "Sensex crashed over 1,200 points: Why stock market fell today? - India Today",
@@ -127,7 +103,17 @@
       "title": "Indian Stock Market Next Week, April 13-17: Sensex, Nifty May Consolidate; US-Iran Talks, Q4 Results in Focus - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeUJIcVlJRlZRVXRpZW1TalBBWWNWTm1UTFZxaVRDZ0s3MDNCdGNtTy1jemRJcXl2bExYTy1ocDFtQThKYk1WdDF0RXBhdGpHUVpHS0VnM0RzWEpGYmhkRkYzbFBMRnBnUDhqUEFmYjBaNlpHUy1idjBGcHgzVFZTQ1RuZ2ZIU1pLd2FnSjJ5MGZ2Yy02TG1JX2NhQW16R2RYbl9tdHpRR25UMHFWUDNvV21iOXp0UUxSeEh0Um56V3N6Y0xLb09nTzdobnd5QTlpd1o1N0dqTzNNeGJn?oc=5",
       "published": "Thu, 24 Sep 2026 11:00:46 GMT"
+    },
+    {
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for Thursday, 24 Sept - GIFT Nifty, Nikkei, Taiwan signals - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTDl3ZlJyNW5xZXBBLUtBLXRfSU5kbEdSOXFWM3V2RU51eVdlanIzclZnczhweGRBR1lmWkVUNWI0SlBsbW5tWmd4SzBzNXA0Ty15d21DNVJkQ0piMXpzMDYxYkNndEtmV19UQnV6NVBKZlgzU1ltZEpEakJ5dVl3WU8xQS1DRVQxN0pxV1NuU19RaGZhTWNqSHFhRHFGUVROWDhEMkxhODZ2bmZFX1piMDl0ZzVJSVRhUU5KUC1pV0NCclR5dGxXXzR1VUNvbHMweU1xaHRIQWNIRG5HN1o4NWNlRlBlRjhRVFc2SElTNklUNEtMSXBZVmQ1YkxBOFg2eWtOOFZiMUTSAY4CQVVfeXFMTUdPNHFyRDVseGxVX1p5RDdOWFBabmJQdm1ZNmVZOVB0RGZMeERCSnFfZUMxV3FrMXBJT1liYmFZekEzWGR4cUs4eDlKOUhiNURta2xDLTM0dUFkRTJrOHNaa0djNnlJWFpQcE43OGt0SkFJNEgxSm9hd0puemtzNVgyX3dHdUtGa1VIRHJBdFllRUFmYlYwQ3Y4elV1djY2ZUo5R204dmZyZ3RwaGdZSHZrbERxQWZfRlhCUEhrZjdaelZGLXZmY2lTWm84ek9wWHYzdGRKQVFOR3pYWU94RUVERlBYOXFEeDJaUVI1and2N1hCenc4anc0NVVaRG50TF9Pa1o2di0xc3k3SDdn?oc=5",
+      "published": "Thu, 24 Sep 2026 01:17:46 GMT"
+    },
+    {
+      "title": "National Stock Exchange of India Rises in Trading Debut - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFdMZmlNS0hCR251Z1JmNEpNSXY3c0lvSXZfTENudWRYUnBRNFBMeGcweEJXZ0VERWRTa3otTUI2X2N1M0E1dk1qeklTVGhpeVNCS0pMZFY1MnRMSXZMQlpxbkxNZGRSbzJRbDNrOGhZeEp2YTRVRzFwUVlJYTZjZ0l2ZUFBaFlGRDUtOWgtY2RSb1d3TF9FODNCUllqLW84?oc=5",
+      "published": "Thu, 24 Sep 2026 07:55:00 GMT"
     }
   ],
-  "last_updated": "2026-09-24 14:26 UTC"
+  "last_updated": "2026-09-24 18:32 UTC"
 }
