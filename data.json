@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51804.61,
-    "change": 454.63,
-    "pct": 0.89
+    "price": 51828.62,
+    "change": 478.64,
+    "pct": 0.93
   },
   "Nasdaq": {
-    "price": 27065.02,
-    "change": 125.65,
-    "pct": 0.47
+    "price": 27068.72,
+    "change": 129.35,
+    "pct": 0.48
   },
   "S&P 500": {
-    "price": 7740.37,
-    "change": 36.24,
-    "pct": 0.47
+    "price": 7743.41,
+    "change": 39.28,
+    "pct": 0.51
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,9 +39,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 97.57,
-    "change": -9.03,
-    "pct": -8.47
+    "price": 97.47,
+    "change": -9.13,
+    "pct": -8.56
   },
   "Crude Oil (WTI)": {
     "price": 92.44,
@@ -49,14 +49,14 @@
     "pct": -2.29
   },
   "Gold": {
-    "price": 4325.2,
-    "change": 27.2,
-    "pct": 0.63
+    "price": 4320.5,
+    "change": 22.5,
+    "pct": 0.52
   },
   "Silver": {
-    "price": 64.85,
-    "change": 1.39,
-    "pct": 2.19
+    "price": 64.71,
+    "change": 1.25,
+    "pct": 1.97
   },
   "USD/INR": {
     "price": 95.8,
@@ -64,9 +64,9 @@
     "pct": 0.06
   },
   "Dollar Index": {
-    "price": 100.99,
-    "change": -0.3,
-    "pct": -0.3
+    "price": 101.04,
+    "change": -0.25,
+    "pct": -0.25
   },
   "US 10Y Yield": {
     "price": 5.18,
@@ -85,11 +85,6 @@
       "published": "Thu, 24 Sep 2026 09:02:35 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
-      "published": "Fri, 25 Sep 2026 01:15:10 GMT"
-    },
-    {
       "title": "The battle between India\u2019s stock exchanges is heating up again - The Economist",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSllxZjNuQ0l0ZExkQlp2RmVURXBuMm5WRjUyUkZsOXNaeF90Zy1GWXMyZFAzYmlGMGFfTWlhSl9lT2JNMmVnclFGYlg3bjNZQTRUeERZRkFScXBYc0IxZnhEcUF4Q0tzcWhhQTZXaXR6NjA5Y1pTSWdDQXBPQS1HZWpMOWJHN0NzN0lLWkdiMlJWWjN3OC1Ha1VDQ1ViSE9QTmZmSHBYTVpFM1FiUEJtZ1B4Y01nd2dabTlwTw?oc=5",
       "published": "Thu, 24 Sep 2026 09:42:29 GMT"
@@ -100,20 +95,25 @@
       "published": "Thu, 24 Sep 2026 04:12:29 GMT"
     },
     {
+      "title": "Indian stock market slides, but 28 Nifty 500 stocks hit fresh 1-year highs this week; MCX, PVR Inox among them - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPam1INGhCV1ZYV0xJTUxPZDVHRHladGhpMDNjakVJcE55YmZTX1NlOVo2TkNiT3VHNGdmVloyN3NITkJJeHp6b3l0bWo0Z1NNSVBPQlhlSTF2Y3ZmVnBWWk5Zb3BEaHpYNHl5RWlMTFg3LU55M191bW5iNi1tUUdPbmJGTEVHa21jZXJKOUw4WFF1RjlwcVZtajRSZTJkMG5RbHJnZHpxTG5YRk9QTl9ZMEpqaFg2TlIzVl9pMlpDVW1nODJaRDVQOGpfZGpEcHNBU1Y1bzZfSGtiUXphWkc3NVRPeDF4bjdQdmN0SS16MzVwSjl0dGpmSmFjVGZ3UmpqS0JSdVVwT3jSAY4CQVVfeXFMTkNnZ1EwUkF3Wmo4Y1l2TjRLaUg2TVNnaW1Lc3BoMG8zVW1vYmxaN3RnOVE4UER5Umc1dFYyenE1N2VFNHFhSU9DeFotOUlqM0J6UE1PSmctaHBNczFtZlI0SXlNU3ZCaDlwWmhHQzFCb0ZqTDR5cVF2Tk10Q3FlWi1tRXRnbGRaZXdpNzVpelJyY2c3V1I5cTFia2hUQzNrc2YxcnNaU0hXWXowV2FFY2l2ZTdydk1JdEhVaW5jaGFrdUdRQnBzYzdLVWNCZTRyd2FQNjRKb081ZDlSRnhvY2J3VEstVDVYRGotc3Roc2NkSjNDRERzWnlIRVRaSW5za2JKVGp0cV92YlBhYldB?oc=5",
+      "published": "Fri, 25 Sep 2026 14:24:55 GMT"
+    },
+    {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 25, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhUYXNWRTlqWmlQcTBzV2Ryenl0ekYxa3A1clpiak8zNldSMFNJVm15Z3ZOT09IcXVjNTJGd3U2RDRrYkJNLUFqX3M2MUJ6Nll6YnJTODZfY2xBWEtNZU1NTEwzeHVGQ3hRM0pJdWE5bVl2dG5CN1FQd1BKVDB5YVc1Q0FWdWpycEdkenN4bzgwQTMyUURLZ3NTTkVZQ1dadU1iZFZ2LUdOa1E?oc=5",
       "published": "Fri, 25 Sep 2026 11:15:37 GMT"
     },
     {
-      "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade - Yahoo Finance",
+      "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade - finance.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1EtQy1xb2xLbGYzaHdvUGg1VFgtdDlONm1iU2JZbXFzVWFqaTJnOUlySEpEWWIxRGN5T3NIUlBNQ1VzSjZnX3dIdmZjY3BZcGVaT1VUZGpLSXl2QVdKb0NQdkpnVnpWd1YzYkxTaEV1R2gzZVY2YUZRamhqa1ctSTdoOXFyWloza2JaQ2lB?oc=5",
       "published": "Fri, 25 Sep 2026 15:00:00 GMT"
     },
     {
-      "title": "'Cheaper Does Not Mean Cheap': India Still Trades At Premium, Says Dheeraj Gaur - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc2tvOFRYWWcxTWtEdWZGRWcwcWk5a05heGxreVptTGxNbWp1cl9BSHM5X1VpdVpMWVc2V0ljNTJqZVJJWHN5aThWaDQzMURwM21DZzJ1WFRjZ0hOSUo5blRIa2VRdXR5Y0dxTDdYeGFULTdZTVFjRlpFSUtVWlFDUE1VTnZsYVRlSG9faG5kOGJCZnVQNE1FUmJZZG51ak1rUHlxc1RZQmxOa0FrUEg3YW5YOUJCRFdibnN4X0dQOU5uSTZQaV90RTNVbUloc1AtQ1JBS1J6V25ESmpUdE1IQWl4UVdqeXJleXItZzVjS0FGWnRmLWcyMmhYVjBuUdIBhgJBVV95cUxOOFhIajRJSVBELVJySHhlajRvNXp1YVNWelVqR3VuWlZSdm5DYzlnNElqcVVNS2o4aUdFTzA0djFGYnBqNUlKQ0M1alpjR0pSOC12Z212QS1jUGx5VFExaUl6eEhpUG1ZMVczSEdfVVpEbXQ4QjAtZXdjRGpuSjNpZWpQLVp4TEc3UXQxLTVSRjJDYjlqZ0ZLNm56UzB5dE9tU0N0b1EtM1dKcjNodFdmR0Z4eko4bXFidkdrZUdKZllyVnFET0hiNEhoSU5rRE9mbXlsZFBRaDVyX2U1TEVHemQtbk9LdzhiRHQ2UFp6MXNKRHhjNWpScVJ1eUozcGNLdEZEM1hn?oc=5",
-      "published": "Fri, 25 Sep 2026 12:00:01 GMT"
+      "title": "Sensex, Nifty Today: Indian Markets Recover After Heavy Thursday Losses - APAC Media",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVC1JSXRqcHpiOC1BcW9STzVMX1E1Y2FuZThSci15UVN4VVBkU0syaVFzU01NaXVDZ21QSS03M0h2N0JoZFFOV1lZVlZna1YtRzRHdi03OHRLS3B0OGdGbzRKX01uc3BVbzZwTXVmVkFoMXU5Nk04aGhYZw?oc=5",
+      "published": "Fri, 25 Sep 2026 10:31:57 GMT"
     }
   ],
-  "last_updated": "2026-09-25 19:14 UTC"
+  "last_updated": "2026-09-25 22:23 UTC"
 }
