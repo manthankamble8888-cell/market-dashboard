@@ -1,74 +1,62 @@
 {
   "Nifty 50": {
-    "price": 23140.5,
-    "change": 77.4,
-    "pct": 0.34
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 55580.4,
-    "change": 141.9,
-    "pct": 0.26
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 73895.74,
-    "change": 315.2,
-    "pct": 0.43
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 12.16,
-    "change": -0.53,
-    "pct": -4.18
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 28160.9,
-    "change": -47.95,
-    "pct": -0.17
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51535.36,
-    "change": 185.38,
-    "pct": 0.36
+    "price": 51804.61,
+    "change": 454.63,
+    "pct": 0.89
   },
   "Nasdaq": {
-    "price": 27014.64,
-    "change": 75.27,
-    "pct": 0.28
+    "price": 27065.02,
+    "change": 125.65,
+    "pct": 0.47
   },
   "S&P 500": {
-    "price": 7723.51,
-    "change": 19.38,
-    "pct": 0.25
+    "price": 7740.37,
+    "change": 36.24,
+    "pct": 0.47
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24510.09,
-    "change": -251.04,
-    "pct": -1.01
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 99.34,
-    "change": -7.26,
-    "pct": -6.81
+    "price": 97.57,
+    "change": -9.03,
+    "pct": -8.47
   },
   "Crude Oil (WTI)": {
-    "price": 93.9,
-    "change": -0.71,
-    "pct": -0.75
+    "price": 92.44,
+    "change": -2.17,
+    "pct": -2.29
   },
   "Gold": {
-    "price": 4310.4,
-    "change": 12.4,
-    "pct": 0.29
+    "price": 4325.2,
+    "change": 27.2,
+    "pct": 0.63
   },
   "Silver": {
-    "price": 64.54,
-    "change": 1.08,
-    "pct": 1.7
+    "price": 64.85,
+    "change": 1.39,
+    "pct": 2.19
   },
   "USD/INR": {
     "price": 95.8,
@@ -76,28 +64,28 @@
     "pct": 0.06
   },
   "Dollar Index": {
-    "price": 100.97,
-    "change": -0.32,
-    "pct": -0.32
+    "price": 100.99,
+    "change": -0.3,
+    "pct": -0.3
   },
   "US 10Y Yield": {
-    "price": 5.22,
-    "change": 0.06,
-    "pct": 1.18
+    "price": 5.18,
+    "change": 0.02,
+    "pct": 0.43
   },
   "news": [
     {
       "title": "Indian stock market will double in five years, says Motilal Oswal\u2019s Raamdeo Agrawal - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY19hU3JBcjhLblBxSUJ3d3FRNHYwcHRlWldubVV6QUtsZlI4TlZNbTVtdlNoV1pUNXE0U09xU3JTdWVNTFJrZmVqSWhTbDZpd09CeHBIZWxUT3ZMSDBmV0Z3Y1c0bW1JbDBaUTdSc2VVVTdUVnRoWURZY0pJaFI1M1A4TDQ?oc=5",
-      "published": "Fri, 25 Sep 2026 01:30:06 GMT"
+      "published": "Fri, 25 Sep 2026 01:30:19 GMT"
     },
     {
-      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - ndtv.com",
+      "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
       "published": "Thu, 24 Sep 2026 09:02:35 GMT"
     },
     {
-      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - Livemint",
+      "title": "Sensex, Nifty 50 prediction today: Stock market outlook for 25 Sept 2026 | GIFT Nifty, Nikkei, Taiwan cues to watch - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWTM0dmdrRUdfSk9FUWpVejZ1SXQ0U2NjX0VxVFlzbzllSWhmVWtZMGdLODg2RnJGNkVSUzRFdGxzQUVsaEtfVk9lZ2ZVNmdaNDV1ZjlON3hBdllybjlOSWhWRkhKUjBGMnVPazJxRFBmdFRoOUZBQkFQZnNYZHdlUlRRV0lDbzFiZHM3Z2ZTNlJ5enBpc1Z6SnpOMkRpdzNYcXFkZTR3dG5neVZyLWI0NmJVOUM4Z2xQNlFoZTR5ZXFkN19kQTRtbkRLcW92ZHBGZGtnc09Md05XT014NXJDdzVOcHNJYWFOS3ZGM2JoSURuSDNPSGdvZDh5NGVaeDhta1hlZ05ZSmtseXPSAZACQVVfeXFMTTFlTERSSENCSkhwSzdDNExXMmdvNnVpUWRZWVZNWHFXdWdLNDdTb1JiNmVIbU5OM2ZhZE1Cc0RVMExmLUJvdVUyQ0RTLW8wM0xwRDI2YnRSMjJKVVl3di1ycnM0UjNQYmZMTWRuMU0yd1hxMDdaVWQwa3R3RF9scDJ2VU1GTWZ3cWYtU29uOGl4TjVBdDlpYlA1d1FDcUhqWjU4SEU4Nnk4VV82RlFxbVNZa2tsUVVMQ2NUZUNCZUl5V2RteEc2Qno4R0o0Z1FRTXh1eC1sVTRlbXBqQXRlcXRjZ0dHTUE2SDFlRlRxQng0QXpwbEJhNWlJQV9yc3JIQTN3bEFVT2x0RzEzalpsbXo?oc=5",
       "published": "Fri, 25 Sep 2026 01:15:10 GMT"
     },
@@ -114,18 +102,18 @@
     {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Sep 25, 2026 - Liquide Blog",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSDhUYXNWRTlqWmlQcTBzV2Ryenl0ekYxa3A1clpiak8zNldSMFNJVm15Z3ZOT09IcXVjNTJGd3U2RDRrYkJNLUFqX3M2MUJ6Nll6YnJTODZfY2xBWEtNZU1NTEwzeHVGQ3hRM0pJdWE5bVl2dG5CN1FQd1BKVDB5YVc1Q0FWdWpycEdkenN4bzgwQTMyUURLZ3NTTkVZQ1dadU1iZFZ2LUdOa1E?oc=5",
-      "published": "Fri, 25 Sep 2026 11:16:15 GMT"
+      "published": "Fri, 25 Sep 2026 11:15:37 GMT"
+    },
+    {
+      "title": "J.P. Morgan says $115B could flow into India's stock market as investors rush to hedge the crowded AI trade - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1EtQy1xb2xLbGYzaHdvUGg1VFgtdDlONm1iU2JZbXFzVWFqaTJnOUlySEpEWWIxRGN5T3NIUlBNQ1VzSjZnX3dIdmZjY3BZcGVaT1VUZGpLSXl2QVdKb0NQdkpnVnpWd1YzYkxTaEV1R2gzZVY2YUZRamhqa1ctSTdoOXFyWloza2JaQ2lB?oc=5",
+      "published": "Fri, 25 Sep 2026 15:00:00 GMT"
     },
     {
       "title": "'Cheaper Does Not Mean Cheap': India Still Trades At Premium, Says Dheeraj Gaur - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPc2tvOFRYWWcxTWtEdWZGRWcwcWk5a05heGxreVptTGxNbWp1cl9BSHM5X1VpdVpMWVc2V0ljNTJqZVJJWHN5aThWaDQzMURwM21DZzJ1WFRjZ0hOSUo5blRIa2VRdXR5Y0dxTDdYeGFULTdZTVFjRlpFSUtVWlFDUE1VTnZsYVRlSG9faG5kOGJCZnVQNE1FUmJZZG51ak1rUHlxc1RZQmxOa0FrUEg3YW5YOUJCRFdibnN4X0dQOU5uSTZQaV90RTNVbUloc1AtQ1JBS1J6V25ESmpUdE1IQWl4UVdqeXJleXItZzVjS0FGWnRmLWcyMmhYVjBuUdIBhgJBVV95cUxOOFhIajRJSVBELVJySHhlajRvNXp1YVNWelVqR3VuWlZSdm5DYzlnNElqcVVNS2o4aUdFTzA0djFGYnBqNUlKQ0M1alpjR0pSOC12Z212QS1jUGx5VFExaUl6eEhpUG1ZMVczSEdfVVpEbXQ4QjAtZXdjRGpuSjNpZWpQLVp4TEc3UXQxLTVSRjJDYjlqZ0ZLNm56UzB5dE9tU0N0b1EtM1dKcjNodFdmR0Z4eko4bXFidkdrZUdKZllyVnFET0hiNEhoSU5rRE9mbXlsZFBRaDVyX2U1TEVHemQtbk9LdzhiRHQ2UFp6MXNKRHhjNWpScVJ1eUozcGNLdEZEM1hn?oc=5",
       "published": "Fri, 25 Sep 2026 12:00:01 GMT"
-    },
-    {
-      "title": "Sensex, Nifty Today: Indian Markets Recover After Heavy Thursday Losses - APAC Media",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hVC1JSXRqcHpiOC1BcW9STzVMX1E1Y2FuZThSci15UVN4VVBkU0syaVFzU01NaXVDZ21QSS03M0h2N0JoZFFOV1lZVlZna1YtRzRHdi03OHRLS3B0OGdGbzRKX01uc3BVbzZwTXVmVkFoMXU5Nk04aGhYZw?oc=5",
-      "published": "Fri, 25 Sep 2026 10:31:57 GMT"
     }
   ],
-  "last_updated": "2026-09-25 15:04 UTC"
+  "last_updated": "2026-09-25 19:14 UTC"
 }
