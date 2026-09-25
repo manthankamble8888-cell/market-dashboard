@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23092.6,
-    "change": 29.5,
-    "pct": 0.13
+    "price": 23140.5,
+    "change": 77.4,
+    "pct": 0.34
   },
   "Bank Nifty": {
-    "price": 55548.65,
-    "change": 110.15,
-    "pct": 0.2
+    "price": 55580.4,
+    "change": 141.9,
+    "pct": 0.26
   },
   "Sensex": {
-    "price": 73728.84,
-    "change": 148.3,
-    "pct": 0.2
+    "price": 73852.0,
+    "change": 271.46,
+    "pct": 0.37
   },
   "India VIX": {
-    "price": 12.52,
-    "change": -0.17,
-    "pct": -1.32
+    "price": 12.16,
+    "change": -0.53,
+    "pct": -4.16
   },
   "Nifty IT": {
-    "price": 28039.8,
-    "change": -169.05,
-    "pct": -0.6
+    "price": 28160.9,
+    "change": -47.95,
+    "pct": -0.17
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +43,44 @@
     "pct": -0.02
   },
   "Nikkei 225": {
-    "price": 66361.17,
-    "change": 847.18,
-    "pct": 1.29
+    "price": 66364.2,
+    "change": 850.21,
+    "pct": 1.3
   },
   "Hang Seng": {
-    "price": 24343.19,
-    "change": -417.94,
-    "pct": -1.69
+    "price": 24510.09,
+    "change": -251.04,
+    "pct": -1.01
   },
   "Crude Oil (Brent)": {
-    "price": 105.67,
-    "change": -0.93,
-    "pct": -0.87
+    "price": 98.85,
+    "change": -7.75,
+    "pct": -7.27
   },
   "Crude Oil (WTI)": {
-    "price": 93.09,
-    "change": -1.52,
-    "pct": -1.61
+    "price": 92.96,
+    "change": -1.65,
+    "pct": -1.74
   },
   "Gold": {
-    "price": 4307.4,
-    "change": 9.4,
-    "pct": 0.22
+    "price": 4327.9,
+    "change": 29.9,
+    "pct": 0.7
   },
   "Silver": {
-    "price": 64.17,
-    "change": 0.71,
-    "pct": 1.12
+    "price": 65.01,
+    "change": 1.55,
+    "pct": 2.45
   },
   "USD/INR": {
-    "price": 95.92,
-    "change": 0.18,
-    "pct": 0.18
+    "price": 95.82,
+    "change": 0.08,
+    "pct": 0.09
   },
   "Dollar Index": {
-    "price": 101.28,
-    "change": -0.01,
-    "pct": -0.01
+    "price": 101.12,
+    "change": -0.17,
+    "pct": -0.17
   },
   "US 10Y Yield": {
     "price": 5.16,
@@ -88,6 +88,11 @@
     "pct": 0.94
   },
   "news": [
+    {
+      "title": "Indian stock market will double in five years, says Motilal Oswal\u2019s Raamdeo Agrawal - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY19hU3JBcjhLblBxSUJ3d3FRNHYwcHRlWldubVV6QUtsZlI4TlZNbTVtdlNoV1pUNXE0U09xU3JTdWVNTFJrZmVqSWhTbDZpd09CeHBIZWxUT3ZMSDBmV0Z3Y1c0bW1JbDBaUTdSc2VVVTdUVnRoWURZY0pJaFI1M1A4TDQ?oc=5",
+      "published": "Fri, 25 Sep 2026 01:30:19 GMT"
+    },
     {
       "title": "Markets Hit 3-Month Low, 5 Reasons Behind Sensex Crashing 1,250 Points Today - NDTV",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEtEbWlBNTFIcHJzRV9zU0hnQUd4MVRma2VMWXpOdDl3SURrMGJPOXBnVnFOTm1MLVpMMFAzYUhUWDJVYnpYd1cyWG1xUjhxOVdkb0tVNkF2VnZfZktsRnRYTlNjMzBYblcyM0pHRUo4Ul8xVlFoci1JOXpSU2F2RlBkbFJaZGhTeE9yODV4aDlnSDdKbjd2c0ZKMzc0Y2JFbER0c2hDNW1pbURITlcw0gG3AUFVX3lxTE8xbVZoQm0xdm9CSmg5ZVBDMVluS0lTTUctTnpYYVU2S0RxcFhlaUY5Qndta09tY3VuZWI3MW1LRWlPNVl6QlY4OVBFcENPZEY4OU9jMThxdzM1cG56U1ZtN29HNGEtZmZ6eklRSXlNNERlUVF0dXNjVXV0dERKeFpyeHY4YUV3ZXdWYWhjcWsxM1d4TWtYOE1tUjRFQ0xKQm5aWHJhcnJfSHFha1FDeUJpSDdJaWhrNA?oc=5",
@@ -99,9 +104,19 @@
       "published": "Fri, 25 Sep 2026 01:15:10 GMT"
     },
     {
-      "title": "Indian stock market will double in five years, says Motilal Oswal\u2019s Raamdeo Agrawal - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY19hU3JBcjhLblBxSUJ3d3FRNHYwcHRlWldubVV6QUtsZlI4TlZNbTVtdlNoV1pUNXE0U09xU3JTdWVNTFJrZmVqSWhTbDZpd09CeHBIZWxUT3ZMSDBmV0Z3Y1c0bW1JbDBaUTdSc2VVVTdUVnRoWURZY0pJaFI1M1A4TDQ?oc=5",
-      "published": "Fri, 25 Sep 2026 01:30:06 GMT"
+      "title": "Stock market today: BSE Sensex opens over 100 points up, NSE Nifty50 trades above 23,000 - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS2ZIYlJtSTJ2R0tUd041X2M0a2gyT0hxbktRNi1YSFpNcXlUZlBwcW9FMGl0RkRoUXJpLXFSYmI1SUlJTkFBNTl0dlExYi1LWm0xX1hUVVFqVjhxWlJwd1Mwb29fX1U0VVFhRE01d3IxSTNpNkkzQWY2TkpJSVVKLWtlM1dFWkFnaEFuZ2hCT2RYWktac2dQLUVmemdKeHlMMHYwbEtfaEI2d2w0MEdYVGx4T2R1ZktDV1RWQ2ZfUFBDZGRTWVdmSF92OS1kTnFNUTBXeHlZd3ctMF9wMk9lNHRoVEJTUTVYSV9rR0FvdG5jZVIxdzBJdnNSS1VzbXll0gGGAkFVX3lxTFBZX2J6TDljZ3haMlBoSFNpQWJ3XzE1aVhVTXVUNUkyYUZLY2N5Z1VuV19hbzZNNDhsb2RlTjZWRmpObFNlVFR1RmtRcVM3bXZGODZXUnhJcC11VXVDM2pKWVNfdXRjaENBQUZiRjZwZmZ2SmRmRTE1Nmxac1I4RlVla0U0LVdlNGdKS2RxOHhfRUFTaUtlcDNLTFVjY2JyZzBSWFEwVXR1R25rMjZmRldrRldOazUwRmRjTmhpVUl6Q1ViWFo4bS1GaEpuWkhUelYyd0ZBOGdIM0Fxa0p0U29jZEpnR1NWcGx6TEl6ckt5NUNhS0lTVU1QR043dEZvbC0zNmpHNmc?oc=5",
+      "published": "Fri, 25 Sep 2026 03:51:00 GMT"
+    },
+    {
+      "title": "Indian shares post worst day in 10 weeks on oil spike, proposed insurance curbs - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFR1dnlza0cxUU5PbXRVYmRRT19oaHZFS3NmTDZUdHhDUVpIaTJDVDFHYThvSXE3RzNWenBDSUlDUDVCdE51VkpDaXppUEl2M1htMGxsMkxPV3ZaS2d3YVhYVTlFUEphWm45cWVuYTZLYmJ2V0xwT2dtMFkwQXZ5bjVWOVh2UHczVnZUSFQ5NFBrUkJaQTJwRXFoSlY5ajhXaHJXOVd3enFaclR4QUpXODFjMWxjVVE?oc=5",
+      "published": "Thu, 24 Sep 2026 02:39:00 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUkxRNzMxcWFuMWFDeUE4X05RS0tCYmpGUVk3RTFmb2lmam1hT2FUcFRncXpZaFlLSzFIR3dzdkhUM0pFNWswMDMya3dLRmxWYmhPSlN6cmR2aFdkWVlNcEl6eEZfa3kxdzBTSGNkVmNBMGoxRWlZSWxCazkxcVZ3SFlJWDlOdm1RdVAzX1FmbGtjVzBfcjFNMlhyY1ZEQkFJYlhlN3JKR1VTMGZVWmo4WjZaRm81Q1pxdnFSYjNkNHU5d1VMQUZDRlVIVDRWYnE1Ym9neWVR?oc=5",
+      "published": "Fri, 25 Sep 2026 04:52:40 GMT"
     },
     {
       "title": "The battle between India\u2019s stock exchanges is heating up again - economist.com",
@@ -109,25 +124,10 @@
       "published": "Thu, 24 Sep 2026 09:42:29 GMT"
     },
     {
-      "title": "Sensex Today Trades Flat | Nifty Below 23,100 | Infosys & Tech Mahindra Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPdXR6a3BMbFZZc19QNTgtUDN0QjU0REhVZkhXYUZLUzVaWHhwY3FOdE9xWEFZTHBSX2dNZVVTNXJOOVJFaE9wSzBiMWFCanhyZk1JR0RLd2E4S3k5YjM3Z2E3TTNmMUp6Z2tqWjNLLUsybHFpYlJONDctVERIS0E0VmNfOWFmOE81OEduRGZTV0ppOGdOVFNmYVNuZWZKNkVqd0pydXlMUTFVWTRqb0JLb2tCTFFreWdOd2VnTmFpcDhVWTdoTDNhYWpxUk9XSDZpRk4xcW1URUhTeEtmRWxJYlRmbDFGSW9IU0hUZ1RSOG82aU9lbk9OWHRaN09VZ1RjZVVuWC1aNTlLaGJKZ1MtcGpnbU9aOGVmRmVnOE5qdjZkYTFhUjBzN213OTQzRGdZNk1oQy05ZTM1Zw?oc=5",
-      "published": "Fri, 25 Sep 2026 04:52:40 GMT"
-    },
-    {
-      "title": "Sensex, Nifty open with marginal gains amid mixed global cues - DD India",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOEJSSHh4ZEFUSzVZc2Mxc21yZDZoVWdHMnNwYTdQMnRYVXYyZ3kzaXBIbmlUWEZOSGE0RjktNWVpbW12Ym42V3FQUEswY3pwTVZuREFta1ppSXh4b2FWLUxWWnJjYlFIalZBcFFCZHg3QjFoclVGVG1GT1NBN2E0THcySzFXUnFpSkRXUU1LelpFS2Y1RXc?oc=5",
-      "published": "Fri, 25 Sep 2026 04:40:00 GMT"
-    },
-    {
       "title": "Indian Stocks Slide At Open As Nifty, Sensex Extend Market Weakness - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdFpaMjRkMHFmQl80MDZYRWhpSFRCbGtlcGRYbEZHV3ZmaTI2LXJoTHdGcVgwWVg1dWZXTUFaX3dFbUl5ZDlRVjl6QmNvOXAxeXM1Vk83UnpseUQ2Y01IdnhCeF9RZEV4bkV6LTB5N0VnVURTVUQtQkF0QnoyZEQ4djZ3VXZXREcxNzdvdi1JMGVMdXlfb3MzYWdSOW1qbUtlQ205NHBzWmdqWmJ2bmxxZF9WUmp1cXFHVlNoSWtNMA?oc=5",
       "published": "Thu, 24 Sep 2026 04:12:29 GMT"
-    },
-    {
-      "title": "Stock market today: Sensex, Nifty may open flat amid key headwinds - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUTZ0WFk4RmRvMGxLQ1NEcHdMTU5ZWWI5a2V4Uld4WVNIU3FsWmJpVXJXZFJaNnVXRTd3WjBKdDMwUmtoMktHVHlSekRoT1dsTjJTZjdrbDJYM3FGa1BTdVdIaUxOZ0o0U1NWaC1fZm4xbXJsWkJzZ3c3MTBtX1VhTjZkUHY0MmZQYWtMOEFrREZhTmstUUZ0eDdfRGx0aFZGNTRPU1VIcG8yTEVjNEF5NzJnUm82Q2hVYzNncS1qOEVDV0QyWG9mbW92elNEZ2tr0gHXAUFVX3lxTE5tQlVCbVlxQndqM1Zmd2ZtZWdldjZ6WXBqWjZiVEhjLTFKamtwNXhXbG9KWXZ1bUFuN19PMzFtdlNxS1N5UzRIckttOFBINUlKWnE1SmpYWHQ3MDlIUDRkVVR2eWwyQUMzMmNVSFM0UEZvTDR6Z0NBS2E1bzZoM3dDWlBJNkp6OGo5V2FZRHBzWVZBdUNYeTFPaGxyMkxpREF6enktNGFkbWRNVWZQVDNVVGo2WVhWTzd6YXM5MVA3YzlhM2RzMVJRTDM1emRDUVdPM0xObzRv?oc=5",
-      "published": "Fri, 25 Sep 2026 02:18:31 GMT"
     }
   ],
-  "last_updated": "2026-09-25 04:56 UTC"
+  "last_updated": "2026-09-25 09:59 UTC"
 }
