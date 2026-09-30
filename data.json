@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22716.2,
+    "change": -64.05,
+    "pct": -0.28
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 54259.95,
+    "change": -211.7,
+    "pct": -0.39
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 72529.07,
+    "change": -242.65,
+    "pct": -0.33
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 13.41,
+    "change": -0.23,
+    "pct": -1.69
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 27670.0,
+    "change": -416.5,
+    "pct": -1.48
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,38 +43,44 @@
     "pct": -0.17
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 66302.6,
+    "change": 821.33,
+    "pct": 1.25
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24408.66,
+    "change": -114.91,
+    "pct": -0.47
   },
   "Crude Oil (Brent)": {
-    "price": 96.12,
-    "change": -9.16,
-    "pct": -8.7
+    "price": 96.58,
+    "change": -8.7,
+    "pct": -8.26
   },
   "Crude Oil (WTI)": {
-    "price": 89.28,
-    "change": -3.32,
-    "pct": -3.59
+    "price": 89.6,
+    "change": -3.0,
+    "pct": -3.24
   },
   "Gold": {
-    "price": 4210.9,
-    "change": 42.5,
-    "pct": 1.02
+    "price": 4203.5,
+    "change": 35.1,
+    "pct": 0.84
   },
   "Silver": {
-    "price": 61.87,
-    "change": 0.65,
-    "pct": 1.06
+    "price": 61.4,
+    "change": 0.18,
+    "pct": 0.3
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 95.98,
+    "change": -0.0,
+    "pct": -0.0
   },
   "Dollar Index": {
-    "price": 101.38,
-    "change": 0.18,
-    "pct": 0.17
+    "price": 101.39,
+    "change": 0.19,
+    "pct": 0.19
   },
   "US 10Y Yield": {
     "price": 5.26,
@@ -75,17 +91,22 @@
     {
       "title": "Indian shares extend losing run on elevated oil, bond yields - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMG5lWllfVDNRcEhXRTZMSTB4QnRraHlSN2NUaUJxMWN3dVlIeDJRbEx2aWVSa3JibXB6MVE1NVZPbGJTdkpBcnpzUHN2bjhMVTRPWFE1WGNuT25ESUNhYTNZRVpFZzhSQ2xnbUt5ZktKZWFSNWpjNG51NXNRWHNlM1dRNTZkUmZ2cC1hdDJYQjdIQ25keWstWGJ5T0VyUVpNNzBvQQ?oc=5",
-      "published": "Tue, 29 Sep 2026 02:29:00 GMT"
-    },
-    {
-      "title": "Nifty Fell 10% In 2 Years, But This Rs 1 Crore Portfolio Grew By Rs 16 Lakh. Here's How - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JpdnpnZHlIYlVQUnRNYVVFYUlUZFJ3YkdJWXpXSzRQaktqaTN3LTdPYXU1SkRibHhTd0dOTTJkeV9NM1FZU1JWbFVPTmVBOGwzRFNwLTZ2V0lldi1kNXR3RWpjZzNmaUJOSGlIamdJcWY5TTlvRzdIZE9xZ0NiMFRpTTRnWHJZS2JaR0FOd3M1TmltbXBhb2RZU1dXUHhPdGp0MlNVbEEwV0cybVc3cEhxclU0azJyVzV3dNIBxAFBVV95cUxNS3psTE9IOFpFRVFkLU11bGZMbjA5VFNIN04xWDZJYkxIX0RscVpJTWJ0Z1N3Sjlsb3lCNTl2RURseHQ0ZVZTeHZSQnVjOFJCUjBZLUl4OUhSN0NLTm9kUmlLbU5BaTFLSzVYSVNXNExPb0VQRm9FSTVodDkzaEVLeThKSUl4b3IzcEhwbE1vSFJESGxRRnU4SDNaVkI0N05VTmtpX3F4S0VaZnBfekd4YWk5YXF2LXRycHVlOGVGTUVmX0hJ?oc=5",
-      "published": "Tue, 29 Sep 2026 04:01:44 GMT"
+      "published": "Tue, 29 Sep 2026 10:16:37 GMT"
     },
     {
       "title": "Indian stock market crashes, 7.4 lakh crore wiped out: What is driving the fall? - WION",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ3ZwWkRNRjJrZ1RQN0tCaXBfTGZORVVIeFJ2d1FmTkJpZ3RFM2ZUNW52alVyTDVSLXNzN0hRWUE0YUZ1NXBJZWEzbWVuV2NDUFRxNmRmWXVSdnkzZ0MtLV9UMm9FeTVaM2VGckptZWt1Wnhpd2F6TmVjcEpXVEJhNXpKWkVFd0NCelczRTBidmMxam1zVjRfM1J0aDVHaVl5MWtkQ1RvS2xXNm9lMTlraE9IQXBqd9IBuwFBVV95cUxQdU1hSjhhcHpRbXBFRmlSLUVvakR5c3ZwYlpORGl2M1hiaEhqa2dDWTVIdHhmY2NsNkVUWFZKT1c4MHROTG1fbEtCYnZnM0VMOHFEXzB5cFotZEtGNHgyVDR6ZkpwM19JM1JaVmlFMElpSUw0OHRMUXNKVUlvSEswOFdQcXlLLVVZZWpDVlE5bHplYkZoNUp4bUVEV2VhaWFVZzNDN1dpRFVUMUROeGtLQ3VlZFJjUDZ5Rmd3?oc=5",
       "published": "Mon, 28 Sep 2026 19:51:01 GMT"
+    },
+    {
+      "title": "India\u2019s economy resilient, but Nifty falls 13% YTD: Why markets and macro are telling different stories - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOalN3bVZTcTdzYnVtQTJYclhXNTVYVUVnb3ZYZGlsRmh6VWRmRnRjZlV6VjBjb0U5dDFZTzI3LThWNzM1ZzBvNkxJZTNzelJlazRxU1JKUTVnSFJ0WGJzUTlmczhra09Md2t6M0FYLUl5Y0ViWTR2aVZmYU1qR1BSQ0Zpek9KS3dvcmItVWxUWHRraVl5cUJZSWRiV1FzV24yNjRQSGNQNlctUEJYcDRIM1VNLU9raHU5aEJKRGQwQmI1YURfaURLRmZhdmNUaVVyWjBFNmFJakx4MDkxdUs0bW9MdnJoSTNQblNCRXVPQURtSkltcUhnQmpCazh1d9IBgwJBVV95cUxNUlREUXNLUEtxMkViVU9nTXZNY3dSRDdublNpekctVWlndG5FamNtWko3aEVsa3dqcllmTmJwUkU4SmM4eWV5bEUtWGxFXzdLeW9tMnFYMXhaNWk3S3ZKZjVYLVBySTh3QThZVHRqMTVWUmVLZmZxUENHazEteVNXTmxVUHVyYXBpaGIydkxza3Fjemc5RHBpcElBbVJMam5tQ1VaUnBNNTNPa1lMNXVxSk9VcVJBVG5lSmoxdTkxWkU2MjFsWTNKNlB0bXh5Z2Q0WHozZERYWnF4OUVjWFpfWWxhTnZRdjJmZ1M0b0I0VldlbF9HTXo5Z25rUU1qM2FVd2FB?oc=5",
+      "published": "Tue, 29 Sep 2026 12:41:57 GMT"
+    },
+    {
+      "title": "Vikram Solar Secures Major Module Supply Deal | Ellenbarrie Secures Large-Scale BHEL Contract | Top Buzzing Stocks Today - equitymaster.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxNclZmSmVYeFVOTlZWNjZlM29jVzJXMEZtaFFxY1NtYjZHS2t6dERTdHZET0JlWlhFdUIyVHMyZG9Xc1V0SjhmdkctM1lYREJyWVJPR1c1SWlxcUZjZ3JoSUtjWWdvdzBVSmVUc1U5Yll5cVdSTlh6azB4cERxeVNSLVFuQ3Q4N2NUTXdhWmt2NFk1MzdlZU9pZ0ZQU2R4QWllOFNBMWxXanpUNWtBSllyRkx6SHkzUGdaQjh1MEJXRzliSXJZYkI0SFNNWWVNcnVuSWNkeldMYlBhSDhJN3VPY3lSUUxHY3ZwYUgyRDc3VTFEN1h1a2pUSzZXd2F6VzdoeTR0SUpzQ1EtNDIxS181dTZENVlyZTFPY0dKcEh6ZUg2SkNMdi1CbDQtZkJCOWF6QkliY3gzSVEyMkxQMUVZb3VweEVRaTdSdXZPQ1ByVmQ4ZloxVFBqRklTR2tZRkJhQlhvRWZuNk4zS3dzRnpV?oc=5",
+      "published": "Wed, 30 Sep 2026 00:30:01 GMT"
     },
     {
       "title": "Why is market falling today? Sensex slumps 700 points, Nifty below 22,600. 8 key factors rattling D-Street - The Economic Times",
@@ -103,15 +124,10 @@
       "published": "Tue, 29 Sep 2026 05:55:56 GMT"
     },
     {
-      "title": "Rupee hits two-month low, slips past 96 | What does it mean for the Indian stock market? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQY3dkV3J3UmRnMDF2Smd5aU1Qek83bWRhOE5jWkNmYVhLYW5lVWp3YUpjTkplSGQ4Yk9EZWRQZllVM0tSejFBcjdRTkp0RE01bVYtXzczejlvLUlpSlNVX0owalNsS1VmVnFEYnFwTWxidDBHT29NTU0yNENXa282RHF2MExVT1p2dnB5QmlNZjdYdXo4RTg3RUx2Um1KZGtSYnhXVkNVZHpOcTJOY1FMRU9mUURFMGVxb3FZZlExWUJ3X1ZfdWEweTdwaUxzMEJqd2FwaW9jMVgzWnY3Y3AxcGZXM3FtWHhTNFHSAe8BQVVfeXFMT3dWYVpwMzdZQ183dDJXZTdsSFFjSm5OVE1qYk81YnZ4bUk0RmZTMnN1NHBacHZCZlZDbWRkdUZsazZ0dDNpSW1yZm9UR1czWVZvS1VleGpmeHFSX1FoeVd0WFFMMG41ZzE1VklHMUdmekFfX1BJVThmbWZrY3RQbGkzR204cF91YVcyd1VxMVFrbkVZLUZ5eGh0OHcyT2FvTEN5MWs0Y25ya3U2bWtPUnVsQ2ZZSTNHWWlQNzZPcEdOdV9ZMFhSZ3lBc29ETWY3Zmh3dU1XdVRCRkVubGxONXZQMUQzck1uTE1KMkRtZWs?oc=5",
-      "published": "Tue, 29 Sep 2026 10:59:25 GMT"
-    },
-    {
       "title": "India\u2019s equity market ownership by individuals hits 20-year high, but 500 mn still on the sidelines - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUUNmaHJ2RmpiRVJNMDRxOGJXT21CVUpNdUI2blpoZENLZmZPdmd1REpTemhkRFpWOXlqd0oxOW9JU293TXFPTW45MXpmNDhKYmxSM3kySFZDWUc4RDZsQVV4TkpCQXN3WnN6T1hHbGg4am0temwwOElFUXpEY2Ffdno1SW00TGZyeFFubUZNd2swZ2ZKbjJNeXA2ME1ISGVRQ21VeHRWYXp0Tm85dWlpcWlBU200Q2ZtN0xNM0JGVzlVUXdTbnZyUGtheVpRR2pHQnotNVNkNE9BcDdrcUlDeFFONXk5ODE3VGFoRTFjM1pNNl9UNGfSAfsBQVVfeXFMUE9LVEJ0MS0tM1dXdnhNbUhnclhvVUdBQ243SGlvbjY5ZVE4aUFveGtJNUdzbXNYWmxQbVpOXzIxcHpqby1weTRNSDN3UmdETWNrN3YyZkQ0R2kwZGJoLUdiUFdFWVZ0S2pSa0doVkI1VjVVZDlRY0R2RFpXVG1WaDRWR1NwTjZkdHFIV214LTRhZTI1d0UxaG1RS0lFdGZpN1dtc3dDeVd6WUJqTkVzWEFWVUc0djhWMTUwb1MyaW02WEZLbTJsNDQ0YWhzbjFia3ZHeDk3bEhtYlRmYUhDQW9NNEVXNG9pLUoyRURQOWxYdnVPR2U0LUY1MFE?oc=5",
       "published": "Tue, 29 Sep 2026 08:04:32 GMT"
     }
   ],
-  "last_updated": "2026-09-29 23:04 UTC"
+  "last_updated": "2026-09-30 02:05 UTC"
 }
