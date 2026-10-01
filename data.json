@@ -28,24 +28,22 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 50906.05,
-    "change": -443.87,
-    "pct": -0.86
+    "price": 50843.22,
+    "change": -62.83,
+    "pct": -0.12
   },
   "Nasdaq": {
-    "price": 26861.06,
-    "change": 63.52,
-    "pct": 0.24
+    "price": 26819.49,
+    "change": -41.57,
+    "pct": -0.15
   },
   "S&P 500": {
-    "price": 7651.54,
-    "change": -19.3,
-    "pct": -0.25
+    "price": 7648.38,
+    "change": -3.16,
+    "pct": -0.04
   },
   "Nikkei 225": {
-    "price": 68956.72,
-    "change": 2203.0,
-    "pct": 3.3
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "price": 24613.27,
@@ -53,43 +51,43 @@
     "pct": 0.37
   },
   "Crude Oil (Brent)": {
-    "price": 100.27,
-    "change": -3.26,
-    "pct": -3.15
+    "price": 101.24,
+    "change": -2.29,
+    "pct": -2.21
   },
   "Crude Oil (WTI)": {
-    "price": 91.98,
-    "change": 1.56,
-    "pct": 1.73
+    "price": 92.02,
+    "change": 1.6,
+    "pct": 1.77
   },
   "Gold": {
-    "price": 4188.3,
-    "change": 1.6,
-    "pct": 0.04
+    "price": 4191.4,
+    "change": 4.7,
+    "pct": 0.11
   },
   "Silver": {
-    "price": 60.87,
-    "change": 0.77,
-    "pct": 1.28
+    "price": 60.83,
+    "change": 0.74,
+    "pct": 1.23
   },
   "USD/INR": {
-    "price": 96.32,
-    "change": 0.26,
-    "pct": 0.28
+    "price": 96.31,
+    "change": 0.25,
+    "pct": 0.26
   },
   "Dollar Index": {
-    "price": 101.92,
-    "change": 0.47,
-    "pct": 0.46
+    "price": 102.18,
+    "change": 0.74,
+    "pct": 0.72
   },
   "US 10Y Yield": {
-    "price": 5.29,
-    "change": 0.04,
-    "pct": 0.72
+    "price": 5.23,
+    "change": -0.06,
+    "pct": -1.11
   },
   "news": [
     {
-      "title": "Indian share benchmarks set for longest weekly losing run in 25 years - Reuters",
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
       "published": "Thu, 01 Oct 2026 02:25:00 GMT"
     },
@@ -99,7 +97,7 @@
       "published": "Thu, 01 Oct 2026 04:29:15 GMT"
     },
     {
-      "title": "Sensex Crashes 900 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
+      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
       "published": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
@@ -109,9 +107,9 @@
       "published": "Thu, 01 Oct 2026 08:02:54 GMT"
     },
     {
-      "title": "Why is market crashing today? Sensex slumps 1,200 points, Nifty below 22,250. 5 key factors behind Rs 10 l - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2FJbGZhc2FObHZPcDQ2eWhNRy1GTThGSkpWOUFGbWt5VDRlRmhiSE9VaHlNN2NkV3kwQXhmT21SdWx3SXZwNlQ1QlRtSmpMOFBOdko5cmsxT3QyaFVFdi1Vbkp6U2lfaEZJb0dPNk12bjFFWXlHaXVmMU9BVlB0dXdEeWlrRjdyLUFNZzNVTUZtMGR1U3lNM20tN3phRmo1aFVobDlmMU1nUUR5djNtSjhLZmFpTzc0OVZVTkVZeXptc2tMb3pqelg2d0IybXlLS3M0Sk5zc19KSEpiVjJrOF9OUU43ZlJtWUEzd2ttNk9VWWFwN19uLUg3eTdVZzJZMDl0dVh4Y3V3bzl0d2VRWGRIVk4zcjJRNHfSAZ8CQVVfeXFMUHptakdTU1k5aVVSSU8wM0p5R3hsbmQySUhlSFB0Tm9rbU53SVJWM1ExMWVJSWZwVDU5amhEUHppN3V0TUV0NEpMTksyRmVuTXVtY2tMNTcxZGRPYkpXYUVWa1NZRDEtdjBicm5paFYtMVBnTHBsSXJQNG10aEVoZ0N3S2l6VEtSR0FRc2piYzcydGZ3Xy1EeS1zU3NXdW8zajRBV2hpYzRab2w3V1QwUDdkcGZ2Sm1uVjM5bHQ3UHRCZEpHTk5wMURyMURZb0VJVDhySkJNV3JQbGRrNml1cEtaNUpNTEZfWFRHVVFNM2hOZXpDOHQtdVVBdmV6c2JaYzl3WlRTX3pleGRmcmgtLUNaU28tS3FEcHZJQXY5Tmc?oc=5",
-      "published": "Thu, 01 Oct 2026 09:07:32 GMT"
+      "title": "Over Rs 10,00,00,00,00,000 Wiped Out! Sensex Crashes 1,000 Points, Nifty 50 Slips Below 22,300 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTlJJMldmZ1hUOWtaT1NwNnpfRFhYaS00WmRoNGRXUzV3M0wzWkdTUWg5WmNGdDByTGEzZ09YaWNFTk5zbzhmdXNPM2stcGZtNFNHUVItcXpmMU9nTFBaR1hUdkNCT1hzUGt3cnFVZnhtRWxmZkdkN0xBSWE1NmhFLWt1aFc3RWlmckJJR3NuSWRBd3FPeDZqbkF3ejZrRkNCN3ZaaWtIaWJia3F1aFVWZzEteFhsM3loNFlWeTg0aDQtUE1pcGprVjQ0b3JDU2hEN0NMby03Q0g4QjhwV0xsdU9Fc0F5djA2VHVkNFg3dWxLR1Y4RUQzZUNmVTRDWDF0Vmw1NkFxM2lmN0dJckHSAZYCQVVfeXFMTWtxYkJGVWJldWQyTFNqX1IxWWlIY29xRi1oOExXdTdBQVdzNHNQbGs4c1pFem5FeTJhYnBwYWprZTRqT1RmeXJOY0d1UENsTmFydjVwRjZ3ekxJdjhLMUMxTVJEOVFQQ0RzQWxYNk44c3Znelp4Nlc0VUhBUFBTYlFvaDl6dDQtSEtUbk1IVDh0WV91UDR5cThWNFdfREpiNjJpaTBOanhfbkstNHd6dmtnc0JVbEhpNXBOYTI1MXlaSW9tS0J3bkVJdElWUW5UaEtybjBjMjRONDBhNWdYVl9UMGd4RXBMNllRcXFtM3ZGaG95UlZHM1pueElnRkF2VVZWQWZuTHM4NjJ5RWd6d2phdGtTVWc?oc=5",
+      "published": "Thu, 01 Oct 2026 07:45:30 GMT"
     },
     {
       "title": "The Indian stock market\u2019s Achilles\u2019 heel: rising yield bonds - The Ken",
@@ -119,15 +117,15 @@
       "published": "Thu, 01 Oct 2026 01:48:13 GMT"
     },
     {
-      "title": "Sensex Today Trades 113 Points Lower | Nifty Below 22,600 | Eternal & Maruti Suzuki Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSjlwWGxnOHh5cm5OOWN3MkVUVWZGc2FueTJES0ZhMDAtRHBBUmJkRnlqbndJX3Y0XzVVdUFoM0tMaXdILU5LNmdrN1VHM2pteWNQZ1cxZ2JJbVJxckpnMm9FNnVPdkFpQUE5aHJUOWhsYUNaWFhINHVGdF84clA1aVNLUlpYajlRQ211ak5Eb3g5YW54V3R4TW5IVEJ3MGZ1T19RU0p6aWU0RXFLV0tWM0lPVHBiQTdJbzl0U280N0h6Y1BjM3ROTWVXTnZrcVhSZDJ4VEpjMk9IcFJPLXlfNk9jT0ZEUQ?oc=5",
-      "published": "Thu, 01 Oct 2026 04:45:44 GMT"
+      "title": "Why did market crash today? Sensex drops 571 points, Nifty nears 22,450. 5 key factors behind Rs 5 lakh cr - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOa2FJbGZhc2FObHZPcDQ2eWhNRy1GTThGSkpWOUFGbWt5VDRlRmhiSE9VaHlNN2NkV3kwQXhmT21SdWx3SXZwNlQ1QlRtSmpMOFBOdko5cmsxT3QyaFVFdi1Vbkp6U2lfaEZJb0dPNk12bjFFWXlHaXVmMU9BVlB0dXdEeWlrRjdyLUFNZzNVTUZtMGR1U3lNM20tN3phRmo1aFVobDlmMU1nUUR5djNtSjhLZmFpTzc0OVZVTkVZeXptc2tMb3pqelg2d0IybXlLS3M0Sk5zc19KSEpiVjJrOF9OUU43ZlJtWUEzd2ttNk9VWWFwN19uLUg3eTdVZzJZMDl0dVh4Y3V3bzl0d2VRWGRIVk4zcjJRNHfSAZ8CQVVfeXFMUHptakdTU1k5aVVSSU8wM0p5R3hsbmQySUhlSFB0Tm9rbU53SVJWM1ExMWVJSWZwVDU5amhEUHppN3V0TUV0NEpMTksyRmVuTXVtY2tMNTcxZGRPYkpXYUVWa1NZRDEtdjBicm5paFYtMVBnTHBsSXJQNG10aEVoZ0N3S2l6VEtSR0FRc2piYzcydGZ3Xy1EeS1zU3NXdW8zajRBV2hpYzRab2w3V1QwUDdkcGZ2Sm1uVjM5bHQ3UHRCZEpHTk5wMURyMURZb0VJVDhySkJNV3JQbGRrNml1cEtaNUpNTEZfWFRHVVFNM2hOZXpDOHQtdVVBdmV6c2JaYzl3WlRTX3pleGRmcmgtLUNaU28tS3FEcHZJQXY5Tmc?oc=5",
+      "published": "Thu, 01 Oct 2026 07:34:54 GMT"
     },
     {
-      "title": "Stock market outlook today, 1 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQXozTEF5ci05ekVqMzNQRWZocFNrLUJJU2VBSllHLWxHWnlPMzZOaHFheE1ab09fdDJXVEJTTWNVNDN6ZzdOZmpvMkhNQWtLdzdZSjdjMVZOTG15Z1F4bENWY1p4SGtVdEJVWWI0N0tpbVo0bjVqMFlpMWM4SGVVSS1OclFtbVZWWkx5R01ZaFlkbVJPd2xYV2ZsRkNBYTJYMWxVcE4tUFJnMzF3U3o1cGJpWVBzSkRzckRyc3k5WERDYmI5TFNOeWJ6Q2s5aFZ5dHpLaVR1eUdMdnFRVlQxMDJ5REdLdVdFemU4Qmt5SE4xc0FUbjJWYXNlUm5FNDVJa3h3TDNR0gGLAkFVX3lxTE8zRHB2em93TnNhcG9TYUU0YXJ4UVM1N3gyeEZNeW5EMkJIcWVyUEc1eG00X3VKNk5vRm1LMjdNaU1KTXlQaFFKdEp4Zkh4eEhUZXVwcnhDY1p3X1JkS2E1T21rT3FfNUV5LVkyQzlfTHNLekhBRm4yUldodnljcG5UYjdNT1ZrSTBTRXRhaVdFWXBPajd5MUwtaEp0cFBCT2tMM1RYOE1NamxwUnRvOHJqV0ZOblNsYUNINU9ORGp3eHU2TkNCRGhaMGxZQkV4cGpmTW5lZXBFU1FxTHd6bF9ocDc0M2VkRzhoUjh4bHFUM2IxZ3dTalZzczhoRzVUVTZIMno4RWwwR0t5aw?oc=5",
-      "published": "Thu, 01 Oct 2026 01:20:10 GMT"
+      "title": "Sensex Today Trades 113 Points Lower | Nifty Below 22,600 | Eternal & Maruti Suzuki Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSjlwWGxnOHh5cm5OOWN3MkVUVWZGc2FueTJES0ZhMDAtRHBBUmJkRnlqbndJX3Y0XzVVdUFoM0tMaXdILU5LNmdrN1VHM2pteWNQZ1cxZ2JJbVJxckpnMm9FNnVPdkFpQUE5aHJUOWhsYUNaWFhINHVGdF84clA1aVNLUlpYajlRQ211ak5Eb3g5YW54V3R4TW5IVEJ3MGZ1T19RU0p6aWU0RXFLV0tWM0lPVHBiQTdJbzl0U280N0h6Y1BjM3ROTWVXTnZrcVhSZDJ4VEpjMk9IcFJPLXlfNk9jT0ZEUQ?oc=5",
+      "published": "Thu, 01 Oct 2026 13:44:04 GMT"
     }
   ],
-  "last_updated": "2026-10-01 10:27 UTC"
+  "last_updated": "2026-10-01 17:05 UTC"
 }
