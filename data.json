@@ -43,16 +43,24 @@
     "pct": -2.6
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 102.59,
+    "change": 0.34,
+    "pct": 0.33
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 91.06,
+    "change": -0.05,
+    "pct": -0.05
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4175.8,
+    "change": 13.5,
+    "pct": 0.32
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 61.08,
+    "change": 1.11,
+    "pct": 1.85
   },
   "USD/INR": {
     "price": 96.3,
@@ -60,7 +68,9 @@
     "pct": 0.08
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 101.87,
+    "change": -0.06,
+    "pct": -0.05
   },
   "US 10Y Yield": {
     "price": 5.28,
@@ -69,14 +79,9 @@
   },
   "news": [
     {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
-      "published": "Sun, 04 Oct 2026 11:14:01 GMT"
-    },
-    {
       "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
-      "published": "Thu, 01 Oct 2026 02:33:47 GMT"
+      "published": "Fri, 02 Oct 2026 04:33:13 GMT"
     },
     {
       "title": "Sensex, Nifty, Bank Nifty prediction: What will happen in the Indian stock market on Monday? 3 reasons tell the scene - Livemint",
@@ -107,7 +112,12 @@
       "title": "Stock market holiday today on October 2: BSE, NSE to remain closed for Gandhi Jayanti - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSmFaV0tWVjhCSmdEeWtESzMxOFdMblhmWXJ2ZGo1RW1aQ0VualdKUG9VZlQxT1VSN0FiRGZsZS0wTjBkZnFNUzVBeldLOWZVeEhPMjZzWFB2SGZ4eEZ4S2VkTlJCLTlLRGtCcS1mQ1UxZUxtM21PSW5HZEhxNGxPbjZXa3g5WXN4RkhoYkFMWXBqbEcteHJVUmEtc2lRaVVDc2I5Mk9KSWtzbUluNENuamJfWk1vZlZJeUFkMEJxRFlLVEJvYUJNTzBpSnVhUnd6UkNtM0Vhcm5takoyZ0dZM2xXMXBkUFF0WEHSAe8BQVVfeXFMT3FmTE9kMS1wMzlEaFQ3WHQ2ZFdzeTV2MzY2MkJ0YW9nc1lNclJEdTlGUGMzcFE1SHpwNXBNLW9WWWVDSnk0eFZ4OEFtM2RWN3FUWXRIbTlyc2ZzYlN1MHJxa2puRkNRSDRxTS11SkNUWjJacFREeHpKbzliS19nY2dzb3ROTC1meDRuZnQ0ZUY0M0FkdlFVVlZsVGJhZllTaUdJMnVsdVVMejV1WDRiVkd4VE5nQnRnOGFLUUVUTHJvZFNfMUF4QjZVYldMNm9wMllHRzl3dTlzZmw1NndJbFNRb1VPQVlKZ3NUcEJFYmM?oc=5",
       "published": "Fri, 02 Oct 2026 00:47:28 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeERMZWF6eWxpb2JUUENRWVp6VkZLbjMxbEVueG9xMzIzWEZzelp3OFNqbHlIQVhfNWFwSEZaU2l5V0Y5ZUpJNk95SnptakdHMmlSTTFWRDNVOS1kWk1aRXU3TTdNTlhqemJvdlQxOWpYODlxbFlyX0FFeTBKdTRqVmJ4R1RKcEtrQ21meFpvVXFaZGZmYkYwRFZCVVk0UjdlazlOUUFkc25idDVhUXYtTEZoNi14RmpKT2NtUDcyU0Y2SENoZ0pMYUtfNTZoNWhlTzQwdTZ3Ym5GQjZkTFJyekIzSVQzSE1ucUNB0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5",
+      "published": "Sun, 04 Oct 2026 10:47:40 GMT"
     }
   ],
-  "last_updated": "2026-10-04 20:10 UTC"
+  "last_updated": "2026-10-04 23:06 UTC"
 }
