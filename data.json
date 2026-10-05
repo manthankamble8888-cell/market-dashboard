@@ -33,34 +33,34 @@
     "pct": 0.73
   },
   "Nikkei 225": {
-    "price": 68309.46,
-    "change": -647.26,
-    "pct": -0.94
+    "price": 70053.7,
+    "change": 1744.24,
+    "pct": 2.55
   },
   "Hang Seng": {
-    "price": 23972.29,
-    "change": -640.98,
-    "pct": -2.6
+    "price": 23857.14,
+    "change": -115.15,
+    "pct": -0.48
   },
   "Crude Oil (Brent)": {
-    "price": 102.59,
-    "change": 0.34,
-    "pct": 0.33
+    "price": 101.64,
+    "change": -0.61,
+    "pct": -0.6
   },
   "Crude Oil (WTI)": {
-    "price": 91.06,
-    "change": -0.05,
-    "pct": -0.05
+    "price": 90.18,
+    "change": -0.93,
+    "pct": -1.02
   },
   "Gold": {
-    "price": 4175.8,
-    "change": 13.5,
-    "pct": 0.32
+    "price": 4185.3,
+    "change": 23.0,
+    "pct": 0.55
   },
   "Silver": {
-    "price": 61.08,
-    "change": 1.11,
-    "pct": 1.85
+    "price": 61.7,
+    "change": 1.72,
+    "pct": 2.87
   },
   "USD/INR": {
     "price": 96.3,
@@ -68,9 +68,9 @@
     "pct": 0.08
   },
   "Dollar Index": {
-    "price": 101.87,
-    "change": -0.06,
-    "pct": -0.05
+    "price": 102.03,
+    "change": 0.1,
+    "pct": 0.1
   },
   "US 10Y Yield": {
     "price": 5.28,
@@ -78,6 +78,11 @@
     "pct": 0.76
   },
   "news": [
+    {
+      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "published": "Sun, 04 Oct 2026 11:38:02 GMT"
+    },
     {
       "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
@@ -99,14 +104,9 @@
       "published": "Thu, 01 Oct 2026 08:15:54 GMT"
     },
     {
-      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
-      "published": "Sun, 04 Oct 2026 12:57:45 GMT"
-    },
-    {
-      "title": "What will bring foreign investors back to Indian stock market? 5 things that should go right - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcDlhNVhMZDZJSHNBWThINW5yT3JsaHN3ektCWGt6emFlS1l6OFdmcHBmaVBkbWgyMkFIWmQybXdtWGVCVklRYno0Nl9TQ2Z5NnhsQTlONUk4NjMyTkhkZ05RakhKUkNUcDBnbTFzX0FnZDltbklSV3haekpRRzFBLXhUQlVBUkZKbTlMcUNSbFkxeGM5UEFpbXNoTDYxZU9uaWZUbU1wRVBOdmpSUXZReXJYOXBZeWZnb0tUNy1BUDNpZXFYSWpWR2d0UmtqMld3TjhIRFlmb1lRdDdwNnZ0NDNFUktwSzNXUzZxQjZzbGVfdjFKNWtoMNIB_gFBVV95cUxNcURKMi1JSldzU2lDRTVmaHRmV0JSQU5ZSzlaejRDbUIxMG1reFRmN0pxekppYnBWY1pKN2JqRWg3aGdUR1l4MVJlaWN1clUycTVmMzlRZGV4RG42QWNYWXV2dnhqQ25IVkZjT3FOVHFZenBkbWE3Qi1iRGdWM0QySmNoOWlRNkZYZVk3MXJlbHhMQ1JfX1o5LWx4MGVHUHBJWkJGQzUwcXMyY1c3OUUxWkx4dVFITjVBVVZQRlpxQlZXNVB0SlpQdE9mOWlNcHVIWE4wQkVLUHhaNjcyY19ZaGhJWGJtbFc2Rk1OeWVYN1l2MXA2X0NOVjNFdkFGUQ?oc=5",
-      "published": "Sun, 04 Oct 2026 07:14:52 GMT"
+      "title": "ideaForge Secures Major Domestic UAV Order | L&T Wins Major Dubai Road Infrastructure Contracts | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQem44ZnFlbEdXRS1KN3FxNW1xTk5PenR6aEdJb21WZ21vRGhqVENDX1FBczhoR1N0SVNOVnpmQVppOTd6R19zRnhNYjNCYlJmMzZ6Q1pHSEcyOHZXanA3UlRKdy1RVVk2ZkZfQ0VncTZ3NEpoSDJTTjFIMGZHWVcxeHB2a0tQVS1lM3J4dmhMeFRFeFJOLTZlOWRha3U5RGNlVWc5V2JUbDZQWHNBT09ROXltbHhIV3YtTnotWnJZU1ljcDYtUXkxUWtKa3N6T09LMU1STm9NMy1CelNjUFlmdEQtOWRhalVNZFBKMHpKNEtFbk1jektnMUY1X2lLMUtMWXp3NEo2OTRtZjM3eGcwTFpDRm45aEMwMWxDWE9GQmFFRndENkFxcHFpSy1kdUQ2cmhkWGNIRGpkTkhhRUJzSEFzTy1UMng1TGFFM0dobW5mVjdIcS1UbzJ5b0dpdXR0Y1BaWUphNkgyeG1teDM2Zw?oc=5",
+      "published": "Mon, 05 Oct 2026 00:30:00 GMT"
     },
     {
       "title": "Stock market holiday today on October 2: BSE, NSE to remain closed for Gandhi Jayanti - Moneycontrol.com",
@@ -114,10 +114,10 @@
       "published": "Fri, 02 Oct 2026 00:47:28 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeERMZWF6eWxpb2JUUENRWVp6VkZLbjMxbEVueG9xMzIzWEZzelp3OFNqbHlIQVhfNWFwSEZaU2l5V0Y5ZUpJNk95SnptakdHMmlSTTFWRDNVOS1kWk1aRXU3TTdNTlhqemJvdlQxOWpYODlxbFlyX0FFeTBKdTRqVmJ4R1RKcEtrQ21meFpvVXFaZGZmYkYwRFZCVVk0UjdlazlOUUFkc25idDVhUXYtTEZoNi14RmpKT2NtUDcyU0Y2SENoZ0pMYUtfNTZoNWhlTzQwdTZ3Ym5GQjZkTFJyekIzSVQzSE1ucUNB0gHkAUFVX3lxTE1JWWZ0Wm85MWdOcjR5TjBqQ1djQUdTSllCTkxjRngxRGQ1cW9aVjFhUENtMnpocEI4R25Rcjk2QkdLbkNXOTNRTkNEWDczNmFoc2xkTlhJalFkZkt1RGNDa3BOTGxvQUZ0QzhoUVJoZGhUaThNOVJPQmxkb1RXV2dyQ0NJZ1RDYThwMnd4Nnk1QUd2b29aLUVSX0RkUVhWcjFrYWJRakgyN0hBakpNdklLUWxDVDhZV3B3bWJ1a0pGWTYwNnZYNnJfMWZuWHJrOUZWSEpETU9MS2hvTzUzRlpwVzZXYw?oc=5",
-      "published": "Sun, 04 Oct 2026 10:47:40 GMT"
+      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ1pWNnU5Rl9feER0WXN1ZFB1MmdLb1pQUFVvTTBFTmFDeXBMd1FWbEdTOUZ4a3hTMHhXSUlSTkpnVFo2N254SHV6YWJoS00tTEVxaWZ5UFNDNTZ5Z0E4V3p4dXVvNVByR3FRY1Vib0hSd2ZOZG9qNUJiLTRhZWhZd3h4VzNUaUFYeEVDVE1FdlBBNENGeHg2aWZn?oc=5",
+      "published": "Sun, 04 Oct 2026 12:57:45 GMT"
     }
   ],
-  "last_updated": "2026-10-04 23:06 UTC"
+  "last_updated": "2026-10-05 01:58 UTC"
 }
