@@ -33,10 +33,14 @@
     "pct": 0.66
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 70081.53,
+    "change": 134.67,
+    "pct": 0.19
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24219.95,
+    "change": 179.61,
+    "pct": 0.75
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -51,7 +55,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 96.3,
+    "change": -0.03,
+    "pct": -0.03
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -63,14 +69,19 @@
   },
   "news": [
     {
-      "title": "Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5",
-      "published": "Mon, 05 Oct 2026 03:22:41 GMT"
-    },
-    {
       "title": "Has the Indian stock market bottomed out after reaching six-month low or more downside left? What experts suggest - Livemint",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQck9lYUZpLTdZT2diZzl0SnhSYkkzQTJ0ZUpMcVNObkNOWDVObkJtc1JrckpWNk53RjNsdmM2YTdRMkZwdDFPbS1acF9VV2l2SDFMWk5fTWhrc0x5OHg2NzRXQmNJQnJsUGc5bUU3N1hqdTFLQjdZdjd6Um9oaHBwdVdISEU4MExZQ09mUTVldm1IRjBtY3ZrcnluMGliYkwzLWNEejhOWXhxcmVSeWtZODBUQkFMa2YzelpMUmFVR1F1VGVRdHQyOWYwMWI1NHNIYzJ3ak03MFY5SWVjcVMtbHNGVGdkSWNWeURIMk9RaEtFUkJTY204Znc2LVZ1UmxuTTB3SktseUJmXy1yYzl30gGUAkFVX3lxTE84aUVZRnNPVmJTeC1vV1FBUWZZSHJyRW5YX0RMSGVBdDg3T0k3NzBqc0hLeTlQWXJfckVKTmhaYzFSaXVpVGJKMXNUT1dabXBwOVRmcFEzVHU3SHdTNk9wa0pMbVVVenFNYkJSQmQ5OVFQMng5TnlLSEVrWUhDMXdpaGhUYlk4R2xBZlJxR0RDbC1DNUdwM0xIVl9uOHdOby1wYUYzNU9IZW1XcnJSQ1NIQUxjSUROaTZOWHo1bHZtTVh3ZV9kVnB2b0MzMm1zZkZ3QXNvbTVPbmk5Z0g2SS01Q3Q3MGtzdUUyWG16SDVUcUxKMHFXQXRuX3FuS3Q2dU1IRm5ieXJkUW1iWkowd1pRRGxlLQ?oc=5",
       "published": "Mon, 05 Oct 2026 10:35:05 GMT"
+    },
+    {
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EdEhaMjJGMk1DR0ZaZkZfOVJ6V1pNODA0VlBGQ2p2eEtSNHc3ZzZ6d01sZVAwWE1HUkctaHk1aUNBTUY5ZXMxbVUxYWVFeFZHdU9aQW93UjlKbXhCSUE?oc=5",
+      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
+    },
+    {
+      "title": "Indian Economy Is Growing Fast. Why Aren't Stock Market Returns Keeping Up? - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUJtb0NqSkp5blAxWVdXTmpWWUNCb0k4dG55U290NWs5RVZXVkNqTXMtbE54X2oxNmZfLVcydk5vSUVhaTkxZFJQTkNMTlE4ZVJTWGdaMGVEZnVReFlZZU1QSF9QdzdqTFg5aGZWRnNXXzc4eU9uZ3lENk0teEF3YjlINTRlQi1qUE14Y0c5X1hZazR2ZVY4MTFOMjZiV0hGbFpiRkYxYnAyaGJLYTRQTVBNZ0ZWNVHSAb8BQVVfeXFMTXpmZXpqRmFOVmxEY3ZBY1pCU3dfYnNzVndyRC1NUkpPeWFHM0hNVDY3UXBLNmItZGJQR0pDSHJ2czl1c3FhWEVON2hCNE9EcFdaeU5MbTl4bHhGOVIxdFdibzVfb2d6NXF5dEhiak1tb2RlNnppMnc5TEJ5aVpvZ3ZYTFZ1WmZIVGNpeWx4SW4zOUxDb1ZrUjNrakdxeWlBYjFjTlN0QW11UFJYU0lscTdzM2FidUxRN3dETV83NmM?oc=5",
+      "published": "Mon, 05 Oct 2026 03:22:41 GMT"
     },
     {
       "title": "EXCLUSIVE: India markets regulator to partly reverse derivative settlement rules after pushback, sources say - Reuters",
@@ -83,25 +94,20 @@
       "published": "Mon, 05 Oct 2026 02:24:03 GMT"
     },
     {
-      "title": "Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EdEhaMjJGMk1DR0ZaZkZfOVJ6V1pNODA0VlBGQ2p2eEtSNHc3ZzZ6d01sZVAwWE1HUkctaHk1aUNBTUY5ZXMxbVUxYWVFeFZHdU9aQW93UjlKbXhCSUE?oc=5",
-      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
-    },
-    {
-      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - goodreturns.in",
+      "title": "Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5",
       "published": "Mon, 05 Oct 2026 12:39:51 GMT"
-    },
-    {
-      "title": "Stock market outlook today, 5 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei, Taiwan cues - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd0dyS003dFpyaXRVOFJMZjl1d2d2S0E2c1pxOTZlSnZhTlJtQVNNZWFsdDkxYUNtU3cyYVhKVkhQQU5LMHdmcG55WktvcjBlT2Q5a2JTQzh0ZjQwQjUxc3hiam9XbVJpamF3WURPWU12cm5ZTTdHd1VoRzJGaG10TUlxZXRSSk85Rmx0NHR5Q1ZaYkJsX0RBN21VRTJlRVVzaUc1bTdxS0w4UWZvRDFWSW1YbnpmQnFPQ0hxNkpKZEJvYWV4NmJ6Z0d4M1FpOUU5RzFPTE5OcUM2T25kSlNOSEZwTzhPV3lYazFJR1J3Qm8?oc=5",
-      "published": "Mon, 05 Oct 2026 04:33:00 GMT"
     },
     {
       "title": "India stocks higher at close of trade; Nifty 50 up 0.60% - Investing.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGg5ZnNmYjJfSVpadUdGU2drRWk2aVNSSFl4OWNJc2tTZHNOb3pfdnZHRlp1VzdTVG9QTFp3Rm04OHZPUnRIS3RWSW44SXdLLVk0QlgtZWQwQTlqVWJHOTNBNV9OdEx6QXN2QVR0eXFqQnowc2k5dGVLUVhQRWowVEQtZVdSaGFvaGtVNUQ1R1l0dzEzS3RELWtKb1lMRWdoUmpvc0tsNmx1REJsdHU0?oc=5",
       "published": "Mon, 05 Oct 2026 15:15:46 GMT"
+    },
+    {
+      "title": "Sensex Today Ends 473 Points Higher | Nifty Above 22,550 | Raymond Realty Up 6% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPelVCcVlJc245cXl2dVhyNUwtN1F3YzRXWHJ6aC1OdTFJNmYyZnZuZEI3X3dST29nM1NFb05qTDJyV1dXaFdNUXhxd3FBTUVoQm4yZkh4S1NrN29zYmxIMW9PNmZFdU00b2JoRkdBcVpLUTE2UE5mbEpXN1EwSFV1UGVucW1abjh5WjdlYXQ2MF93ajFrTzBYUktpbXlOYnN1SlJ0bWZBSDdVMFRtazllVmNjbEdYOFhONG5XMHZ2Z25QR3QwQXYtRjdCRXNrV1Yx?oc=5",
+      "published": "Mon, 05 Oct 2026 10:29:31 GMT"
     }
   ],
-  "last_updated": "2026-10-05 23:15 UTC"
+  "last_updated": "2026-10-06 03:01 UTC"
 }
