@@ -1,46 +1,46 @@
 {
   "Nifty 50": {
-    "price": 22679.9,
-    "change": -96.2,
-    "pct": -0.42
+    "price": 22603.05,
+    "change": -173.05,
+    "pct": -0.76
   },
   "Bank Nifty": {
-    "price": 55151.75,
-    "change": 23.35,
-    "pct": 0.04
+    "price": 55055.55,
+    "change": -72.85,
+    "pct": -0.13
   },
   "Sensex": {
-    "price": 72941.31,
-    "change": -126.5,
-    "pct": -0.17
+    "price": 72638.7,
+    "change": -429.11,
+    "pct": -0.59
   },
   "India VIX": {
-    "price": 13.75,
-    "change": 0.14,
-    "pct": 1.01
+    "price": 13.89,
+    "change": 0.28,
+    "pct": 2.02
   },
   "Nifty IT": {
-    "price": 27968.85,
-    "change": -167.2,
-    "pct": -0.59
+    "price": 27757.8,
+    "change": -378.25,
+    "pct": -1.34
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51521.28,
-    "change": 253.38,
-    "pct": 0.49
+    "price": 51005.27,
+    "change": -516.01,
+    "pct": -1.0
   },
   "Nasdaq": {
-    "price": 27599.79,
-    "change": 122.48,
-    "pct": 0.45
+    "price": 27382.32,
+    "change": -217.46,
+    "pct": -0.79
   },
   "S&P 500": {
-    "price": 7818.93,
-    "change": 44.98,
-    "pct": 0.58
+    "price": 7770.22,
+    "change": -48.71,
+    "pct": -0.62
   },
   "Nikkei 225": {
     "price": 70035.71,
@@ -48,44 +48,44 @@
     "pct": -0.92
   },
   "Hang Seng": {
-    "price": 24152.03,
-    "change": -128.53,
-    "pct": -0.53
+    "price": 24130.5,
+    "change": -150.06,
+    "pct": -0.62
   },
   "Crude Oil (Brent)": {
-    "price": 101.4,
-    "change": 0.82,
-    "pct": 0.82
+    "price": 101.97,
+    "change": 1.39,
+    "pct": 1.38
   },
   "Crude Oil (WTI)": {
-    "price": 90.1,
-    "change": 0.66,
-    "pct": 0.74
+    "price": 90.36,
+    "change": 0.92,
+    "pct": 1.03
   },
   "Gold": {
-    "price": 4160.1,
-    "change": -27.0,
-    "pct": -0.64
+    "price": 4118.3,
+    "change": -68.8,
+    "pct": -1.64
   },
   "Silver": {
-    "price": 60.89,
-    "change": -0.28,
-    "pct": -0.45
+    "price": 59.76,
+    "change": -1.4,
+    "pct": -2.29
   },
   "USD/INR": {
-    "price": 96.71,
-    "change": 0.37,
-    "pct": 0.38
+    "price": 96.76,
+    "change": 0.42,
+    "pct": 0.44
   },
   "Dollar Index": {
-    "price": 102.06,
-    "change": 0.23,
-    "pct": 0.22
+    "price": 102.37,
+    "change": 0.54,
+    "pct": 0.53
   },
   "US 10Y Yield": {
-    "price": 5.27,
-    "change": -0.04,
-    "pct": -0.79
+    "price": 5.33,
+    "change": 0.06,
+    "pct": 1.12
   },
   "news": [
     {
@@ -94,9 +94,9 @@
       "published": "Tue, 06 Oct 2026 05:12:42 GMT"
     },
     {
-      "title": "Stock Market Today Live: Sensex, Nifty decline as RBI shifts to tighter monetary policy - BusinessLine",
+      "title": "Stock Market Today Highlights: Sensex closes 429 pts, Nifty slips 0.76% as RBI rate hike; Adani Enterprises, Hindalco top losers - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRGR5TnlkMndJT083em5pR3REcFoyc3ZqM3pwZGZtWVQwZTFVem55ZUtNX1BybHdxbzlzeldHd0F0SVBhTFF2V1A5bTl4bXBLQjZyaURLZzBwNkdmUUZQS0hWNEtDTTFNOVh2aWVGOGJKX1dsZW1FdFVmWU5oWElJZVJDTHFraWFKYWZQcWd3WEpGWnFrMzBNU2tvUTBqM011SzJISFRIbFV4a2FhUUVoYWIwd19jdmFQWnk2TWJLUzJkNzFnNl800gHOAUFVX3lxTFBROTVuc2NidldCWXgzd3BfRk5DQzBtLXZveHlhV3JnazRwNk9wTnNTWHFoNGRXM24yRlpHaDJJb1VYQVJWZ0Jrem9ibWk0em9BUG5YZFQ5VWtQbmRIZHpQZWF5ZWw2dEsxbjlPM1lUd0IybW1PY3J1bEFzVU12UmhqZHozbl9WSkJTMDdReGxJRmtVVndfY01xSk1pYkltWkRjRVVmdzhpUjJCNWV5NWM0WFd2Z3lsYWpXazB4Mk9wOVZkOUw0U3Y4U3o4ekJ3?oc=5",
-      "published": "Wed, 07 Oct 2026 06:07:01 GMT"
+      "published": "Wed, 07 Oct 2026 11:45:44 GMT"
     },
     {
       "title": "Stock Market Today: Gift Nifty, RBI Policy To Gold Rate \u2014 Five Key Factors For Sensex, Nifty 50 On October 7 - NDTV Profit",
@@ -104,30 +104,30 @@
       "published": "Wed, 07 Oct 2026 01:28:39 GMT"
     },
     {
-      "title": "Stock Market LIVE: Sensex off 400 pts from day's low; Nifty reclaims 22,700; Nifty PSU Bank rises 1% - Business Standard",
+      "title": "Stock Market Close: Sensex falls 429 pts, Nifty ends at 22,603 as RBI hikes rate amid price pressure - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNNVVjbENmdWFZMW5hbkdIYjNiMFdyUUZqSjQ3RjMwXzIzTzduVHJiSGlpcVZjNUEwRm5xbkRvLVZsUERnS1VLOTE1T084WWRqUTBYM2Fycm9qSUowMkdnemlzTXYxTkNOMnVUY0FLZ25HZzJYRG14TnBMZGZ0QW5MQXRCQUJrVFRuWmYtNXRhamtFX3BGZ1ZqcjVUb2lvWEJrMEhrclRTRl93Y1hDUWVWQ01hNldXQU5CU2FXRDl0ck5wdmJ2a2dUb3ZPNkJBNzJQd3hYRTZTVWMzZkxBNm5OSHlITVlCeTl4TkhXX0htbFB4U3pTNnJDbDZtd1hLTU9xT1RJV1BKeTE0NW_SAZACQVVfeXFMTkt4WlRBMGtYQnVSWnJxcDIxRl9hWE1OdWdlOG5Gam1hOG1lVEhIQW9uZlBXUnZ3dl9kZWc2OGxZSEIzNFZ0RWlERjhYX0FJSWNIXzVjYXcyOWJWNWU1eDF5ejlsX0dVSHBIcnk3N2hHSFE5cDJoTHVqcXV1TG1VTVljTEpoMnV5eV9CdGZncFJNTjRwSU5FRTRHbk1kWDd5dXJrZmM4OGNNWE15WHM3Uk1LQmt4eWRLVlNRR21hcmVKYXZCNTBzWm42M01HQklTVVpkbkpQcExqbHhYSzFKclhtdGRKN1lxQmgzQlF4REZkbmV4MkpSeDRBcXVEZ1FJamU5OHk0YzlXVVdpbHJyaEI?oc=5",
-      "published": "Wed, 07 Oct 2026 06:10:20 GMT"
+      "published": "Wed, 07 Oct 2026 10:22:07 GMT"
     },
     {
-      "title": "RBI MPC 25 bps rate hike impact on stock market: Sensex, Nifty trim losses - Experts reveal what investors should do now - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSW0zczhnVTAxeHd2cU1JQ0JxMk93NUpSdmJYd1hKS0xRYXRIbklpR3VVakJxRjROSUJqTGwyZG5jZVdvc0hpa2ZkcjAtV1BlWGVQRC0yMmM1VnVzSVAxT1c1bWhwZmhIWE5zLW1sbXZFcU5rTVdKUFpIS080d3NVOGJ4cFNpVVAweHFYRk53ejl3Z0gzRUF3RE0wMkNka1RlN0doemkyd1JMaUtYV3R1MjBHTkRBQk5VZTFqUmk4M29BWkNsbWxpWWkzVTBFNVRJTEpPMnhWUzN4NVdkT19MX010azV1N3RlSUVQWkx3aE9WZmpvM2tuZ3M3OUJxUXczc3dDaHljN05ELVU?oc=5",
-      "published": "Wed, 07 Oct 2026 06:23:04 GMT"
+      "title": "Stock Market Highlights: Nifty at 22,600, Sensex falls 429 pts after RBI hikes rate for first time in nearly 4 - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZy1YSzEwaDdUbjhFREcwMWdpN0RIN2RXT2dfNmlMdmpEV0JoamZQLXdxNWdUeEp4TWxBdFdELVZ0djhoZzlScmd0WjR6dkRGQTlxMjhHcm0yZUZMRzFpRXZnczU1eGVlelMwTnFWZGJmZnREaFRtM2cxcWRXYnNTaXVza0E3SHF1SWxwdlM0OHZ2dl9WMHNyWE1udHd5cUpOZnoxZGFHN2YxMUl1OVV2cUNqYUdpZE5Rc0gzdzBvMlpja3BSRHVJaGVwcUtlbFBWdXJMWS1jREkxNlpoZjl1cTRMc0NxNUxELThsanR2UXJiS2VkSTN0RjZJY1FBRXZ4VzhvMUp3bVZiVFVzeVdCbzdR0gGXAkFVX3lxTFBtaHJIY3FvbThtWlNCaDJGbEk2WThHQ2JTbGVrOE9yT3pqcXdfa3BScVJ6LUNuSDRfZnA2RUVTSDJvUE53ZnFKM2tieTA1cTFFbGlfZmJhOGNHTzZKVkN5My1EWkJuZmVoT29sdXotYzNtTWVHaDZEMVFKRnR4bTBvcnh2Qk1DcWRfemJ2WVFzbk9OY3NKOUlGZEZfbVFTRnRQX0pOc095VlBZUjBVa2tsZkdCbndXbmthVEVfanJGTVNyR1hUc29UeWlxUUMtLUxNQ2tFS0ZyU1F5UkllY2h0ZUdkcmw2R2hXRmlEQ08tOUtSbllwTzY4clpUUGEycndyYXF2cVEteUFLLTZyZTlTeXBJbTFibw?oc=5",
+      "published": "Wed, 07 Oct 2026 10:15:12 GMT"
     },
     {
-      "title": "Sensex, Nifty opening: Will stock market rise ahead of RBI MPC? - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN2tpOWQwRFdubDZXbUdVTnd2YktOYmdLNXZNN2ZHTFBkZFZpTzZXS3FVb3pXM2c4X3RDVllVX1BuS25LQnJsdWc3MVphZHJPUnZ4RjRob0lpR0h5ZW13S0xCMmZQM3pMSlZMWnUwdERtUVRBOF91eWJMN2hxdEdESDNBcjhleVlCSzV3bjF5b3I2MW8tWTFhNnN6X2Q0bER5c200bXBYNFMzdXBHekZVUTJsSi14QnBrSkJmbzRzVkViWTZJZUtYMVJEcmZlN2lpOGpkSG05UGTSAd4BQVVfeXFMUEw4ZUZzMnVuVFA1OXNQeVd6UjdBcHk0aEVvUGxiR0tOU0s0X1BKZlJOQk1lWGVyb1FVM1BaNDZhYmRRMlE3X0JXWlJNY09MOVNWNGl6UDFTU0ZFV3JJdUdwQkl5VG5vSXZTeHJDNTFiaDIzYmM3N1BDQUVBSlllSE1aTjRGXzlRcWsyRTFwSjBzRm5zd09hb1U1eVVtbHhoM3pHbzJkVkZmOGdfS05qTTlwT3d1TDc1clNobFZJVjBkMFg4NFRjcGlrOWF6VkN2M0ozYmJOQjF2bURiMXFB?oc=5",
-      "published": "Mon, 05 Oct 2026 03:27:01 GMT"
-    },
-    {
-      "title": "Stock Market Today LIVE: Sensex, Nifty 50 Off-Day's Low; Kotak, ICICI Bank Rise, Titan Slips - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV201N0J2ODk1UnVQTWQ2UHprOEl4eGxPOHp1ald1Q1hySWNTcS1OVVo1MjlrSXhqUEVIbTZDVUhQajhKZ2xFVTZIMHZEbHRiUHNfUmVQeHJuWVFLYkZYbm5OUVZGWkh1WlVmUlM0OUc0YUc1ZThjUEplZ1ZIYVBzVDRKUFZYRDlJNGpKQ0xzaDB1ZUNvSWN1T3hUZG12Q0t6RFV2Qzd6TjcxTXdaUzJ6MmtKdHZ4bU92M0t1NWZwemVUbXVFNGFNTEJmdXdzSEdCdFlN0gHbAUFVX3lxTE9Hc3dEbVUyamJ5d0JGZnlwdU0ydHdVWkpkUTdZckFFOGF2eTE5ZzY5c21LSENic1dQZTc4MHJLeVZ5SVRwMXR6QjhUSmtoaF9YQmhrdnhobjNzX1l3NFFWTmtScjNxZGxCWVB2eEd0cnZ4ellGdzBVRGhlb2hud3g3UzRPWWx1T1Z4OWVYZ3NlTjJfT3ZIclFnOExuQ1NkcHpNeEZ4NWx0aFRxRjEzeHBiQVBheWo4S3JNdThmVWRsbXBZcVBfV25Ybm1DQkUtOEMyOC1Hc1N5Q2hqQQ?oc=5",
-      "published": "Wed, 07 Oct 2026 06:14:51 GMT"
+      "title": "RBI MPC 25 bps rate hike impact on stock market: Sensex, Nifty crash - Experts reveal what investors should do now - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSW0zczhnVTAxeHd2cU1JQ0JxMk93NUpSdmJYd1hKS0xRYXRIbklpR3VVakJxRjROSUJqTGwyZG5jZVdvc0hpa2ZkcjAtV1BlWGVQRC0yMmM1VnVzSVAxT1c1bWhwZmhIWE5zLW1sbXZFcU5rTVdKUFpIS080d3NVOGJ4cFNpVVAweHFYRk53ejl3Z0gzRUF3RE0wMkNka1RlN0doemkyd1JMaUtYV3R1MjBHTkRBQk5VZTFqUmk4M29BWkNsbWxpWWkzVTBFNVRJTEpPMnhWUzN4NVdkT19MX010azV1N3RlSUVQWkx3aE9WZmpvM2tuZ3M3OUJxUXczc3dDaHljN05ELVXSAZACQVVfeXFMUGFtWVFmWUFoOXV2OGtwb25zd3JtZjFVWGN4Tlp4R1kyTDBZbktKOVBVT280ZG5RZmoxS1RkTUJMNnd2T3Y0cTRSVTgycHRXa1FSY1VYUGhpRVpWbTc3UWpUNS1OS3pYazRIeENYY19hUWRRSGRkRjR5QkpWRVlHc0ZVNXA0YWE5bU5ZNUdhNEh1RndnZjVmTTIySHBpY0NIa1FjVVVlbDRhWS1OcTNtT0h3Slk2N3NXYURUM2VubU8tMmxsTGhwdFVXWW5pLU9XT2NaV1FKQTF4SmFfWlN6UU5QTFZUWDh2N3EzMXpSWHVsamtucF82SjVZMEpvX0lMbk9WbTBDTjBmaFY1LXdoWTI?oc=5",
+      "published": "Wed, 07 Oct 2026 11:02:36 GMT"
     },
     {
       "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmF0TGdKVDhMZFppQ1ZaWGdBWjRld0x4aTJHRTl5OWMyd1d3ZUZQTF9PeERyT2p1aGtlLVluYmdES0FjaTBIN0NlMk5KSHctMnhnVVVQaEFhVTU0YXBLZHJoMUptY216SHJudW9oU3llX280RWtiVEFGNldkWTlvYmdtaDZSZ2FfZmpvZzRYb0IwQ19kUW5mVVk1TkNSMzE0cm1QcjdOem8tNWlYcDNDWVNyY1FPb0FMTWZ6ekJBejJyWWl2NmhqQVNRQXNpUUpTZDU1VkVNWEZtVFhGSzBTYTZIbEZlUHFJdVpmTmFLZjUzRHh5SHRFUkJGQXRLTTRKY0Q1UGFGR2RldjN5Z2tubNIBlgJBVV95cUxNNjZFZmdwQVhHZElndVhuUG1fdXk2QXFZS25zbFNIZ3JDT1luVElkN2t5bFZ4bTRIQUJRNGtBLUUzWkppODcwQ09JZXdDQjhxcGVKaDBJdlh6cmR3U0Z4c1h1OS1hTG9abW11dC1RWFJVemVWbGtVQVFMa1VUSmV4UzVmM04yOE9TcjFScmtCWmNwVkE0djdhZHNlZWxLMXZNelAxVnJ4bGVRR191V3VrcFUzSmtsTGJ6OUNuTDRSZGExVm02UllqblFXSWpEeDZkdlRHQnVuRkFtVzBPRjBaaVJwUXo4TThwV3pIOXFJM3ZHM1V3N21OY0V4bnMwd3lqbFl6Ym9SS3U0b0tkbHFrTjV5Q0g4QQ?oc=5",
       "published": "Tue, 06 Oct 2026 08:45:03 GMT"
+    },
+    {
+      "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Why Are Sensex And Nifty Falling Today After RBI Repo Rate Hike To 5.5%? Check Key Market Triggers And Latest Updates - The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcXZ6ZXhkc0hDb0M1alFyTVpQWWh2ODBlZ0hDemNTdjdaVm9CbzNYeHEtRUtMQVF2a1Z5WWFDVjQwa04xVUlfZGNEQ3U0S2dlTUhtSFhGM3pvRk0wbDQ1UkhPMWZEaWVhVFRhelp5UnZqQkdVWW93VTRUTk8xSGR6LV8zUmN3NkRYSk5vTzdfNURWeDFCT3cyYWNYaFNTMWxTUVJGRkEwMFhPcE40SDZBalRmcjk4b1dfVkZKSkdHS19mSnZxMmtqRjdsVU5FS3RMM3BuLTZpNDl5YUpLZFNyZGlzN0N1RjNuYWVZNGhabnVEcFpuOGlRckgwcEpsWHkwVi1ianVpMVljX3lyekJwaEd1LUlOZkNTblY0a2p0SHlmMXMtWkNYd0VUbm5RUU15MXdz0gG4AkFVX3lxTE5SeE1BR1ZXSFVLU3B2RTl5Y3NRWVJQM2U0VWFGWGM2MjRib3V1WVdqMXp0R01PUG1TSkVsRVR6NHRjdjh1blp6OEozV2dRemtWRjZFcmVLRTFmdXluY05URlBrUWxsUVRsaHA3MmhBNWZTLURTdjAyLTRTUlYyY2cyUjYtTW5BTkdER2JKVEdUcDU2dHdBMDQ3a01TWFBvcGhpNDVWTUY5Q1pjbmlyV1Raei13dmVOd0tSTXFLQWdqd2t6OTN1bXJRUzZjV1JDR0hldWlqMWVrNnlZTE0zbjZ1YTdsVFZZZWIzRWYtUFBma2pzY2YxNUNZdDFGUF9GZzNxaERVZnl0M2t3VDVCby1jTGFfbk1RekFtcEM4eUw1NS1PYWRaczU0TWR2UnJ6UkFTejEwSktiVA?oc=5",
+      "published": "Wed, 07 Oct 2026 07:09:19 GMT"
     }
   ],
-  "last_updated": "2026-10-07 06:46 UTC"
+  "last_updated": "2026-10-07 14:08 UTC"
 }
