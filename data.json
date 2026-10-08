@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22332.5,
+    "change": -270.55,
+    "pct": -1.2
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 54744.1,
+    "change": -311.45,
+    "pct": -0.57
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 72231.83,
+    "change": -406.88,
+    "pct": -0.56
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 14.8,
+    "change": 0.91,
+    "pct": 6.53
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 28045.85,
+    "change": 288.0,
+    "pct": 1.04
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,38 +43,44 @@
     "pct": -0.22
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 69504.08,
+    "change": -531.63,
+    "pct": -0.76
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23922.73,
+    "change": -207.77,
+    "pct": -0.86
   },
   "Crude Oil (Brent)": {
-    "price": 100.98,
-    "change": 0.4,
-    "pct": 0.4
+    "price": 102.66,
+    "change": 2.46,
+    "pct": 2.46
   },
   "Crude Oil (WTI)": {
-    "price": 88.96,
-    "change": -0.48,
-    "pct": -0.54
+    "price": 90.3,
+    "change": 2.02,
+    "pct": 2.29
   },
   "Gold": {
-    "price": 4134.1,
-    "change": -53.0,
-    "pct": -1.27
+    "price": 4149.8,
+    "change": 9.1,
+    "pct": 0.22
   },
   "Silver": {
-    "price": 60.04,
-    "change": -1.13,
-    "pct": -1.84
+    "price": 59.92,
+    "change": 0.02,
+    "pct": 0.03
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 96.75,
+    "change": 0.38,
+    "pct": 0.4
   },
   "Dollar Index": {
-    "price": 102.24,
-    "change": 0.4,
-    "pct": 0.4
+    "price": 102.28,
+    "change": 0.04,
+    "pct": 0.04
   },
   "US 10Y Yield": {
     "price": 5.28,
@@ -103,15 +119,15 @@
       "published": "Wed, 07 Oct 2026 01:28:39 GMT"
     },
     {
-      "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmF0TGdKVDhMZFppQ1ZaWGdBWjRld0x4aTJHRTl5OWMyd1d3ZUZQTF9PeERyT2p1aGtlLVluYmdES0FjaTBIN0NlMk5KSHctMnhnVVVQaEFhVTU0YXBLZHJoMUptY216SHJudW9oU3llX280RWtiVEFGNldkWTlvYmdtaDZSZ2FfZmpvZzRYb0IwQ19kUW5mVVk1TkNSMzE0cm1QcjdOem8tNWlYcDNDWVNyY1FPb0FMTWZ6ekJBejJyWWl2NmhqQVNRQXNpUUpTZDU1VkVNWEZtVFhGSzBTYTZIbEZlUHFJdVpmTmFLZjUzRHh5SHRFUkJGQXRLTTRKY0Q1UGFGR2RldjN5Z2tubNIBlgJBVV95cUxNNjZFZmdwQVhHZElndVhuUG1fdXk2QXFZS25zbFNIZ3JDT1luVElkN2t5bFZ4bTRIQUJRNGtBLUUzWkppODcwQ09JZXdDQjhxcGVKaDBJdlh6cmR3U0Z4c1h1OS1hTG9abW11dC1RWFJVemVWbGtVQVFMa1VUSmV4UzVmM04yOE9TcjFScmtCWmNwVkE0djdhZHNlZWxLMXZNelAxVnJ4bGVRR191V3VrcFUzSmtsTGJ6OUNuTDRSZGExVm02UllqblFXSWpEeDZkdlRHQnVuRkFtVzBPRjBaaVJwUXo4TThwV3pIOXFJM3ZHM1V3N21OY0V4bnMwd3lqbFl6Ym9SS3U0b0tkbHFrTjV5Q0g4QQ?oc=5",
-      "published": "Tue, 06 Oct 2026 08:45:03 GMT"
-    },
-    {
       "title": "Sensex Today | Nifty 50 | Indian Stock Market Live: Why Are Sensex And Nifty Falling Today After RBI Repo Rate Hike To 5.5%? Check Key Market Triggers And Latest Updates - The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcXZ6ZXhkc0hDb0M1alFyTVpQWWh2ODBlZ0hDemNTdjdaVm9CbzNYeHEtRUtMQVF2a1Z5WWFDVjQwa04xVUlfZGNEQ3U0S2dlTUhtSFhGM3pvRk0wbDQ1UkhPMWZEaWVhVFRhelp5UnZqQkdVWW93VTRUTk8xSGR6LV8zUmN3NkRYSk5vTzdfNURWeDFCT3cyYWNYaFNTMWxTUVJGRkEwMFhPcE40SDZBalRmcjk4b1dfVkZKSkdHS19mSnZxMmtqRjdsVU5FS3RMM3BuLTZpNDl5YUpLZFNyZGlzN0N1RjNuYWVZNGhabnVEcFpuOGlRckgwcEpsWHkwVi1ianVpMVljX3lyekJwaEd1LUlOZkNTblY0a2p0SHlmMXMtWkNYd0VUbm5RUU15MXdz0gG4AkFVX3lxTE5SeE1BR1ZXSFVLU3B2RTl5Y3NRWVJQM2U0VWFGWGM2MjRib3V1WVdqMXp0R01PUG1TSkVsRVR6NHRjdjh1blp6OEozV2dRemtWRjZFcmVLRTFmdXluY05URlBrUWxsUVRsaHA3MmhBNWZTLURTdjAyLTRTUlYyY2cyUjYtTW5BTkdER2JKVEdUcDU2dHdBMDQ3a01TWFBvcGhpNDVWTUY5Q1pjbmlyV1Raei13dmVOd0tSTXFLQWdqd2t6OTN1bXJRUzZjV1JDR0hldWlqMWVrNnlZTE0zbjZ1YTdsVFZZZWIzRWYtUFBma2pzY2YxNUNZdDFGUF9GZzNxaERVZnl0M2t3VDVCby1jTGFfbk1RekFtcEM4eUw1NS1PYWRaczU0TWR2UnJ6UkFTejEwSktiVA?oc=5",
       "published": "Wed, 07 Oct 2026 07:09:19 GMT"
+    },
+    {
+      "title": "Sensex, Nifty up today: Why is Indian stock market rising ahead of RBI MPC meeting outcome? Explained with 3 reasons - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMmF0TGdKVDhMZFppQ1ZaWGdBWjRld0x4aTJHRTl5OWMyd1d3ZUZQTF9PeERyT2p1aGtlLVluYmdES0FjaTBIN0NlMk5KSHctMnhnVVVQaEFhVTU0YXBLZHJoMUptY216SHJudW9oU3llX280RWtiVEFGNldkWTlvYmdtaDZSZ2FfZmpvZzRYb0IwQ19kUW5mVVk1TkNSMzE0cm1QcjdOem8tNWlYcDNDWVNyY1FPb0FMTWZ6ekJBejJyWWl2NmhqQVNRQXNpUUpTZDU1VkVNWEZtVFhGSzBTYTZIbEZlUHFJdVpmTmFLZjUzRHh5SHRFUkJGQXRLTTRKY0Q1UGFGR2RldjN5Z2tubNIBlgJBVV95cUxNNjZFZmdwQVhHZElndVhuUG1fdXk2QXFZS25zbFNIZ3JDT1luVElkN2t5bFZ4bTRIQUJRNGtBLUUzWkppODcwQ09JZXdDQjhxcGVKaDBJdlh6cmR3U0Z4c1h1OS1hTG9abW11dC1RWFJVemVWbGtVQVFMa1VUSmV4UzVmM04yOE9TcjFScmtCWmNwVkE0djdhZHNlZWxLMXZNelAxVnJ4bGVRR191V3VrcFUzSmtsTGJ6OUNuTDRSZGExVm02UllqblFXSWpEeDZkdlRHQnVuRkFtVzBPRjBaaVJwUXo4TThwV3pIOXFJM3ZHM1V3N21OY0V4bnMwd3lqbFl6Ym9SS3U0b0tkbHFrTjV5Q0g4QQ?oc=5",
+      "published": "Tue, 06 Oct 2026 08:45:03 GMT"
     }
   ],
-  "last_updated": "2026-10-08 00:02 UTC"
+  "last_updated": "2026-10-08 05:59 UTC"
 }
