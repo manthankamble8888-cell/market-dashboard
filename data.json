@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22376.6,
+    "change": 144.8,
+    "pct": 0.65
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 55025.15,
+    "change": 510.1,
+    "pct": 0.94
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 72023.37,
+    "change": 430.12,
+    "pct": 0.6
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 14.71,
+    "change": -0.57,
+    "pct": -3.71
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 28412.3,
+    "change": 675.7,
+    "pct": 2.44
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,38 +43,34 @@
     "pct": -0.47
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 68674.69,
+    "change": -367.42,
+    "pct": -0.53
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24027.64,
+    "change": 241.85,
+    "pct": 1.02
   },
   "Crude Oil (Brent)": {
-    "price": 103.79,
-    "change": 3.59,
-    "pct": 3.58
-  },
-  "Crude Oil (WTI)": {
-    "price": 91.14,
-    "change": 2.86,
-    "pct": 3.24
-  },
-  "Gold": {
-    "price": 4167.5,
-    "change": 26.8,
-    "pct": 0.65
-  },
-  "Silver": {
-    "price": 59.76,
-    "change": -0.13,
-    "pct": -0.22
-  },
-  "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
+  "Crude Oil (WTI)": {
+    "error": "single positional indexer is out-of-bounds"
+  },
+  "Gold": {
+    "error": "single positional indexer is out-of-bounds"
+  },
+  "Silver": {
+    "error": "single positional indexer is out-of-bounds"
+  },
+  "USD/INR": {
+    "price": 96.72,
+    "change": -0.03,
+    "pct": -0.04
+  },
   "Dollar Index": {
-    "price": 102.13,
-    "change": -0.11,
-    "pct": -0.11
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 5.23,
@@ -72,6 +78,11 @@
     "pct": -0.87
   },
   "news": [
+    {
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
+    },
     {
       "title": "India's Sensex slumps to 32-month low on oil surge, foreign exodus - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRGc3d3VfemdCVm9OMG8tZFo3MFpXMmtQR3paUW9yMWFia0txelBIS0w2M3RSeDdRdzV2WkR0WmU2ZFdNVkUyUWJMbWQ1YVA0M3d0Y3hRQkMxa3FlMDMtSXZ1OHF6UWNaTzRmTklWVnpSNHp2bzdRT0F3SlNvVzVFQ0trU21MeHlOMmU4R3U1c0NNTmw0dGtoT1lORzRBOGdTaUMyRjFtWFc4bXdsemFV?oc=5",
@@ -83,19 +94,14 @@
       "published": "Thu, 08 Oct 2026 10:49:00 GMT"
     },
     {
-      "title": "Stock market prediction for today: Sensex, Nifty outlook for Friday | Kospi, Taiwan cues to watch | 9 Oct 2026 - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNeDE5UC1qdXVTd0xUcHg5Mjkwdk9Sc2FsOGZjQlRTYkotbWswbEhKeHVZbkg0V3BfdlRsOEw2QTN1OUlmVWhTdUljWUJYLWN2X194WkFKWG1xdEFYeGZmQTUxLWpHcEt2LUlGUXg1blhlU3BfSGktQWVNN3hxX1ZXTkxjcUNzUVZfb1RpVU1xTUZ1Z3VGSW53cTdUcTFXTGVMRUdhLXBqd2RldDlDMHdKSkYyUlZ6WndVYTlKVUNGVUpfTFJ5dlp6eHNMUFJZZmdmYXJMcGRtR2JBZU5wN29ndUx2MEhGa2hlMnp6Z19DTm85OWlzLXdtN1hSWE5pdE82dkp2ZkRzZ9IBjAJBVV95cUxONGFvYzVfQlpCMXE2Z29oR2xGWGVOMFF3UTFWTGhkU1B0TVhBdXFmRlU0Q181TS1wOWQ3bVkyTXJHd1hvbmRZa254RkZJRTNic3pVTjRwLVE3cG1hRkU5NzB1U2lpSVlvTXFfN3hRbDVOLXdoYlRRSWV5VHNMTUQ5MWJ4RG1JNG0xWjZzaWNTcjhCdi0xbTJZSlRfYXZmc0Q3TXRfMUtMcFdRQ3pFNnpKb0hvejBPd1F5a19saE55RXQ5R2Roc0N0ejVmNzc2SnhnWWZWNWxfSHNjWHdDSXVGLXppSlREUlVidTFoM1Ywa2JSaGlqc0lkZl95V0hDci1qSDNHVWUtV2hJV3My?oc=5",
-      "published": "Thu, 08 Oct 2026 11:46:16 GMT"
+      "title": "Benny Johnson: Indian stock market collapses after U.S. suspends foreign labor programs - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON0s5M0xLcVFfTjRBMmpnWFVNbHZ1UUJjYmZhWXFMakpYQ0h4NmduLXdldUdTSmlpT3ZwV2hRSzMtem5jX1dVVDdTcHdUMk12RU5aZVhJdmgzeW5EcEVSWmlQLWk2Nmh4V3FLbFhSNnNfZmdrRklRcGwwX1prSnVVX2RDMjVETWs2bHN3MW9Ccw?oc=5",
+      "published": "Fri, 09 Oct 2026 00:00:23 GMT"
     },
     {
-      "title": "Sensex fell 1,000 points: 5 reasons why stock market crashed today - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWm1DakxFYWJzYnFVWEQ5dkQ5cHR6TVZaeU5ral9iaEJIR3oxRTZXV2ZaM0x0Mm83TnpJRGxXU085RThXQldyZzhqMjN1eHYzTDB5dmF6czFWeWVZWGZ3cGNmVFR4aUhBQ1A2aGZ0QndGb2pKbDhnWVpyUE1femE0aGU3U2hDbnBYbGh4MWJBeGUyY2VtdkctcnE5S1NENmxVVXRqTXlyZl80b2pLZHNzakNXYTd4R3M0bGxTS0dGNTJadHd0cWVjRlFOVjE5UEtBU3hJeEJvVUhaazkzWUhLWXRQZ9IB6AFBVV95cUxQZ09hREVmdk8xR2Z0cUpzdTBXMnlnbUU3cjFBRlZwNDdpN0JGaFhTUDJqTUNmZlp3cHhWUjJCeDRVNnFOSTRsbFc5STZpT0FpUUlmTHh1LUhaeGxteC1HRm1fUGRGT2Q3OVlSSHRWQzFzdDJTSHFfaFkwXzZWU2dCSVRIUXg2U1Q1ZmdoLVhrb1VpdTVxWTF4SjFwakJ3Rk14VF9yazhXV1VkRVM1MjVIeHZLLURrckItcEotWTZwV184ay1zMjNZbEtDTlQ1OUE1N1gyd3FJU0JMYnBfMVByZEdHVlFQbnd5?oc=5",
-      "published": "Thu, 08 Oct 2026 08:19:31 GMT"
-    },
-    {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EdEhaMjJGMk1DR0ZaZkZfOVJ6V1pNODA0VlBGQ2p2eEtSNHc3ZzZ6d01sZVAwWE1HUkctaHk1aUNBTUY5ZXMxbVUxYWVFeFZHdU9aQW93UjlKbXhCSUE?oc=5",
-      "published": "Mon, 05 Oct 2026 23:14:04 GMT"
+      "title": "Stock market outlook today, 9 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Nikkei 225 cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVC1WdnJRY19KdE54clZ4cUV4VDRleVlxTW9oUmFFUmNfYUFHVmJHT0V4bHVHS3liRV9CMHdQM1ZFWGpfeDZNOHQ5T243MU9Ua1NsWG5CUjJHYWs2WURxVnhnUGtTTnh6WU9MRVFONkNCMjJsMmhmNi1EQzZ4d3RmNWZCMmtvNlF1UEpxVHZLdF9RUDdtNVlyQjBKVHJsWVpwaW5VN3VSV29DZ3BlU2xDb0xQNXlsNlZ0QkI1R1N3bGJoUThzMUJyX2ZLc1dMR3F4aGQwa0FmcmZMdjN3UnRyT3N2am5ORlNiLUhVMlV4Yldjbkg5MEplbkJYSklqZ9IBgwJBVV95cUxQMXhlbG1PMWg3UTJrZXJqM0lvQVJmUDRDWHUybVhHdHJqalJmeFI3NDhWQmtSZTFJUkY5eGd2XzZEc0FHWm8xUUIwZDNhN3QxaVdnMVdRYWJGTTh2SjFxSXJWVmR1MUJjTElDOXM2bUJFejF1VXJoeWhpQTMtQ19COXNsR3V0ZHlSSU9RODctSTZfQnZjbTBYNWRfNDlFYjFrMlJQc21Hc0hUOXloYkRTWHk2Y0pBWW0xb2o3TTQzdUJnTE1ybEhDeHBlNzFaVTdTa0luM0w4dkNjZzIxcUhtUllOWjJqQmdHTWZ4REJESjMzWC0zZ2Q0NkJuOHJmOEd4Wlk0?oc=5",
+      "published": "Fri, 09 Oct 2026 01:18:06 GMT"
     },
     {
       "title": "When Will the Indian Stock Market Recover and Start Rising? - Equitymaster",
@@ -103,15 +109,15 @@
       "published": "Thu, 08 Oct 2026 00:30:00 GMT"
     },
     {
-      "title": "Why Is Stock Market Crashing Today? Crude Jitters, RBI Tone Among 3 Reasons Behind D-Street Selloff - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeE12S2lqQy16M0lTWVBhOFotUmdwRFhid1RiRjM5RXBoUFN2QThJb0RLVkpIeGV6YnVlTGhQSGJ4VURKZkx0bU5LV0d1azNoTC1lX0hPb2tndENiS0g0bmFQbjNwQkhXdl8zUG9vem1mV090d3NTcjJ2X1FtSkxWaEhOY2JwZXk1WUM5TGQ4ank4cklMNllYNTFtRGxHS3FnRWNKdmItajJCcm9aZ0NWei1XT09GUlpNRXBMRHhtOUVkZkxIcG5SckVvVDl0ZEc0X0RN0gHbAUFVX3lxTFBXSTI4aDZSMEIwRlBGVHFGNzh1Y2loaW1XN0o5aVVyZ2ZxalpZeEhQQU05SU1icXF5a3lkbzlJLS1TMnRrby1ZMTVuMHotNXZCbjlrYmd1U2s1UkJZTUkwM3g0YmFYWlVva0VORThMOWlub1NjRjRyZjJmczhidnFDU1FHR1llUUpxS0RqUlExLXhXT1psUGJ2cGY5aC1yMTRYd1dnbVZnNkZ1eUlXSFh1LXpBakdPaGVzZVpfVXFkcDJwREFBZUZyLV9LcEdwcExzcHg4akkyekM3UQ?oc=5",
-      "published": "Thu, 08 Oct 2026 05:01:01 GMT"
+      "title": "Sensex fell 1,000 points: 5 reasons why stock market crashed today - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWm1DakxFYWJzYnFVWEQ5dkQ5cHR6TVZaeU5ral9iaEJIR3oxRTZXV2ZaM0x0Mm83TnpJRGxXU085RThXQldyZzhqMjN1eHYzTDB5dmF6czFWeWVZWGZ3cGNmVFR4aUhBQ1A2aGZ0QndGb2pKbDhnWVpyUE1femE0aGU3U2hDbnBYbGh4MWJBeGUyY2VtdkctcnE5S1NENmxVVXRqTXlyZl80b2pLZHNzakNXYTd4R3M0bGxTS0dGNTJadHd0cWVjRlFOVjE5UEtBU3hJeEJvVUhaazkzWUhLWXRQZ9IB6AFBVV95cUxQZ09hREVmdk8xR2Z0cUpzdTBXMnlnbUU3cjFBRlZwNDdpN0JGaFhTUDJqTUNmZlp3cHhWUjJCeDRVNnFOSTRsbFc5STZpT0FpUUlmTHh1LUhaeGxteC1HRm1fUGRGT2Q3OVlSSHRWQzFzdDJTSHFfaFkwXzZWU2dCSVRIUXg2U1Q1ZmdoLVhrb1VpdTVxWTF4SjFwakJ3Rk14VF9yazhXV1VkRVM1MjVIeHZLLURrckItcEotWTZwV184ay1zMjNZbEtDTlQ1OUE1N1gyd3FJU0JMYnBfMVByZEdHVlFQbnd5?oc=5",
+      "published": "Thu, 08 Oct 2026 08:19:31 GMT"
     },
     {
-      "title": "India stocks lower at close of trade; Nifty 50 down 1.64% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQemFhVjhZX1BTNGRjYnNFTk01U2p6OUlsWmtYSHc2MERmdndydGdWZEhtQ3JUYml6Sk5yVFl4OVFvTzB6Um9tNFBramYxRWFXWDFYZ2FRbi1HdFk0cUlXUHBtT0k2UGdjX2RVUTBpOHJZYTg1aFpzQWFiem92czliWUduanEzRGk3MjZMWTlZMVhHRUlxOTQwOHlRMnM1aVJoaE1lMk9KMmJyRnVBM2kyVw?oc=5",
-      "published": "Thu, 08 Oct 2026 10:35:40 GMT"
+      "title": "Stock market crash today: BSE Sensex tanks over 1,000 points; Nifty50 at 22,231 - top reasons for fall - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOOEVDMlh3ZDZtWFpiU2VmakpnY29hTEl4QnJibTk5LVhtWlB1ZFNXaDZDLTJtRDU3Q3BkVE5ieXlCY2lHLVVvV1Bub0FaYTA2M01iZEpPdnhqS0lVZDVESDRfVUltclBlUGZuQlRSclppTzdsaFFkSXFKcEIySDRhd3k5UzNiMkE3R01uLXN5VzFPaVNRVWtiTzF4cU1CdzdoRHlJaTJndzZzMFNtaDNOa3hHZWdYeHdHNktFRjZRcy05MXJtZmtlMHhKWEg3eUF2ZEVYeENlWnJhOEg2TE53RUJJeXZIdG9xSE5wMG5nWGhjbUdRTDMxcGt3Y2hyUkFoZ1ZiSlowWWFqcm1ueVlRc2FSSGJhV1ZmVUhHQU43VGJkM2l4TWlnb2lxZFBSa0JVamVEa3FxVXYtZ9IBvwJBVV95cUxQNHczMnIwSFY2WVlXdldDNGlMNTVvdFRsNzRGLXE2X0NpbldxMWN6OTR6dnRudmhGdkZ0bWVmVTh2d3BVY3R3azNaMlRUcVZ2T1hKd2lzR3JEcTVjUy1xUHE5WFVmeW04OHRJTXpNalExUkhEUm90am5mY1VtSnpRWGVsM2dTMVo3RmlKRnhQNVFwT0Q2Q1B6cE5SSVB6eUJRaFNOSDlIOWZXQ0wyaFdXNWphdkJ4TldkSVk1MXhhUXVncVRQSGtmeW9zMWFQeXgweGdOcTA4RW5pYnFvZUJXa09NbS1uQk1pRTRaMVhVN0lqSnlIbzVnN3djRjZYdVdkNTFYY0NZQmVxS0c4NmpOc1BtV3dFd0JxWmpsSTluNEtwN1BLS1lzQldwNjNUVDlzLUYzVU1fM1RVeDhUNGQw?oc=5",
+      "published": "Thu, 08 Oct 2026 06:43:00 GMT"
     }
   ],
-  "last_updated": "2026-10-08 23:50 UTC"
+  "last_updated": "2026-10-09 04:01 UTC"
 }
