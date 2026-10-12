@@ -53,16 +53,24 @@
     "pct": 1.79
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 103.43,
+    "change": -1.29,
+    "pct": -1.23
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 90.63,
+    "change": -1.22,
+    "pct": -1.33
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4228.9,
+    "change": 12.6,
+    "pct": 0.3
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 61.55,
+    "change": 0.88,
+    "pct": 1.45
   },
   "USD/INR": {
     "price": 96.78,
@@ -70,7 +78,9 @@
     "pct": -0.04
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 102.14,
+    "change": -0.07,
+    "pct": -0.07
   },
   "US 10Y Yield": {
     "price": 5.24,
@@ -119,5 +129,5 @@
       "published": "Sun, 11 Oct 2026 17:38:49 GMT"
     }
   ],
-  "last_updated": "2026-10-11 21:20 UTC"
+  "last_updated": "2026-10-12 00:40 UTC"
 }
