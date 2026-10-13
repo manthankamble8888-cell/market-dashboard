@@ -1,25 +1,35 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22363.35,
+    "change": -157.1,
+    "pct": -0.7
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 54918.0,
+    "change": -338.65,
+    "pct": -0.61
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 71924.68,
+    "change": -547.65,
+    "pct": -0.76
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 15.25,
+    "change": 0.87,
+    "pct": 6.05
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 28349.6,
+    "change": -225.3,
+    "pct": -0.79
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51850.55,
-    "change": 195.6,
+    "price": 51850.6,
+    "change": 195.65,
     "pct": 0.38
   },
   "Nasdaq": {
@@ -33,12 +43,14 @@
     "pct": -0.06
   },
   "Nikkei 225": {
-    "price": 69030.92,
-    "change": -11.19,
-    "pct": -0.02
+    "price": 67292.39,
+    "change": -1738.53,
+    "pct": -2.52
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24049.55,
+    "change": -221.65,
+    "pct": -0.91
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -53,9 +65,7 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 95.76,
-    "change": -1.06,
-    "pct": -1.1
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -72,14 +82,14 @@
       "published": "Mon, 12 Oct 2026 02:29:00 GMT"
     },
     {
+      "title": "Stock market outlook today, 13 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZ29zV2t0QTZVWXJjQnl0QXVLZW5IczJOcmRuWmtRVGh0SkkzU2k1dzVwazJTOEVEZnM0NzFrVUFKNHlVUEZ1M1d5YkRRYi01bU1NdVZGT1M2T3EwOVd6V3FrOTBhR1VSRk1YWk5Gdnh3Vmw0UW1mWHhLY0Z0d09vbXdoZzhPNW1sQUV6NUwyOHpuOHdiaWFGUFVPSDg4MU9mVE95cGRwNUl2QUlvLVZFRWlicmQ1eXNobDdzaUZFTS1uU0JLcjBta3FKbGoyT3ZUbU56QlhydktfTUlNTnkyOUx1MDljeWtMblZsaGVwa3d4bjVRM1VJNEEzNlZ3RldsZW5MX9IBigJBVV95cUxOWWFob3JvbmdURmFpVkJJazVtMUkycDdaZHJKLVVUMW44bElPcUs3NzVaSW5jUWpCenJFTXdFdlJKQV9MX0Fzam5mU0JsYVVaMzBzb1BjNFV2YW5fRlBvRGZsRHB6RmJaQUNLZXJGWlZGUzhHMW5aZWM2TGZBaG9ZZ25aZ0FrRWF6WnhfWDFadlRTbXlWb2VWQ2pVVkYzSlZNU0ZmYThwem4wcHdSMkNBel9zbGJNSGM0LW9TeWNEVWZtVWk0RE5uTTJiNXZyN1pGZE9jSC11TXlLcFp5WlU3UDZKX2dFYnhuVGk2MUNkUEYxWWdHYVVzV0d0dl80WUZyQ3JwQWFZYVNyQQ?oc=5",
+      "published": "Tue, 13 Oct 2026 01:15:02 GMT"
+    },
+    {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "published": "Mon, 05 Oct 2026 23:13:11 GMT"
-    },
-    {
-      "title": "Why is stock market down today? Sensex, Nifty 50 crash - Top 3 factors behind stock market decline explained - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPRkF5OVJkVnk0dGJCck1lTlloc1lRRUg2bXlQYlgzOUh2Z0RmeWpVQmJrV01BLTJlTTE1anRjd1NXdmlRR1ZPQVREMjRpR3F4elotUmJ6RnRxTW9faUNWOWxGY1Q2T2lGNUQ0dlN4VE5Yc1hXME5XbTU0cFMyRFFQQVVmeHYtYlk3Um9ELUJLQnBhc0Vkd2plOGFkR1ZsR0RDVFNSRmlpR2RzQTRVNXpGQmZ2Q0l6SDhfSlNXRWhHUVFOS213UHExTDZtU2NteUxZOG5TbTNKdFg3MlRaWXl1c0JONTc3b0x4alFfUmUwWFpINUN0TXE2b1QzM1drSVM5TWVGONIBigJBVV95cUxNdkVHVHdLcWFVSU50TlNPYkpIUVBpaUNSYzlxZUJxdEdGTmNCeDJJeUVwLThqSDVkQ3ZaWGlpS1dMMnRBOWllYnNCZGZkOEszV0RUYVBmNHNyQjhJd0VlbnJqU2kyLTVqLW9zb2Z3WUxTY1ZPc0hQcTUxYV9Xc19abU1TeXNzRDhqRXd3Wjl5SE1uMlEycjhwOHVVanlTZHRHeHVyU1F0YmxhVmR5ekMwcXNBNjc5NjJKMkRJOF9hMHZKdVdKNXB1TVRaX0hmUVAzVkIwbWtFR3dpaE9ld3R3M2JFWGVhblRzYUM3Q2ZZaTNxREJGUU5yX2ZnS241R2h2bkNTTURSUmVsZw?oc=5",
-      "published": "Mon, 12 Oct 2026 08:25:53 GMT"
     },
     {
       "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
@@ -87,25 +97,25 @@
       "published": "Mon, 12 Oct 2026 06:00:13 GMT"
     },
     {
-      "title": "Stock Market Opens Strong: Nifty Up 1.5%, Sensex Rallies 1,516 Pts; Rupee Recovers as Trump Delays Iran Strike - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcm00Zl9MbkdZSWxpRF9NVm41U0xDRUpqaHRVWDN3MjNYeUJZYTQ4WExLQVJ4N1lyRXlnTGhqeDVBNk5OOWctVXgxRzZGdGEteFM0OUtrYlU0ajRCajJKWVdwWHduWHRISGRVNkpTMnFBYmREdi1jTW81b3JtRVJscUpNcGJzSGdnNVU4REFBWDVoZHNtSFY3VDBMaS0xb1hKX3ZQZ2ktOTdqenV6TFFTcV94R240c25YTXlZTU5RSVZ6ZG1hY19nVnFJQV9IcWl4Ym5UZ1d6WQ?oc=5",
-      "published": "Mon, 12 Oct 2026 15:04:36 GMT"
+      "title": "Oswal Pumps Plans Major Solar Manufacturing Expansion | Saatvik Green Energy Wins Major Solar Order | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMGt1VlYxWFNzajcyd3JUYXpvMTFaNnp2UkR1MnQzeTNFWDJBWlZWTmFwdm1YTU9Da3E4U1M1UGwwZmpWSE5xcWJ1MWFNZVZoTWZ2OXI0ZXJPWno4N2xNeTZUM19DZk55TUNtS2NMOW1wQUZ5WlE1QjJtcHZ4eG5JTHhFZ0M2RERad1NUMTlIYnR5VDliR1BJTTZqa3Rycjd2TlB3Z2hhLWdqZ0NnR3N2cGY0VzJ2QWdRdTZNQ0NfTVdrOG1tS1VjcTNHcG5BNl8xQkZtVUxfWGtpTWlMYjJsMlpUY2V1QUJwcl9ZR2U0d2E0c2lUYURzcHJrS3lnVG41T1RqR2o5YTkyX0JxXzk4OXk4MGE4eFZ0UEd1cHpsb24wRlVPSVFVOU5ld0o5VVVPamVxZlhkWk55RG91S1FFN3E0dTJHSFZqMWpYYkFZa3F0RDhOdWEyOWhoVkJUQWVpc0VQX0ZTa196dW54MUFBOUJUYTc5dnc?oc=5",
+      "published": "Tue, 13 Oct 2026 00:30:00 GMT"
     },
     {
-      "title": "Sensex Today Tanks 547 Points | Nifty Below 22,400 | 3 Reasons Why Indian Share Markets Are Falling - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSzZIcjFwWnRtT3JEbHpQT083a3hUNmZTVW02QThwUVlpOTdPOTZla3pYUXdCTDZmMERxZVUweWJycEpnSzBEeTlrMHpfcExqMTRyQlBTVUY1eEJDeUtYSDQ0N01Bd21RU3pCMEpKZDZmaEhweS1zdVhzNHdaTC1IcWxVeHFXZ2U2Rjg0T3pNUGl0NlhMY3hsQVUtMUFWbGRGbHlWOEhJVUN1YmR4bllpUlB1MllkQm4wVjViWnN6ZWpfYkdNTjM2V0tETVJqcWQ4ZEpBbV9VOE9XSTNSMDBpaFBrR0lTVHZMTDRSajNR?oc=5",
-      "published": "Mon, 12 Oct 2026 10:17:46 GMT"
+      "title": "Stock Market Today LIVE: GIFT Nifty signals positive start for Sensex, Nifty; Crude tops $106 - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNGYzTmNkVkFGeC0tcXE2SVY3TDgxZDQzYUR2ZDlTUXNEY0lETDVtMzE4Rk52SVVuQ0FIMUhNV01ZNndjZWJUMFo5a0lndlhnZVp5S1FkQ2UzbXE2OGZHRWtvNlhlcXJvQ1VrZjJheTVlUTk1Q0RWZHQzNk9uWVNTYUgwbjduQjNnYS15LWVRWEd6SDI4aUdjNHZVM2JHdHlCRGhETkVqN2lfMHpjZE12QnFNZWdELVlwY0ROTUVsR2Iwdm8?oc=5",
+      "published": "Tue, 13 Oct 2026 02:37:24 GMT"
+    },
+    {
+      "title": "Stock market is crashing, but IPOs are seeing billions of dollars of investment. What\u2019s happening? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRFEwLS1oYkF1MnBfaTVKTXZGbS1pcllyc1h6UVlyLUVRcU9ON1ZuUFpXdVpBX3JQdTZyWV9UdWpTVzNLR1pCeHlBVkNuOFp4WUtycWxLUkpZTGZhSFVlQ2stSEhEZ3JGSnZ0TWdpR3dBY19Rb2Z2My1DR2dxdHFMZkVrc25kRHViRXpUZTBfUk9zbzFmQlY2NmUwaERSS0xFMVhIdWl5RE03MU5lNXY0SDVYU0Z3Tm9xUVRCVEdMb0tPemJyRzk5ekJoVVp5NnlWZURNUFlsZU91NlZEVVNpOHhnWVYwMUlBSHYtN3BUSU5SRVQ2OXhyYTI2bmR0bXhwZ1ZPb1lGUl9PTmhG?oc=5",
+      "published": "Sun, 11 Oct 2026 13:25:00 GMT"
     },
     {
       "title": "Sensex falls 500 points: 4 reasons why stock market is down today - India Today",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlJYRlY5Mmx5NmdKblRKUEVqZE5OYzEtX2RvQlJLUTNUX3pfbm9HajRuNmZMc18zVXo5SHVvNHJfaWdXVV9kM0VCRm96ME5WX3JSVllDZWFhQTB3Nk16ZFM3QzJOQ2s2Sk9XLU5lcmpqSXR1d2RFamlfOFJ4XzJ1b2ZRMERHenJaY25tc1JvVHJRWmhKbHVCVUpISUFqNzNsMlQtOGU2cDRGTnY0M2xpM1FvMUctTlVOWDFfYTgtRkpmUGI5QUlUeWlaVdIB0AFBVV95cUxNSHV6MU9OMEJNSzlRSWNJTm1XUFYzaFRjancxN2pJbnM4SkNQNGtwLVhvTDk4cFBpbzNRcFFnSDJ4Q1ljOFJnUGtDS1MzN3d3T2Jld0hpZUk5aWw0X2o3aWNjZU5nU1YtSmMtLXBxa3FINFJtdGFOQ09tWXR0cFNIcUc3c0REaFNhbjZid1BleGhHZHU1MWpWYXdUb0tNQkZCUDBMUGlDbm95Q1J5U2o3WkdUdXpFYkYtel8yUW95dEJZR253eXpHcXFxaE1OMVdC?oc=5",
       "published": "Mon, 12 Oct 2026 06:12:55 GMT"
-    },
-    {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday | Kospi, Taiwan cues to watch | 13 Oct 2026 - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaXd0OTJkQWdyYkRkN0pFZ0ZyT0lNaFB4bmM3eGJjSE04OEdjQ0wwMzR0dFNNYnQ5aTJkZ1RobER5Z1Z3QTJMRlBnQVROVHhfNG1KWWF2TXJNNlppSy1KTy15amczR2RqRVhzZUFrczRIcFJ1enBpYjNpTmlMbmFCVElEaEo0X0VBRklrbWhqVXVmOGEzMUtZRnRPRWFXWV92S09VNWdlTkIxT1doek5BdEJYQmlGRTRVajdJYWJ2ZU4zVTlHczJiSkZHbGd6ZTRGTmhpeW5rY093Z1Nh?oc=5",
-      "published": "Mon, 12 Oct 2026 10:35:47 GMT"
     }
   ],
-  "last_updated": "2026-10-12 22:56 UTC"
+  "last_updated": "2026-10-13 03:20 UTC"
 }
