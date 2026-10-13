@@ -1,35 +1,35 @@
 {
   "Nifty 50": {
-    "price": 22363.35,
-    "change": -157.1,
-    "pct": -0.7
+    "price": 22721.95,
+    "change": 358.6,
+    "pct": 1.6
   },
   "Bank Nifty": {
-    "price": 54918.0,
-    "change": -338.65,
-    "pct": -0.61
+    "price": 55481.05,
+    "change": 563.05,
+    "pct": 1.03
   },
   "Sensex": {
-    "price": 71924.68,
-    "change": -547.65,
-    "pct": -0.76
+    "price": 73033.78,
+    "change": 1109.1,
+    "pct": 1.54
   },
   "India VIX": {
-    "price": 15.25,
-    "change": 0.87,
-    "pct": 6.05
+    "price": 14.12,
+    "change": -1.13,
+    "pct": -7.41
   },
   "Nifty IT": {
-    "price": 28349.6,
-    "change": -225.3,
-    "pct": -0.79
+    "price": 29830.1,
+    "change": 1480.5,
+    "pct": 5.22
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51850.6,
-    "change": 195.65,
+    "price": 51850.55,
+    "change": 195.6,
     "pct": 0.38
   },
   "Nasdaq": {
@@ -43,32 +43,42 @@
     "pct": -0.06
   },
   "Nikkei 225": {
-    "price": 67292.39,
-    "change": -1738.53,
-    "pct": -2.52
+    "price": 67777.52,
+    "change": -1253.4,
+    "pct": -1.82
   },
   "Hang Seng": {
-    "price": 24049.55,
-    "change": -221.65,
-    "pct": -0.91
+    "price": 24345.22,
+    "change": 74.02,
+    "pct": 0.3
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 104.65,
+    "change": -2.0,
+    "pct": -1.88
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 91.95,
+    "change": -1.79,
+    "pct": -1.91
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4204.3,
+    "change": 13.7,
+    "pct": 0.33
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 60.58,
+    "change": 0.44,
+    "pct": 0.74
   },
   "USD/INR": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 102.3,
+    "change": -0.28,
+    "pct": -0.27
   },
   "US 10Y Yield": {
     "price": 5.24,
@@ -76,6 +86,11 @@
     "pct": -0.08
   },
   "news": [
+    {
+      "title": "Stock market rally today: Sensex ends over 1,100 points up, investors richer by Rs 4.12 lakh crore - what - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQOFFlSE1MaXRac3kyQ25rMDUxaXBoVi1MMUtsOGNITEtWUzNXV3R4YTB3RVlwY1JDQTM1ZlRURjF3TmRhWjliWnJhb1RHZG5paG13YVlKZXdsdTllYk1XWEF6Z3JIU2NCLVVuMEVZYmRTd0o4SFY1VVNMQTNMZklCWGs4bHVqcjVpMUtSSE9UeFFNXzZxV3YzZEx6V3cyVkowNUtzMm5DdFZCRm1VcVRSVGNtUXlyMUJFd2M1aUVaT1NoaEF3aWQ1MzluVGxfQzRMenh6YWVYRWh1cFlOUmdsUVJWME01Tm03RzlXSFZsT0pQZjlKTTBEVElMUmZyMEM0eC0yY21ycTFXeFYxeVpCNGlfQzhtdnZORVFGQVFWakkxOTdYclNzQTNOZEk1Um5vc0NtRTNfcW8yVmFRZm9DSW92Y2hxZGx1bU1HVGpLUThWSlRXTy1z0gHcAkFVX3lxTE5CZDZTb29DajhWaHpaUmloV201V0pJMUMxY2s3R244VTBIQkl5cjJwX29NaHo3emtWdEZuaF9uWGRVcHI2RlhXaXJSNVBxenlLLXpzR21GZDE3QXpja2ZMMzRQazFiUEVPZDhEbEZ4SDN0RGg4SG9MZ3MtZENQbFJFb0dGck5wRU1hNEljaWhzR2szOEVyWGlLbVVpRlNMYTB4QllCQ0RnbGstUlNhRDFBX0hoTmdrUXJYdzROZFNYV3NsaXYtOEZYQVRRV2p0NWxwek8wV2JEODR5SGtSd3F4clZJSkhfdExSQWJJRFNaY01LU1dadmZ2NGVBQ3hRMzhsYlh6SEJsUEFCUHpZTTM3VWhrOU5hNVRENW0yVmVoNjZTcU4zMGIyQnlvNnlyNHQ1VU1hUk5jTFRJNEFlbW9UMWRFSzFDWFhJMl96TmIwb2hmTFRmTUwzaHN1Ng?oc=5",
+      "published": "Tue, 13 Oct 2026 09:58:00 GMT"
+    },
     {
       "title": "India benchmark shares fall as inflation woes overshadow RBI support measures - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFsbDRhbVJGa21YRV9MV1BuQkhlUGNYVzlhUU5nMmR6NWdnd19ZaU1IWkYwVExZbVVJUWNoR3RNNnlodEpiTUJVelRKQ1I0SUJRQzFlNjl3cUszd0lpbW5KR3BFNnJDUkU5ZGpaRHdUdFFxODJOYmJ3TGp4S2NPMV8tRHdLVk8zTzktaS1Sa1kyUS1EZlNuaDQtN1Rwdmo4dGhIbVM0NUM3ZElSNExNZw?oc=5",
@@ -89,17 +104,17 @@
     {
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "published": "Mon, 05 Oct 2026 23:13:11 GMT"
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Why did market fall today? Sensex ends 548 pts lower, Nifty below 22,400. 5 triggers behind today's sellof - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnpXVTdHZUdZaUpLZWlyX1d1TTFRcGRITFRrYVJFY1NqS29PaUhtNmpxcVVuMmhobC1UOFpQd2R0OF9Kdm5jX1ozdnFPcFZiUFVJVEt4OWlMeEZkZm9IdmRQcndqNkJfc3RoYVB1Zm5iQzRRcEp6U2ViSWlwNXJ3SjdWaUNSSU56UzRXbTFGclB5cnR0a0tGNVN0SXZwYTEyV2c3VWp2WnFrcHRCbmptVlhUVExFdmFaT3VfaVBnMmJzSVMtaEZZbm9XNnE3cnR1OWp0RUMwM1ZwdTRLaU9ydnhQdGxrQmFFZlZJdXpOWjJyMlZGNnd0WTQwOUdOUjFlaW53ejY0OG5LMllCdk9ZY3NJczjSAZoCQVVfeXFMT0lDem83emZzSDZxdURPVzRtaUkxb1ROZWtRR0NCNTgxamp2Z3czUHRaZzBzV0Zkc0g0WlVPVURISjNqLS0tX1VaeHBSUW1XSHJLdzFyRG9NZEpMRnhBRTZxOWRDSU5TODYyMC1RTUx2MFlDeDlNY0RpQkZFZlRXelMxZ0Z6b3B2R1FDNTRPeFZGM25lYS1tRXZvdDRuVktKZFVKcjVCU0JMQWJ6QTAyVDFfeGZja2dlX19MSGcwR3FQbDZ2UTA1X0FQTTNkVmN4MHVURVVhZ1JpdzhHY09VWlZ2Ulk4MGpyRXBVSktmR21pV1d3MDR0QkRUTExpZDB6T3BRRS02Y2ZEanlERmtIRW16UV93cmdDRVhB?oc=5",
-      "published": "Mon, 12 Oct 2026 06:00:13 GMT"
+      "title": "Sensex Today Rallies 1,109 Points | Nifty Above 22,700 | 3 Reasons Why Indian Share Markets Are Rising - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNjI4ZUpGNTYwN29DN0FJWGJ5X3BieFFMQWhRTmRsTXhHbGRwVjZ4UktIUHZXS0RmRHhMbTRTd2RXRk5UM3FLUFl0TGdQTVRIRjJ3b1p6aElCdmhrWkdzYmNHUndiQmlCNEJzWmxPU3VyWV9tcTdid1I4OENKa2FHd3RxclBxcnhqWF9WbE1OVlJpWE9jUFpNSDRzQXNKTklQUm5Td0xOV0x4RVd6Q0p3YWNwaUh3OXI1ZXd3U09EalBJSEdYdGk4T3JVMkpXNVI5MXN2TnZ3S19nM090V0dxYWIzdzBnUjdSTHVfc29aMmhWN3F0OWdzNFVDa1k5YUhwbkxRM2tvbDhBODVFZndwSFZFWXo3bnI2SjkwMVljOUwzSXdKbjFXMTJrMEdaRlJ0MmVRVGxYXzhDaFNlTnZRZ0p0R053TmpZa2YyZVpKWGlnZFYy?oc=5",
+      "published": "Tue, 13 Oct 2026 10:26:09 GMT"
     },
     {
-      "title": "Oswal Pumps Plans Major Solar Manufacturing Expansion | Saatvik Green Energy Wins Major Solar Order | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQMGt1VlYxWFNzajcyd3JUYXpvMTFaNnp2UkR1MnQzeTNFWDJBWlZWTmFwdm1YTU9Da3E4U1M1UGwwZmpWSE5xcWJ1MWFNZVZoTWZ2OXI0ZXJPWno4N2xNeTZUM19DZk55TUNtS2NMOW1wQUZ5WlE1QjJtcHZ4eG5JTHhFZ0M2RERad1NUMTlIYnR5VDliR1BJTTZqa3Rycjd2TlB3Z2hhLWdqZ0NnR3N2cGY0VzJ2QWdRdTZNQ0NfTVdrOG1tS1VjcTNHcG5BNl8xQkZtVUxfWGtpTWlMYjJsMlpUY2V1QUJwcl9ZR2U0d2E0c2lUYURzcHJrS3lnVG41T1RqR2o5YTkyX0JxXzk4OXk4MGE4eFZ0UEd1cHpsb24wRlVPSVFVOU5ld0o5VVVPamVxZlhkWk55RG91S1FFN3E0dTJHSFZqMWpYYkFZa3F0RDhOdWEyOWhoVkJUQWVpc0VQX0ZTa196dW54MUFBOUJUYTc5dnc?oc=5",
-      "published": "Tue, 13 Oct 2026 00:30:00 GMT"
+      "title": "Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORVlEblR0UkhIX1BHTjE1LUkwdjVPWS1seGw1SFNwOGF3a2J4V2lSNUdXYnNRVFBacXFVYmlTeU1XLU9XMWRyelNzcld1aTRlVkYwTnJIRkxvaHlzbzItOWFRQjZmTlRDOFhEUnpEUWtKMHFycmV5WVE2aDR2ZW1XSGRBZHpRbEpYbFJxREp3S2NscFdUc2NFSzZHdUJaYUNqOXc4WktBMEJHZTI3Rlg4Z3p4d2dNZw?oc=5",
+      "published": "Tue, 13 Oct 2026 04:03:19 GMT"
     },
     {
       "title": "Stock Market Today LIVE: GIFT Nifty signals positive start for Sensex, Nifty; Crude tops $106 - IndiaIPO",
@@ -107,15 +122,10 @@
       "published": "Tue, 13 Oct 2026 02:37:24 GMT"
     },
     {
-      "title": "Stock market is crashing, but IPOs are seeing billions of dollars of investment. What\u2019s happening? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRFEwLS1oYkF1MnBfaTVKTXZGbS1pcllyc1h6UVlyLUVRcU9ON1ZuUFpXdVpBX3JQdTZyWV9UdWpTVzNLR1pCeHlBVkNuOFp4WUtycWxLUkpZTGZhSFVlQ2stSEhEZ3JGSnZ0TWdpR3dBY19Rb2Z2My1DR2dxdHFMZkVrc25kRHViRXpUZTBfUk9zbzFmQlY2NmUwaERSS0xFMVhIdWl5RE03MU5lNXY0SDVYU0Z3Tm9xUVRCVEdMb0tPemJyRzk5ekJoVVp5NnlWZURNUFlsZU91NlZEVVNpOHhnWVYwMUlBSHYtN3BUSU5SRVQ2OXhyYTI2bmR0bXhwZ1ZPb1lGUl9PTmhG?oc=5",
-      "published": "Sun, 11 Oct 2026 13:25:00 GMT"
-    },
-    {
-      "title": "Sensex falls 500 points: 4 reasons why stock market is down today - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdlJYRlY5Mmx5NmdKblRKUEVqZE5OYzEtX2RvQlJLUTNUX3pfbm9HajRuNmZMc18zVXo5SHVvNHJfaWdXVV9kM0VCRm96ME5WX3JSVllDZWFhQTB3Nk16ZFM3QzJOQ2s2Sk9XLU5lcmpqSXR1d2RFamlfOFJ4XzJ1b2ZRMERHenJaY25tc1JvVHJRWmhKbHVCVUpISUFqNzNsMlQtOGU2cDRGTnY0M2xpM1FvMUctTlVOWDFfYTgtRkpmUGI5QUlUeWlaVdIB0AFBVV95cUxNSHV6MU9OMEJNSzlRSWNJTm1XUFYzaFRjancxN2pJbnM4SkNQNGtwLVhvTDk4cFBpbzNRcFFnSDJ4Q1ljOFJnUGtDS1MzN3d3T2Jld0hpZUk5aWw0X2o3aWNjZU5nU1YtSmMtLXBxa3FINFJtdGFOQ09tWXR0cFNIcUc3c0REaFNhbjZid1BleGhHZHU1MWpWYXdUb0tNQkZCUDBMUGlDbm95Q1J5U2o3WkdUdXpFYkYtel8yUW95dEJZR253eXpHcXFxaE1OMVdC?oc=5",
-      "published": "Mon, 12 Oct 2026 06:12:55 GMT"
+      "title": "Get detailed investment advice with Kwala Intel. The A to Z of the stock market, now in your own language! Explore Now \ud83d\udc49(https://app.kwalaintel.com/in) - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZVZGX2U3RVVpRTlDbFlzdnRSNTZWRkZ5VXhJQkRhY1N1c3FFOHBIVDcyV0N1TUhWUnl2VGEwX2FFS3ZWYUd1N1ZNSkVwUDh3N2Ztamt5bFkxRVd2WTJ6SEVZLXZGNFZFa1lhZFFDbGprVWZRQVlYY1FOUUpnMVRmOVlmVGI4M0V5WHh5YVNNcG8xcVdCcUpfNTBHRnZmS3ZPYlR3eVpRN0FwTHYybExPUC1pZnQxb2lKbWotZzkyR0FmZGdremg4Vl82MGtfTkpocV9YQklfMmpUZw?oc=5",
+      "published": "Sun, 11 Oct 2026 10:45:19 GMT"
     }
   ],
-  "last_updated": "2026-10-13 03:20 UTC"
+  "last_updated": "2026-10-13 10:52 UTC"
 }
