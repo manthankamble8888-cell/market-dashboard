@@ -1,76 +1,62 @@
 {
   "Nifty 50": {
-    "price": 23146.15,
-    "change": 148.8,
-    "pct": 0.65
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 55844.0,
-    "change": 33.5,
-    "pct": 0.06
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 74729.27,
-    "change": 413.66,
-    "pct": 0.56
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 14.02,
-    "change": -0.01,
-    "pct": -0.04
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 31924.1,
-    "change": 1204.3,
-    "pct": 3.92
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52385.99,
-    "change": 208.3,
-    "pct": 0.4
+    "price": 51883.67,
+    "change": -294.02,
+    "pct": -0.56
   },
   "Nasdaq": {
-    "price": 26588.38,
-    "change": -124.65,
-    "pct": -0.47
+    "price": 26129.69,
+    "change": -583.34,
+    "pct": -2.18
   },
   "S&P 500": {
-    "price": 7748.36,
-    "change": 4.3,
-    "pct": 0.06
+    "price": 7649.62,
+    "change": -94.44,
+    "pct": -1.22
   },
   "Nikkei 225": {
-    "price": 65324.29,
-    "change": 898.34,
-    "pct": 1.39
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24186.83,
-    "change": 124.11,
-    "pct": 0.52
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 105.62,
-    "change": -0.3,
-    "pct": -0.28
+    "price": 109.48,
+    "change": 3.56,
+    "pct": 3.36
   },
   "Crude Oil (WTI)": {
-    "price": 95.7,
-    "change": -2.27,
-    "pct": -2.32
+    "price": 98.91,
+    "change": 0.94,
+    "pct": 0.96
   },
   "Gold": {
-    "price": 4208.9,
-    "change": 38.8,
-    "pct": 0.93
+    "price": 4181.2,
+    "change": 11.1,
+    "pct": 0.27
   },
   "Silver": {
-    "price": 57.88,
-    "change": 1.04,
-    "pct": 1.84
+    "price": 57.17,
+    "change": 0.33,
+    "pct": 0.58
   },
   "USD/INR": {
     "price": 94.95,
@@ -78,14 +64,14 @@
     "pct": -0.21
   },
   "Dollar Index": {
-    "price": 101.66,
-    "change": -0.34,
-    "pct": -0.34
+    "price": 101.87,
+    "change": -0.13,
+    "pct": -0.13
   },
   "US 10Y Yield": {
-    "price": 5.09,
-    "change": -0.0,
-    "pct": -0.04
+    "price": 5.1,
+    "change": 0.01,
+    "pct": 0.29
   },
   "news": [
     {
@@ -104,14 +90,19 @@
       "published": "Fri, 16 Oct 2026 10:37:38 GMT"
     },
     {
+      "title": "Share Market Weekly Review (October 12-16, 2026) - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oeTkyM3JOUkNNZi1hbGdCbzRTR1dMazc2aG9YbksydnBXNmpvWE1pT3NyRjhGT1J4ZEViUlNQSW1fU0RINmdDY05OZEgzRmMtZFNUZlEzWjlCZjVMaWZiT2kzYXB6dzVfRFlSQmowdndITDFPd3U2LTAxM0NvZw?oc=5",
+      "published": "Fri, 16 Oct 2026 17:30:29 GMT"
+    },
+    {
       "title": "Stock market outlook today, 16 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRXpHZ3doYXNTeF9qM3VvdXVqbHNIX3VfVGJoOFdkenk2WkRYZWxfdnc4RW1iRXZ0TlEwSUVYMndvSE5pNGVxcExQVFFjMzFpT3lXVlVGOThGVE9abnJpY0ZhSDAtd3hzRUE1NGtTN2llejRaajFfeWZLUHY4R1cxZGFSYUQyMW9Kd3BxS2ZjWW5aaExPT2FySzZROTJaR05hUDZSYVFlR294dVp6T295bHRrN1QtaHZybTZmRkRNcmxJNXJ6TVhBWjQ5dG1BRlJXR1ZoTmhRV3Zkak5qcmhDOW9uYTN5WnpQZnpOWmpPMFJ5bDlJSzE1SmtTLTVXQlB1STF5dNIBigJBVV95cUxPclAyUk55S1duaUUwWGo1VWhsTWJveG52amFVZWxGX1BvbmItSnFIUERkaGFLZjlILUxsNmZheWFyWDcxQWxZOVBmNXFYV0xRYTljZDlkTkpsbG4yNkhMNVpTanNYU01YU21YOGpQWTZJbnpsakN5TmdKX0x1ODdfR0dvWVlZVDFyd3I5M0ZBd0JyUi1DbW0zcDVhMk1hdGpDTXVCNUNESUVrSjdDcXJFRW9vRzNHODVXNGRCZ3M1Z0RlajhNVW1CUi1sbnZtbkozVl9tSUdDYnRwMmhoeTJUVzNyOEZvRTI1a0xERlBQckJta0FOWlNFSUxVSzE1MEpCUmRjc05hWkJUZw?oc=5",
       "published": "Fri, 16 Oct 2026 01:19:58 GMT"
     },
     {
-      "title": "Sensex Today Ends 417 Points Higher | Nifty Above 23,100 | Solara Active Pharma Sciences Up 9% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNS2tJcnBDcUhiZk12RXhkaVFpeW9ka3dKSlpJWnR0ODY4elU1UVU3MFVNSW83cGlCOTY4d2FDUnV6ZG1LbUpYYlUwamhNeUtrc0c2dzI0aVZ3aEo5S1BuRVlXNzBzbFQ5YldKM09qVnp6R05xV1RGbFdhYlYwRk93aWNjc3J1eVNwZXV0cnY1bmFkZktTMHBHNEl0bEhIVHV2SDBfZVJFZXNVOWdHcUxnX2R4VmJaQ0o4YlRKQ2xMNzlQQTlJUGZpbWVPZ0lxNndFTnQwUmlKQUdldi1xWjhfQXFqMUt4TlcwTTNaMTRCT1A1dWFSWjV2VUkyOVpWZDBCWC1QblZuYzFHT09XZGIzVnNVeENkZ3lUMjM3d21xZmtXaWtUa0dWOTNjbUNIVkF5QTJDclNvR3k1cF9mR2tMZWhKXzBfdENsOTlVdzczeUE5T3BoMUdPUHBXdU5Pd1Bscjhv?oc=5",
-      "published": "Fri, 16 Oct 2026 10:51:09 GMT"
+      "title": "Sensex Today Trades Higher | Nifty Above 23,000 | IT Stocks Shine - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPWDJ0TFA2aGFfLWZFTDlPUkxMVzNJeUdzTEx2U2RSY0U0U0EtV1dLc2poYkxFTlduVW5wUWMzLVBNdUZEYnFnUmpiSEc0T0QwNkt0d3EwRE5WdFpyek1Ydmc0eF9KY2JRZFdYMHhuQ2tpMklYVEVHano2Nk5mY0lDY3ZCcG5GSzZUOGozZWV3RUFZYkkxMk0yU0FjVDRaaEVZNUFpcVBvLWxVOUp6aWYtYzZnb0VNUVl6T2N3VEhuajZpeEVWRDlYRWpQSUJwTWJTWVBKbkU4RnoyNVZ6dTNqVVBKYUtfWDZZUmpMeTFfb01vUG00TDFqdTZQdFlrel96RFZfSDZYRVBJQnhYQkNWVVV1VkNVQTZoWjJ0WG5JeGRyQ2px?oc=5",
+      "published": "Fri, 16 Oct 2026 04:34:17 GMT"
     },
     {
       "title": "Share Market Today: Nifty 50, Bank Nifty | Oct 16, 2026 - Liquide Blog",
@@ -122,12 +113,7 @@
       "title": "Indian markets close higher on Friday as IT stocks lead gains - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObGpjc041Wm82bVlKdUI4SVhQQjRrNVlhRXozM0NSblRsTmoxU0labkhjeFVMYkQ3eE82N2FqOGEwbHN1OFZOd1RaM1Rkek5BLWszS09PTWFkWGVIaGV6UVpnUHhzT1AzLTFuUmxfaUVwY1hubnRpZ3JGZC0xb213NGpOTVhOQkpld0FlQ3laazVkTWlaTlRUYnNjMnpTMkFyZ1FVQ09LcGVIeVNrWnVNTWp4V3FkUdIBwwFBVV95cUxPSEEwRDlBTGJYOHM2SHNoaVE4cWktYjlOUVNYSVBXcWtUM1lsMlNmQ040YzhCZ3ZnTlB4cHhjN3pGbm5sS1QtWmNFQ09lellfbWdjcGhWeU80cl8yRElHUi1ZNXR0T2RRRG4tRlVMYTUzck5YUnJkNWxLeUdlRTFhSFJKUkhwU1A5WFl2MzZNenZKWC1SdHAwWXZZaXF1TUtlOHZYelVrcmtsdFptOHNvcV90SjgzbnE0Zlo1ZVBUbDFpTEE?oc=5",
       "published": "Fri, 16 Oct 2026 10:44:54 GMT"
-    },
-    {
-      "title": "Sensex jumps over 1,500 points: 5 reasons why the stock market is rising today - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeFMzaHg4dlhjYTJLX1hod2FPQXIwSG5WVHJRYVJyOWExWHNlYXZONExLTG9hOE80M1VNU25LdThoX0IwSk9lTkVPem5zS3U0OE1NVTk0SVp1UHV5SXc3X0ZMLTlPN21NUjZMXzV4RWplc19FekVQcFpqTGFYemJ1WjRSSG5BTkFWT1JZeEhFREVfZjViUU1yOGNpZHA5TERPRFNZM1lReEZfX1M1bEhCSlQ4eG1WbXczR1hTR2Y4cTZURDjSAcgBQVVfeXFMTUlYcUVaSGhTQTJyd09RMHhQSWdjRW9MSE4wYnVBSENNeVVtbkprWXpDR1ZMNjg0Tkpsc2V2eHFxRkhuUlo3aG5CajMzQ0ZzdzVadXl1RndWTU1YVlhHaE1fUFJPbTFhZzFzRWZkOWRYMkN2UnBxUkhFX0RrWG51eXo2MW5NTElLVnR3Tl9JQXlXQ0Z5V0k3NTFCeFRWOV9nZnhlWVhxNGlMTkJCbzctZnN1NEV5LW44M191eHktakJtOVlnbjRtRlg?oc=5",
-      "published": "Thu, 15 Oct 2026 08:57:21 GMT"
     }
   ],
-  "last_updated": "2026-10-16 14:49 UTC"
+  "last_updated": "2026-10-16 18:33 UTC"
 }
