@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23146.15,
+    "change": 148.8,
+    "pct": 0.65
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 55844.0,
+    "change": 33.5,
+    "pct": 0.06
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 74729.27,
+    "change": 413.66,
+    "pct": 0.56
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 14.06,
+    "change": 0.03,
+    "pct": 0.21
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 31924.1,
+    "change": 1204.3,
+    "pct": 3.92
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,10 +43,14 @@
     "pct": -1.09
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 65324.29,
+    "change": 898.34,
+    "pct": 1.39
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24186.83,
+    "change": 124.11,
+    "pct": 0.52
   },
   "Crude Oil (Brent)": {
     "price": 109.69,
@@ -115,5 +129,5 @@
       "published": "Fri, 16 Oct 2026 10:51:09 GMT"
     }
   ],
-  "last_updated": "2026-10-16 23:53 UTC"
+  "last_updated": "2026-10-17 02:31 UTC"
 }
