@@ -53,16 +53,24 @@
     "pct": 0.52
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 108.44,
+    "change": -1.42,
+    "pct": -1.29
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 97.89,
+    "change": -3.52,
+    "pct": -3.47
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 4203.4,
+    "change": 22.3,
+    "pct": 0.53
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 57.44,
+    "change": 0.45,
+    "pct": 0.79
   },
   "USD/INR": {
     "price": 94.95,
@@ -70,7 +78,9 @@
     "pct": 0.45
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 101.85,
+    "change": 0.01,
+    "pct": 0.01
   },
   "US 10Y Yield": {
     "price": 5.1,
@@ -78,6 +88,11 @@
     "pct": 0.18
   },
   "news": [
+    {
+      "title": "India\u2019s Finance Minister blames easy exits and excess liquidity for equity market's underperformance - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
+      "published": "Sun, 18 Oct 2026 23:00:01 GMT"
+    },
     {
       "title": "Indian share benchmarks log best day in four months on global AI slump - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDJqYmxJdGtiS3VzMHY0aFVac2x4X3k3cnlsSjFaQ1RvX1hvblpYU3RBYi12Vk8yYm1LMDVBOFR4SmtiQkVvVTBYYVNzdlJ0bFFacjVLS3VtcDlFVmc4czJhZk5BLTRjVldKcE5OWXZjSHRJb2lyVUVxR3J6aGdMUUoxbWlMazdENDc1bjJqenhqeXo4V040THNNMGNPdmYyamdlcVBWUEc1cS1OOW80SjZrcw?oc=5",
@@ -87,6 +102,11 @@
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Stock Market This Week: RBI MPC, Jio IPO, And US Jobless Claims Among Other Cues To Watch Out For - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjB5d2haZkJtbGdkekdKTFFlNUhybmRQWW9CTF9lWkxpU1BxclZJQWVtTjh4ZmtKRzN0Z2VmU0Q2dGRuZnV6RE5ra1BZekloTG1pRURHM2RXZlF5ZDBJLWhXQ2tkM1JnRUFnRFlWTllzMlhzNGFxTDYycVBDQVBzcjRwY3BCZUpVTmxHWFd6T3o3MzBiU3Z0RNIBpgFBVV95cUxOWUZQd3AzWXplX0Iwb0xmQkZIbERKQmlvdmNoa2FEcmQxV3p4QnNudDBSTUdJMFM3ZmdPQlZ2UnVpNy1fTUpHTHl1ZXBkNWs2VzZ3ZjlaWXg5OWlpbkRLMkpFa1FFdDhiUDB2XzduU2pVd1IybFhtQlZ6ZmZ6UGlVdWcyZm9QVlRjTVI4OWFreWRJWDgyLXluemtXYWZMQW1XOGJ5eHN3?oc=5",
+      "published": "Sun, 18 Oct 2026 11:51:05 GMT"
     },
     {
       "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
@@ -99,11 +119,6 @@
       "published": "Sun, 18 Oct 2026 11:53:55 GMT"
     },
     {
-      "title": "Stock Market This Week: RBI MPC, Jio IPO, And US Jobless Claims Among Other Cues To Watch Out For - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjB5d2haZkJtbGdkekdKTFFlNUhybmRQWW9CTF9lWkxpU1BxclZJQWVtTjh4ZmtKRzN0Z2VmU0Q2dGRuZnV6RE5ra1BZekloTG1pRURHM2RXZlF5ZDBJLWhXQ2tkM1JnRUFnRFlWTllzMlhzNGFxTDYycVBDQVBzcjRwY3BCZUpVTmxHWFd6T3o3MzBiU3Z0RNIBpgFBVV95cUxOWUZQd3AzWXplX0Iwb0xmQkZIbERKQmlvdmNoa2FEcmQxV3p4QnNudDBSTUdJMFM3ZmdPQlZ2UnVpNy1fTUpHTHl1ZXBkNWs2VzZ3ZjlaWXg5OWlpbkRLMkpFa1FFdDhiUDB2XzduU2pVd1IybFhtQlZ6ZmZ6UGlVdWcyZm9QVlRjTVI4OWFreWRJWDgyLXluemtXYWZMQW1XOGJ5eHN3?oc=5",
-      "published": "Sun, 18 Oct 2026 11:51:05 GMT"
-    },
-    {
       "title": "Stock market outlook: Geopolitical cues, earnings, foreign inflows & more to keep Dalal Street busy - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNWcyWFZLZ0FRS1JnZjJiRUNRTVFneEZtMG5Wa045UU1feXdEdGVMOTlZd1hHS1lTQkZYUXE5SWQ4TWlRY1FBQ2tXYkRxTm1ndXB4QmVDQ2VQSTltSTVFNDFxeHVkcjBoNDRVUXRaRThfZVdodm05YzRjc2pjTHAzMDRFTk5xeVZrQUtkSEQzSUNDWEp2emlMZTFPWEFyNmZlVmVGemhEN0lzaER0NjJMdVJ1bHF0WVp0NjdKMkpQSDRXWUh4ZTJ5TTRad2FRX0czUmdaQXZwV0x0d003R3NDM0FnLXU2Z1RYUnZ1cmk0UU9wNjVPdWNfdGE2Z3pBeExmaU5jamYzZkF5VXFf0gGSAkFVX3lxTE9kdm1uQU5CVl9XZnFCRDRWdDMzRTBzUy1QTHNsNmRKcEt5N2tVYzJmanVtU1h3SGIwMWctXzdqZ2tuZzBjYkdvcWFHSGFMdzBVSXd1UWpMdUhwYjZGWDVtU0NHblg0Z2JKWmxUYXY4dFNteUpySkljY01DNW8tZ2dfcDQ5ZlFhWC10MGNjWkVlNmYzR001ZzhGa2RBYV95Szk3cDZ4bHdJNUl6Q0RmSVF1RnMyMFphTW5oOHpPVWliSVV5LWVsclJpWG9KVU5OaTNrR3hjUWlZcEhxYllvMHBwZy1hZEcwMFUwaUs2dTJkb0d0VHZzY1R0XzlqbGRjQnpVbFZGXzI2OThDNnJIU29ES3c?oc=5",
       "published": "Sun, 18 Oct 2026 08:36:00 GMT"
@@ -112,12 +127,7 @@
       "title": "The Jio IPO factor for India's stock market this week - Livemint",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEdQTTIwMFo0bW5jZHZkR2NEcGdzckIyMmFRWlVWcnNfdzJoalRPd3RiNEptX0FaLXlHN0pGdVNPZm5sTl9hYVFocjRBdmlGRWc4Mmw4ZkQ0VXlwX2RGdXYwZnMxWXoxYVI5c0VDZmYza1psSWZEQWRQSlc2UTdxcGJRLTU4VDA4VlNqU3J0Y2pPLXJfSUFneGpNbFhQWjkwTk9SSVo5MjdPZzZsMS000gG0AUFVX3lxTE5BbWlOcnctcUhyR0F1ZEUzWEdSaWpETXVHWDQ5cmhfZG9tT3QzNVBySXBaNXREWlgyWExOVVUyVTVYa3Z5U05sbFNwNTluazdGZEY2S0pjNml5bl9iTENDWk0zeDdNMmhEZnV3YTNoZzFld09PaHJhU19FWVc4d2dqWExDVm9OMUVwVDE0aXkyYjdyOG44bjhxelNXeUZQTmJ1OGVjNEFLa2RVRlpONFFWaUVKTA?oc=5",
       "published": "Sun, 18 Oct 2026 15:46:10 GMT"
-    },
-    {
-      "title": "Sensex Crashes 1,000 Points: Rs 9 Lakh Crore Wiped Out As Foreign Investors Sell Indian Stocks En-Masse - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNXktbmdLdk5ia29mWlp6Q1QzRWdPaVFKVjlKRWR4RjNZaEJBZDg2MVcyRFlCT3JGeUd4c2dsdlMwaHhleVBralN4LWpOUEs2TWFxTWxUUXFudE9YUDB4T28xX294dkswTFJ5MmZZakY2ZDZSZTQ4QkJnVG9vWVJzQU5yTW9YTUY4NmpzLU1GbHF5Z0xRblZwU3N5MTlOa01NSnB6ZXZVOWNzSEd5bU5SQ2MyS2h6bGxm0gHAAUFVX3lxTE5PQVJTcVhrVlBVR1pReEp4d2UtQkRqRHNocXdrbUZDem9oOUpXbEJVYm5uU3Vyd000VU1ONE92Qkctc0t4OTVHZndldGJVOVpTbjFzU29tekxTaFBWaE9JZXpTUWtUajRUR3VyVEFabVhzVmEyYjRGdmlDRXpYOWQ1b2dwbU5Ya01Hc2ppcEpfeFJvTWk0OVN6b0Y5SHdPWnpDOHdYVVBENHNCZlRneGhuQkE0eTFERDlWYmpvVVhGTA?oc=5",
-      "published": "Thu, 01 Oct 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-10-18 21:53 UTC"
+  "last_updated": "2026-10-18 23:50 UTC"
 }
