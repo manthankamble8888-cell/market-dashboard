@@ -53,9 +53,7 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.92,
-    "change": 0.39,
-    "pct": 0.41
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -72,14 +70,14 @@
       "published": "Mon, 19 Oct 2026 08:34:00 GMT"
     },
     {
+      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr?oc=5",
+      "published": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
       "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
       "published": "Sun, 18 Oct 2026 23:00:01 GMT"
-    },
-    {
-      "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
-      "published": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
       "title": "Sensex, Nifty crash: Why is stock market down today? Massive wealth eroded; investors lose \u20b94 lakh crore - Top 3 reasons - Livemint",
@@ -97,9 +95,9 @@
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Rupee ends flat as stock slump, importer hedging erodes bounce - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa3NLUV9hTjZtMURDMENEaVZFZFBNWFNJVXNoakRPSjZTa1lGU1FQZHlVYU9HQVUyWGg0eDI3Y3lsRXFRZ2lhV0FSMFhPN3pwaHJ0SEVSOENrTUVtY1cxMjRZRWpxTVFwMDlJMURMRVN3dURIbVhQc3hiUTR3Nmh0QXJkUnRKNjJVSFkzTkFPYmRCT0JyZkpzaFF3LUJMZzlDbm5TMXRJUlZ1VUhSbXA4?oc=5",
-      "published": "Mon, 19 Oct 2026 02:37:00 GMT"
+      "title": "Indian share benchmarks log best day in four months on global AI slump - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDJqYmxJdGtiS3VzMHY0aFVac2x4X3k3cnlsSjFaQ1RvX1hvblpYU3RBYi12Vk8yYm1LMDVBOFR4SmtiQkVvVTBYYVNzdlJ0bFFacjVLS3VtcDlFVmc4czJhZk5BLTRjVldKcE5OWXZjSHRJb2lyVUVxR3J6aGdMUUoxbWlMazdENDc1bjJqenhqeXo4V040THNNMGNPdmYyamdlcVBWUEc1cS1OOW80SjZrcw?oc=5",
+      "published": "Thu, 15 Oct 2026 11:28:24 GMT"
     },
     {
       "title": "Sensex Today Tanks 876 Points | Nifty Below 28,900 | 3 Reasons Why Indian Share Markets Are Falling - Equitymaster",
@@ -107,5 +105,5 @@
       "published": "Mon, 19 Oct 2026 10:33:28 GMT"
     }
   ],
-  "last_updated": "2026-10-19 20:42 UTC"
+  "last_updated": "2026-10-19 23:56 UTC"
 }
