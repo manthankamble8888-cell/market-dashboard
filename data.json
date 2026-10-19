@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 23146.15,
-    "change": 148.8,
-    "pct": 0.65
+    "price": 22878.8,
+    "change": -267.35,
+    "pct": -1.16
   },
   "Bank Nifty": {
-    "price": 55844.0,
-    "change": 33.5,
-    "pct": 0.06
+    "price": 55439.4,
+    "change": -404.6,
+    "pct": -0.72
   },
   "Sensex": {
-    "price": 74729.27,
-    "change": 413.66,
-    "pct": 0.56
+    "price": 73859.69,
+    "change": -869.59,
+    "pct": -1.16
   },
   "India VIX": {
-    "price": 14.06,
-    "change": 0.03,
-    "pct": 0.21
+    "price": 14.88,
+    "change": 0.81,
+    "pct": 5.8
   },
   "Nifty IT": {
-    "price": 31924.1,
-    "change": 1204.3,
-    "pct": 3.92
+    "price": 31426.45,
+    "change": -497.65,
+    "pct": -1.56
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,9 +43,9 @@
     "pct": -1.09
   },
   "Nikkei 225": {
-    "price": 64534.03,
-    "change": -790.26,
-    "pct": -1.21
+    "price": 64916.7,
+    "change": -407.59,
+    "pct": -0.62
   },
   "Hang Seng": {
     "price": 24186.83,
@@ -53,34 +53,24 @@
     "pct": 0.52
   },
   "Crude Oil (Brent)": {
-    "price": 107.89,
-    "change": -1.97,
-    "pct": -1.79
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 97.49,
-    "change": -3.92,
-    "pct": -3.87
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 4194.1,
-    "change": 13.0,
-    "pct": 0.31
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 57.56,
-    "change": 0.57,
-    "pct": 0.99
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 94.95,
-    "change": 0.43,
-    "pct": 0.45
+    "price": 94.94,
+    "change": 0.41,
+    "pct": 0.44
   },
   "Dollar Index": {
-    "price": 101.83,
-    "change": -0.01,
-    "pct": -0.01
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 5.1,
@@ -89,12 +79,17 @@
   },
   "news": [
     {
-      "title": "India\u2019s Finance Minister blames easy exits and excess liquidity for equity market's underperformance - CNBC",
+      "title": "India\u2019s Finance Minister says easy exits and excess liquidity fuel equity market's underperformance - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
       "published": "Sun, 18 Oct 2026 23:00:01 GMT"
     },
     {
-      "title": "Indian shares seen muted; lenders' earnings take centre stage - Reuters",
+      "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxatIBigJBVV95cUxPSVBpdEpkTmRrYi1KMjlhamUwbWM1cHV2NjVnRjc5N0p5NzZHakpfUG5EX0pWNC1zYnByZ0REcFJiaGlGaVBiTlQyc3NPWHJpc3BEdDNkYXB5MVdKX3BhMkxramtPdkFHTndQcHZKb3JoMnVYQ2Z3TktVVTNycDZjQ3RoSDZOS2Y4MlQ4Y0x5dVBPMVdhQmVrM0xOS21vVTdueFlrbGY0bWtWOWxxT29IcnFnSGI1aVFJN0EtMm1DVE9DSkRTMGJvTnB4WW41X193V2xVc3BqZkVva3BJNUxiOEIwUFZWMm9Fd1dMa0F4T29nRUd5bHFaa1NjYkpyWHN6eUJLVEkxbjFmQQ?oc=5",
+      "published": "Mon, 19 Oct 2026 01:19:32 GMT"
+    },
+    {
+      "title": "Indian shares slip as private-bank earnings, elevated crude hit sentiment - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcW54YlY3d0RSd1ZZRVhTejMtMGtOWDVCclNUalp3RW1qLV9KaG1uR09VbUdMbnZCbWFoS2d0a1Y1X3FjSnhJUFVTdUNnSjlOM1pQTElIZ1F4MG0tQ0VNdExkbXZGZVV3bjd6MmhhcTQ2Ty1oQ0E5eGVUT3JNVVVnYlBOclQ1UC00Z09OTUVWVnFQQWlqbGl5Q255V0RNS0dZdDYwNnd5dlFpU1k?oc=5",
       "published": "Mon, 19 Oct 2026 02:25:00 GMT"
     },
@@ -104,30 +99,25 @@
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Persistent System Q2 FY27 Results | HDFC Life Insurance Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQcnNoMk4xanBRWlkzYlFhZW50LVkxcnF1Uzd5bFpyLUdROW5HNlJHVlNtWWtLQW40VWdHWWxCMzR0bzRSU2JnZVM4bnZCUUkxck40Tzcta2lQQWdBVzZvaFVkQUNpRU1XTW1IY0c3VjZtVU1NVkkwWi1TUlhmZWtncC1GVklRZkh3ZHlqSHE4NWxCVk9BMVpldUJqT3gzZDZ1VjM2Sm5wR0VLOHlhSVFZSGpSSmFiRG9GSUc1U1RsSl9CN2dfQkR6ZU95QU1RQ2ZGUkY3Nmt4WlNCZ2N0bzdyZjZWdHFmVHpoeFI0MW13Skh2V1dCOTdFNFRjUWloeVhlNnBUYktZZlFhUVU0TkhhNFZKZXpHYVc2cElGZUlWQ05YTS00Nk1oZFVGVjU3bFpGR3NiYjBaTlpjM05XbENEaUk4TnJiUHVhV1JQb04xRlRfZw?oc=5",
-      "published": "Mon, 19 Oct 2026 00:30:00 GMT"
+      "title": "Sensex Today Trades Lower | Nifty Below 23,050 | HDFC Bank & Axis Bank Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQNEJZdS12QmN1VUREMHV2azV3Qk9ZcThWbWRQcEF1ZlU1N3E1UDVBQjZhbVlWVm04RTRQdzNwb1hRRVBIR3NpU0FLaFcwZmxJZHNXVjhjWFpYajRmZXdiSjgwRDl5OGRMbzh1VVJsSk5BLWx4N2hhS0Ezb2Z2QlRBUVNTeks1dnJRaEhYM2FVeWdrWmpVaTJERTlTOWE4YnFZbTUwc2VUdEYxY1JvLUkyeUR0TWdtV0pQUFlYSURDbnUxWVFvanhhUk5XUkIwMFJYV05NX0RFRjZOd2FmRElreUYwenhlLTFGODhpMk5DTFA1cDVqZC1Jb1ZpazVNZ0RMaGxreUJ6d2FaN1N3SUF5UG83VVNMenhOY3ktZHo1NXQzSkZLcmY1TjBNNXlwczE3YVBGTk1YWDk?oc=5",
+      "published": "Mon, 19 Oct 2026 04:25:03 GMT"
     },
     {
-      "title": "Stock market outlook today, 19 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOeWk3MHF0dmg0MHRLelJLeXFud2JOV1Zxd0N0NVFtZWFOMWdqb2RxS3UxakwwbGM4dC1FZFdlYnNrNExjZ2xlNnpoenhDWm1OQ1VFcjRMMGhtMUN4aEppWlQ5MTZha2pSdURpSkF5V0M3VEtkTDk5Q3NXVkVUMFBMREpaODdYZ201alFLT2ZpVGpEemdKbzNReXYyQkdPZEM2N1o5UFYwQnQ4UzVqSWd4ZTFtOGFBZjJCUXJDajF0T0ZpMHdVVzRkenBfM1MxeV9lZkN1LU9CVUI3QU1YZnc2U1ZNS19ReWF4RE5MeWtyTERyOEZWZU8xN2VKZlFHU0htYWVxatIBigJBVV95cUxPSVBpdEpkTmRrYi1KMjlhamUwbWM1cHV2NjVnRjc5N0p5NzZHakpfUG5EX0pWNC1zYnByZ0REcFJiaGlGaVBiTlQyc3NPWHJpc3BEdDNkYXB5MVdKX3BhMkxramtPdkFHTndQcHZKb3JoMnVYQ2Z3TktVVTNycDZjQ3RoSDZOS2Y4MlQ4Y0x5dVBPMVdhQmVrM0xOS21vVTdueFlrbGY0bWtWOWxxT29IcnFnSGI1aVFJN0EtMm1DVE9DSkRTMGJvTnB4WW41X193V2xVc3BqZkVva3BJNUxiOEIwUFZWMm9Fd1dMa0F4T29nRUd5bHFaa1NjYkpyWHN6eUJLVEkxbjFmQQ?oc=5",
-      "published": "Mon, 19 Oct 2026 01:19:32 GMT"
+      "title": "As India\u2019s market snaps its longest slide in 25 years, an AI pick is up 49% - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNenZNZkNoWjBPSXF4RUFKSzZWX0N2eG1uNGZYcHJ2bkZTbnhrcVRlS2dDVm9faHo3S1huakdYbWFmTlNGSXpVVGpfeFdzajNoaFRzbjlwTlM2eEtEZmgzSTdHX25idDI5am9vLXFpZjRtWFY4djJ0RGUxdXpHZXhFUXB5STRtUUFSdTZfMWxPV2o3cEk2Mk9Td3VvYVY5M3g2Sl9IVXJlQWxzdVA3Mkl0ZmFqcWFuaFoycVVQSmp3LUFrb19odkFN?oc=5",
+      "published": "Mon, 19 Oct 2026 04:16:49 GMT"
     },
     {
-      "title": "Easy Exits, Excess Liquidity Behind Indian Stocks' Underperformance, Says Nirmala Sitharaman: Report - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPVlhhVlJSUWQ0NFVfNm5TYi01WjdGSkVEam5QYng0M3Y0Ym94aDA0WlVDT2JTc1dRZElCSzhTalB4SVlzMFJjeE1vRzVoNjhvLUVVUVJmLVVXVGRfajZEVHZEQm0zaGl4dGNxVFgzXzJ5MXUwNDgwZnB1QTl6WHk2QlRfVU1oUk5GYU43NU9CRDVBLWdMYTExcnR1aEItY0tUSFVFWEdiY1p1cUk5QU51WW5SejlNRXNmTjM4cE8zS0dnNWdUU21jbG1uRmNKWXpDaVZwNUJkTVlKdEw0Q2ZoMEk3VW0wMmVmX0s5OVhoaXhMbHRvaU9Qd3V2WHpUdkU1b2pIYldVQ2VJZmh4ejRYLW0xd0ZZQdIBngJBVV95cUxQZTdpYzlaUUQyX21XZk9Gb1BiUzhhUHBOdVYtaGc2VWZFa2toTUVaSnFkb0dCVG9JUEtXUVZ6T0EtTnpuMmhWOWpZem1YOVJHdDJDb1ZHMk1Sem9ZLWFINXFISFV3V1pwblkyNDdGdW5peklzSl9DTzZ5a01wX0dhTnY5RXIzOUdsQlZJRTlmN2ZEZjNEMTJEU1lQVUIxdkZUOEdTYXVFNHY2d2NVSkJrVkJMNVQ0Y1IzM2FqeVM5eDU1eEZRX29lOFpIX3duXzdoR3ppTHFScmFMbU9BVGN4X1VWTzBqNDlWb0JGc3hfZUtaQXBTUzNUQ095eUQ4UHBXMm91MUV4MHpiUDB2UEFOSVYteDVlZGJwelJwcjZ3?oc=5",
-      "published": "Mon, 19 Oct 2026 01:23:36 GMT"
+      "title": "Indian Stock Market Declines as Sensex Drops Over 400 Points - India News Network",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSE5KRlBpQjMyNDFfR1Q4QzNyREFGeFROLUFhZWhSaHk3MWdlWXBkWi1KMGRaV1ZTeDZzeHBvazZRdEhiWjhXZWo3VTQ2Vzk1WVZtQ1IwaEN3bVJOWDlKajJVTnJqdWJqY0l5b0dRQXM0REV4d3dJYlNtS0s5NFVqVWZuRzFWZHhoZV8ySFpUc2ozLURwM25iTU1FaHBnWFdFTUtweQ?oc=5",
+      "published": "Mon, 19 Oct 2026 06:36:35 GMT"
     },
     {
-      "title": "Indian Stock Market Outlook Next Week, October 19-23: Sensex, Nifty May Extend Rally Amid IT Buying, FII Flows - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXl0blpwbkdnWU85U0dNWnVoLXREMGMyT1ZUaVJCaWRvM3owdzZTODhiVS1TQk1fUk9ac1dtd1c2RHZ3MXJiWE1mbEktRUtfNzNxSnFyYTZNTVpHV053UF9lcWJBYlVzWVVpdzM5XzNiMU1XZldYSUVpOHEwY1ZxRWpWb29iNUhZSTdNQ0R0b0cwV3llMGJ3dWFkOHY1TnVHVDFHamlUUG1GNm42cHJnZVdFWjd6ZTRQbDNQRDVRX3dReXhKaHAwQVVQU00zQzZBbGtrSzJ4cWg2dw?oc=5",
-      "published": "Sun, 18 Oct 2026 11:53:55 GMT"
-    },
-    {
-      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWl3bzY2TEl0WEJaRWtLS0ZfV1l4NU5pdzJFbTl0NDgwZ2VEWHBBYzdBUGFXYnFYRGdRZm1UMHhPZjA0Y1VHSXowUkROclY5cDNwZ2VYMURJN0kxV0ZzSHpFcEI0TWtLMlpKd2ZwVlRMQm02S1hiRVFnVjQzaFNFenRXZC1KVm9KbTdrd29MWUh2blh6Z3dvU1Nn?oc=5",
-      "published": "Sun, 18 Oct 2026 09:46:20 GMT"
+      "title": "Three Reasons Why Markets Are Falling Today: Sensex Slumps 700 Points, Nifty Cracks Below 23,000 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTFM5R1hmT2Z2RkotRklzTXVoTHRCTmFmSEQwS1U4dlA2SzQ5YXZrQmhTN2ZQVU0wUGU4THJDd0lKNmpRdU5na09uclloQXhEQ3pNbmotYXcxZXNPSlJQLU1qeFlnb3NPMWVlUHI2Z2NaSHBCaXhIc3RvWndQTU9veFVwSWVCa2RYVTlod0U0YllMcHE5bU1RdXoxQ01mcHpuY1N5Z1k4OXlUUF8tNzl2N2dhV25VZ0dva2lKOUJ4a1BxMjN5TGRSUGxkMFhIemhsaVE2R9IB3AFBVV95cUxOY0pnQy1RZEE3LWwzMmVzVXlMQU9zX1dKeFVudGp6NlNCMlpIM0ZFa2RCekpqWjdjWDVMdFMxOHFId3UzWjgtUW1pb1QtZTRfbzR3NjEtU2Rnb2wyWnRtQWdBaXRLQlNQV0cxeklvdk1WRE04ZWdmMzF4R0NRYWctQ2cweUVOMEpXT084d1l6c0J3RGlwQlRFLTdRLXpoMHpacnIxbHBiYXB2NXZsTUhNUVFSM1ZGU2dhaFduXzNQaEhtRHJIODZ0LWJsREtaNGhaTjFwdFdldXRuaGkw?oc=5",
+      "published": "Mon, 19 Oct 2026 07:21:53 GMT"
     }
   ],
-  "last_updated": "2026-10-19 02:45 UTC"
+  "last_updated": "2026-10-19 08:06 UTC"
 }
