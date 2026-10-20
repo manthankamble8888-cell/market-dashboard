@@ -28,19 +28,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52481.37,
-    "change": 515.34,
-    "pct": 0.99
+    "price": 52495.88,
+    "change": 529.85,
+    "pct": 1.02
   },
   "Nasdaq": {
-    "price": 26485.33,
-    "change": 54.44,
-    "pct": 0.21
+    "price": 26424.82,
+    "change": -6.07,
+    "pct": -0.02
   },
   "S&P 500": {
-    "price": 7722.93,
-    "change": 32.2,
-    "pct": 0.42
+    "price": 7712.57,
+    "change": 21.84,
+    "pct": 0.28
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,39 +49,39 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 108.38,
-    "change": -1.17,
-    "pct": -1.07
+    "price": 109.12,
+    "change": -0.43,
+    "pct": -0.39
   },
   "Crude Oil (WTI)": {
-    "price": 97.52,
-    "change": -6.14,
-    "pct": -5.92
+    "price": 98.18,
+    "change": -5.48,
+    "pct": -5.29
   },
   "Gold": {
-    "price": 4144.6,
-    "change": -15.5,
-    "pct": -0.37
+    "price": 4142.5,
+    "change": -17.6,
+    "pct": -0.42
   },
   "Silver": {
-    "price": 58.04,
-    "change": 1.07,
-    "pct": 1.88
+    "price": 58.14,
+    "change": 1.17,
+    "pct": 2.05
   },
   "USD/INR": {
-    "price": 94.92,
-    "change": -0.06,
-    "pct": -0.07
+    "price": 94.77,
+    "change": -0.21,
+    "pct": -0.22
   },
   "Dollar Index": {
-    "price": 101.72,
-    "change": -0.26,
-    "pct": -0.26
+    "price": 101.7,
+    "change": -0.28,
+    "pct": -0.27
   },
   "US 10Y Yield": {
     "price": 5.12,
-    "change": -0.01,
-    "pct": -0.25
+    "change": -0.02,
+    "pct": -0.37
   },
   "news": [
     {
@@ -105,14 +105,14 @@
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
-      "published": "Tue, 20 Oct 2026 15:12:11 GMT"
-    },
-    {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcVB5dExGMi1SMkEwc3BfTk10Sm80amNqd0JYYU1PeUFYWTcwSk9TeGhEMDdyZ2JMY0pZeGVfbU12VnM5dF9VVVI3NlFNOUlrYkZzMFVWTWN1NDdKNlVhbnVkS0RFSzRrQ2t0TEl4NlNYYlBVeFlSd29CQU9LYWk0UWhxSFd6cnY4akxReFk1UGFFUFlVOGFhRExIbDZqUmZyTzg2MGZGWDlIT2lScTVGZ1ludEZfUFdRb1Jr0gHDAUFVX3lxTE02Zk9MNDBpdm1fQlg5MVEzdkowOTlLQ1pZMUY1VDRoWERQMmwzVXJKaHBVaGdDR3lOWHdmeHN1ZG5uVG1ZRUliWTg4eHpDa21JUGxQdThZQjNPeTQ5dkxMbldPei1Gb1RJU1RjR1dLUGRGX0NWRVZyTDNXSGhUU1J6ZjBoYk51SGVDV2FPVzhpZ1VXNjFmMHM3T01ZLU82Q0w5Z2I1NUo2aFhpd3BoOUNISlkxZDBVWE1Na2F3TWo3Z3J4aw?oc=5",
       "published": "Mon, 19 Oct 2026 08:06:20 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
+      "published": "Tue, 20 Oct 2026 15:12:11 GMT"
     },
     {
       "title": "Indian share benchmarks log best day in four months on global AI slump - Reuters",
@@ -125,5 +125,5 @@
       "published": "Mon, 19 Oct 2026 08:19:09 GMT"
     }
   ],
-  "last_updated": "2026-10-20 18:14 UTC"
+  "last_updated": "2026-10-20 21:38 UTC"
 }
