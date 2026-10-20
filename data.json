@@ -28,49 +28,45 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52333.97,
-    "change": 367.94,
-    "pct": 0.71
+    "price": 52481.37,
+    "change": 515.34,
+    "pct": 0.99
   },
   "Nasdaq": {
-    "price": 26253.86,
-    "change": -177.03,
-    "pct": -0.67
+    "price": 26485.33,
+    "change": 54.44,
+    "pct": 0.21
   },
   "S&P 500": {
-    "price": 7685.53,
-    "change": -5.2,
-    "pct": -0.07
+    "price": 7722.93,
+    "change": 32.2,
+    "pct": 0.42
   },
   "Nikkei 225": {
-    "price": 64075.42,
-    "change": -841.28,
-    "pct": -1.3
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 23867.74,
-    "change": -319.09,
-    "pct": -1.32
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 109.68,
-    "change": 0.13,
-    "pct": 0.12
+    "price": 108.38,
+    "change": -1.17,
+    "pct": -1.07
   },
   "Crude Oil (WTI)": {
-    "price": 98.92,
-    "change": -4.74,
-    "pct": -4.57
+    "price": 97.52,
+    "change": -6.14,
+    "pct": -5.92
   },
   "Gold": {
-    "price": 4147.7,
-    "change": -12.4,
-    "pct": -0.3
+    "price": 4144.6,
+    "change": -15.5,
+    "pct": -0.37
   },
   "Silver": {
-    "price": 57.6,
-    "change": 0.62,
-    "pct": 1.09
+    "price": 58.04,
+    "change": 1.07,
+    "pct": 1.88
   },
   "USD/INR": {
     "price": 94.92,
@@ -78,20 +74,20 @@
     "pct": -0.07
   },
   "Dollar Index": {
-    "price": 101.66,
-    "change": -0.32,
-    "pct": -0.31
+    "price": 101.72,
+    "change": -0.26,
+    "pct": -0.26
   },
   "US 10Y Yield": {
-    "price": 5.1,
-    "change": -0.03,
-    "pct": -0.62
+    "price": 5.12,
+    "change": -0.01,
+    "pct": -0.25
   },
   "news": [
     {
       "title": "Billionaire Mukesh Ambani launches India\u2019s biggest-ever IPO - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
-      "published": "Tue, 20 Oct 2026 12:36:00 GMT"
+      "published": "Tue, 20 Oct 2026 13:18:00 GMT"
     },
     {
       "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
@@ -99,7 +95,7 @@
       "published": "Sun, 18 Oct 2026 23:00:01 GMT"
     },
     {
-      "title": "Stock market crash today: Sensex plunges over 900 points, Nifty50 below 22,900 - top reasons for fall - The Times of India",
+      "title": "Stock market crash today: Sensex ends over 870 points down, Nifty50 below 22,900 - top reasons for fall - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQWkZVTHdkeGI4ek1UVHR2Nnd5d0ZMVDZGQVhteW1LcnBaVl8zVDNhcmhodjI2elk2VnlEOWlYc29WdWdpUGd1NWpkOUVoVU9WOEhoYlJ4S3pZaFNWaXhzdmRGam1oYjMyYUJ5eFIxYnZ6YlhBSVpua2R1dnZ0bUk1R3MzLXVsazZVbVROUXIyaU5ONWQ2OTBsN3ptamk1eGpjaF9wcXNvUEpULWIzQWpSTVBJVThqNTR3NzU3b0FSUUdKaHRIeE9DZ2RodFdCVEFDeVZEUVhLRFR0SkxFUEcxbHJwOU1VVVZJbEpSa1NuTy1NWkMyY1ZrSnhQRjdxdW5KUzNBc2NPVlNURF9oeFNDVEd2ZFV6ckVRTVROMklQTHFPMWVtZ0J5LUJTMDB2bk1tdlk4YWh5WG5SS0pKaUpMNEg2cWZlVWR0SlBJS2hQUGzSAdYCQVVfeXFMTUt2TjUwU3BGTUZPSHpNbzV3ZkpiYkd6a1RSOW5mYlNHSXhmZ1Q1TENsdTJYVmV4WXhqejJmTUVOU19kUWVfZGhmQkUxYTlWVGcxNnY0ZXp2VTBYb0VVZGNSUXZNTzJvckNIVHlnQWZWZ3pzcXBpeXk2cWdNMW1SbjRxcVVKZ3VoVTlTTVd1THdTNF9LTXNFSHNtOUdyeHR6ZFl5SEVWa1g5WW9HaUkwTUc1S3pyY1B2Y1JkY3dTVVNoaFQ4VVNXMERkVTdSbHNOS1loMEZNNHFzQ0NZM3d1amg5WEFwVXFvdnFLNkZhUlZkaGU2RE4zZWd6eThBMjlRRDRBT2lqR1hhMzhzTGpOQWtUWkU4Z2V2b2UxUHBBVFVJWmoxM21haWtJQzVYWXBtdzktYVRybmpPdDdzQ0ZvQmpWU041ZVJvM1BERGdlSDRsVXJLSDFn?oc=5",
       "published": "Mon, 19 Oct 2026 08:34:00 GMT"
     },
@@ -107,6 +103,11 @@
       "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
+      "published": "Tue, 20 Oct 2026 15:12:11 GMT"
     },
     {
       "title": "Stock Market Crash: Investors Lose Rs 5 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Why Market Are Falling Today - NDTV",
@@ -119,15 +120,10 @@
       "published": "Thu, 15 Oct 2026 11:28:24 GMT"
     },
     {
-      "title": "Stock market holiday: BSE, NSE shut for trading today due to Dussehra - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREh6QnpWQ1c3Y0p3OGR6bnRJR2FLYVRmVXVWaHNmRWZVUlRma20tbXN2WUFsYmZaVHgtcTFMNmxvYkpIMHBndHVmRkVBYXdVdHlfSDNya0JLTWtVNXBaeTVRRmUzLWZCNnBwZ2JLQk5DSURpYkd1eGNGLS1QN3l0VVZGRW9STWd1Q3d2UjBTbWZiZmlLRWV3NFQza21Gb0xsUHNXV3l3?oc=5",
-      "published": "Tue, 20 Oct 2026 02:32:47 GMT"
-    },
-    {
       "title": "Sensex, Nifty crash: Why is stock market down today? Massive wealth eroded; investors lose \u20b94 lakh crore - Top 3 reasons - Livemint",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQkZkTVdzeDR2dTBJQUtyMGhuaE5VMGNSTThUYWowbmV3enoyaHZ0UTRFQmtqSGlTT3NoNXZtUWl1TlpmWFJLODZCSi1XVE9zVXd5UUhnNEZPVllURExHcU1VWGwyTm5XWlpFbENWV3oxQ0l4VUxYOGdLMU5Zc2x3cTEtajQ3cFdLRlBVRGthUEhhMTZfZzd0Sm5ReG5jSzB6Yk9WTFl4ZEd4SXVWa3F6b1Rob3l2NmNCYzNfR21nWFEwbkw0SXgybzdZNzRHal9MWGh5b3BLTzl5SjVOel9pbEpRb0M3Z3hCODI2aWRQdlNWRVNFQkhZWFdYaTJ5d2hab05zMEk4dzJTWktIVzhrV9IBlgJBVV95cUxQdnlpS1lEQzRVWVdTOU1qenF6THdDQWxTZGZuUHI3a3VFclo4cWoxMDNNaWk4LVBQWS1fdS1STHRBQm1UWGZyOTI4T3Itc083RThDbGR4b2hpYks4S0dvbnAyYS1wM194NTZYSWhTQ3hoV2IzaExtRm5LUjdfYnk5cEV2UHFoYjJUejAwQmE4QTA2SXNTc29OVnRyVXJXRHNhWXVWTHhWYmNscmNlVnNPQURrY0xZVDV1c2VXZEpkYld0MlFwNkRnNm1nU2hqVlVMQnJEM1oyMW40SHF5WFJoQ3U5d0xSMUNNN1VSY2pQMjB5YWtwSU5zMGsyTHYyX2pfOTl0OWEwVjc5b0pHUXNvMjVWVXlzdw?oc=5",
       "published": "Mon, 19 Oct 2026 08:19:09 GMT"
     }
   ],
-  "last_updated": "2026-10-20 13:50 UTC"
+  "last_updated": "2026-10-20 18:14 UTC"
 }
