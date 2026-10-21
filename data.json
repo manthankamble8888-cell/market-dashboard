@@ -49,34 +49,32 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 109.12,
-    "change": -0.43,
-    "pct": -0.39
+    "price": 109.32,
+    "change": -0.23,
+    "pct": -0.21
   },
   "Crude Oil (WTI)": {
-    "price": 98.18,
-    "change": -5.48,
-    "pct": -5.29
+    "price": 98.39,
+    "change": -5.27,
+    "pct": -5.08
   },
   "Gold": {
-    "price": 4142.5,
-    "change": -17.6,
-    "pct": -0.42
+    "price": 4132.5,
+    "change": -27.6,
+    "pct": -0.66
   },
   "Silver": {
-    "price": 58.14,
-    "change": 1.17,
-    "pct": 2.05
+    "price": 57.93,
+    "change": 0.96,
+    "pct": 1.68
   },
   "USD/INR": {
-    "price": 94.77,
-    "change": -0.21,
-    "pct": -0.22
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 101.7,
-    "change": -0.28,
-    "pct": -0.27
+    "price": 101.79,
+    "change": -0.19,
+    "pct": -0.19
   },
   "US 10Y Yield": {
     "price": 5.12,
@@ -87,7 +85,7 @@
     {
       "title": "Billionaire Mukesh Ambani launches India\u2019s biggest-ever IPO - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
-      "published": "Tue, 20 Oct 2026 13:18:00 GMT"
+      "published": "Tue, 20 Oct 2026 22:57:00 GMT"
     },
     {
       "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
@@ -110,14 +108,14 @@
       "published": "Mon, 19 Oct 2026 08:06:20 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
-      "published": "Tue, 20 Oct 2026 15:12:11 GMT"
-    },
-    {
       "title": "Indian share benchmarks log best day in four months on global AI slump - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWDJqYmxJdGtiS3VzMHY0aFVac2x4X3k3cnlsSjFaQ1RvX1hvblpYU3RBYi12Vk8yYm1LMDVBOFR4SmtiQkVvVTBYYVNzdlJ0bFFacjVLS3VtcDlFVmc4czJhZk5BLTRjVldKcE5OWXZjSHRJb2lyVUVxR3J6aGdMUUoxbWlMazdENDc1bjJqenhqeXo4V040THNNMGNPdmYyamdlcVBWUEc1cS1OOW80SjZrcw?oc=5",
       "published": "Thu, 15 Oct 2026 11:28:24 GMT"
+    },
+    {
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdm5jTmpBZ19HVWpKclpZYlBkbmtvbVRJbmpHNXFuTm1ranl4VGs2d2pSN1pDSDQySEtKNVBUSkdPaWN4WGRMSXFFYTYyNUt6VzhzM1cyRDE1Z3MwS2VNQXh1d212RXBaMlZDbW9wVWd0RHE2aGJ5ai1nWERRNmwzTjJNbUZtN3FmTl9aTnRKdmtnRkRleDl5SWlWeC1lR0FBZEtwMm9DUndPZjY3WmxQVjdMWDN2bHFWdERvTTdmQ0NJNmt5Z0l3QmlfZG5fOVlETjRNODdBei1ST1dyU1NNazJlMNIB6AFBVV95cUxOdlNKZ0dZSm4wUUw3SzlWVTVHN2tTeUsxbkFickxxX09SazY5UWwwNEh2MnV3R2lISGlnNDRFUW1iV0piWGJBU0ItNGNhSWk3WkZKZVIwZDRkUERfRzAzT2hYUTkxb0ktTVVBME1BV2twZlB3SktzS3J5RHBCMkRwWmNBeXJFcS03anpCWUllc2xNUEcyRGVVdXZKSzZBekJqcTkzQkx6cVB2R0EzQmRxVmZhUnhST3pMbGpHd2FqTDRMTnpaNXV4cUhmRk92cmhvMlpBSGEzaHdBYjZZVkFEQVJiWWZTYXNf?oc=5",
+      "published": "Tue, 20 Oct 2026 15:12:11 GMT"
     },
     {
       "title": "Sensex, Nifty crash: Why is stock market down today? Massive wealth eroded; investors lose \u20b94 lakh crore - Top 3 reasons - Livemint",
@@ -125,5 +123,5 @@
       "published": "Mon, 19 Oct 2026 08:19:09 GMT"
     }
   ],
-  "last_updated": "2026-10-20 21:38 UTC"
+  "last_updated": "2026-10-21 00:08 UTC"
 }
