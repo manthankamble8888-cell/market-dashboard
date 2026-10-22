@@ -1,74 +1,62 @@
 {
   "Nifty 50": {
-    "price": 22687.65,
-    "change": -123.7,
-    "pct": -0.54
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 54925.7,
-    "change": -51.2,
-    "pct": -0.09
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 73249.39,
-    "change": -460.3,
-    "pct": -0.62
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 15.76,
-    "change": 0.08,
-    "pct": 0.53
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 32081.25,
-    "change": -341.25,
-    "pct": -1.05
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52748.49,
-    "change": -107.6,
-    "pct": -0.2
+    "price": 52780.89,
+    "change": -75.2,
+    "pct": -0.14
   },
   "Nasdaq": {
-    "price": 26160.15,
-    "change": -542.71,
-    "pct": -2.03
+    "price": 25966.39,
+    "change": -736.47,
+    "pct": -2.76
   },
   "S&P 500": {
-    "price": 7668.5,
-    "change": -88.67,
-    "pct": -1.14
+    "price": 7650.22,
+    "change": -106.95,
+    "pct": -1.38
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 22934.68,
-    "change": -717.19,
-    "pct": -3.03
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 111.29,
-    "change": 2.47,
-    "pct": 2.27
+    "price": 113.32,
+    "change": 4.5,
+    "pct": 4.14
   },
   "Crude Oil (WTI)": {
-    "price": 98.36,
-    "change": 1.21,
-    "pct": 1.25
+    "price": 99.53,
+    "change": 2.38,
+    "pct": 2.45
   },
   "Gold": {
-    "price": 4070.3,
-    "change": -79.7,
-    "pct": -1.92
+    "price": 4043.2,
+    "change": -106.8,
+    "pct": -2.57
   },
   "Silver": {
-    "price": 55.22,
-    "change": -2.2,
-    "pct": -3.83
+    "price": 54.64,
+    "change": -2.78,
+    "pct": -4.84
   },
   "USD/INR": {
     "price": 94.81,
@@ -76,16 +64,21 @@
     "pct": 0.1
   },
   "Dollar Index": {
-    "price": 101.78,
-    "change": -0.0,
-    "pct": -0.0
+    "price": 101.61,
+    "change": -0.17,
+    "pct": -0.17
   },
   "US 10Y Yield": {
-    "price": 5.01,
-    "change": -0.14,
-    "pct": -2.7
+    "price": 4.95,
+    "change": -0.19,
+    "pct": -3.75
   },
   "news": [
+    {
+      "title": "Indian shares extend losses as high oil prices heighten inflation worries - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZDhVMWdGc0J2bURPNnV2YnBaRXlMSkVqcXRGX1FBZ2lUOXQ4eVJyd3RsTE1CckJ4cjRuVEdPQVJLaGVXaVA5clJIZ0lQSTBsMm1iQ0xfeTZkNXhqWUtoX2ExQkNlRFVfSVhKckRtenZfWW41bDlxWWc0WVFuRTVTTHlIdEtPcEI2Z2hWR2pyd2NGOGRiNXNMUkM3OE5qcFV5VUxQUkVDem1HdXN4X0pKY3RrejhKeHcxRjdV?oc=5",
+      "published": "Thu, 22 Oct 2026 02:33:00 GMT"
+    },
     {
       "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
@@ -107,25 +100,20 @@
       "published": "Thu, 22 Oct 2026 04:02:09 GMT"
     },
     {
-      "title": "Three Reasons Why Market Is Falling Today: Sensex Tumbles 600 Points, Nifty Tests 22,600 - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE1adldhaXhXLVZDNURHbjQ3c1pXbk0taFlCUFFSaUp5bVd1U2NMUEp1UmdiamhXeTlSUHNfZ3BqdThERnc2V1JOMkc4T0FGMTVDMFFkaEtLdGctVUJkbk85WjBmNmFsTV9Pa3Vfc3JGVFkwcVlNLXpNaDFHX0RxQXh1OVREYVVVWGxTMkFxeGU2Nmx0dGJPSmM2MnlBX2l0VDFRVVZiWmNsTmViWWZ0Ny16QjA0X3U3TEY2QURKOWYzRXItWGpHd1NB0gHSAUFVX3lxTE5uQmY1aUhjazFNOVh1dXJxQkN2bkVpVXVrNlVMN3hQcDRVNVVTaFVzSlo0WGlyVk9kRlk1dDl5Z2JEcVlTalFXVVlRWVk3cFU4b2l3cjItTjJFa2lPejlxQ0VwYVJ2cmNZSHhWNC0yZUN0Mm9oUDBlR09NeGZlUElJM3YxNDI4MFR3QkNLMFRxQWgtNGtqNTF5TTdOM3p5Y2w4SWcybEJjRmZJTlBhcTYzcThSZGZFM3g5OGVYalBsLWh2Mkg0VHZuT2dSTE1rLS1KQQ?oc=5",
-      "published": "Thu, 22 Oct 2026 04:11:54 GMT"
-    },
-    {
       "title": "Billionaire Mukesh Ambani launches India\u2019s biggest-ever IPO - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
       "published": "Tue, 20 Oct 2026 22:57:00 GMT"
     },
     {
-      "title": "Stock Market Today: Sensex Falls 460 Points, Nifty Closes Below 22,700; Media, FMCG and IT Stocks Drag - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVU9BekUyYlJlTFVRTG12cVpLTURpTC02WU9obzdOdEFyMGZlb09vSlc3ak9xVW9vbnZQU25ZTVY5bl9fLVNLY0c1WExWWmh1b0R4dVhST2RVdWtKQVFpU2psT2RlYkZIcElVY1hKZnRkaEM2aXY3ZjFvSnRNRFB6VklINTE5cnFiUUVld3VSNUJDdjk5d2ptVW5MVUgybEx4SXpOcDRSWDJnbHpKQ3l4SnR6TWY2cmFoLVloVEFQZDR3M2J4ak5tc2hQREtaRVBsWXJoc2l0VQ?oc=5",
-      "published": "Thu, 22 Oct 2026 11:03:41 GMT"
+      "title": "Three Reasons Why Market Is Falling Today: Sensex Tumbles 600 Points, Nifty Tests 22,600 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE1adldhaXhXLVZDNURHbjQ3c1pXbk0taFlCUFFSaUp5bVd1U2NMUEp1UmdiamhXeTlSUHNfZ3BqdThERnc2V1JOMkc4T0FGMTVDMFFkaEtLdGctVUJkbk85WjBmNmFsTV9Pa3Vfc3JGVFkwcVlNLXpNaDFHX0RxQXh1OVREYVVVWGxTMkFxeGU2Nmx0dGJPSmM2MnlBX2l0VDFRVVZiWmNsTmViWWZ0Ny16QjA0X3U3TEY2QURKOWYzRXItWGpHd1NB0gHSAUFVX3lxTE5uQmY1aUhjazFNOVh1dXJxQkN2bkVpVXVrNlVMN3hQcDRVNVVTaFVzSlo0WGlyVk9kRlk1dDl5Z2JEcVlTalFXVVlRWVk3cFU4b2l3cjItTjJFa2lPejlxQ0VwYVJ2cmNZSHhWNC0yZUN0Mm9oUDBlR09NeGZlUElJM3YxNDI4MFR3QkNLMFRxQWgtNGtqNTF5TTdOM3p5Y2w4SWcybEJjRmZJTlBhcTYzcThSZGZFM3g5OGVYalBsLWh2Mkg0VHZuT2dSTE1rLS1KQQ?oc=5",
+      "published": "Thu, 22 Oct 2026 04:11:54 GMT"
     },
     {
-      "title": "Jio IPO Sees Overwhelming Demand on Day One Even as Indian Stocks Struggle - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTRlaEpBWGc4eU5aNEVXVEtscE10ZExZQU9NZVBsai1yMWJCNXVQRElQaTNaYXllc2ZXSXk4WldTVVZ2Y0s3bzEyRGdVdXIzRzUyLTlYdmRoNE9jamlVSWZySVV6R1NrUUJVUm1sZ09sNXUtbFNlc2l5NU9md2VVelJETEZTNktvdjhaeTMtMmZkeWVWeG9ubEJJeVhJaWc2MDZ5U2RKd0F3cEVFRkhlcThWZzRKeHdYVzBqbVZB?oc=5",
-      "published": "Thu, 22 Oct 2026 14:31:19 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-10-22 15:26 UTC"
+  "last_updated": "2026-10-22 19:20 UTC"
 }
