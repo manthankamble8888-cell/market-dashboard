@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52780.89,
-    "change": -75.2,
-    "pct": -0.14
+    "price": 52867.98,
+    "change": 11.89,
+    "pct": 0.02
   },
   "Nasdaq": {
-    "price": 25966.39,
-    "change": -736.47,
-    "pct": -2.76
+    "price": 26008.86,
+    "change": -694.0,
+    "pct": -2.6
   },
   "S&P 500": {
-    "price": 7650.22,
-    "change": -106.95,
-    "pct": -1.38
+    "price": 7663.43,
+    "change": -93.74,
+    "pct": -1.21
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 113.32,
-    "change": 4.5,
-    "pct": 4.14
+    "price": 112.92,
+    "change": 4.1,
+    "pct": 3.77
   },
   "Crude Oil (WTI)": {
-    "price": 99.53,
-    "change": 2.38,
-    "pct": 2.45
+    "price": 99.05,
+    "change": 1.9,
+    "pct": 1.96
   },
   "Gold": {
-    "price": 4043.2,
-    "change": -106.8,
-    "pct": -2.57
+    "price": 4045.6,
+    "change": -104.4,
+    "pct": -2.52
   },
   "Silver": {
-    "price": 54.64,
-    "change": -2.78,
-    "pct": -4.84
+    "price": 54.69,
+    "change": -2.73,
+    "pct": -4.75
   },
   "USD/INR": {
     "price": 94.81,
@@ -64,9 +64,9 @@
     "pct": 0.1
   },
   "Dollar Index": {
-    "price": 101.61,
-    "change": -0.17,
-    "pct": -0.17
+    "price": 101.62,
+    "change": -0.16,
+    "pct": -0.16
   },
   "US 10Y Yield": {
     "price": 4.95,
@@ -80,6 +80,11 @@
       "published": "Thu, 22 Oct 2026 02:33:00 GMT"
     },
     {
+      "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
+      "published": "Sun, 18 Oct 2026 23:00:01 GMT"
+    },
+    {
       "title": "Sensex down 500 points today: Why is stock market falling today? - India Today",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOakZkb2RoVENITm90YXpKRXZSU05UWGVtV0Z2WGhGMG1fa2JkSDFfcVB4NTR3ZjVqa2hWUzRUUGQtY3lLS2lYbW9PNUhnZE9hZXBHUGtWUnZVTmVQLVlQRElTdFNqOXhyQzU3azV5UWdKR201ejFvQXlwN19DTXhaRmJuSk1sbDFUYXFKNUtBUzgwTjFlcGNZeWJpRGIxWFBGWE5rejh3LUtlYWdYQm03TjFSR09VSy1ib01zbnN1enV3aWE1TG9ZXzVLUVVmSGxsbHdOR0ZNSXZkQzA3NEZwNDdB0gHnAUFVX3lxTFB1OXduRG1wSThoRXdCLTFWS1VuSW0wbGRteks2cHUwemdDOG5JdUZEaDljUE9IeFFGQU9pMUR5aHhqQnlZbmZxbWhHNUlJLWtTVFpZWGxGaG1ybi1zRlRidXpCQ0lwRml4NV8wM3gzNTI3Y0tJOVZEZWpNUXZ4dkF6bUYwM2w2N2FmS1pUZWtEbWdia1NsRjlpeFdDTWFjYXB6Z1FtZUpIVnhiNzFrNERTckY2Vmd4b1FsdXlERGJJYXB6bXl1aGxybFpJUmc3R1FaenoyMTRfUWFETFJCSEVmbnJpc21NRQ?oc=5",
       "published": "Thu, 22 Oct 2026 04:22:24 GMT"
@@ -90,9 +95,9 @@
       "published": "Thu, 22 Oct 2026 03:57:21 GMT"
     },
     {
-      "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
-      "published": "Sun, 18 Oct 2026 23:00:01 GMT"
+      "title": "Billionaire Mukesh Ambani launches India\u2019s biggest-ever IPO - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
+      "published": "Tue, 20 Oct 2026 22:57:00 GMT"
     },
     {
       "title": "Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak - The Economic Times",
@@ -100,20 +105,15 @@
       "published": "Thu, 22 Oct 2026 04:02:09 GMT"
     },
     {
-      "title": "Billionaire Mukesh Ambani launches India\u2019s biggest-ever IPO - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFI4MEM0WEZzYkZfZm1JRXRYV1dGZFlsTGNMSG9MdDlydFM5X3dfcjdoU1VHTERHZWFnRW5PanZZWDBuWEMxZVZMRDJTd2lyaGluOFI1X3NIR3Y2MUZVSTNJNkd1eldKV0VOTEJsMHE1UVlCT3Y5RjNFR2tKbW00NDRhZTJqU3ZwWlQzbzVEMTFfcTl6WXFfYTBERWJCaXVq?oc=5",
-      "published": "Tue, 20 Oct 2026 22:57:00 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Three Reasons Why Market Is Falling Today: Sensex Tumbles 600 Points, Nifty Tests 22,600 - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWE1adldhaXhXLVZDNURHbjQ3c1pXbk0taFlCUFFSaUp5bVd1U2NMUEp1UmdiamhXeTlSUHNfZ3BqdThERnc2V1JOMkc4T0FGMTVDMFFkaEtLdGctVUJkbk85WjBmNmFsTV9Pa3Vfc3JGVFkwcVlNLXpNaDFHX0RxQXh1OVREYVVVWGxTMkFxeGU2Nmx0dGJPSmM2MnlBX2l0VDFRVVZiWmNsTmViWWZ0Ny16QjA0X3U3TEY2QURKOWYzRXItWGpHd1NB0gHSAUFVX3lxTE5uQmY1aUhjazFNOVh1dXJxQkN2bkVpVXVrNlVMN3hQcDRVNVVTaFVzSlo0WGlyVk9kRlk1dDl5Z2JEcVlTalFXVVlRWVk3cFU4b2l3cjItTjJFa2lPejlxQ0VwYVJ2cmNZSHhWNC0yZUN0Mm9oUDBlR09NeGZlUElJM3YxNDI4MFR3QkNLMFRxQWgtNGtqNTF5TTdOM3p5Y2w4SWcybEJjRmZJTlBhcTYzcThSZGZFM3g5OGVYalBsLWh2Mkg0VHZuT2dSTE1rLS1KQQ?oc=5",
       "published": "Thu, 22 Oct 2026 04:11:54 GMT"
-    },
-    {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     }
   ],
-  "last_updated": "2026-10-22 19:20 UTC"
+  "last_updated": "2026-10-22 22:33 UTC"
 }
