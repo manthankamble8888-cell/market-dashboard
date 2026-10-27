@@ -39,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 109.56,
-    "change": -6.25,
-    "pct": -5.4
+    "price": 109.6,
+    "change": -6.21,
+    "pct": -5.36
   },
   "Crude Oil (WTI)": {
-    "price": 99.95,
-    "change": -1.81,
-    "pct": -1.78
+    "price": 100.07,
+    "change": -1.69,
+    "pct": -1.66
   },
   "Gold": {
-    "price": 4074.2,
-    "change": 35.8,
-    "pct": 0.89
+    "price": 4071.2,
+    "change": 32.8,
+    "pct": 0.81
   },
   "Silver": {
-    "price": 54.51,
-    "change": 0.4,
-    "pct": 0.74
+    "price": 54.47,
+    "change": 0.36,
+    "pct": 0.67
   },
   "USD/INR": {
     "price": 95.11,
@@ -64,9 +64,9 @@
     "pct": 0.18
   },
   "Dollar Index": {
-    "price": 102.31,
-    "change": 0.35,
-    "pct": 0.35
+    "price": 102.36,
+    "change": 0.4,
+    "pct": 0.4
   },
   "US 10Y Yield": {
     "price": 4.99,
@@ -85,24 +85,19 @@
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
-      "published": "Tue, 27 Oct 2026 01:30:37 GMT"
-    },
-    {
       "title": "Sensex Today Trades Higher | Nifty Above 22,600 | Kotak Mahindra & Sun Pharma Top Gainers - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbi0tSVlUd2QyOVhtbDZQSGlmMlB2T3dvMUlWeVBBekx0MXhOWklDQ0dJc2VpYzNMaTFiV2lMY3hNOU84OXdiaDBsR29RdnhYQkpLZnZKdlUxeHdnLS1aVTd0a2ZDU0wxZDRBM3pzaG1HSGFDU3FXN043enpROHF5WU5HM25PUXRRV1liZ2ttS0E2VTNEaDAwRnN5Wkx5dENMMHM1NkdvQ3JnaWhLVjE1Mnc3S3c5MmtBOXotVkxUd1BrY3Uxc3BXcUk4VmI4UkE0dnpWQnBwVEFYLVN4bTJKNzItWTJjamltMlNlemJUMWl4ZHYyQUJYeEZZaHRsOWpqU1NISEMzdnNyMmxCSG90d2tDOUU2b09saXdCblVXTklSUVg2a1ExYWZfZEliUVVFNWt0Q01OX3hKcU00Mmk4V2tyOA?oc=5",
       "published": "Mon, 26 Oct 2026 04:50:24 GMT"
     },
     {
-      "title": "Indian equity benchmarks muted as elevated oil, Fed in focus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcms4SkRwSDBJVER3QkV1VmoyX1pvTUlrcjRpSk4xSmNLNFZYNjh3Vi1LMGNfUnZPYnVscDdQZl9Xa0d4SHhKM1lDLXItNWh0aWMxNThJeVpMOEsxWXYwNUVXSWMtVWZRZjRRQlFUYk9tRUZxRUR1MWo0QUdPVE9TdzFnWDk0Qzd3NDZfYml4cGdSenVORGpfUTB6RTMyRV9BRmowWERaeWdsSFVLUU0zdFl3?oc=5",
-      "published": "Tue, 27 Oct 2026 02:28:00 GMT"
+      "title": "Stock market outlook today, 27 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUVVnVFprN1pwVWtldGFwam9RN2lqcVZPdDRPb3R0Tk84UmlicnBGWHlqanhVZ3JRRTFPcTliOE8xTkg0SkVqRFplanRfTHdDUXdpa3o3NGt3TmRIRHZ2NzZlU20zWHpTY1gtdGVuU1JEeXNvSU91M2QxUTJNMXNUVTczZWdKN0ZkSDBvUG9nOUE0X01GV3FjYU1ocDJuS1FzVW5lZ29DTG5wWEZPUS0yTWJyZGt4UVBLckowTTdtMXd5OGZFN2YwMGotelU3X0ZFRXNkalpydUtzN3lMamN2eWxoN2JYelhLY0V5dG1GeWppeFRNWjVzaTlMUlFsOGNqY1HSAYcCQVVfeXFMTnQ1TGxaT2xKNGpmMUw4dVpEeV84S19hclJFOGpRT1Q5V3BFSXFYZXR5YWZjYTdZSndVbFFZRUdSVldRekxQcVIwV3MyN1pxb24wTnFPZXQ1UmltTF8xSm9NeVhuc3JfTXZQeEpCVy1GbUNRbWI3M2NHTkhqYk03bXVLOGpVZ3g1Y3pMeE9oUkREWEhlZzNVZ3pNOVNlcGtfeG85UUk5M3A2SEVpR0Y1VWdlX2hreTlRV1p6VnVXSjNMUnZWYVhmSnh6T20tdDNKbUUyaHNhWS1tQVU2YXpBOGlTN3Y1QkVhRVQzWFJ4VU0tUHdfaWI5ekE1UnBZU09HdEs0bW1CTFE?oc=5",
+      "published": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Sensex, Nifty End Nearly Flat as Crude Oil, Fed Caution Weigh on Sentiment - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVzA5ZTA0UkM0N2M1UGFuR01icXJpRWU4R29LZHAxbVk1TWFPRkdENHNsNHc3bk9CREhqaXMzcmxDZTR5bGZXMDd0ZjVvWllNWXQ1c0RiWkJ6RGFoNWlyQzFxWnZESXc4QnRaRUpMNGt6alplSkN2WjJHMExUZ1Q3SGxMcnl0MWg0N1h1ZzE5Y0Z5clZrZHZIdVFLZTNnR2xsclE?oc=5",
-      "published": "Tue, 27 Oct 2026 16:51:00 GMT"
+      "title": "Indian benchmark shares post longest weekly losing run in 25 years - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2lpSGdlN0dhOTM3eUw3MlQtN183dHZydW95WXVWM2MyTEFaeTlvRUllR29aLWJxT3dvdVNmNlpzTGVldkpIMFNScVVhVEJ5TTU5TDhoVTZZWlpXbENCUHlKMWx3MmJ4bWkyU1E1OGF6Sk9YakxYcHRyM0tWdnlrX0NpQktmLU90VkRRVG5FQXdPZ3c3dFV0N0xndUdrTl9lY0xKZUJsNmY4LS1BYndDNENRZC0?oc=5",
+      "published": "Thu, 01 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "India stocks lower at close of trade; Nifty 50 down 0.02% - Investing.com",
@@ -110,10 +105,15 @@
       "published": "Tue, 27 Oct 2026 10:34:32 GMT"
     },
     {
+      "title": "BT Explainer | AI trade unravels: Is Indian stock market set to gain? - - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnJlTDNfOGZXUllXRFloeUplcGhJX2d2akl0QWNqZW5pT294X25TWWE2QUN4cXJHV3VXZEFxcGpxckRYX2tTYlRUSVhMV1paWXo3eWcxVTBjVHZYaVhjWDU2Qk00a0xOWlBCRnBycng1VzJ3S3JaRS1NTXBmZXUzOUJQdHhGNWJfQndpbVp1S1pEOWN1RTRwanRSLVBLQUJ1X05F?oc=5",
+      "published": "Mon, 26 Oct 2026 10:32:09 GMT"
+    },
+    {
       "title": "Market wrap: Bharti Airtel, Tata Consumer, Asian Paints, Coal India top gainers and losers on Nifty and Se - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZnFOR1I2VGNySnFDWnJpeHZZRFJhOUo1dGplZXFGUUYxRmMwMVUzQTFoRlQwYzZUX19MNXBiY01JdE52YldycFlkeXdyeXBMZlcyN0NmYjR4SF9BZlI4UzVNRi1GZ2NIN3BCem1oZTZSYW1aMGJwYk9xYUVqTFQ3VDdhNnlualFoSnh0Z3MwLWVobUdtWU9nSDRtNmJpNnJHVl8tZzJ4RkExcGpfMTJSdEMwaE9PSFVFSFVlLW5TUS1nWGJKM25TanVZT3N2TFlrX1lBREZTd3VQcEdYR1o0MTlaYTVZdWdtX0xFU25nbHVpREt1RmxadU9HWnlhMVJzSVhmRGNXS01TYmhZcXNVOG1IZHIxSTlvdkI00gGgAkFVX3lxTFBGbXNYazFXZDMwS0tDOFE2SEJTZm9VU29uaFBmcmJDVDlzQWtPb2dXYVBCWFdrWjZURFFmR0JXWGFQY2Z3ZFdDOFYxWDFONVFUSGF4VzRvUnJLTk91WmFzLVRMeGtNSzdDZmM0MTR4a2EyVmgyQ19FcXNMUlRrWlowcnVTZ3U1b3VYYzUwczRkcHlyMXNmN1B3d1l1R1FJSzIzRy04S3FFeG9lWGNSSmFEZzVNZ083cURtOG5QOEFFQlFSdWhlUDd5b0piTnV6bDFVMUo4VFlTUEozNElJTUVVVDJGdDRJY0s2Z0dwcFhPeEc1dHE1bGtMd2xBbGIwNTBmVGdOdEt4TVVLSVl1OFd3ZlFGTUtqVWNTRzAwUTNFMQ?oc=5",
       "published": "Tue, 27 Oct 2026 12:28:53 GMT"
     }
   ],
-  "last_updated": "2026-10-27 20:15 UTC"
+  "last_updated": "2026-10-27 23:47 UTC"
 }
