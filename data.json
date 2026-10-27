@@ -1,51 +1,49 @@
 {
   "Nifty 50": {
-    "price": 22760.75,
-    "change": 7.55,
-    "pct": 0.03
+    "price": 22749.75,
+    "change": -3.45,
+    "pct": -0.02
   },
   "Bank Nifty": {
-    "price": 54141.05,
-    "change": -225.65,
-    "pct": -0.42
+    "price": 53974.9,
+    "change": -391.8,
+    "pct": -0.72
   },
   "Sensex": {
-    "price": 73599.62,
-    "change": -7.13,
+    "price": 73598.67,
+    "change": -8.08,
     "pct": -0.01
   },
   "India VIX": {
-    "price": 16.34,
-    "change": -0.82,
-    "pct": -4.78
+    "price": 16.4,
+    "change": -0.76,
+    "pct": -4.41
   },
   "Nifty IT": {
-    "price": 32012.3,
-    "change": -260.75,
-    "pct": -0.81
+    "price": 32189.45,
+    "change": -83.6,
+    "pct": -0.26
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52361.58,
-    "change": 146.42,
-    "pct": 0.28
+    "price": 52452.7,
+    "change": 91.12,
+    "pct": 0.17
   },
   "Nasdaq": {
-    "price": 26169.38,
-    "change": 214.04,
-    "pct": 0.82
+    "price": 26481.78,
+    "change": 312.4,
+    "pct": 1.19
   },
   "S&P 500": {
-    "price": 7676.77,
-    "change": 53.09,
-    "pct": 0.7
+    "price": 7728.76,
+    "change": 51.99,
+    "pct": 0.68
   },
   "Nikkei 225": {
-    "price": 63268.37,
-    "change": 1078.72,
-    "pct": 1.73
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
     "price": 23041.32,
@@ -53,39 +51,39 @@
     "pct": -0.73
   },
   "Crude Oil (Brent)": {
-    "price": 110.95,
-    "change": -4.86,
-    "pct": -4.2
+    "price": 109.47,
+    "change": -6.34,
+    "pct": -5.47
   },
   "Crude Oil (WTI)": {
-    "price": 101.91,
-    "change": 0.15,
-    "pct": 0.15
+    "price": 100.19,
+    "change": -1.57,
+    "pct": -1.54
   },
   "Gold": {
-    "price": 4009.5,
-    "change": -28.9,
-    "pct": -0.72
+    "price": 4072.2,
+    "change": 33.8,
+    "pct": 0.84
   },
   "Silver": {
-    "price": 53.28,
-    "change": -0.82,
-    "pct": -1.52
+    "price": 54.49,
+    "change": 0.38,
+    "pct": 0.7
   },
   "USD/INR": {
     "price": 95.11,
-    "change": 0.18,
-    "pct": 0.19
+    "change": 0.17,
+    "pct": 0.18
   },
   "Dollar Index": {
-    "price": 102.27,
-    "change": 0.31,
-    "pct": 0.3
+    "price": 102.23,
+    "change": 0.27,
+    "pct": 0.27
   },
   "US 10Y Yield": {
     "price": 4.99,
-    "change": -0.0,
-    "pct": -0.04
+    "change": 0.0,
+    "pct": 0.0
   },
   "news": [
     {
@@ -99,14 +97,24 @@
       "published": "Tue, 27 Oct 2026 01:30:37 GMT"
     },
     {
-      "title": "Reforms to Expand Foreign Participation in G-Secs - Press Information Bureau",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
-      "published": "Mon, 26 Oct 2026 16:22:12 GMT"
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.02% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTVdfTExiQk9Lak1COGtSRHItMUF3ZWVtT0RWb1RNWGR0M1d6cGVPVzlNSWJITF80VXEyRVE5UllsNGtEVGQtaFdUaDN3RVhGWmNYTUVTWTRiNXRCM29nVjdjcFNwaWh0bDA4eWhGTzJVSUs4RUxNMG9vbVpIX0hzQTZZNEFQMlN5TE9zWUxWb0s1UWFBQ0NncndqTng1dHdFcXIycFF4VE9sZzJBYnJwRg?oc=5",
+      "published": "Tue, 27 Oct 2026 10:34:32 GMT"
     },
     {
-      "title": "Sensex Today Trades Flat | Nifty Above 22,750 | Bharat Elec & Kotak Mahindra Top Gainers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0NxVFdJckhuWXUySGMzMWtIeFlWUFRDN0lQWVVVWnBFdEZzNzBOY1J1VWVsZlFRSEhpRUFFQ3YzbHdJSURIaEFreGtDMUdWVHdqVGxFSGF1UGtvdXRCTzFiQ3Z0TVkyUlRPY29CUTZVb0d4ZW5pRGJ3NVBVVGFYTjBCaGxTb2Z0QzBtazU1RHd5Rkw3Y1pURFZWbmdDby03cmxtcm1aSmY1R1VrTHk1SGJKWmV3RnVWekVwNU9ZOUd5WS1jUFVpdEliYm9ka3FaYXo5YXEzWEoxYVRNTnc?oc=5",
-      "published": "Tue, 27 Oct 2026 04:56:25 GMT"
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sensex Today Ends Flat | Nifty Below 22,750 | Axis Bank & Asian Paints Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZnZSRWJxOEQyWXg1YVB1VXlXeUFVbTVicHBxMkxUbnJxbnhhTlZKU3p4V0c0dk1vbjY3NVBpOFNmRVUwNWVCSC00ZkNkTDNHRHUyOVFpWVZzMXVRQzNzbWtLMGEwQ3ZRaEZCVnl4MVN1WXQtTmNVa1Z3ZVFDTTJxeHZYQzJwQlpmQU9FTjRtRldzUXhGSkJFQ2tpRURXVnJ0UTNXUmE4SE5lLUdXSmNlYkVpRGpnVzI4akcxcENlcG83QWJTNE1RZEdDOGVNVncxTnM2Nw?oc=5",
+      "published": "Tue, 27 Oct 2026 10:44:17 GMT"
+    },
+    {
+      "title": "Indian equity benchmarks muted as elevated oil, Fed in focus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcms4SkRwSDBJVER3QkV1VmoyX1pvTUlrcjRpSk4xSmNLNFZYNjh3Vi1LMGNfUnZPYnVscDdQZl9Xa0d4SHhKM1lDLXItNWh0aWMxNThJeVpMOEsxWXYwNUVXSWMtVWZRZjRRQlFUYk9tRUZxRUR1MWo0QUdPVE9TdzFnWDk0Qzd3NDZfYml4cGdSenVORGpfUTB6RTMyRV9BRmowWERaeWdsSFVLUU0zdFl3?oc=5",
+      "published": "Tue, 27 Oct 2026 02:28:00 GMT"
     },
     {
       "title": "Stock market outlook: Are Indian equities attractive after correction? What SBI Securities says - Business Today",
@@ -114,20 +122,10 @@
       "published": "Tue, 27 Oct 2026 07:48:19 GMT"
     },
     {
-      "title": "Indian shares muted as oil stays near 6-month high, Fed rate decision in focus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcms4SkRwSDBJVER3QkV1VmoyX1pvTUlrcjRpSk4xSmNLNFZYNjh3Vi1LMGNfUnZPYnVscDdQZl9Xa0d4SHhKM1lDLXItNWh0aWMxNThJeVpMOEsxWXYwNUVXSWMtVWZRZjRRQlFUYk9tRUZxRUR1MWo0QUdPVE9TdzFnWDk0Qzd3NDZfYml4cGdSenVORGpfUTB6RTMyRV9BRmowWERaeWdsSFVLUU0zdFl3?oc=5",
-      "published": "Tue, 27 Oct 2026 02:28:00 GMT"
-    },
-    {
       "title": "Indian Stock Markets Fall Amid High Crude Oil, IT Selling - Rediff MoneyWiz",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObW53cEVTY0FaWWVSb1VGcTlGSFE2c05SaTFxTGtaU2ZTNk4yaWw0YVZ2MHZTM3o4aHlDWEJXaGl2VXlmV2ZSUHhEQVNzc3BBUjg2NzBackZSWjczMWppQ1hqUUhJd0ZoU3pGSkVQMjBkWWdRaXVadVl1eDZ5aWpDRWJmeFNUZkZFdVM5a0RsRVh0bXhtX1ZPMjI5dUJSbU5KeE5vQWtOOVdpWFVR0gGyAUFVX3lxTE9wdFNDQkMtdkp2NEZnT3VJelQwUUQ0Qm1Bblk3azVwWERkeWpRdzlMVXZ2RUI1VUJQbzRxQnhucUlMNUJlS1RCQ2E3ekIzWHV0dUlyM19Vb2EwaVFRNWlvWFJNZ3dwWDEtVXZEbUlORmMxbXFpaGstQWItWkQtM0t4Ry15ZjNSMnBoRlRRSEFVd25zQThodDBfUEx6UFE0MHlEUVFmYUZHeHlONTdSdVFQa0E?oc=5",
       "published": "Tue, 27 Oct 2026 04:41:41 GMT"
-    },
-    {
-      "title": "Indian Stock Market: Sensex and Nifty Trade Flat Amid IT Sell-Off, Broader Markets Outperform - Pragativadi",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2pWd3Q1X1Ywa1lMdUZQcm9ibFNSUkJmc2U5VGVYbkQzWGkzX213ZFRwa3JTVGp4Ui16VEMxVDhLNUE5SVBCb0VnaG9CazdWYTZDajBVTmhmc2tpbjJtR3F4b1FBem9LSUdjejRLRkdrcjFrR3h0akpLRU44SXdoZWc0bXdaMXJHdnRUcGkyV1F6aGFsMEtMT2phNVZVQ0xPb0lELTZIaU1GaTYxVk5oNDdHdjdNMzQ?oc=5",
-      "published": "Tue, 27 Oct 2026 06:58:45 GMT"
     }
   ],
-  "last_updated": "2026-10-27 09:57 UTC"
+  "last_updated": "2026-10-27 15:44 UTC"
 }
