@@ -1,46 +1,36 @@
 {
   "Nifty 50": {
-    "price": 22698.85,
-    "change": -50.9,
-    "pct": -0.22
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 54267.4,
-    "change": 292.5,
-    "pct": 0.54
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 73246.03,
-    "change": -352.64,
-    "pct": -0.48
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 16.25,
-    "change": -0.15,
-    "pct": -0.95
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 31553.4,
-    "change": -636.05,
-    "pct": -1.98
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52507.35,
-    "change": 129.78,
-    "pct": 0.25
+    "price": 52475.1,
+    "change": 97.53,
+    "pct": 0.19
   },
   "Nasdaq": {
-    "price": 26459.63,
-    "change": -18.18,
-    "pct": -0.07
+    "price": 26549.85,
+    "change": 72.04,
+    "pct": 0.27
   },
   "S&P 500": {
-    "price": 7735.81,
-    "change": 13.21,
-    "pct": 0.17
+    "price": 7743.98,
+    "change": 21.38,
+    "pct": 0.28
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 112.44,
-    "change": -1.44,
-    "pct": -1.26
+    "price": 110.44,
+    "change": -3.44,
+    "pct": -3.02
   },
   "Crude Oil (WTI)": {
-    "price": 103.41,
-    "change": 3.51,
-    "pct": 3.51
+    "price": 101.94,
+    "change": 2.04,
+    "pct": 2.04
   },
   "Gold": {
-    "price": 4052.7,
-    "change": -21.9,
-    "pct": -0.54
+    "price": 4081.2,
+    "change": 6.6,
+    "pct": 0.16
   },
   "Silver": {
-    "price": 53.61,
-    "change": -0.68,
-    "pct": -1.26
+    "price": 54.04,
+    "change": -0.25,
+    "pct": -0.47
   },
   "USD/INR": {
     "price": 95.21,
@@ -74,20 +64,25 @@
     "pct": 0.02
   },
   "Dollar Index": {
-    "price": 102.27,
-    "change": -0.05,
-    "pct": -0.04
+    "price": 102.13,
+    "change": -0.19,
+    "pct": -0.19
   },
   "US 10Y Yield": {
-    "price": 5.03,
-    "change": 0.04,
-    "pct": 0.82
+    "price": 5.05,
+    "change": 0.05,
+    "pct": 1.04
   },
   "news": [
     {
       "title": "Telecom giant Jio makes debut on Indian stock market - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1Z3SGludzg4ZGt3U3FRTGY1ZHYzaWZvbVQ0NFVvWm53S2JwX3pCamU5YWE1eC10Q1dOTHQ5X2FDakRJZkdicGJkZHNyamthWWZqQ1AtazBsa2Q1NndDZ1k4eXh3UzRBb0M1eXAzRUstY0hjWjNaYUNCelB5eERVaS1OdU9jdTNLYVJJeS1qaU9RZmJzU1ZCY0YxYlBPM1U?oc=5",
       "published": "Wed, 28 Oct 2026 12:43:05 GMT"
+    },
+    {
+      "title": "How can US Fed FOMC meeting outcome impact Indian stock market? Sensex, Nifty to rise? Experts decode - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZFZvM3NMeWFaZWdDOXJWX3Y3dnA3RjJmMUlZNjZUU3I4RlRwemFzWjNLc2VGSXIxOThvYXJmekVZMkJDNjkxbkV0SVNRWjI2ZGdsOFctY2Z3TExhbFFKUXlfUHZXUG5RNmVtVktMLUtLVjN1WmdmM2RvQUs5b0gwVlBhbkEwdlFkN1duNURLcGJ2Ni1fSVpCdXpORXlFR1JudmYyZHM4U3RsRFpuMUxtakh2MjFMLUJKMkRoSmZmU3lSRmxhWHpNLUlDS2E2c2VGbU5fV0d1dW5jc2tpb1VQWjQzYV9sRmh4Ykk5Vk5rLWR4UkZZZFdJNW1yNzDSAYICQVVfeXFMTXhyQlhLeEtxLW9oR0lQcHoxNTBaaTdqaDgyMWVYVXhJZXlteDZGUEcwUjlZd05rUXdSRC1yMmFZWkl6ZEZZRmFiZ0dBSFBMcTVzU3ZORG82VzZ6VGVseW0yZGZxR1M4V1VLTjI0aDJfU29EZ0NqT1VsaktXNTVoeXdPNlNxYlNpSWZpOXpTQzB4c1lrb2Y3T1F1MVp2T08xaW4zNTVobVpQTmlfdlRITThka2hhc1U5WTF5cXgtXzBZdXlYbGVPT0t5OTd1MXZnTUtMWUxVRUFwbWlPWmxTeFRKV0VvNkh6U3pEUVdBZ04wSzJaN0dEWUFsWnMteWpuZzB3?oc=5",
+      "published": "Wed, 28 Oct 2026 18:46:28 GMT"
     },
     {
       "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
@@ -110,20 +105,15 @@
       "published": "Wed, 28 Oct 2026 12:16:00 GMT"
     },
     {
-      "title": "Stock market outlook for 28 Oct: Sensex, Nifty prediction - Jio Platforms IPO listing, GIFT Nifty, US and Asian markets - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbGQxcFFLUDN1THJXOVNaMEsydnpFQWJjQVZRWW9jNGJXczJxZDNpdElrOGx3bFluNFFCWVgyM1RQR0RUWFgwTGFCc3FaLTlBcTVGQ2JDRUNCVll4cFJ0V2pxVGw1TkJaTjZqSjE2VGZHZXdqR19talF2N085OGJBYjF3M1lCaWNlZjFLRGtaNUVBVHpIWi1mNXJaTE9iZVREdTkyQ0djMWNGdGNaZkV0WGlqOS1HTUJUcWRpSDZYTkc0VUVya1JBSEVzLUlibDhZUjJfS0JrdVdWTGJTYWJpTXVWeWRNdU8tSXZHQ25ybmtZQzlhR21mNzl5TlBtbzhNRnJmTFcxN2VWLUdJNEp4Q9IBlgJBVV95cUxONVlXWWJCbVhCZDBjM0ZhUDlEcnBWNVJUdTNGNjJXeXV4NlRpY2lwQlNmVFM5dDlwdVVEejdRX2MyZWFvbG1LLUJ1VGc1Zy1KamlfWHk3SHRiMlAtM0VBUjY2MHIwVzZyR3Jyc3ZMNnkxSTlLTUNHQ3hRNHdJRi00UEZ5TDNrS2p4UGVxUFhyX19RLUZSOXd1c2NzSm5LczdpRkY1UnFzRks3cjdBX2NWVXhVSkZoaXNfOGxvMXQwX3p3VVN2M2tVZTZmRDIyZ1FvN0tfTWF4LUt1ZXI2RTZkTGY1Zndpdkw2Y3djeUdNT2pwOU44Q1JXWHM0UkV0bEdTVWpaVTZ3SXA0SzZSTnYtWjBLMUxldw?oc=5",
-      "published": "Wed, 28 Oct 2026 01:45:48 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 353 Points Lower | Nifty Below 22,700 | AWL Agri Business Down 6% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbThUTUdqT0Y1SGFqVDZBS28tQ1ZYOG5HZF9lWWU5YWEzOWozb1NpVHN4WEI1SkxXWnhudWRacmtPZnJybms4QmFYWEkyUF9JUkFKWEJOZXlueF9pZnh3SkJpc0dPckk1YWM0QTdzWDZpT3Z4VXB1dmdyNGt4QmowXzM0ZFdCYkJVd3NSYWRsc0kycFFXVndUcnpDc1FCbFpOc0xlR29mYXp5ZmRFMUlUREJEc2w3dHJxVC0tRHowOWF6N2RjVmNMamR0cklQVXd4Wk9SMEgwcw?oc=5",
-      "published": "Wed, 28 Oct 2026 10:43:14 GMT"
-    },
-    {
       "title": "PESA enters the Indian rolling stock market - Railway PRO",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82UUdScWhDWll3T3dUa0h2SGd3bW5VTjJhRU8tUlJ1UFlEXy10NXZ2X3FyNDhENktSdm5RQW53cklOaktMb3cxbThSYUM5RTB0T0gzUXF0S2ZYbEVZYW1vM3JES1lBOHFtZEMxN0MxTm1zNmhDTXU0dDVCR3loUEE?oc=5",
       "published": "Wed, 28 Oct 2026 09:39:58 GMT"
+    },
+    {
+      "title": "Sensex Today Trades Higher | Nifty Above 22,600 | Kotak Mahindra & Sun Pharma Top Gainers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQbi0tSVlUd2QyOVhtbDZQSGlmMlB2T3dvMUlWeVBBekx0MXhOWklDQ0dJc2VpYzNMaTFiV2lMY3hNOU84OXdiaDBsR29RdnhYQkpLZnZKdlUxeHdnLS1aVTd0a2ZDU0wxZDRBM3pzaG1HSGFDU3FXN043enpROHF5WU5HM25PUXRRV1liZ2ttS0E2VTNEaDAwRnN5Wkx5dENMMHM1NkdvQ3JnaWhLVjE1Mnc3S3c5MmtBOXotVkxUd1BrY3Uxc3BXcUk4VmI4UkE0dnpWQnBwVEFYLVN4bTJKNzItWTJjamltMlNlemJUMWl4ZHYyQUJYeEZZaHRsOWpqU1NISEMzdnNyMmxCSG90d2tDOUU2b09saXdCblVXTklSUVg2a1ExYWZfZEliUVVFNWt0Q01OX3hKcU00Mmk4V2tyOA?oc=5",
+      "published": "Mon, 26 Oct 2026 04:50:24 GMT"
     }
   ],
-  "last_updated": "2026-10-28 16:26 UTC"
+  "last_updated": "2026-10-28 21:13 UTC"
 }
