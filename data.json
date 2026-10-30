@@ -1,102 +1,98 @@
 {
   "Nifty 50": {
-    "price": 23050.05,
-    "change": 113.3,
-    "pct": 0.49
+    "price": 23053.1,
+    "change": 116.35,
+    "pct": 0.51
   },
   "Bank Nifty": {
-    "price": 54660.15,
-    "change": -249.5,
-    "pct": -0.45
+    "price": 54686.95,
+    "change": -222.7,
+    "pct": -0.41
   },
   "Sensex": {
-    "price": 74588.21,
-    "change": 437.17,
-    "pct": 0.59
+    "price": 74459.53,
+    "change": 308.49,
+    "pct": 0.42
   },
   "India VIX": {
-    "price": 15.31,
-    "change": 0.19,
-    "pct": 1.29
+    "price": 15.3,
+    "change": 0.18,
+    "pct": 1.21
   },
   "Nifty IT": {
-    "price": 32679.6,
-    "change": 813.2,
-    "pct": 2.55
+    "price": 32606.9,
+    "change": 740.5,
+    "pct": 2.32
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52342.56,
-    "change": -132.54,
-    "pct": -0.25
+    "price": 51973.35,
+    "change": -369.21,
+    "pct": -0.71
   },
   "Nasdaq": {
-    "price": 26184.72,
-    "change": -365.13,
-    "pct": -1.38
+    "price": 25487.35,
+    "change": -697.38,
+    "pct": -2.66
   },
   "S&P 500": {
-    "price": 7720.39,
-    "change": -23.59,
-    "pct": -0.3
+    "price": 7594.01,
+    "change": -126.38,
+    "pct": -1.64
   },
   "Nikkei 225": {
-    "price": 63290.11,
-    "change": -1369.36,
-    "pct": -2.12
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 23294.42,
-    "change": 335.77,
-    "pct": 1.46
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 112.62,
-    "change": -2.26,
-    "pct": -1.97
+    "price": 113.64,
+    "change": -1.24,
+    "pct": -1.08
   },
   "Crude Oil (WTI)": {
-    "price": 103.5,
-    "change": 1.5,
-    "pct": 1.47
+    "price": 104.07,
+    "change": 2.07,
+    "pct": 2.03
   },
   "Gold": {
-    "price": 4001.2,
-    "change": -30.2,
-    "pct": -0.75
+    "price": 3906.8,
+    "change": -124.6,
+    "pct": -3.09
   },
   "Silver": {
-    "price": 50.88,
-    "change": -1.31,
-    "pct": -2.51
+    "price": 49.26,
+    "change": -2.93,
+    "pct": -5.62
   },
   "USD/INR": {
-    "price": 95.08,
-    "change": -0.13,
-    "pct": -0.14
+    "price": 94.94,
+    "change": -0.27,
+    "pct": -0.28
   },
   "Dollar Index": {
-    "price": 101.72,
-    "change": -0.32,
-    "pct": -0.31
+    "price": 101.93,
+    "change": -0.11,
+    "pct": -0.11
   },
   "US 10Y Yield": {
-    "price": 4.99,
-    "change": -0.06,
-    "pct": -1.11
+    "price": 4.95,
+    "change": -0.03,
+    "pct": -0.7
   },
   "news": [
     {
-      "title": "Opinion | How India Is Making Its Stock Market An Expensive Place To Invest - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZThkUWRPOHh3Umg0VFBkRElvMGhzMWJkaHUzbFhaU0Nibm5VUnhLLXN2dW5KTnpFZFNWZkFGVEhIY1BrLWtrbzEzdGthNXFZSlcyYWMzUnlhQ2ljdDZxbWhESnhDYXY0MXZuZkN2Q0RraENiT1FhZ05xWV9xUE1HQjVhQmk3RkdiUGlvWVpxZXllZDMyNUowcVdNV0Q2MWl1VDdUeTR3?oc=5",
-      "published": "Fri, 30 Oct 2026 07:14:14 GMT"
+      "title": "India\u2019s Small Investors Dump Stocks, Chase New Listings - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHlDWkNLck9ob1lIZXpibm45cW1Qd1J0Q1dmd25IQkFObTdFazRYZVhmTDNoMFZocXF2a2VsdDE0VHMwMEhyM0ZvZjc5bE51S0JSWFktOEc1ZWxvMDA5Q1BkeHNsZEF6aWhHYnU0Yng5aVN0SUdhSVd0ckM5cUpvSnIxUnVzd3pIOXZKQ3Uyc3Jkb0Y0VjFodGROMEpFMTJmV0RVYVVKcjhVTjg2?oc=5",
+      "published": "Fri, 30 Oct 2026 14:32:46 GMT"
     },
     {
-      "title": "India\u2019s Small Investors Dump Stocks, Chase New Listings - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHlDWkNLck9ob1lIZXpibm45cW1Qd1J0Q1dmd25IQkFObTdFazRYZVhmTDNoMFZocXF2a2VsdDE0VHMwMEhyM0ZvZjc5bE51S0JSWFktOEc1ZWxvMDA5Q1BkeHNsZEF6aWhHYnU0Yng5aVN0SUdhSVd0ckM5cUpvSnIxUnVzd3pIOXZKQ3Uyc3Jkb0Y0VjFodGROMEpFMTJmV0RVYVVKcjhVTjg2?oc=5",
-      "published": "Fri, 30 Oct 2026 02:30:00 GMT"
+      "title": "Is India's Stock Market Heading For Its Worst Year Since 2008 Crisis? - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaUVuSEo2MFlJdEl2TzJpb0FDR3QxUzQ2TnJaWVk3V09oMW8zV0w0S0NtZDRzUnZiN2RIRGQ3aElmeG5YelB5MVF3MElkYmFJQV9RX0ZMR2FsSUJzdDcydkVZeS1zZUJTSDZtYTdfTGI4cm1ES0JRTjFkd080YS1JbHNzOUFYQ2pwYjE1SEE5MkY3TXBLSE04d1BnOFZ0S3dnR1I0cjI3Yi0wUWxzSWxfZ19ydnNESlJIS0s1NFpVUdIBxwFBVV95cUxNOHRRcjNnTjFKcHlkWFI0eXBXZ2R3QmhQcGZzRXQ2OTVqdE1ZWlZrdGNBTEFlMzJtdlpJMTVPdFJpZ3pDaVRYd0Myd1FraUwtV1d5X29zM1pGNGJ1dVZ5OF82US1rRGRyMGR0UEFrb0RBQVFRRHNUR054UVdKYUJBTHhmYjhjWkVXZ1l3LWRtaWRPNTRDNXJacHpoNTYxN0Fxb3NnNHR0MzkxMmpibGdKY0hkeWh1UHNRUmZNUXdtWFdMT2hJVGhr?oc=5",
+      "published": "Tue, 27 Oct 2026 08:56:28 GMT"
     },
     {
       "title": "Can Jio's stock market debut reset India's telecom pricing? - Light Reading",
@@ -104,19 +100,19 @@
       "published": "Fri, 30 Oct 2026 06:02:05 GMT"
     },
     {
-      "title": "Why markets rallied: Sensex jumps over 900 points, Nifty gains 1 per cent; 5 key reasons - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV2JFLS1oXzVnM3R0aFVjdkpzTDM0cVh6cWRtUnBmOVpqbGpGU19iWjAyS2NTdEhpMHZITGZwNm1kbFg5YVVpWUkzOEpaWHNvVGRCYTRyOUM0RWtsTkJIWFpYSjYwTXdfTjFVTXNEVmpROHBfblVxdTVTRlI5NmVpYlUwX3JXT2J6M0dWVmNRWjZwSDZSMlpaTHhxdUFRRGVNZDh1VV9mS2I3Wkp1UUx2SnVOaVMtTEtGZFhDcW53V0ZWWUFMdWJqU3dzeE1DV1dVMkR3THhJeHg2blJmVXU0SEtQbHdFSDN2Q0cyU0RMMGVPM0xM0gH6AUFVX3lxTE1CQWRvOTFHOU9DMTAtMjUyTWEyem5lQVRyYzNQMzd1OWxPRHEyVUx3OEtsUUc0Uy16Q0lkTTE2X0FBQ1VyaTFwUnFNMnc2b0pIM1N1SUdKcnhuWG1YbDNGZUE0RE5uSzBqdDcyRWEwN3lLR3htVTBfLTNSclZTeW84ajcwQ05tWS1pczQtN0dJdEtKdXA4d0N3UTlrdDFOWXVVdG8xMDVpQ2JkaGI3Nnlic1RHaUtEMWlQS0VrajR3RGc5SWo0aWNrSEloNzczZ3lMQ01LZ2hkWXIxSFBCanJHSUpwUWxsVGt3S2J5MVNvTFI2aFZYWXFPbmc?oc=5",
-      "published": "Thu, 29 Oct 2026 13:03:00 GMT"
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.51% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzdTanlFNkxKMHhlVTduOGRSY1pKMXo2S0h5dFZVbEtoZGlHVkRGQncxalpadzFGT0VDVFFPenhJM3NhczZ6ZUxiaUhwUUM1ZzF4WjhmdVRkOVpmeWxibVpTRmdCdkszeXZDSUw0MDFkRlRPU2NtLUM5UUQ5UWVOSHBYTUVfN1VQSl94Z3lkM3o0T1dyd0pjX1hORDJPUXdTbzBEdXlXMl9nRklOdkNr?oc=5",
+      "published": "Fri, 30 Oct 2026 10:49:48 GMT"
     },
     {
-      "title": "Sensex Today Trades Flat | Nifty Below 22,950 | BSE Telecommunication Down 1.7% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcUo1LU9Dd3BjaFU1bVBLSXhidmJfcFJmeDBUWFBaRUFJRF9FVlk0ckhLWTR2ZzJWQ0NIRkhXZUZOQzVHR0VDQjI2NE5IUl9PS0I3UmFSbVVnRVI2V2NoeDdOVGdPYXM2UDdkQTVIa2RMOTAzUzRKRExNTERWbk84eDVsN0RPM3gtcmhENlBhNEcyZEo5UFdoQWZKSkFiUTR1eDltLXpoTFF4VTM4UXUzLVFBSGIwMlVzV0lyTDRrSEFZaGNjTTlLRkp0N1ltbXln?oc=5",
-      "published": "Fri, 30 Oct 2026 05:01:14 GMT"
+      "title": "Sensex Today Ends 308 Points Higher | Nifty Above 22,300 | Vedanta Oil and Gas Up 8% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVVsSnlXUHFmTWxXVlZSNnRHcy1zRW1wbUdOZmZRWG1DQmlBbVVSWmJIdF83V0VObkV0NVh0T3kwQ0Z3U2VuV01NSUxTU1drMldDTnpjVXF5a0d1ZldaU2liWHNaRlMzazdiOHpiaDdFeVBrbGJORWN5MmtUTk44UVVGZVFmaDJZNXdmekEwS05XQzNDbGxPeDZsWFd1amQ1YUxQd2w3VGVZUGtaTHdGUGdoemFLVUlqcU1aZkhJMUFKQmlqU1pmcXdfMEc4ZHM5U25iX3NjOVY?oc=5",
+      "published": "Fri, 30 Oct 2026 10:28:55 GMT"
     },
     {
-      "title": "Stock market outlook today, 30 Oct: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNU0lLTXdXRXlnWnktM1lpdVdQMEZ1Q0ltbHlFQlZOa1pRM09LcGlnYTRubzNDcks4N21ZaGdEV3ZpRFV0N1FhT3htZkM5djl3WngtREVSVkdhbWkzWFQzNjJQN2MwZDVYaXQ3Q3pPOUxLaDlVUFF5aEFzWkY2TU1jRjloa19jNTBBMHZMYkZGVExUMlV5aXlXaVV6M3Z4QV9WaDF2ekFRMlg4dXV1aE1TMWR5bHlUUi1XODB1MHFraXVKLXZGOXJvNTdmRnJNNmY5WU1JSXJ1dXpVTjdXR2NyVUpVSUdYbFFqS0gybXp5MG5tSDdhWEpTb1RVMkJlZ29ZN09WNdIBigJBVV95cUxQQ3pIRzJQZmY1VXpnc0Nra014TklOZ0lvNkhtZUJ0UFJiQmtZQ090aUpZTlFfTWdMMW9HT1U1UVJEU2NUcVFUUmtyb0E2emhPa1hmMGd6eDYyMWk4R3JURTFVYThqZzNBS3lyNC1zcTRyajNKcWF0d213aWd2Y1J3aGRNMVlqRDhOaUZpNktDcmNSRFlpMnVVU1NOTlV3TTMtX2tLSkNyMWNrVWtwd29sQkxxTkUxYll2X1FoOWJVY2ZTcUVBUXRMVGVTNnY5UGZlNVZpRTQ1bnhUdzBkM1BPTjl4dUxfS2FRd3NzZUpJMF9CWW44QXRWaVFuaW02M29sZlBCMThPRWlfUQ?oc=5",
-      "published": "Fri, 30 Oct 2026 01:14:41 GMT"
+      "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
+      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
@@ -124,10 +120,10 @@
       "published": "Wed, 28 Oct 2026 01:13:43 GMT"
     },
     {
-      "title": "India\u2019s finance minister says market liquidity makes it easier for investors to exit - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGWG1fbVpjWEttMmtlcUsyRC1ZbV80N3NLdWdxZzBuWmhTOXhpTXdPR20ydzZoLXUwNjVlWERKVTNfVnZ4N0pxRnBJTlpsU29qTE9jZElmcmlvY25NclRJZHhkbW5GRUhBR0FKRm9tLXRpY0cyRVVpUWxB0gF_QVVfeXFMTWlWMjV3V1J4ZTAxekdzazNZZ0taTXhoSTFaM2Q4REFZdENTV2VwWHFQaVVxREw4R053MmxEVVE2N0RnOHV3TWpBY0k1MlZvZ2NfaS0tTENDYmVmclBJd0JmT0twbUhRZnR1V1JrUHFoalJsOHFRbjgtVzJLV0o4RQ?oc=5",
-      "published": "Sun, 18 Oct 2026 07:00:00 GMT"
+      "title": "Telecom giant Jio makes debut on Indian stock market - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1Z3SGludzg4ZGt3U3FRTGY1ZHYzaWZvbVQ0NFVvWm53S2JwX3pCamU5YWE1eC10Q1dOTHQ5X2FDakRJZkdicGJkZHNyamthWWZqQ1AtazBsa2Q1NndDZ1k4eXh3UzRBb0M1eXAzRUstY0hjWjNaYUNCelB5eERVaS1OdU9jdTNLYVJJeS1qaU9RZmJzU1ZCY0YxYlBPM1U?oc=5",
+      "published": "Wed, 28 Oct 2026 12:43:05 GMT"
     }
   ],
-  "last_updated": "2026-10-30 09:24 UTC"
+  "last_updated": "2026-10-30 16:07 UTC"
 }
