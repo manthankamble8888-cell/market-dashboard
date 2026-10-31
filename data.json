@@ -39,34 +39,34 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 112.3,
-    "change": -2.58,
-    "pct": -2.25
+    "price": 112.33,
+    "change": -2.55,
+    "pct": -2.22
   },
   "Crude Oil (WTI)": {
-    "price": 102.96,
-    "change": 0.96,
-    "pct": 0.94
+    "price": 102.95,
+    "change": 0.95,
+    "pct": 0.93
   },
   "Gold": {
-    "price": 3885.4,
-    "change": -146.0,
-    "pct": -3.62
+    "price": 3884.9,
+    "change": -146.5,
+    "pct": -3.63
   },
   "Silver": {
-    "price": 49.12,
-    "change": -3.08,
-    "pct": -5.89
+    "price": 49.13,
+    "change": -3.06,
+    "pct": -5.86
   },
   "USD/INR": {
-    "price": 94.94,
-    "change": -0.27,
-    "pct": -0.28
+    "price": 95.15,
+    "change": -0.06,
+    "pct": -0.06
   },
   "Dollar Index": {
-    "price": 101.91,
-    "change": -0.13,
-    "pct": -0.12
+    "price": 101.96,
+    "change": -0.08,
+    "pct": -0.07
   },
   "US 10Y Yield": {
     "price": 4.93,
@@ -85,11 +85,6 @@
       "published": "Fri, 30 Oct 2026 14:32:46 GMT"
     },
     {
-      "title": "Can Jio's stock market debut reset India's telecom pricing? - Light Reading",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEY3RENvMEJlVXpZMHEwQVd1N1poYVBhY0JGWEJkUXRQR2FndW9rbTNkRzE1SXBobm5HU25PX2x0aGFLZWZPRW13TWdyMENDSV9fZ2R0ZjhYRm9zUi1ubUdoV3hmUTlSQUJxY0VkV1dnemZEbWZSMzhJcURmVVdRYUVXbDdQT1RqVmtsNDk0d1JGOFFET3M0WDF6c1g?oc=5",
-      "published": "Fri, 30 Oct 2026 06:02:05 GMT"
-    },
-    {
       "title": "Telecom giant Jio makes debut on Indian stock market - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1Z3SGludzg4ZGt3U3FRTGY1ZHYzaWZvbVQ0NFVvWm53S2JwX3pCamU5YWE1eC10Q1dOTHQ5X2FDakRJZkdicGJkZHNyamthWWZqQ1AtazBsa2Q1NndDZ1k4eXh3UzRBb0M1eXAzRUstY0hjWjNaYUNCelB5eERVaS1OdU9jdTNLYVJJeS1qaU9RZmJzU1ZCY0YxYlBPM1U?oc=5",
       "published": "Wed, 28 Oct 2026 12:43:05 GMT"
@@ -100,20 +95,25 @@
       "published": "Thu, 29 Oct 2026 01:50:17 GMT"
     },
     {
+      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Can Jio's stock market debut reset India's telecom pricing? - Light Reading",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEY3RENvMEJlVXpZMHEwQVd1N1poYVBhY0JGWEJkUXRQR2FndW9rbTNkRzE1SXBobm5HU25PX2x0aGFLZWZPRW13TWdyMENDSV9fZ2R0ZjhYRm9zUi1ubUdoV3hmUTlSQUJxY0VkV1dnemZEbWZSMzhJcURmVVdRYUVXbDdQT1RqVmtsNDk0d1JGOFFET3M0WDF6c1g?oc=5",
+      "published": "Fri, 30 Oct 2026 06:02:05 GMT"
+    },
+    {
       "title": "Sensex Today Ends 308 Points Higher | Nifty Above 22,300 | Vedanta Oil and Gas Up 8% - Equitymaster",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaVVsSnlXUHFmTWxXVlZSNnRHcy1zRW1wbUdOZmZRWG1DQmlBbVVSWmJIdF83V0VObkV0NVh0T3kwQ0Z3U2VuV01NSUxTU1drMldDTnpjVXF5a0d1ZldaU2liWHNaRlMzazdiOHpiaDdFeVBrbGJORWN5MmtUTk44UVVGZVFmaDJZNXdmekEwS05XQzNDbGxPeDZsWFd1amQ1YUxQd2w3VGVZUGtaTHdGUGdoemFLVUlqcU1aZkhJMUFKQmlqU1pmcXdfMEc4ZHM5U25iX3NjOVY?oc=5",
       "published": "Fri, 30 Oct 2026 10:28:55 GMT"
     },
     {
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.51% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzdTanlFNkxKMHhlVTduOGRSY1pKMXo2S0h5dFZVbEtoZGlHVkRGQncxalpadzFGT0VDVFFPenhJM3NhczZ6ZUxiaUhwUUM1ZzF4WjhmdVRkOVpmeWxibVpTRmdCdkszeXZDSUw0MDFkRlRPU2NtLUM5UUQ5UWVOSHBYTUVfN1VQSl94Z3lkM3o0T1dyd0pjX1hORDJPUXdTbzBEdXlXMl9nRklOdkNr?oc=5",
-      "published": "Fri, 30 Oct 2026 10:49:48 GMT"
-    },
-    {
-      "title": "Five reasons India's stock market is sinking even when its economy is growing - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
-      "published": "Mon, 05 Oct 2026 07:00:00 GMT"
+      "title": "Why is market rallying today? Sensex jumps 900 points, Nifty above 22,900. 6 key factors behind Rs 5 lakh - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdk9rN2FKLVE5VTg4S2phUUhUUjlCTjhVTjEtZVJqbmhiUkx6aVlfc2o2ZzNOVDVOVEltQm14TlRFYU5tTVZja0pnRC0xbC13aEZzeVYtUGRCTGEwVDA3ZEI4SzZybkpmNW9QNFBJTmkzZ2FEN25CQk5yT3h5ZXZHdUlLUGo3blE1TlAyQVJBTllJdl8tQkF6TGlEYkJ6YURwd05EMFlWUXNIT1NZRnE4WmZQTXBKX1h2LXJHT0dSZ1V0S1RKbFNDZkZXQTNmY2xObEoyTGpaSmNPaG9zR19zLUlld3pBR0dYajN4NW45Ui14TlV2dGNwX2FSXzNHNlh4Vy1CZmpaUkJpQ244ODJUY1d5MNIBmAJBVV95cUxPYWJWLV9VVHRFQjZwWFhwRnFQRlBJTjRGSzA2R0ZWUnhsMUlDSjBMMlZpaTVNZVA5Z0h0Z0dmdzZsVHpvRkJlalNpMTBUeWxJWXV4VWJ6Y0pyTVE5WHlfczZ1RkdEaWlzcDlKWjdoS3d6aWF5S2hGeThzTkd0dHdLTDQxMkVQZ25feFhxUFlub3NueHJJVHQ0TEttTzRhOWpKSWkwcWZWbmJhTW16RUFWa2V4bmc5SjE0eHlVVVVvbDRlMWtXV3d6MG43UmlBMnkxTlJCWDJQUGY0YUpSRGFmd01EenBnZ0VQREE5ZGliZTZiaDBnNEhlcUFSN0IzV3Izdlk5NGdqb2VkSnVUNDlZQ3ZROTA5QUc4?oc=5",
+      "published": "Thu, 29 Oct 2026 05:31:22 GMT"
     }
   ],
-  "last_updated": "2026-10-30 20:45 UTC"
+  "last_updated": "2026-10-31 00:17 UTC"
 }
