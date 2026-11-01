@@ -53,24 +53,16 @@
     "pct": 1.46
   },
   "Crude Oil (Brent)": {
-    "price": 117.64,
-    "change": 2.76,
-    "pct": 2.4
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 104.12,
-    "change": 2.12,
-    "pct": 2.08
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 3898.9,
-    "change": -132.5,
-    "pct": -3.29
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 49.1,
-    "change": -3.09,
-    "pct": -5.93
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
     "price": 94.95,
@@ -78,9 +70,7 @@
     "pct": -0.21
   },
   "Dollar Index": {
-    "price": 101.88,
-    "change": -0.16,
-    "pct": -0.16
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 4.93,
@@ -105,7 +95,7 @@
     },
     {
       "title": "Stock Market Today Highlights , Oct 6: Sensex settles 685 pts higher; Nifty 50 rises 220 pts; IT, Realty, PSU Banks end in red - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjdLa1Q4STc5UFU5VzcxNWpmcHBDaXd3U1ktUkJhTUk0ZjlJRHZ6YWtzTkRhNDg0WFlELXdwLUlkMkVCYm1GUHhQNUlwazJHWlZIaVlhZmVBcGdOVHZsNFd2QUg5VXJkNjRKSzlvMnc3dWN0SjVFTnlidVVZMzctRjdEVzF4X3B0TEpUNURhcHFRV2ZMb3VDUGtnNDZhNXdIQWNlTTBHRGZPXzNkLUVXY1ZONFNHYjhqbFQwS0JqMGROVjE2bmZJ0gHOAUFVX3lxTE8wN3RPazNfT2JQaWdsVUpBb01Jd1FBTU9qYkZrNnZ2eENBY1UwSTBwOU1FWEcteXJ3RDNBME40TTRJTGdWOGxRVGl6TC1FTTkzenVWTFczZ2Q4c19jSXcyU3VfdFVwdzVZaktpa0hsRWIyZWtRbkVYcWdtWHpUTWd2MWFlTG4xVWhTY1o3czQ0RmF6NU5xTXNTRUdPZXhTNGVlT1Z6TXZHUHN0aVlmeTVBalhXdVBYdl96OGxaSksyQ19wMks2em5jNDZOdDFn?oc=5",
       "published": "Wed, 28 Oct 2026 01:13:43 GMT"
     },
     {
@@ -119,15 +109,15 @@
       "published": "Thu, 29 Oct 2026 01:50:17 GMT"
     },
     {
-      "title": "How Ambani\u2019s Jio became India\u2019s second-largest company - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVV4eld2a3RxeHVaY0JWdXREdFFFN0hqdDYtWWlleVM4TTlFVDFUTk5LZEVLcDVEc25mM05XZkhzOU43VjZjWm1USUlMcUdxYzdMZFJHU1NaZU1hMXFZT3VKcm1TdWx1VmNxSVNtY09od05EUVQ4VG1QYkJPQXdsTWpyeEhraHhrczg4bE1RekZGXzFCMHhnMk1B0gGfAUFVX3lxTE9KclExQUgxbnBQWHZfLUs2NHEtclNUbkNfZkNxSmZPLUtuZlRfNXlBTlJzSjRfcFZWREpUUEV1eVFURTNTQjdlb3ZMOTRfNFFPOFdiRGJ5N1ptUFpKcFpsR2dId0t5ZUhiTWQtRTUwMkxzaEpfcjNsZ29SYmFOdVNETm5kcFBmSlJORHU2Sll3V25XSFlLMFdFMFpnNmpoMA?oc=5",
-      "published": "Sat, 31 Oct 2026 10:44:05 GMT"
+      "title": "IT, earnings, tax-cut hopes power Indian shares to monthly gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMFp6N3FNV2FiY1Y2UFlWQ21yeTgyVlRKcTV6UEMzQTRiUFlTM0lJaWtYSzFpWHMydzQxSWZCeDZLV2hSUzZlNUwyRTNDY2llYnEydkp4WG95cUxzaW1Ed0ZRdUZGbUtjeW1CVWpIeERKR2xERGVWcjdVcTBHQTZiTzNyaHJsMlhpU3hSWnlESUZBc2ZIT3dUUWwwRGpVYk1fVVU2MEx2V1RfNk54NVBRVVFPWEtkcDQ2TUw4TFgwNUc?oc=5",
+      "published": "Fri, 30 Oct 2026 11:26:03 GMT"
     },
     {
-      "title": "Stock Market Next Week: Crude Oil, US Midterm Elections, PMI Data Among 7 Cues To Watch - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaElkdTNPZkRRRW5ZU1NRay1wUHA2ZmZ5dFZ4S1JadUhmYWg5X0lCenM5aEFZOFV4c0haZkZCWkJOZ0phN3lfTW5FU0FhUEJRSDlHeFMtSGRFMi1WQWF0TXpjX1JRTnJHWUZxMFNSbGdmd3FhNFgzNzY3czhLUWFJNXpPSEdqLXVIN2s4WV9paTlCZmNvbDZXTEJoRUl4OVXSAawBQVVfeXFMTThRenBtbTNla2s2YXZwR2s2WlNLUHJ4Rk85bHJEVkE5RkVKNy1qS2lRR2NaMWJXODRxVnhqb3dBMXl3WnphODRFb0xncG1WdnRuc3BPS2FkZWlQT3dXT0UtSWRTakxNYWxjOHRPREFrMW4zSFRuOTZkbGJZeEs0VDdJMXQ0Wm5YaFpMREl3MlRNMkFEQkp4VmJlcjVoOTZwYms5Wk9RekhkWUF5UA?oc=5",
-      "published": "Sat, 31 Oct 2026 11:52:53 GMT"
+      "title": "Are Record IPOs Behind India's Stagnant Secondary Stock Market? - The Core",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQamVvY21DME51TWJyckZ6eEozbHlHelh0cU5NQ3hUZXJ6bGpPb0x2dE11M2FNUUcwSXNmOU93SFBubHZ4REVJTmFSRG1STFY5N1hXUl9GWjNkLWVhaWgwa0dxUzJpMFd6a0t0RWtVd3IwYV9sMEdKV2lwU2lidWgzWFJtbWlEb2JvUko4WTc2RUNUTFhEYXc?oc=5",
+      "published": "Thu, 29 Oct 2026 00:30:17 GMT"
     }
   ],
-  "last_updated": "2026-11-01 02:37 UTC"
+  "last_updated": "2026-11-01 09:43 UTC"
 }
