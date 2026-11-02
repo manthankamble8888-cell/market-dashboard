@@ -1,28 +1,26 @@
 {
   "Nifty 50": {
-    "price": 23053.1,
-    "change": 116.35,
-    "pct": 0.51
+    "price": 23261.5,
+    "change": 208.4,
+    "pct": 0.9
   },
   "Bank Nifty": {
-    "price": 54686.95,
-    "change": -222.7,
-    "pct": -0.41
+    "price": 54951.35,
+    "change": 264.4,
+    "pct": 0.48
   },
   "Sensex": {
-    "price": 74459.53,
-    "change": 308.49,
-    "pct": 0.42
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 15.3,
-    "change": 0.18,
-    "pct": 1.19
+    "price": 15.53,
+    "change": 0.23,
+    "pct": 1.52
   },
   "Nifty IT": {
-    "price": 32606.9,
-    "change": 740.5,
-    "pct": 2.32
+    "price": 32786.95,
+    "change": 180.05,
+    "pct": 0.55
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +41,44 @@
     "pct": -1.82
   },
   "Nikkei 225": {
-    "price": 63290.11,
-    "change": -1369.36,
-    "pct": -2.12
-  },
-  "Hang Seng": {
-    "price": 23294.42,
-    "change": 335.77,
-    "pct": 1.46
-  },
-  "Crude Oil (Brent)": {
-    "price": 111.63,
-    "change": -6.01,
-    "pct": -5.11
-  },
-  "Crude Oil (WTI)": {
-    "price": 102.28,
-    "change": -1.84,
-    "pct": -1.77
-  },
-  "Gold": {
-    "price": 3909.2,
-    "change": 10.3,
+    "price": 63453.48,
+    "change": 163.37,
     "pct": 0.26
   },
+  "Hang Seng": {
+    "price": 23382.06,
+    "change": 87.64,
+    "pct": 0.38
+  },
+  "Crude Oil (Brent)": {
+    "price": 110.03,
+    "change": -7.61,
+    "pct": -6.47
+  },
+  "Crude Oil (WTI)": {
+    "price": 100.98,
+    "change": -3.14,
+    "pct": -3.02
+  },
+  "Gold": {
+    "price": 3913.8,
+    "change": 14.9,
+    "pct": 0.38
+  },
   "Silver": {
-    "price": 49.78,
-    "change": 0.68,
-    "pct": 1.39
+    "price": 50.13,
+    "change": 1.03,
+    "pct": 2.1
   },
   "USD/INR": {
-    "price": 94.94,
-    "change": -0.21,
-    "pct": -0.22
+    "price": 94.81,
+    "change": -0.34,
+    "pct": -0.36
   },
   "Dollar Index": {
     "price": 101.96,
     "change": 0.08,
-    "pct": 0.08
+    "pct": 0.07
   },
   "US 10Y Yield": {
     "price": 4.93,
@@ -88,6 +86,11 @@
     "pct": -1.2
   },
   "news": [
+    {
+      "title": "Stock market outlook today, 2 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPTlFfOXJmNXYteGRXMGlYQkU2QWtCMlFRbWF4X0FNa05FYlFSbldpcU1xWUlEOEFBN2ZnQVgzU1BUUHRYYm5BZ0tNREpnY0d0Rk50WlktMUxIOEVVUXl0czc2UVJZcG0yeUc1U0JBZ29GS01JeW1rNkpjWk42RDFNRXNLc2x2YnVjcU5rUkpXZmdTS19pY21QdXdKb0V2X3ZraTQxT3lWT0pRSUlJWG5VRVRyc202eDJMZWhaSGw5SjBWUExkZFkwX2F5N252YUcxeWxsUTVQSVhxQndVemRBWm1MYnEtQ0xWcGVSRld6M09tY1UzQzZlUU5nR2htOUM1LWdv0gGIAkFVX3lxTE1UaV9xRDAxeW9XVEtUWW82NWRuVFpVN3gxaXktLVBtNVVoalBkX0hRMzI3OFA3RGNRMkVDT3MzdWxZX1N4Q24tWVJQMnpsRmo4ZU5OemVyNVFPeVNNbTkxdktPZFhwYU1icmtmWTlma0dzWlhjREZBeGY0djVGYWFDVHVoTFhsY1VkRXJiS01BUGRkSlFhV1N4Y2h2ZlRPRG1ZTGZZZGJRalJEVUxmc1F3NXlqaHM0N3BJRFVzLXhaQjkwa001YUxiQUZxY1VzVVp2bE5zNGQ0aERLdVJjWjdxdm5aUmVvcXdjV3pRaEl5VExpOV82d3BsNzdnY3A1c0dhd0lpWURoUQ?oc=5",
+      "published": "Mon, 02 Nov 2026 01:22:54 GMT"
+    },
     {
       "title": "India\u2019s Consumers Are Back, Its Stocks Aren\u2019t - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWh5U3FLMDNHaUZYcWhfQlNSenN0Y0wyaC00SmRDT1YyTzJLcUkyTnFSc095YnZhS1MtQ05xYVhVM2tGazl4azQweWlMaGh2MXpOUXpXRGw0UVFlRTZITWVWc2FneXNZUDhLZlhXVlU2VWdWdG9KODVIX2dBSkJseEkzbFlZbHJHZnA4c05FT1JzNEFxdmdUYk14ZzhSY29FeXotOWJPMzNrZEJWT0xr?oc=5",
@@ -109,25 +112,20 @@
       "published": "Sun, 01 Nov 2026 23:12:35 GMT"
     },
     {
-      "title": "Stock market investors alert! Eyeing US markets? Groww starts with for Indian investors \u2014 Top 5 things you should know - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQzNPbUVuSkR6b041QUVpR01VYVQ0TXhZQmZBenRPZjdPMVZQbURkZGFrd0ZQRUFnb01PTU5sREU2U2dQTTVVa1pNYjlQLVBaRXBEWFhqQ3U5dG93czV2MU9sbUpYZEJuQ1JuaE1SVVcybG9iZFFxVktZZUl0bmJZSHFSZzhZWnF6RTJNYnhTRlB5Q21DaXFSbU9pN3VLYXBYZW13V2JsWEMwellsaV9yOXRJeWZQS2E5MFhyblJaRDRnTUZ5MGtZbGEwRS1LNTdvOWFLREZqOXluUXJkNEd4cmZJVGV2TEdId1JsbTNmLWlqZmVlLXFDWdIB_gFBVV95cUxPRU1HOWRUYy1CcTVudk95NmRJS1Y3MW5FT1dvZ3VNQ1JCbGhEODVpNDQ1a3RrSzQ5RG1JamZLY0JtaklvdGI3YzNEWGZ1Y2ZKTkpRQ296QVo3bVhCaVBPaG5Dd2d5SkpKNmtrVzlfVXZ4c0d6LXdBUmxLOXhsQ2VJNTc1NlRFdEt5bTQ1WjJJYVJka0UtUWxQcFBiZkx3dVhqcW1aeXo0TVBiN0NIbHdNZFR0ei1vRE1hakRaRXJHUlpncTVnWXJvejA0M19lcGZqeVpFbFlieFkwX0Z2elE0SjlpTXgxMXhGZ2JlT1FwMWp3T0otaVcwUm1JOHY4Zw?oc=5",
-      "published": "Sun, 01 Nov 2026 09:05:31 GMT"
+      "title": "Godrej Consumer Products Q2 FY27 Results | Afcons Strengthens Infrastructure Portfolio with Major Contracts | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPZEVfdnAzbDdUa3pUdzJFc25TV3E0MzVZZWt1QWdoQV9Tam5QbWtodExOS2FpNXB4VmJCVzktX2dxN3FpcWtCeG1QdEtBSjN0VlBvRFdENTFQa25vWFN0V29abU9sWU8xTUJTS2JTdDhwMVI4cC05ck9ndUthUTBjNGU0OUY0ZGZLWElBeGp6dGNUdGZrNVpzVXRzTHJRcFFLM3p3d1JqMmNHM3FvOVkzX2dtNG13eG9VNVZmWlFIQjk5eV9vcnhTWkpvTG5acnBVSXlkTHZYMjUwWlY3Uk82b0F2M0gwZGpmTlBrYVBIVzZOX19aQnFFYUNBVHlsemwzN0ZQaXlkZll1R3ROWUkwU0VKVnFqUUx6ZS1WaE1qcHZZdGtNd3FaR2RzdDV5dHNzRGhFMTFaTmhLR0R2QWpnQUR2MjdXelJOODh4aGlDVHRNb3l6dTZuVWt0R011V3RjZUNiX0ZDLVhTRl8ydFQzZHBRWEU1X2Jwb2J2VTZTcDhFdw?oc=5",
+      "published": "Mon, 02 Nov 2026 00:30:00 GMT"
+    },
+    {
+      "title": "GIFT Nifty jumps nearly 200 pts, signals strong start for Sensex, Nifty as crude falls amid Asian weakness - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVHdlU3Bwd2s4bmdrZzZiMWZiT3Q3amR1UWxqM1NnVngzVnA2d0s5ekxxaHVPcHl2Yjc2Wm11RHdQR0trM1BzZFdrTkpqSGhMNnpmbnJHVkZENjljRXZESWJXWU1lWUNOLVVqdWlwZ0dIMU5nYm5fRVExcy0tcDdRZjE2RXhPQzVLbU5fbWY4dHM3MXFNempxZzEwU2tCaTNCNmZYY0dZLVRVX3RobXRJcTA0dDc0NmdXdVYxV1pVdThPeGtoeXdIaHdmR1VTRjRLcEhqTEQtaDBzODRMbzYxRzFLbEFwSV9pcDZ0QlFtcEgyR0JvbWp2aE4yMjRWUdIBgwJBVV95cUxNWW1DR0pzWVRxVnZGWVhVMnVvT3ZGRklkOGdfNHVMRGFfUnlXenBxdEtnNWNaRXpxRmJlVDJsQ0t0TTc4bTJ3bFl1MWd0bldqbHJvVnUtSGRRRlZvckZ6bFlFWk5mWE5YRFBMd2k1RDhyUHFsUnd2UmVkMUhuQng5M2lBUWszd08wbC1CaEFYSHdpcGRYbmJ1NnB2QW9iVVpZTE9INzdmaTB4VS1KWHJwaXN0ZW1USGtrempxVFlOSUJXWWlHVkVjdGJaTS1aRHNsdmdqS0EwMEVKbXpYRjQzTVM1aWRELUo3VnRrTXpNZnM0c1hxa1g1dlVDSUYtYTRvZzRR?oc=5",
+      "published": "Mon, 02 Nov 2026 02:48:56 GMT"
     },
     {
       "title": "Telecom giant Jio makes debut on Indian stock market - Anadolu Ajans\u0131",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc1Z3SGludzg4ZGt3U3FRTGY1ZHYzaWZvbVQ0NFVvWm53S2JwX3pCamU5YWE1eC10Q1dOTHQ5X2FDakRJZkdicGJkZHNyamthWWZqQ1AtazBsa2Q1NndDZ1k4eXh3UzRBb0M1eXAzRUstY0hjWjNaYUNCelB5eERVaS1OdU9jdTNLYVJJeS1qaU9RZmJzU1ZCY0YxYlBPM1U?oc=5",
       "published": "Wed, 28 Oct 2026 12:43:05 GMT"
-    },
-    {
-      "title": "US Fed Holds Rates, But Another Hike Looms: What It Means For Indian Stock Market - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSmRrRU52T09kVW12NGFacmo3dF9mT3pGeVBaYmsySExkdjhKUnkxdDNTYUMyMWZCVnJOUnRGU1lGck9LYm54UTNFSWpaNnJjSVdnNnJLWEdxTW5JMU5SRnl1YkRMRGVRdWhFbVRHdU1SMDRCd2FKclJZcVVqWnJmcWxWZ0xqaHJCaTFEOXdyUVYzbVRyNDA0YWZMMDF1QWtuaVBQSGtmTXhqekJ0dGJTTTgtMnAzZzEzd0tLWFkzNG5ZSzhCaEw1ZlFsMHpyTEZ1aDBBWHJPQVNxcnlHVS1ycm4yOVVpeUR1QTRyemZvN2pIN29zUVVKa0dYV1h4Zkd3aDRHQURTMU1tMnfSAZMCQVVfeXFMTUJoVG5GdV95TEhndUJvUk50T0ZMOERWbU5FbmtGX2RibnRxczhISW1BbnRCVUpRSjlLLW1BOXlndmJvSC10cmlmY052bFNhVFFHREZYcW5lVnBYbEpicEZ3bXZpMENvc2ZyNGdHd19qbkRKM1RtT2U0ZGlzVnAzT3daS0Jsdl9qU0lWTFJpY1V5S3daeGNaT3J1eFRNTnVzcy1mR0FHc1BLR2EwMmR5d05HWnNva0hQdGV4dl9Dby04eUtRMzlPVmo2X3FpVUJXVVc2T1lsS2lfTUVWTVk4U1U1Qm1rYnZfbDd3d3dWbHY1akRQd1NHNWRQSDVWVjdGTUdTUlZJTXZtYzJkSnFtdXd2aGM?oc=5",
-      "published": "Thu, 29 Oct 2026 01:50:17 GMT"
-    },
-    {
-      "title": "US midterm elections 2026: How the results could impact Indian markets and stocks - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWlFGLVFDZ2hERWpwR0YwWWlWVmxPNzR0SEs0bWhlTHFZWmphM1BPYWpfVVk5VDQzWnBSUENEX3d2cXFweUtQTFNjd2xYQkZoTkVPT1l6Zml3YWUyZDhEV1lKRHpmT1AwWFNoOUpvSnpfNXVtM3NtVFJ4Y0NLZFZuSXBPWWVSZ1Rrdjhkb2ZIWWJ2Z3lYX003UXlvNHhmNEN2dUg5eThDQUdscTDSAbABQVVfeXFMT1NXay16ak5MT2N1Y2dRTTA2ZnN6UGpPM2cxX01PaGZUUV9YWVAzZEJ3RzBvUUJPU3NZaWdLc0RXdUZvcHZUdEhfUWRISnBjWTlvaFFxN0RpZ1A1ZS0xY2xXVUYyOVVjelZiM3puNUprczVvUUJ0eEpQc211YzZyR1BlX182ZkZaSkd3Vm9TSU5mVW4ySGpraHVQci10ZDNDdDl4Y0JJTVlzbDdjWWlpVWo?oc=5",
-      "published": "Sun, 01 Nov 2026 08:27:35 GMT"
     }
   ],
-  "last_updated": "2026-11-01 23:53 UTC"
+  "last_updated": "2026-11-02 03:49 UTC"
 }
