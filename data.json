@@ -28,75 +28,66 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51786.72,
-    "change": -197.26,
-    "pct": -0.38
+    "price": 53266.01,
+    "change": 1479.29,
+    "pct": 2.86
   },
   "Nasdaq": {
-    "price": 25372.01,
-    "change": 207.7,
-    "pct": 0.83
+    "price": 25893.14,
+    "change": 521.13,
+    "pct": 2.05
   },
   "S&P 500": {
-    "price": 7568.92,
-    "change": 27.52,
-    "pct": 0.36
+    "price": 7706.42,
+    "change": 137.5,
+    "pct": 1.82
   },
   "Nikkei 225": {
-    "price": 62188.63,
-    "change": -893.23,
-    "pct": -1.42
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 23919.5,
-    "change": 393.53,
-    "pct": 1.67
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 102.28,
-    "change": -1.32,
-    "pct": -1.27
+    "price": 95.52,
+    "change": -8.08,
+    "pct": -7.8
   },
   "Crude Oil (WTI)": {
-    "price": 95.3,
-    "change": -0.79,
-    "pct": -0.82
+    "price": 88.9,
+    "change": -7.19,
+    "pct": -7.48
   },
   "Gold": {
-    "price": 4053.7,
-    "change": 113.3,
-    "pct": 2.88
+    "price": 4077.2,
+    "change": 136.8,
+    "pct": 3.47
   },
   "Silver": {
-    "price": 52.08,
-    "change": 2.49,
-    "pct": 5.02
+    "price": 52.4,
+    "change": 2.82,
+    "pct": 5.68
   },
   "USD/INR": {
-    "price": 94.64,
-    "change": -0.09,
-    "pct": -0.09
+    "price": 94.63,
+    "change": -0.1,
+    "pct": -0.1
   },
   "Dollar Index": {
-    "price": 101.4,
-    "change": -0.47,
-    "pct": -0.46
+    "price": 101.46,
+    "change": -0.41,
+    "pct": -0.4
   },
   "US 10Y Yield": {
-    "price": 4.95,
-    "change": 0.06,
-    "pct": 1.19
+    "price": 4.9,
+    "change": -0.05,
+    "pct": -1.01
   },
   "news": [
     {
-      "title": "Indian stocks inch higher as investors assess foreign fund flows, US election results - Reuters",
+      "title": "Indian stocks post longest winning streak in nearly 5 months on FPI inflow hopes - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0tFa0Z0bnRlSFU3NTdYOFVXaGdid3Fad1NTRnViRDBTUWg2Um1BQ21RVlNkSWdjR2Y1Z2VXdV9fWXdjY19GZkJDZ2F0ZFFvckRQY2V0eDRwVzZJMkJ5a29mbGlLZUQyQkFzX1VwVThZdEQtZEdiUVJMRzJxeGFXQUxmclZST2l1RzN6elNobi1IZC11a2N2cFJDZEdQNVo1MmgxWlFBaHA3VXlLWHc?oc=5",
       "published": "Wed, 04 Nov 2026 02:39:00 GMT"
-    },
-    {
-      "title": "US Midterm Elections: 3 Scenarios That Could Decide Dalal Street's Fate - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkdyY1pYMTAzM2ZtY1dLelRnYjFZdDBGejc3azBNLWxNLTZPeWVtbXp5NnZBTkRaNTFFVm1JdDBMQjZzbW1WTVNIYmJRNEZTSDZmaE94UHBpMmJFN1ZuYWVqTnByZUU2VlpNV2w2M0ZGRFdLTEFhRzlvQTFkRzIwNWFNMEdvb1hFVzNGdE41NDNBbUJMYzd4V3RZdmZlMWVEQWNETmlHcDdjSFIwWC1KTFh1Z2NvajZUcXB1R1ZRMmpMREZnUkc4SlNESdIB0wFBVV95cUxPdDZSaG5LZHNEMjZ2OWtqVHc0a05QVXVJZ3ZjakFkdndRMENrSWdqYjZudW5xdlJIanhPVjlTcFZvdjQ5M3BvVXZ3cmdDdHAwa3FZRWJkdGtzUC1OZGJYOHVPc2R2Zk1fVWEzNkNqT1hudkRGejF1OURtVmN0RVQzaDZ0S3VPZS1vTXBILUJyeGVBVEFFNkZtUDQ1LUFZZXR1anEwRWNEWTlxN0NmdDRFMkUzLS1tdUdpZUItX3J2SjRMa0dlWDluM2F6ME5SUFNmMTlB?oc=5",
-      "published": "Wed, 04 Nov 2026 01:22:30 GMT"
     },
     {
       "title": "What will Trump losing US midterm elections mean for Sensex, Nifty? Explained - The Times of India",
@@ -104,14 +95,24 @@
       "published": "Wed, 04 Nov 2026 05:27:00 GMT"
     },
     {
-      "title": "Tax Cut Hopes, US Midterms May Fuel India\u2019s Nascent Stock Rebound - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekxkSG1kUlB2VnJUNmRTYWM2UDlaeTg5ZkF5WEdHNmVNX2VSRldCeW1Edk9JZjF4bVFzTWZQS0Q3V1liOThBUGpJRGpPZmhXOUN3STYzbHl0RE1UNmZIUndkLXVGVk9qRGU1c25ZWmVMdGdYSmFVV0U2bHZacUdHUEc4UkV4UDVaenNhaE5pTHJQemdTU2EzRDN5dGhLR09XU2FUVEJFU2VtclZjT3A2Tg?oc=5",
-      "published": "Wed, 04 Nov 2026 10:15:47 GMT"
+      "title": "US Midterm Election Results Impact Decoded: Can Sensex, Nifty hit new peak? Gold, silver rates rebound with Trump loss - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNU0RYWm9CNVZsX2NmaGY2TkhLQ2hUUE9IMHZDaVRVOWFISXNFNGpHajBqR2RhcXdVYVluZkk3WEtmRUNqTFpzdGV0dnJrMlEySENWcU5uQTBzd0RkYThJM1puV0JsZUxYeTVkUm96ZWNkUjBjSXV2cHhFUXN6WmRJdXBLSXl4cjdFUUVtQ05BdlpuUXBZaUl5b0g0ZkJSUF9YZ0tfWXNseTM3YURXb3lsODQwRnRUNzV3T1k4NlBvdmg5bW1KdW1OVWlYSGNWeFQtQkljYzhCeEo0TkFJcFBkWGZ6aXFZV0NjaUlSS1N3V3V6alR4RlpFMGJrSGlJZExUbEU3N3NZNE9oeFl3Q3pmam5R0gGXAkFVX3lxTE1COHk1aC1SVmJSaWx0LWpkYzFHanEyb01CRGl0RnNxVWc0MlJLaGJPMGVaWTd5bEdKZ2ZaRkNuUE56ZW9CcEF2UnFBQjY2MUx5Q1ZsM2huaFB3U3lGZWx6MEp3aEh2by1RNGF4TDhGb1FnQjRHLTcwd0g0WTl0c18tT2VIcmQtRHpjOWtub2FXSktyVk9WOUJiOVlUckhQLXctTzB4N29FZzlKN1hBc29KMEhEMTJ1V3J0azFqV3hrQThRYWE4d1B4aVZsSXgzYTBqYmtrbTNYSERHSUUxVVdnU2FXMjMyZmxDR2xnSXBWWG13eVNyUTZINDdfT0xmdjRLay1ORThVSGc2WVA2MzR0Nmk4VkRqWQ?oc=5",
+      "published": "Wed, 04 Nov 2026 11:22:34 GMT"
     },
     {
-      "title": "Stock market outlook today, 4 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbUYtYjlXR0pBZWpOdHl6XzhCUEduUTY5YkVEdDg2YTRSVEZLNG9mLVJxVE5KZElmaEd3LVFhUWN6RThTUnpYUmVkSGRQWlp3bHZJYkxocS1aSC0yUnZKWGZTUVNhZFJ0bnhaVkVqV29JN1dvT2ctd3g3NTdJZzVTUlQ2alpqSU1JR3JOOUdfNUQ1LVhjeVNYeU1yVmtCRnZmWG85RUVrQk44dGhOWFk0TVJxOEVIRDN1Qmo1OExha1cxNElacVpNQmwyWGV6emcwWEJ0RXhzcUJuWTFsTUlxNGxzRXRiWlp6NTR6b1VrNWY2LWRxQXMxLXJHT1RPS0xPWm1v0gGIAkFVX3lxTE9PZWgzdkZ1UHN3NVgxUUZENzZoQnpKNUdTTjdJLTJXVzc0SXh2alZlNm5VcTNuME1CVGJ6TU12N1R2dXNLNmNtaEY0Q2xMNFRGRWstM3pUOVRfYlFwVjdaam1xeWktall4RFRLUDg5NG5ibUcyc2U3TVN1Tm80RjF6TUtrZ2doRUk2czdMcjNIYV9HOWI4dm51aEdsdl8zcGlwZFEzdGowci1sNmRRaGhpajNQalNBWnRsSy1seVZ1NjVENEdlX05OQ2xvN3FnYmdUak9UVHVUS0tiWEJONFRvaFZMU3JzeEczRUJYajZmMmNLa2gzZHJzSUdmSXl1em1na0JKMGo0SA?oc=5",
-      "published": "Wed, 04 Nov 2026 01:19:08 GMT"
+      "title": "U.S. midterm elections impact on India: Faster trade deal talks and higher tariffs likely - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQb2gtR0ZuWXJNM2UwZUVHdGEzdmh1blRQSHJaWnZicWJ5dWJiMkZ6M3FkbnFEcXk4MDhoVWxzRVNNMWNyV0lYeXNyZUVtazNjODBHM0NKbzlDUUFGOXFNd1kySkFITFl0eVdqQTVMR040YWREUXJ2RVBVU3dqeVN5RXRJdkRvcVNaUlVHNW5EZFZyS2dLbVNfTHhJbDBNV2t6ZWRLZXF2VDlCMzBodTlqS1I3cFVWYmFIZUkwVFBBSTZ3dE9KNVFIMEdhNVc0U3R5eXItWVotRi1USnd2dTB0RnpB0gHoAUFVX3lxTE5QbnZQSy1CRjBSY0Uwc290eUVvZG83d1FCOFRua1lqRDREWlppNnVwQnJKbDlGYXF0UXRjdFpjTkxwT0tZN01jdHlVUmZUel92MlFfLUJYaXBkcE5EZDFLQU5MSDlmclhLY2lqOUFjM1lRbHpYTWZYMnhVX1Q3MndwLWNqYjhrZWt4WHdRZVdDRFA5WjNjbjFWY0NNalIzT0ppWThhS2tBbXFMYmJIdVVaQkVOajlGVzd4eGxGR1ZCbmdZS3ZUTHNBcXRhWWJkWEd3aC05NTlwR2tLdlNqblFuMHZ3Nko4cE8?oc=5",
+      "published": "Wed, 04 Nov 2026 10:13:43 GMT"
+    },
+    {
+      "title": "Indian stock market rises on Rs 21,607 crore FII buying - Multibagg AI",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdk5JbENaaXBMWTExNkN5dmNrRWw4THBvdGFMVmNVNTh0YnZ1RVlEekRaYkRidFQzeEdsWE00cWlodG9nc2dLRTZ2MnJQdzFvc0F4Rkx0T0FtN0xJRVZrUVI0SDZNZmhSMGY0MkRkM1Y2RTh2RTZaT0lscXFJRmRHMTQteHc5TDY0aVViTTI0UXZmNUV3QU1fM1BJMmx0TS1jV2VOdA?oc=5",
+      "published": "Wed, 04 Nov 2026 15:02:16 GMT"
+    },
+    {
+      "title": "Tax Cut Hopes, US Midterms May Fuel India\u2019s Nascent Stock Rebound - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOekxkSG1kUlB2VnJUNmRTYWM2UDlaeTg5ZkF5WEdHNmVNX2VSRldCeW1Edk9JZjF4bVFzTWZQS0Q3V1liOThBUGpJRGpPZmhXOUN3STYzbHl0RE1UNmZIUndkLXVGVk9qRGU1c25ZWmVMdGdYSmFVV0U2bHZacUdHUEc4UkV4UDVaenNhaE5pTHJQemdTU2EzRDN5dGhLR09XU2FUVEJFU2VtclZjT3A2Tg?oc=5",
+      "published": "Wed, 04 Nov 2026 14:45:47 GMT"
     },
     {
       "title": "- The HinduBusinessLine - BusinessLine",
@@ -119,15 +120,10 @@
       "published": "Wed, 04 Nov 2026 01:30:34 GMT"
     },
     {
-      "title": "Sensex Today Trades Higher | Nifty Above 23,800 | FMCG Stocks Shine - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOLVFBdF9OYUNEa3IxMU4yMGVRSE10UTEyVllDWGlkOHRoTjFnRzRZNlFxX09ZLUotYkNONUx4dXdjVFpSMER4RENzNVpjS0ZlVkVPSUZQVTlOUnp6T3Y1d3B2SkkzZEYtX2tNNjNiR1YyT216VmM5YXhmT25DdWxVd2ZVQTNLUHJIN3lWaFBHVnotenhvS1cwcy01QWhnVEtSaWhFMzZNNVRPNW9nZ3BKZ1J0eGZidGVlN3p6dmVCY3NLUlk2RUl2cWdUSFJYNjJRX2xKMVBJMEFEQXFTMGF3MUxIX3J5cndaN2cxNXZVLVJBZjlVeEJ0b1JYRFlPd0FHSVR6S1dCVzkyOWhyTjFteXJIR21kdGk5Y3BiTGVLT2xwZ0cxM3UyU2FGQU5oeW1kbEZ0SkdWcFR5X3lXWTVnTg?oc=5",
-      "published": "Wed, 04 Nov 2026 04:31:34 GMT"
-    },
-    {
-      "title": "Indian Stocks Open Higher as Oil Prices Ease and Gold Gains By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ3hYaEdDZnU5dnRLWUpKUDVKTzZSVEtUVEMwallpYU5qUW1JYnlKc0RWYUpQU2k5VGFJWmtKM2l1N0Z1cFMxN0VmZUE3YzhKaGRRdlpraHlwMkdSckNlMkFVVHdreFEwRVhYbF9ESmNTRC1PWlJkMGFZekJQdVpKXzJieExPeFZfSVJXSVpBdU8zd0s2eG1iUURybU56dUNhNVNvS3Vzd3hvZ0VoZnhNMlV2RGFNQQ?oc=5",
-      "published": "Wed, 04 Nov 2026 04:23:42 GMT"
+      "title": "Indian stock market rally has a catch: Why TCS, Infosys and HCL Tech were among the top laggards - The Week",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRDJneEFUV0ZIcXVjR1dwTzVKSDhPb2J2M2ZYcWhXdlJQQWhQTWpnTmo2UVh0emc2R0liMER6WTB2bUlTb1R4azVDLUh6Y2V5cE9jelZwRWIzVlE2VmRSeGJ6QkdmNXdVdmFteGFoNXpOYzJjVXFLTHFWbGlRN2doX2lZblJKbDZTY1lnNHRkTExZSm83TGcxaU1RT0h3S0g0S2d0dmpmMm41TlpLbDVzZ0VZM3d4U3A3UkthVGFCTHlLd2lTYmQ1OGFVNTJhUmZIZ2Z5cUs2UnhMYW90eUd30gHkAUFVX3lxTE1DS0tvZG1WTWhSY002V0RES1BYaE80emk2Q1ROZm5PRWRQOThoLUFxdDl5WTJNaldDN2htZjVhcEk3UU1HVHJoY2Z4eEVBMmJHb0I1Rmd6UEZ0cnlIWGRqTW1mSmNyeTNhWmMyRkw1QVdmMThOTVNEMUdDR1pjUE5ySzd2emtlZmZXcV9sdzJ5Q0pNY1Q0MTd5SFBUTUN3VnFRMTF6NUVsc2RBaVFFeERKSlY4UVlLVXdrZ0tEZHdCZS10dnBtQ2tmLVVGZUc0ZU00LUc0NEJCS1NiTTZMS1lpaFlpYg?oc=5",
+      "published": "Wed, 04 Nov 2026 11:32:53 GMT"
     }
   ],
-  "last_updated": "2026-11-04 10:50 UTC"
+  "last_updated": "2026-11-04 18:22 UTC"
 }
