@@ -1,56 +1,42 @@
 {
   "Nifty 50": {
-    "price": 25044.65,
-    "change": 14.3,
-    "pct": 0.06
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 59741.25,
-    "change": 655.25,
-    "pct": 1.11
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 81064.68,
-    "change": 36.66,
-    "pct": 0.05
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 17.41,
-    "change": -0.06,
-    "pct": -0.33
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 32468.9,
-    "change": -509.0,
-    "pct": -1.54
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51285.73,
-    "change": -237.33,
-    "pct": -0.46
+    "price": 52488.5,
+    "change": 1202.77,
+    "pct": 2.35
   },
   "Nasdaq": {
-    "price": 24579.43,
-    "change": 264.43,
-    "pct": 1.09
+    "price": 25332.93,
+    "change": 753.5,
+    "pct": 3.07
   },
   "S&P 500": {
-    "price": 7376.86,
-    "change": 23.13,
-    "pct": 0.31
+    "price": 7570.5,
+    "change": 193.64,
+    "pct": 2.62
   },
   "Nikkei 225": {
-    "price": 58775.5,
-    "change": 1340.73,
-    "pct": 2.33
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24448.95,
-    "change": -32.91,
-    "pct": -0.13
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,28 +51,33 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 93.93,
-    "change": -0.53,
-    "pct": -0.56
+    "price": 93.92,
+    "change": -0.54,
+    "pct": -0.57
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 4.86,
-    "change": 0.02,
-    "pct": 0.45
+    "change": 0.0,
+    "pct": 0.1
   },
   "news": [
     {
-      "title": "Indian stocks buck global tech rout, post best week in 6 years - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNzeFpJV2tDZUlhN19jRzc4UDQ2NUJ2eWNvdnBjdW1Bam5YdE9HUGhfLUZ3Z3FMOVpQMFdId2Z4SlBlMll2Z2dYVXZqamZYdjRMazg3NnZfbzA0WHFNMVNLY0VqQ0dwMkI5RDB2S1ZrNFNGWWpnQmdjUXE2cjcwem9KVzVPYzJMWm5ycGVJaTFWTGRTX3g3T1JIbVAwb3pFUGFXVHBmMWIxdGhOWUtIQm1hWnZsbUhHMVE?oc=5",
-      "published": "Fri, 06 Nov 2026 11:15:10 GMT"
+      "title": "The India Upside to Jensen Huang\u2019s Nvidia Crisis - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRkdWN01xQ20zeEJ1RWZHbG9NQVNFUjZtdTdKXzhpU0N0UEUwc2ZqVk5KcklOcVVIWng2SVd4dGtabFVnM3c2WkN4SHdSOVB3WHFQRW1XZHptZXJiM18xaWxjYWpiRC13ZExiZWNrMFNXMUZ0OFU2SWxCYkNmbnpjNWtJQmppZ3ROZURqbk1LVGRwRVV4SURSZ0tnY21Hd3FGZ3pzdjZiRFJVZmNfT3JpUF91anJ5Zw?oc=5",
+      "published": "Mon, 09 Nov 2026 12:30:01 GMT"
     },
     {
-      "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3BlYWlxQWxsNm5VTGIwemRHaWlwREtmRGk3RGZuNmxJMUo3NlJkTEdFTVRYdG1JN1U1YTJ2WS1pUlhTeVNxcnRRS016QWN2ZXFSTk1QWkxXeG1fQkFoMFczbUhaQWtROTNCeGI3R1lwSVhQRHFYQWpCQTdFZ1NtWEFPc3Q5S0Y3RExOUVU0a05jTmYxSFY0bjV4ZlVlQlpoM21CVDlzOTJhODVHQXh1QUh5MVdtbUI3cFBtSmtGTXd6NWVMSXdWVFkyTDd4emg5UDFPRUhVZjk5dENOZmhiZllzdU1Gd1FxalhKejFXM3hJVFdNZUxCaXJhbDBIQnE3VEdR0gGIAkFVX3lxTE9UQ3ZVVDd5LUtkdjQ5SjVwTEdTWEFXdnBtdWh6UlpTbnNTbExqODdibUF5a252YmN3YVJ4Rjd2SUZlV0hZVEFfZHFMYUU5S1V0MVExdFJ6TWRxTW5vT2JmMlZVMm9PNjYyOFZ0eHJQcHo1bHFFSkNRYi1qQXhOeDI5TWZ1U0dQa0h5WWN2dTRqUDl6djdIQ1pHU0E1cDlsNVRIZ20zRG9Fd0x3OFZvYm1xbzQ0TXIxaUl1a3J3RFJWTFNnemk5MHJfYzV6UDBsM0lSSVptc2VNMGxkRGpmSFBTMGRWblNIdFA5SWNtQ2hoXzBZLW5xclpwNVB2V3oxVWNoQnQydk5OSA?oc=5",
-      "published": "Mon, 09 Nov 2026 01:27:55 GMT"
+      "title": "Indian shares inch higher to close at 8-month high as crude oil drops - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkM4eVdiUXpCc3Jld1NOSlRzMEFUeHcxb09peUlKS3ZFNTVLS2lwMFE0T0x1NV94RGowQjZEM0luODhHRFNZWWxaX2w2Y0Rqc1d5X2tXYlRwcU5wMVMxNHNjeWVXZEZSNkYtV1JEV29LeDE2bEVRMnNBbUVNNGV5cjNlYVYydGhKT3Awc2VVeEY3WTZSbWJjak43bmpTdmJjR2ZSU01fSXhCeFNVNXlYeGxPODh2UUlHQ1FRb3VNSzc?oc=5",
+      "published": "Mon, 09 Nov 2026 10:16:03 GMT"
+    },
+    {
+      "title": "Indian Stock Market Closes in Green: Sensex Surpasses 81,000, Nifty Settles Above 25,000 - tennews.in",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTEY4NnBCMmRPcDA4aWc0SXI4MDdYTXVwN1ZrdXRuUXFHblYtNmc0bzdjSTFiYUoxUVZfMWotTUEyT1RYT2NndFpMbjJsNEVEaENOZHRrY282WWNDaVZQNWdka0lHazh2UkpyVnlyQ05iY19MeFgzdGdJSW5fTWRteXcyVVFYaGpDaUhiclFiM3NaU0xheGV5emY4NzNQVDcxVnhIMHVVaw?oc=5",
+      "published": "Mon, 09 Nov 2026 11:08:26 GMT"
     },
     {
       "title": "India\u2019s next growth story must be its stock market - Firstpost",
@@ -94,30 +85,25 @@
       "published": "Mon, 09 Nov 2026 08:20:42 GMT"
     },
     {
+      "title": "Stock market outlook today, 9 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNc3BlYWlxQWxsNm5VTGIwemRHaWlwREtmRGk3RGZuNmxJMUo3NlJkTEdFTVRYdG1JN1U1YTJ2WS1pUlhTeVNxcnRRS016QWN2ZXFSTk1QWkxXeG1fQkFoMFczbUhaQWtROTNCeGI3R1lwSVhQRHFYQWpCQTdFZ1NtWEFPc3Q5S0Y3RExOUVU0a05jTmYxSFY0bjV4ZlVlQlpoM21CVDlzOTJhODVHQXh1QUh5MVdtbUI3cFBtSmtGTXd6NWVMSXdWVFkyTDd4emg5UDFPRUhVZjk5dENOZmhiZllzdU1Gd1FxalhKejFXM3hJVFdNZUxCaXJhbDBIQnE3VEdR0gGIAkFVX3lxTE9UQ3ZVVDd5LUtkdjQ5SjVwTEdTWEFXdnBtdWh6UlpTbnNTbExqODdibUF5a252YmN3YVJ4Rjd2SUZlV0hZVEFfZHFMYUU5S1V0MVExdFJ6TWRxTW5vT2JmMlZVMm9PNjYyOFZ0eHJQcHo1bHFFSkNRYi1qQXhOeDI5TWZ1U0dQa0h5WWN2dTRqUDl6djdIQ1pHU0E1cDlsNVRIZ20zRG9Fd0x3OFZvYm1xbzQ0TXIxaUl1a3J3RFJWTFNnemk5MHJfYzV6UDBsM0lSSVptc2VNMGxkRGpmSFBTMGRWblNIdFA5SWNtQ2hoXzBZLW5xclpwNVB2V3oxVWNoQnQydk5OSA?oc=5",
+      "published": "Mon, 09 Nov 2026 01:27:55 GMT"
+    },
+    {
+      "title": "India stocks higher at close of trade; Nifty 50 up 0.23% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmZKRncwTlIyeUk1QUFycktMQXlnc2xyNjZHWml3OW8zRGRLZWpVSmxQb2dTOERwRnlGeEhXdjhST0NtMjdXSlFGcHlLLVVNQUl6NXFsWHVPdHplRGFjMXE5ZmFBa2xRVXd6MHVmNklkc3V1RDBicWhmWkhuaVUzWk9PSDdOTUdCZnFrZFZYQ0pDa1RiOHNrMm1ySGZBV2FQQlU4RmFyT0FlN0loRUsw?oc=5",
+      "published": "Mon, 09 Nov 2026 10:37:35 GMT"
+    },
+    {
+      "title": "Indian Equities See Modest Gains Amidst Oil Price Correction, Strong Bank Performance - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmRHTUtNR2NJcXVrUG52Q01HYXEwLTROZGs5SHZMN2JvY0l3WEpNVlpubUdsOEV5czllWUtJSjNZd3BSZHVkaHdZc2E4cGxLTU5BX1hJTVBuTWEtd2VOazY2VHE1Qm5jdTZ4RFBPWGtRcjVOTjVxUFhGS1J0NHhpSUNackc5U3o1dEd3VnpFUFFRcVByY1hvaFNJMWYwRWtPWDJQRUVtSzRpNm1FZ0dDRVBiMU1GbUVJaU5TME44clfSAcMBQVVfeXFMUFVuYnRHZ3pfY29HZjI4LURwb1VsUGdiV2QyYzdUQ0d6WFBRQXJ0c1RmRWlBbnJ4NjJtYkZOVmFWU3hWRGtZVTUwX0dscEw4VmlLcmdxNGxwSGZWNVBTTDZXT1hhcXlaX0t4NC1FZUdTWTJtSGd6YXNPUDB4dDZLUGcxcnpLckZnWjRtZGtHYm10aDBhQlVvSkVWZWpBcmpxa2hPUXNZd1h1azFLVlRkNWZ0VmVUUl9XRHNxVTh1Q2lnRnQ4?oc=5",
+      "published": "Mon, 09 Nov 2026 11:09:29 GMT"
+    },
+    {
       "title": "Nifty, Sensex decline in early trade as profit-taking sets in - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRml0clo4N1M3WmxpTDVpTU5YRTlQT1JLYzYwNkYwNjRRcDlMNkZlaXhzd0Z2OVhGMmR0NUVPTDkwQ0duemlyRHNSaFYySmtCTHpRSGtlMFQ3M0xzdTBROUQ4OTJCMDd2Y18tQzJGN0JzbmYzNG4wVVA1QkJ2LXBvcktMYWJaUEY0aHZ2ek9rTUhHLXM0WjdzeDQ2UTB1S1dYOUVtQVRzWmIwUnJidE1xelFuU1HSAcIBQVVfeXFMT3J0RDlrQm43cTJobGpYbzFDeWJWNEFDeHdsd0s1SW1wZnkxcklPOFJDcmYyalhYR3BrRVdRV1k3N29YYWxXcFYwcnk4c0JIckhWeXpwN3o4NGpiMHJWUTJxZUlPV1EtanBiczZtLXpwVlhkNkh5VV9GODg3SjYzRk9LajdNSjh1OFRZWEUtVlFHdjFodGhJSGJ0SVkzUmZQOXBGOFhHX1k2NmgybmNveWVPTDNmRHJ3LXBZZERxTWVjdHc?oc=5",
       "published": "Mon, 09 Nov 2026 05:03:37 GMT"
-    },
-    {
-      "title": "Sensex Today Trades Lower | Nifty Below 24,500 | HCL Tech & Bharti Airtel Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUmcxY01ZMFFxNVBTU1YxaVNIdkxKdlNoeXdBS0hYLUZ2TFhEWFRiSzJqeV9BZTdJNnVjZHZTYmNJdFF4MHVqWk5XOTBTOWs0U3ZZUjEtMDRvT21XVWVLZHdyNjBIOG9qbUR2emNhV28ycW5UYlVLMEU4a0t5eGhJUzBBS0lWWFFjbi1RdXpCVlFIUWlQY2MyeE80TFRmamxqZmpvNE52MWZ3NDh3OWZCY3JOTGpDT3B2dTltSXpiTlBGYlJLSHlubGx1NHZhWkZWYXNhd0k2NA?oc=5",
-      "published": "Mon, 09 Nov 2026 04:40:51 GMT"
-    },
-    {
-      "title": "Indian stock market outlook for Samvat 2083: Top-10 factors investors should watch - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSi1YWkd2b1VQS0ZuVm5ZTk9KUGVSVHZnZnFqZC14Z080MWJ2QVBmbVlCYUwzczNXdEVRQUxXSjItTnBmQmdvdDdNTDhwaXY3ZzZzSDlPZzZUZVhyS18zQnY0TWFXZUltdGdROHZxdGtWMzNMbzRTT3pHQkx6dW56b3VVRlc5dVNkam93Nl90SHBNenZ2VDZ4d2cxb3JvT09UaGY2NGJGSGhfbndGS2tHVXFVcDR5YTBBd0VhRTNLQWNsQWpYMVVGVDVQUVRzOHAxZnI4SEJCZTYzZ9IB3wFBVV95cUxQeWY3S05sYWg0S1dPeGc5N3FEVjg3M0xpMUdmYklFNEI4WWs3d1hITzhYajRJbzRNNFhEaHRlT2V2SlhHQlNUMXQ0bjJtUC1DZTlnZHRnSEIzbFdpZ3RFTE9NaDQyS2dmWmljakpMR3pwT09BV3pSeWpOUWJRZ3NicEFuLUFJaG80VW03ME1NWU1saGFYNHBfRlhXdW94b29SSllHaGlGMUVuMk5MMFVOenhHaXVWWnBoX0FGZlVSX0tFSVRyZGtjYVVXUkdQaDR2dWFZSllxVlhGeEhSSmNB?oc=5",
-      "published": "Mon, 09 Nov 2026 08:02:19 GMT"
-    },
-    {
-      "title": "Early November trend indicates return of FPIs into Indian equities - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOVNPa2hHRVNiSlJRWE50cUtQWWRSdV9ON3hpMkJpZ1Z1NllBN3BzQTJfTjVEMXF0b0xIVS1HdzJmamJsUkFmd2kyWU9RSHEwM3dDVEdXMTItdXlSbUdkRHNZRUlUcUo2bkctWTcySlVTNEJNQU5UOVVVNFd6RXpOQzdUV3JEbVBueklpMGpzbXdxOFZ1UVNKZUxfRVhieHZTdW5KRVJPaGZvcUl1NW9VeGtZWU9yNzdzWm5fc2lLYkZRVzd4RExmbw?oc=5",
-      "published": "Mon, 09 Nov 2026 07:47:53 GMT"
-    },
-    {
-      "title": "NIFTY, SENSEX continue to trade lower in noon deals; HDFC Bank, SBI, L&T, PVR Inox, Divi's Labs among top buzzing stocks - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcmpvWTEtVzZQaFRJT0YtMm5SVnh0VDV4QTJBTXczT2FtcnJPS0tlUm9YRUd2RlZzaHI4dWJ6QVRlLWVPYlpvTUFTYzBPWDZwemtBQ0lPVnd1bVphSWszdW1ublpubThqYTdvbUQwY2JlZm5fTFIweUJINHFYT3dIdTJ3OHVITUdXejg0LTduQXUzRF9mY2ljNnAzZWRpMEVRTXFpeUlGZjdKUS1TTGZwNXVSODZ3bVJ1d09rSC1Cb0VEbUVmOWN6dVJaaHlFeDl0T250QVdRQ2NGUmxTZ19z?oc=5",
-      "published": "Mon, 09 Nov 2026 06:36:23 GMT"
     }
   ],
-  "last_updated": "2026-11-09 10:00 UTC"
+  "last_updated": "2026-11-09 20:35 UTC"
 }
