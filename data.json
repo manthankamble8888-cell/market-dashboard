@@ -28,49 +28,45 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52389.75,
-    "change": 1104.02,
-    "pct": 2.15
+    "price": 52062.11,
+    "change": -327.64,
+    "pct": -0.63
   },
   "Nasdaq": {
-    "price": 25253.14,
-    "change": 673.71,
-    "pct": 2.74
+    "price": 24881.84,
+    "change": -371.3,
+    "pct": -1.47
   },
   "S&P 500": {
-    "price": 7549.94,
-    "change": 173.08,
-    "pct": 2.35
+    "price": 7481.54,
+    "change": -68.4,
+    "pct": -0.91
   },
   "Nikkei 225": {
-    "price": 60459.58,
-    "change": 1684.08,
-    "pct": 2.87
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 24557.04,
-    "change": 108.09,
-    "pct": 0.44
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 90.41,
-    "change": -2.16,
-    "pct": -2.33
+    "price": 91.76,
+    "change": -0.81,
+    "pct": -0.88
   },
   "Crude Oil (WTI)": {
-    "price": 85.13,
-    "change": -1.72,
-    "pct": -1.98
+    "price": 86.29,
+    "change": -0.56,
+    "pct": -0.64
   },
   "Gold": {
-    "price": 4084.6,
-    "change": -29.9,
-    "pct": -0.73
+    "price": 4025.2,
+    "change": -89.3,
+    "pct": -2.17
   },
   "Silver": {
-    "price": 52.45,
-    "change": -0.11,
-    "pct": -0.22
+    "price": 51.22,
+    "change": -1.35,
+    "pct": -2.57
   },
   "USD/INR": {
     "price": 93.92,
@@ -78,14 +74,14 @@
     "pct": 0.02
   },
   "Dollar Index": {
-    "price": 101.73,
-    "change": 0.08,
-    "pct": 0.08
+    "price": 102.32,
+    "change": 0.67,
+    "pct": 0.66
   },
   "US 10Y Yield": {
-    "price": 4.86,
-    "change": 0.0,
-    "pct": 0.1
+    "price": 5.01,
+    "change": 0.14,
+    "pct": 2.92
   },
   "news": [
     {
@@ -94,14 +90,14 @@
       "published": "Tue, 10 Nov 2026 03:35:00 GMT"
     },
     {
+      "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
+      "published": "Mon, 09 Nov 2026 15:18:05 GMT"
+    },
+    {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjgxUE5jbWc4X3pleGN0VXRSbGM2REFCQ19GbVVDZ18xS0NSU2JtNFVqZVFGRWZIN1Y3SDVNQW1iVUE3Y0d5QUlpUmNFb3NMYlNScFpsWk1RWm9fVWlHelhLS04zQjZMVlFQcmhRYU1LSUcxVGw3WVVoRFFwQUFhWWd1LUphUkE4RTFPMXBhbmJSeDhPelFQY1RyLW9fa0VRWmhrVVp5QncwLVZFNXVhMVlmR0xsbzB3VGpvVW5tQ0sydE93NzdzRWowSmFWNWV4QmhXN3VB0gHeAUFVX3lxTFBkWmJ3QWxnNjQ2VHgyMDdLOVhfX2RRdEZTTy1ROTZfY3NhY3hsU05OM1phakkxdzNyQWdhTXkzNnQ2b3hYVjF3eGRwYkE5S2txeEtaRFdQRFFZMUM5UG11N1hoTlc3TFZna0x6NVJXR0w2WDltLXNlajJwUVg5OVZTaFY2UXNYVHVQaXFNQVdhX0lLTTktVy1vdmZlVkMxcnlxVG52T2J4SURzTGxVMWxlUnFscFV4cnd0Ykpfb0RqOHBJRS1lZXRrS0FqWVk0MkxpZlE5ZGxzczU3UHJBUQ?oc=5",
       "published": "Tue, 10 Nov 2026 01:14:31 GMT"
-    },
-    {
-      "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
-      "published": "Mon, 09 Nov 2026 04:51:00 GMT"
     },
     {
       "title": "Is stock market open or closed today? Check remaining holidays this year - India Today",
@@ -114,20 +110,20 @@
       "published": "Tue, 10 Nov 2026 02:33:09 GMT"
     },
     {
+      "title": "India VIX Rises 68% in 47 Days; Gains 18% in the Last 3 Weeks strong - NiftyTrader",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1NzU1hhLTRzMXQycGd4RUN5cDNjNG1JRmkxUkNuTFBQZUR1ZFFDbnZtcHN4czZqUnNvN3hhRXFBWE5sZVdwN3JZR1VDUktvNU9NOVRTbmRQS1RmVDBNb3hsdkEwTTh5ZGZUSmNmQzlmaDRMMC1QZWlWbHB1UGRjU1o4TQ?oc=5",
+      "published": "Tue, 10 Nov 2026 10:28:10 GMT"
+    },
+    {
       "title": "When is next stock market holiday? Check date for Nov weekday; NSE-BSE closed for Prakash Gurpurab Sri Guru Nanak Dev Ji - Livemint",
       "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3pSeGQ4S2VVNEIySmRHZW5RdmhIN0VERmI5b1VnSzQ3Q3ZhY2U5d3oyR0h3S1V2RWNieFgzNW9SMnZQSmdsSEVkNk91YlIzRFhQQlhrUjlSTENyZ2pBaXlUcXJOVGFNdjdIYXlzUjd3UzZUY0hyUHloX1VqU1J3RmkyemNfRy1zN1pzWFpEYm1lN2dSbS0wVlFsLUtCbHJLWUZVeFRhWF9nRXpHb1U1al9rNFphVENwSnA1QjR3MGpBc0QzX2pzZ3FQZDU2aW0xTnNWUXo1WHpJcW5QWEtoTUZRU3VYLVgybnQtWUpPOUFxT3FGb1BFakttVXp6WG5rdVYzVHBOdDJteV9lTUMwek5SakJqNXfSAZwCQVVfeXFMT1p4QVpzWTVvU09QbkJKSUE5XzZtRnc0QzY4ZC1ZRkNLZ2E1QzkxeDJNUWxTc2c4ZHFaTDBsOHNrSzl6QzFqQjU3bmlHbW1MUnVwanhGdE1vYjZXN1NBTHdlR2RQcEFWZ1ZvTElDN3ctX1hGQ1FvQnhHZldMODRXLXJvWnVhTDFOSlJpNGFMQ2J5QTcyWjFRS1pUTnhCZzZQeXltdC00TmNoRkRncUNXRmtsZG5YRXI2WmFJNnMzcFFac09uVzZ3UDFtT2pqTXhUZlVrVlRhSmptRDM5UFJEc1ZtYWMybUFWeEp5LUNJSldpVmdEZlJBRU52UC1pcmtReUgtYWtUNjRKZnNIUm90ZmlpcWxydGthNzhxV0c?oc=5",
       "published": "Tue, 10 Nov 2026 09:34:32 GMT"
     },
     {
-      "title": "Sensex Today Trades Lower | Nifty Below 24,500 | HCL Tech & Bharti Airtel Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUXBJVlF3TzVldFBKYlpVYVpJV3ZxVzg1eUFHNmhrUjJnV3dlRk9SRmNwTVR0ZGdldm8teEE3WkR6OWs3dVRtNDBmS2NNVk1vODZCY1Y2VHpMbHRyVnlTZTRDSXJLcGVZa2NxSVpTOGJtUmxxU1kwb0ZiUldsWjNVZms0Y2ZIWDFtVHlMMTE1Skt3U3B1V2stRTkybW1rSzMtYnc0cm5ycXV1STdJbXFTQ25BVlF4QWdMSDNBS3REWE5xMng4T3pHLXZZNGQ0Mi1XOVZ4aFlqaEs?oc=5",
-      "published": "Mon, 09 Nov 2026 21:05:13 GMT"
-    },
-    {
-      "title": "Sensex, Nifty extend gains to close at highest levels in over eight months, rally on - Telegraph India",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX0NfTHBqWDVKdzN4eF9lcGVZUEwzRzlDSXNLcXFkYW42bTVScWFFQ3c5ejNFc2wzeG81YWZqUnNGaVlHN3Q4MFptUTJLYk1mRU95NjFCUm5DVXp6cU9HTzFwQ0pHWHEybXFfdmxLV05haWtMb0ZiamJrQm5WdGdCVWZaRUM1Qks2YVJmWU5Oc1AwY1lSVHA5alF6c1VuY2x3Q3FUNW9sRm54SnpHbVhNbWs4OVNDSzZJR3B3a0lXcHlwRVkxc2drNGlSSlczSzJyZEZJcmV30gHbAUFVX3lxTE92ZzJPMmtYSWcwUVNkMkNvRHhrUGY4bTJXNkNRX2lfU0JSTTI0SlBVbU5nYXNhdDNYQkRXX3BxZEs1VmRBTlFNZXYyMmV2UlV3eEZ5cnVBQUt6UUdQOWZ6cTBiUGhUMzZRdGo3QTEzQm1HdnRzUlBJWmV1RWVtaldOYkY4a2FnU2pYVGlDYjZHNi1yZUNIQWJwUThmd1FyWmF5Y0NBZkx4aU1iN3NIMUZZcTQxc21kZmh4VFJmdXhORzVQVnBCRk1MVUhxZUIwd1dvV3phdGxINGZkRQ?oc=5",
-      "published": "Tue, 10 Nov 2026 00:09:26 GMT"
+      "title": "FPIs pour Rs 53,739 crore into Indian equities in nine days, reverse two months of outflows - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc3VVaFB0ME94OUxVWjhpZ2FxZGcxT0FsakhyTmJlVnoteU5BUkNlc25hUXpiLWw5RWZiQllZUHpmcHU3d3dRZlRUcWJaWGlwdmFnQlgtcng2Wk1kQ2VRQkJWcVp2OGlZcWJkek8tZEYzZHgyaEdJS0dHb0d4V0tHV2ljdTBzNzVzMWhqMVVlRkQ0MDVwQlBxWm5oRHVjcDgwR1d1akJBTVQwT1J6Q3h3WG9PS0k4S3lIZHhvTU5ZblNoQmNqTVJRc2QwS01xS2sxMkdlM1dYZkrSAd4BQVVfeXFMUGR6WmdPWjNMQU1sci1GekYyVVdVT29Xb0FNaGtnYzNQMkN4XzYwYmhEMVVjbTZkUDJaSVdOeVpQZE9VYzJDcUlwNlN0YjBZUUNPRzNKbTNnSF82Z3BoZEt3ajRoTlVNYTUtbmlYZ3NZVWZpSTZmdVk3TEE4QlFYRFRHS1dhdV9DcGJnaTdMQkxDTU1ybDBFTXNYQ2NjUVdwVExCbDhZbFVHWTFfa1NHNm9vVzZ2ckJ3R24xZVJ5TS1xNnRfdUtoZzB0TjJmdi1naGx1RWJybUsyR2prblln?oc=5",
+      "published": "Tue, 10 Nov 2026 11:32:09 GMT"
     }
   ],
-  "last_updated": "2026-11-10 10:39 UTC"
+  "last_updated": "2026-11-10 18:15 UTC"
 }
