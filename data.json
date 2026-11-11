@@ -43,40 +43,44 @@
     "pct": -0.38
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 60942.48,
+    "change": 482.9,
+    "pct": 0.8
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 24415.85,
+    "change": -141.19,
+    "pct": -0.57
   },
   "Crude Oil (Brent)": {
-    "price": 91.82,
-    "change": -0.75,
-    "pct": -0.81
+    "price": 92.53,
+    "change": -0.04,
+    "pct": -0.04
   },
   "Crude Oil (WTI)": {
-    "price": 86.24,
-    "change": -0.61,
-    "pct": -0.7
+    "price": 86.72,
+    "change": -0.13,
+    "pct": -0.15
   },
   "Gold": {
-    "price": 4039.5,
-    "change": -75.0,
-    "pct": -1.82
+    "price": 4051.3,
+    "change": -63.2,
+    "pct": -1.54
   },
   "Silver": {
-    "price": 51.47,
-    "change": -1.09,
-    "pct": -2.07
+    "price": 52.36,
+    "change": -0.2,
+    "pct": -0.39
   },
   "USD/INR": {
     "price": 93.92,
-    "change": 0.01,
-    "pct": 0.02
+    "change": -0.03,
+    "pct": -0.03
   },
   "Dollar Index": {
-    "price": 102.22,
-    "change": 0.57,
-    "pct": 0.56
+    "price": 102.26,
+    "change": 0.61,
+    "pct": 0.6
   },
   "US 10Y Yield": {
     "price": 4.98,
@@ -85,14 +89,24 @@
   },
   "news": [
     {
-      "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
-      "published": "Mon, 09 Nov 2026 04:51:00 GMT"
+      "title": "Stock market outlook today, 11 Nov: Sensex, Nifty prediction - DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxONFQ3NGVlSW5LalhZV2F5VkdpN05sVmt6UU9kbzEzbU1JR2NNU00tUjFRRDBnSkt0bXYzVV90ZVVXYzhoa25FWmFsSnZ3ZDRGS0xFYU1ZYkZlRkZBWnpTSl9jbFVYeWtZNm5vRHRKS1RqTkwtSERRaE5hZ2dkSU0yQmFmZXU3enpuS0lFa3dTVHkxN01oT3dUeWFvQ25INzNXVjROaDVwSXFYR0VrV0FyRlA0bkJXdlI4Z2YtUWtTQ1JEam50VWlmRjRWSTdJN3FGTTg2ZGNSbU1meWZremx5WUxVWXFSN1NqMHBwRzA3d1hqUklHNGI3NGRTSUhtX2trTGd5bdIBigJBVV95cUxObnZvSlFPS3BpeV9HR3BjcVNCOHdaYWkzNEtpRHNTcmIzdmJYVk8yRV9mN3NUVWpxUEowZjdjNF9nNkdMRTdWN1JaRkVPN2daRURhTzc2ZURXOUI5WUJTSldoZXd5MWpBNG0wUlRrUE5zMFN1bnNieXlEUEU4M291ZHJaSktfYnA5S2UxQ1gxUV9UVk04dGFaOEY3YlBDUUxvT1ctUDFjdVRrTWtDVUtnaW9IZWlsbnd5U2VhYmF4UlZXdEk4OVZaRHp0QzU2OEZmZ0M4SVI4VmhfLWxQR01LUWdmMHJUQy1OVWhscVllMVJmdTB6OEtPMHhSdTF4ZGdZMnlhZTQxY0FnUQ?oc=5",
+      "published": "Wed, 11 Nov 2026 01:17:54 GMT"
     },
     {
-      "title": "Stock market holiday today: Are NSE, BSE open or closed on November 10 for Diwali-Balipratipada? Check de - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNSG96TGpSbmFPTFFkNUxndXlSNmRxTUNIY3BHb2JpcjM5cElMVk5xYlhSNHlPMXdhOUotZXRWYjNBYWVIWThmM2oxVm1YN3FfSjJaZWpZT21IQmVjYlM4NnV6QkZkUGVFZUtyR0ZnVTgxNFBWcnNpd2xGeE83TmRjc0JHcmNLamF0WDJETnpERnBkV3JvUmo5UnQ2c3F4d1loS245X2REWXhvS3FFd29wRFRHS1ZJajBRUUJXQmozMFcxUFhDTmpYcVhoaXh1bEluMFZwMlhpdVlzTXgyb2o4RGk2d2czS2xqQmhBOXl0OW9GMFVQajkzZjJHVHRySkpBclQzUzFpYjB2WFhZZi1wd1lXeWtOSVNZdDdkVHln0gGjAkFVX3lxTE9iR2wtek5KT0JHZGl5VnNaQzVKSndyZDBfdk9saTlBMVR1b3VrRFVacU9xYk5rTEdTR0ozRWl5Y3pRWmZVZXFpVXYtWDFydUFVVGt5ZHk0clEwcUxiMEhnOTdkajEwT0JqcG1tX3RzVG52TGZZVFgyRUdtd0VTV2tIRmlaMXFoS2NrSzdERXNTb1dENjZhVWlQMmp2VWxqN1YtTTk5Mm9Qb2VMa2FLcEU4dWtKaURwMV9IU19uMlpTYkx6Q2oxamgtLVlGNHBGUmd4LUNhM0xMN1UxYVpjd1BxMVhVa1FwWFdYVWRxdkktdng5c2k0NU9HT3ZPd202WnAyajNXcGtRemlIazBBeVhDV3E0UVNvQV9wS1p2WDMzNUhhbw?oc=5",
-      "published": "Tue, 10 Nov 2026 03:35:00 GMT"
+      "title": "Indian stocks poised for higher open on softer crude, robust foreign buying - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
+      "published": "Wed, 11 Nov 2026 02:25:00 GMT"
+    },
+    {
+      "title": "Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ1Zsa0tvSldLdnRCSnhjQTkxVFBHSkdNYlVLd1lnUGw2S3N4dXJCbnVfTU84TWc3RjNKazBGNkxrdjE5LUFDc2JXbHdxQndjRVd1Q1o1ZVNGV1BqSmhYOXhuWXhDNlFkLWFSMzBodUtxNmEzVUJCZE5ueFhqMGZfc1Y4dXdDel9OWFJvaVh5UWtLVnJOdHJ1SXV1dlF0bUJkSFdRZkdBVzNYYkl1YnB2dnJkdVpxSTU3aWllNTd6akdjemt1RlJ3WnVBWm9TS2tqQlhIbWxfZjNxeHZvbHlveHMwb0FUV1owTFRkbHIwYXFyZnZD0gH6AUFVX3lxTE90WFhVcERhb0E0bTlqWW5JRUtTTUF0S3dxUDJqT21sQWZWTkhXRER4aTdYaXVudlFxMldGa2lJeS14bTc1aS1Jb0xaVHQtM096bFhNZk9kcEpMVDcxeGxlajFfQm44a3FCek45U1NzdlhXcXlXWmJSVUtpSHhNNlRGNm41SEl1cXhQeUloMkgzcFlHaXJEbUNRU0pFc3BEeGl4ZHkzYmxWSEJSUlVHcTA4emRqbll0RC1iQUFlVDBxZ21QUURySmozVG4zWERPUmMyVHpvanBHSXdoQ3p1MGdSbGIxUGxxR0g0cVdVZTJVNWl0TXdUajRMOUE?oc=5",
+      "published": "Mon, 09 Nov 2026 15:42:00 GMT"
+    },
+    {
+      "title": "Siemens Q2 FY27 Results | Annu Projects Bags Major Solar Supply Contract | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX1lqQ01xWTFXR0dPWnlLNGhDc3owcHNjcllaV0FvSGxZdk5IVGVpdzBuVVlsTWs1XzVuZmxTajk3WVBTZzFiaVBGblJhS3gwR3o4T0VfRjFTODZ6SjZWN0ZrdW9CaEFQUzVudGwzRFlfTjVDNFBjWU5xVVAwcGFhbFpNY1Y4VXJZQUFaRzR5S2xUMEFqOFJ2MVZ5RVlnUk5XWWt1dXZiNkR4aUh1RHNIRDhSYy10eTBVVXVlc0xUQmFsa20tSnE5RkNwZllfSDhmSWpoakdMUzFpU0pZRDdDTHg4M0t2V1REY0VUM2Nocw?oc=5",
+      "published": "Wed, 11 Nov 2026 00:30:00 GMT"
     },
     {
       "title": "Stock Market Holiday Today: NSE, BSE Shut, When Will Trading Resume? - NDTV",
@@ -100,9 +114,9 @@
       "published": "Tue, 10 Nov 2026 01:14:31 GMT"
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEQ4OVQ1MTM5Vy16eGhvUF9YZlh5NHMzSWN1MXVkWnZwbGJUQVBmQklGR3VpdnVTeTBWa3Jhay1jbGJldF9Xd1lxNHU0RF9fSGV2RUpETnQ5TDdkcXp4SGlkZW52YlBnUEJPUEpKdmw1UThRWG5PeENWTDB4UVY0Ty1tRUNIaWVRRVJfaGIta2FGc0liZnBFU0ZHam1RT0dVMk5MNlN3a2dfRU9KNlIxWjlDcVdLaEFCUTQ3Nm01YkNIVmlHMEphYW5VTE04T0QzZEtSUkwxM3o2c2U5R2l4WTh2Y9IB6AFBVV95cUxNNklaVHZicXk5ekJ5TU1lTHpBNTRaY2hEUzFyU3N4MVN0OF9SN25WM0xEckNjZ0pSYlZQcXNRWTdUajU5Q3dKMlZVQmhqSkp1M3ltVENhN28wVEF5bE1IbTRxajllaXBlUlJXQUtfcU1ZVWtia0NrSTQtMmU5Q0FvRElnYmFQamc1bWQ1YXdwejVpZGNUbUZ4TEpnRk0yV29qNmNxcF9aYWxRRTBUa1NyTWJ4WkJyaGJESjBHakc2Z0FHaWNET1RXblYycFZKUHh2SkFMNWt2TUVQYW0yZkRQZFQ0R3h2dDVn?oc=5",
-      "published": "Tue, 10 Nov 2026 16:01:59 GMT"
+      "title": "Citi, HSBC bet on India as oil slide, AI rotation fuel market revival - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZGhBSG5USUdjc1BWelIxb215ZlBXRjhSbGZiLVRGYzZWaE9nYXhUdHU5alNZa0xhRFZ4QnlnTnhRb0s1Z3NDTTVTV1ZMdm82N0lYMVhpb2I1VlRqeUZkVFJ1WnpPNTd1VFRjX3dvZE1MZmxwc29seXBhT3RHUnA1MlYyTjZSWVhscHpCQlBKSXRoRVFvMWtWdnZCQzB6RTJhczVvVQ?oc=5",
+      "published": "Mon, 09 Nov 2026 04:51:00 GMT"
     },
     {
       "title": "Is stock market open or closed today? Check remaining holidays this year - India Today",
@@ -110,20 +124,10 @@
       "published": "Tue, 10 Nov 2026 03:15:56 GMT"
     },
     {
-      "title": "Trade Setup For Nov 11: Nifty Bulls Find Support At 24,800; Analysts Suggest Buy-On-Dips - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYlhoaFVxSWotZG5MNXktRzdBM0E5WkdZbHJZd0UyOVVKT05MdmZkaGl3YkI0Z25KVXM1NnFJRml5Qm1NN0cyaVlVSDFfa01TUjF1NXFVMmlQTkZIUmpMTGl1c2NVUGY4cnZsVkdUY0VLZFVHSm1PVncyN2NuTlJ2cFk3UWVyR01QQ3dUVVBEUW9sTGZXSVk1endwS21RczNiWUVzcWdha1hTLXRPV2dLcFFvdWpURDhlbnVmUjgyX3pWNWhDbllSQkln0gHSAUFVX3lxTFBXVXk2OVpITlVRX3ZoT2dWNEdNeVlfZkxHa1E5RTBFMkVhY1lvb2tsSFNjY3FnMlV0eXJRWGhMRXhQMHRadWdwN2NVVUh4ZzdYRUl5cndxcVJzaFlRaFRkbTViVWlZb2NINldlNl9fUzBhUlVLRVVLbXVuQ3l1Mkg5cmE4UXVyMk1iMXJtYTM0MVBtLU1sclhtd3J4ZHlfWUpvVnNqdE1ONG9abUdjMHRvREQwakwxYUNtbXl6LUFtVEFPLUs1dlgzZGp4NERHbDJuUQ?oc=5",
-      "published": "Tue, 10 Nov 2026 18:10:16 GMT"
-    },
-    {
-      "title": "India VIX Rises 68% in 47 Days; Gains 18% in the Last 3 Weeks strong - NiftyTrader",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd1NzU1hhLTRzMXQycGd4RUN5cDNjNG1JRmkxUkNuTFBQZUR1ZFFDbnZtcHN4czZqUnNvN3hhRXFBWE5sZVdwN3JZR1VDUktvNU9NOVRTbmRQS1RmVDBNb3hsdkEwTTh5ZGZUSmNmQzlmaDRMMC1QZWlWbHB1UGRjU1o4TQ?oc=5",
-      "published": "Tue, 10 Nov 2026 10:28:10 GMT"
-    },
-    {
-      "title": "Foreign investors pump Rs 45,960 crore this week in Indian stock market - DD News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdzVHN1dhSkkyNW9iOUctSGxsbVZWZVkydGdrQklrTGNmWk10dHhHV21pdUZzUS1pNWJJbFBqbzdfVGVEZFRyc2JoY1RFM2xmYnBDekF0WndpUk9oQWtjeXI5ZkR5cGhVUEhkdk5zNXJCWHNJRDJvUXIyLWlOd0p2cEJDTDVVRUpYOVl3RWF1ekdYUm5yaHJncnJ0ajU?oc=5",
-      "published": "Sat, 07 Nov 2026 04:43:00 GMT"
+      "title": "What could drive India\u2019s Nifty higher? BofA outlines key risks - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE5NQ0xBTjJiUDcyTkN4b1lPR19BM3lkRS1rR2FpR1pVcWpCU21sV1FGT1ZsYlBrVmJoRGFUMHVMRHZhNXBpTHlyWE9QVEpxZEhLcnp1aWhNdmJ5SWZTRE5OOF9mQWhDbml3NEpwTl8yQUxuMjZ1ZjhOM2hzTjNOS2o3VEhGM3A2M3hxd1FGSDJlN2stWUJtQkFSY1EwamZqdkM5VUlWWWpDTWZKNEZFSnY0eHc2aGVI?oc=5",
+      "published": "Wed, 11 Nov 2026 01:38:28 GMT"
     }
   ],
-  "last_updated": "2026-11-10 23:26 UTC"
+  "last_updated": "2026-11-11 02:53 UTC"
 }
