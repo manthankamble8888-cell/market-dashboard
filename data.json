@@ -1,46 +1,36 @@
 {
   "Nifty 50": {
-    "price": 25255.05,
-    "change": 210.4,
-    "pct": 0.84
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 60792.4,
-    "change": 1051.15,
-    "pct": 1.76
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 81879.4,
-    "change": 772.75,
-    "pct": 0.95
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 17.56,
-    "change": 0.14,
-    "pct": 0.77
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 32295.6,
-    "change": -173.35,
-    "pct": -0.53
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52387.26,
-    "change": 155.37,
-    "pct": 0.3
+    "price": 52486.49,
+    "change": 254.6,
+    "pct": 0.49
   },
   "Nasdaq": {
-    "price": 25602.2,
-    "change": 536.33,
-    "pct": 2.14
+    "price": 25466.19,
+    "change": 400.32,
+    "pct": 1.6
   },
   "S&P 500": {
-    "price": 7633.98,
-    "change": 113.05,
-    "pct": 1.5
+    "price": 7619.38,
+    "change": 98.45,
+    "pct": 1.31
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,24 +39,24 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 92.79,
-    "change": 1.3,
-    "pct": 1.42
+    "price": 92.45,
+    "change": 0.96,
+    "pct": 1.05
   },
   "Crude Oil (WTI)": {
-    "price": 86.66,
-    "change": 0.62,
-    "pct": 0.72
+    "price": 86.25,
+    "change": 0.21,
+    "pct": 0.24
   },
   "Gold": {
-    "price": 4007.3,
-    "change": -22.9,
-    "pct": -0.57
+    "price": 3986.3,
+    "change": -43.9,
+    "pct": -1.09
   },
   "Silver": {
-    "price": 52.1,
-    "change": 1.0,
-    "pct": 1.96
+    "price": 51.28,
+    "change": 0.18,
+    "pct": 0.35
   },
   "USD/INR": {
     "price": 93.68,
@@ -74,9 +64,9 @@
     "pct": -0.28
   },
   "Dollar Index": {
-    "price": 102.92,
-    "change": 0.68,
-    "pct": 0.67
+    "price": 102.84,
+    "change": 0.61,
+    "pct": 0.6
   },
   "US 10Y Yield": {
     "price": 5.0,
@@ -95,9 +85,9 @@
       "published": "Mon, 09 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3RGU2lRT012Wk4yMjEyNEhmSnhpUUwweVpWU2padWJzMnFwSkg1SEh6N3RjZzIyYWlDejRqcFVQWU0xbFpmVW9lQ3gzZU9DMzdvVW1KQ0ctS2pxRE5vdGgwRUFkN1pzSEdaMlg3aC1tTDVvQXpjRmV6bEpGN1UzU3ZUSGNIMkhUcmltc1NBSmhxZ2N2MWZlajJjMEFtVTktZ0dwX1ZUalE3N2FUd2YtZ3pPWDBXVzR4N3hKRkdqekNPRG14YldtSHZabUtrVTQ?oc=5",
-      "published": "Wed, 11 Nov 2026 06:52:41 GMT"
+      "title": "Will probe into Nvidia's Jensen Huang indirectly benefit Indian stock markets? - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ1Zsa0tvSldLdnRCSnhjQTkxVFBHSkdNYlVLd1lnUGw2S3N4dXJCbnVfTU84TWc3RjNKazBGNkxrdjE5LUFDc2JXbHdxQndjRVd1Q1o1ZVNGV1BqSmhYOXhuWXhDNlFkLWFSMzBodUtxNmEzVUJCZE5ueFhqMGZfc1Y4dXdDel9OWFJvaVh5UWtLVnJOdHJ1SXV1dlF0bUJkSFdRZkdBVzNYYkl1YnB2dnJkdVpxSTU3aWllNTd6akdjemt1RlJ3WnVBWm9TS2tqQlhIbWxfZjNxeHZvbHlveHMwb0FUV1owTFRkbHIwYXFyZnZD0gH6AUFVX3lxTE90WFhVcERhb0E0bTlqWW5JRUtTTUF0S3dxUDJqT21sQWZWTkhXRER4aTdYaXVudlFxMldGa2lJeS14bTc1aS1Jb0xaVHQtM096bFhNZk9kcEpMVDcxeGxlajFfQm44a3FCek45U1NzdlhXcXlXWmJSVUtpSHhNNlRGNm41SEl1cXhQeUloMkgzcFlHaXJEbUNRU0pFc3BEeGl4ZHkzYmxWSEJSUlVHcTA4emRqbll0RC1iQUFlVDBxZ21QUURySmozVG4zWERPUmMyVHpvanBHSXdoQ3p1MGdSbGIxUGxxR0g0cVdVZTJVNWl0TXdUajRMOUE?oc=5",
+      "published": "Mon, 09 Nov 2026 15:42:00 GMT"
     },
     {
       "title": "Indian Rupee rallies as FIIs make strong comeback to Indian stock market - FXStreet",
@@ -105,9 +95,9 @@
       "published": "Wed, 11 Nov 2026 11:39:01 GMT"
     },
     {
-      "title": "Stock markets hit eight-month high as foreign investors return - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzNtZ3FQVkhKOFhTeXNEbjlZRDZrY3hJQm5iem9vVV93ZW9GcE8yOURZejBITzJoYURXX1RxajJBQW5SS2d2LWlWekpaWFBVZXZkengwMURpWmV4b2lsMVNpZ25ETi1aZzBYV1RRZk1NQW9wem5LN3kzWkt4V3RBWVdRWXF6cjRnWmN2WE83bXJldnlVamk0S0xKVWxQMGpoY1o4bTJSRERFeXpHMGs4ejZ1MGhkblNsRkxkazlsVdIBxgFBVV95cUxOQ0MtNFBCS0I3M0phQkhpMk5HVXNKTEpSQllxcENaWDRDQU5ocGcwa01JUmVpQVU3R3ozWTh0NUtUZ3dtX1RFTlVjZjdmdDBzWHZJUHR6b0dsbFRMa3BDQXQxWEZCajRzc09EdEdKX2cyMHRmQVZOQlpXVm1ISk5yMUNMM0hMR1FvR1pZNXZXY01BRnV4MS0tcUwyeURzRV9pYV9hcEVGR0JkekRlRFd4VmQ0cElzcFhRRnBkdGJNYjFPNF9rSGc?oc=5",
-      "published": "Wed, 11 Nov 2026 04:56:19 GMT"
+      "title": "Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX3RGU2lRT012Wk4yMjEyNEhmSnhpUUwweVpWU2padWJzMnFwSkg1SEh6N3RjZzIyYWlDejRqcFVQWU0xbFpmVW9lQ3gzZU9DMzdvVW1KQ0ctS2pxRE5vdGgwRUFkN1pzSEdaMlg3aC1tTDVvQXpjRmV6bEpGN1UzU3ZUSGNIMkhUcmltc1NBSmhxZ2N2MWZlajJjMEFtVTktZ0dwX1ZUalE3N2FUd2YtZ3pPWDBXVzR4N3hKRkdqekNPRG14YldtSHZabUtrVTQ?oc=5",
+      "published": "Wed, 11 Nov 2026 06:52:41 GMT"
     },
     {
       "title": "Sensex Today Rallies 722 Points | Nifty Above 25,250 | 4 Reasons Why Indian Share Markets Are Rising - Equitymaster",
@@ -115,15 +105,15 @@
       "published": "Wed, 11 Nov 2026 10:46:49 GMT"
     },
     {
-      "title": "Indian Stocks Rally as Sensex Jumps 773 Points, Nifty Closes Above 25,250 - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR216Q0l0LWVPSmd5eHZNZGtkWkNSSWg3NHhxT1FHM2NNVHlKZW11VFBRM2FXZTdnZWVjN2hDUjJCZ2VrWlQ3c3RENUFzOElhcUowMjJyeFI1MExaM3FDU1U1X2dqMk8tV0ZDTmY2R1dNVmNXdHFkVXJ5SXZlbWVIU0gzVGE5VnFLYks2aVZTUXVuU05wY2kwSXUwZDJqQXZpTlE?oc=5",
-      "published": "Wed, 11 Nov 2026 15:45:02 GMT"
+      "title": "Stock markets end higher; Sensex and Nifty jump nearly 1% - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNakU4aG82THd3Z01GTHRJQVEweW9FUXJnM3NIZFVKN1dNRkxBU1g2VTBydnFBejcwVHl4Q1pubk13a056ZVFqUVBHalBWb1ljQ2xUT0steXZXdEhkUlFwWTJSdFR6Yy11a1BpeDhaXzVBSkt5UDJxd0ZpaDNtenNKVFFRa2wyWDItQlppcE5EUXZJeGM2dVZDMmxLVVdJV3JEMXBVNTdNSTJhcm9UNUNXdC1wV251QmpsNTRuWlEyNXI3VTFoMXhV0gHOAUFVX3lxTE1qVlQ5R3RrQl9qMHN3V1FYaG1lWktMUkdoMmFyLXZHUlYyWkhQVWt1eWg2RFF5R1BtaVNNUlRCMnU4bWFXdEYweWlleGRmRVpVQ1ZkbjhLLTdLZzNVSVJhZnJjWlFPVDVIUDRVcWNTTGFKTklpdlU2V3VTbzBndFkzYWJMTEQwU08yc2Njb0lacGpfYmhXSE5JSjF2VE5Sak9vRjV5eTNNRXBaLWVpS09pMmljNkdoQjNOY0VrR053SjlxaDA0V3JCZEViRU5n?oc=5",
+      "published": "Wed, 11 Nov 2026 11:11:59 GMT"
     },
     {
-      "title": "India Equity Fund Inflows Cool as Stocks Sink to 18-Month Low - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTBSV3JBMEhJWEVJbGY2RF8zdXhRUFY0TlBSMzBwdlhBYkdzbHJVVjJ0eWdYT0hyTWx5VlBhSXY4SnhYX1dyTVg1dlQ2XzNxdEt4YUNtYmIxWTBhZzZLcnVZdmd4c1lEamNCb1Z0bEFpbTVDUGR3Q2RlbWhDWl9IdHJzNjRtYllHaE1ZOUtZR0ZSQlBJUUJmaVNGdTRrRF9VYXFKeXhOUmtTY0ZXcEhGWGZ3?oc=5",
-      "published": "Wed, 11 Nov 2026 08:51:04 GMT"
+      "title": "Indian Stocks Rally as Sensex Jumps 773 Points, Nifty Closes Above 25,250 - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR216Q0l0LWVPSmd5eHZNZGtkWkNSSWg3NHhxT1FHM2NNVHlKZW11VFBRM2FXZTdnZWVjN2hDUjJCZ2VrWlQ3c3RENUFzOElhcUowMjJyeFI1MExaM3FDU1U1X2dqMk8tV0ZDTmY2R1dNVmNXdHFkVXJ5SXZlbWVIU0gzVGE5VnFLYks2aVZTUXVuU05wY2kwSXUwZDJqQXZpTlE?oc=5",
+      "published": "Wed, 11 Nov 2026 15:48:47 GMT"
     }
   ],
-  "last_updated": "2026-11-11 17:52 UTC"
+  "last_updated": "2026-11-11 23:55 UTC"
 }
