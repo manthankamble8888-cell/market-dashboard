@@ -1,91 +1,87 @@
 {
   "Nifty 50": {
-    "price": 25112.2,
-    "change": -187.15,
-    "pct": -0.74
+    "price": 25144.3,
+    "change": -155.05,
+    "pct": -0.61
   },
   "Bank Nifty": {
-    "price": 61003.3,
-    "change": -515.2,
-    "pct": -0.84
+    "price": 61034.1,
+    "change": -484.4,
+    "pct": -0.79
   },
   "Sensex": {
-    "price": 81454.4,
-    "change": -456.61,
-    "pct": -0.56
+    "price": 81592.45,
+    "change": -318.55,
+    "pct": -0.39
   },
   "India VIX": {
-    "price": 15.8,
-    "change": -0.82,
-    "pct": -4.95
+    "price": 15.49,
+    "change": -1.13,
+    "pct": -6.77
   },
   "Nifty IT": {
-    "price": 31938.85,
-    "change": -224.7,
-    "pct": -0.7
+    "price": 31931.15,
+    "change": -232.4,
+    "pct": -0.72
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 52297.09,
-    "change": -189.4,
-    "pct": -0.36
+    "price": 52196.8,
+    "change": -100.29,
+    "pct": -0.19
   },
   "Nasdaq": {
-    "price": 25366.09,
-    "change": -100.1,
-    "pct": -0.39
+    "price": 25023.58,
+    "change": -342.51,
+    "pct": -1.35
   },
   "S&P 500": {
-    "price": 7592.4,
-    "change": -26.98,
-    "pct": -0.35
+    "price": 7529.37,
+    "change": -63.03,
+    "pct": -0.83
   },
   "Nikkei 225": {
-    "price": 61142.35,
-    "change": 322.99,
-    "pct": 0.53
+    "error": "single positional indexer is out-of-bounds"
   },
   "Hang Seng": {
-    "price": 23637.6,
-    "change": -370.95,
-    "pct": -1.55
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 96.06,
-    "change": 0.24,
-    "pct": 0.25
+    "price": 95.77,
+    "change": -0.05,
+    "pct": -0.05
   },
   "Crude Oil (WTI)": {
-    "price": 88.69,
-    "change": -0.05,
-    "pct": -0.06
+    "price": 88.56,
+    "change": -0.18,
+    "pct": -0.2
   },
   "Gold": {
-    "price": 3903.2,
-    "change": 17.9,
-    "pct": 0.46
+    "price": 3888.7,
+    "change": 3.4,
+    "pct": 0.09
   },
   "Silver": {
-    "price": 49.99,
-    "change": 0.01,
-    "pct": 0.03
+    "price": 49.08,
+    "change": -0.89,
+    "pct": -1.78
   },
   "USD/INR": {
-    "price": 94.26,
-    "change": 0.56,
-    "pct": 0.6
+    "price": 94.23,
+    "change": 0.53,
+    "pct": 0.57
   },
   "Dollar Index": {
-    "price": 103.13,
-    "change": -0.04,
-    "pct": -0.04
+    "price": 103.35,
+    "change": 0.18,
+    "pct": 0.17
   },
   "US 10Y Yield": {
-    "price": 5.1,
-    "change": 0.11,
-    "pct": 2.1
+    "price": 5.14,
+    "change": 0.04,
+    "pct": 0.71
   },
   "news": [
     {
@@ -96,7 +92,22 @@
     {
       "title": "Rate Hike Fears Set to Test India\u2019s Stock Rally as Inflation Rises - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdGRoYnhoNmZMUTVFODRONTJZQmhGTEphQ3NpaVVpMXlGeXR3N05MblVRZU4tRUtsM3Z6czJUbDJfNktJamFJOExMS2V2VVl2ZDN0N2lLdDdzMllzT1NBOXhrc0JsUGg1LS04OTI4Y3I1bE5YM1JSRE9oWVkwTnFuRmZtaXI5VnU5VEVzTXQybndSd0lBTlRPWjNWZVo5ZWFlak9tQ0lTUVFfWS1SUzJCVDl4S01RSXpYNllEWTFscVhfcjZt?oc=5",
-      "published": "Fri, 13 Nov 2026 08:32:17 GMT"
+      "published": "Fri, 13 Nov 2026 14:32:18 GMT"
+    },
+    {
+      "title": "India overtakes Taiwan to regain fifth-largest stock market position globally - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbVE4bFZULUE4cHVQbXhoUWFTVnNVMXBWbm5CbFNiSkFNNzVkRjhfcGhpRjlJQmNSVjZqaHVEYnZnMlR0dFAtdUg0WGRRSEFfX0RGcElib00tX0oyVHl0Um5CQWYtRDRnRDNTd1lDUkN5OThRcE9qeUZielA1R0Y0MU95ekY1RFRXREEtUldTYmtJdG9nb0xkRG15RW5xMXNaelY4bHlFNXVBMXJrMEhVNldVT05aZXo2LXYwQU1qdnlRc1VNTThrOVh3bHl0R3FGWnM4UVViWVA0SXBsUnUzUW1KakFJMThrOHJPdkdn0gH0AUFVX3lxTFBPZTQ1N0ZDdERlc2xZU0tITmVQdm5rdHZxdk9xQ0V4NllSR1lWSXVUdDJQd0tzQWVHVVYwZEh5SEw4bUNHUXZIZ1BmemFhWTI2TmlIbENGZ0t3cldTRERaVE9kRlVzWVY3RmVxa25SSTI0TjhwV2lzeExLRFNoc05WRW1fNEE1LWpWS1pta25Zb1NoeEhDTWpTcGhKbjAwWVcybW41aDBjTEVwdlYyVUNNdHFWM25VNGFpZ09pYmpfM3hWZlYyN01wdUJpaklWY2xmQ19DUE1kUDJMQXlaYy0tb1Uzd3F3Vkl0QUdHSWgzeXlGYjU?oc=5",
+      "published": "Thu, 12 Nov 2026 09:48:32 GMT"
+    },
+    {
+      "title": "Indian markets extend gains for 3rd straight week despite Nvidia crisis - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3k1MllsTVlwSWpyeEVRV0NtckxGTTQwWDVUc2NpOUp3OGZQWUJPOWlNeFpyeWEzblBKanp3OW9BNTUyY1N2YmgtY2Z1Z09HYzBEOVlfOFNnbUluUDVvamZ4ZHlUTmg2UGxlSFJXdXRWRUNwazhGUllKSW13cTNqSEk2eW9LT3RKOXNkN25rMkMyMTZuUEJaSEtUMGRNS2JpRTJoWnViNUVOcUE1TmsxZmIwcGt0QzFkdFp6em9ZX2o1eEJ4VkFCUldzcTdtYVVOMVJBctIB2gFBVV95cUxON2d3R19ZVmJqWEFXdU40TVVIYXd5LTI2ZEYzQXZ0TnhZZlFRWk56MTdnSGw0cVNlcG1XbDNUbFdpSnl0aVFfdlB5UDMwSHk2Y19LbWpuTjJCbmVDMjVOdlIzNkZGNGJlZEZ3d3Vtd0cwTWdoZHVzQlltQkFHdlJkdzh3SW9ITmplUlpDbWJBNXNNLVFNUGhRczBNaWVGQXB3NGRBRzNhRjlLc2FQVmtvSU9ybnpCZEU2RVRja2djV1dCdjBlRVptM2hfODFiODQ2VzZhbzlGdms5Zw?oc=5",
+      "published": "Fri, 13 Nov 2026 15:28:05 GMT"
+    },
+    {
+      "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
+      "published": "Fri, 13 Nov 2026 10:23:55 GMT"
     },
     {
       "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
@@ -104,30 +115,15 @@
       "published": "Fri, 13 Nov 2026 05:20:13 GMT"
     },
     {
-      "title": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOXgyYUNZcWVlQjN0YkdmT1FJOHk0QkNXTERyaGVhc2dZMmNJaEpUOHd3cnNIMVF0Z2drOHJ4MnZhemZKOURldWVXZDVsaGdwUThzQVBoR3c1OWxjb2x6YVA5clVQUlpWNm56S2NHaTB3NXQxay1TeGpNeGlpUmRELS1zdzR6RTNyYk95UWJya3ZGWmg2LS13Q21qOGl0SWVpS3hseXFlNDdhN3dNRTQ3Vml4encycjAyZmFheXBaRG52R0ZBMnVSemhOQ1BSaGN3ZHdRNkFGUlNBdw?oc=5",
-      "published": "Fri, 13 Nov 2026 04:53:03 GMT"
-    },
-    {
-      "title": "India Overtakes Taiwan to Become World\u2019s 5th Largest Stock Market Again - BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sQmVXWDdJdUFGS1g3a3B0c05HMXpSd3RYc2RoaTFXQVUzaW9QSTZfak0teU5QZDl4Uy1WekpOeU1qYlRIeFR0TGFoR1BQSkp1eUNPaWlHd3VOOVBHSk9NVFVvWV9aV0pJX3FFWWhDeFd0aldxemJsUFYzcGxmZw?oc=5",
-      "published": "Thu, 12 Nov 2026 21:14:43 GMT"
-    },
-    {
-      "title": "Indian Stocks Open Lower as Crude Oil Prices and Weaker Rupee Weigh on Sentiment By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObWFtWmN1cGF0aEtiUkl3bGE0VW9YMkJVd2VtMnRITW1XS293Tk5aUloxWW1ZaUpONHNXcDEzVDZTQkl4ejJSTWZrQ2x0QkI2MmM3cDVHaXVQOVkwOFFHQWpPUmJmS0VlUjhRNTR2UjRRbGdYTHlrX1lOM1NrYmtpQ0FNTXpPMUhhR0R2aHIzVXNGUTNkUXhqaFhqM0I2Y0VncWg1cEF2OTMyaXhCSDFYVjhmSTZzOUE1alJNVTNtZXhwd3BMYUpQRVdpUm5TVC1oM2c?oc=5",
-      "published": "Fri, 13 Nov 2026 06:45:55 GMT"
-    },
-    {
-      "title": "India's stock market becomes best performing in the world | 'India\u2019s outperformance to continue' | Inshorts - Inshorts",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG9hVng4aC02TjZOUUlkbWcxeVFjd1V3QjRZSWJvb1BYUzVHM0h0TkNvOXBnTVdZQlA3QktLU0J5TzI5dnkzXzdWOFBTcFYxSmt5S3ZaZ0ItY0czRldOM1NjRWhSRDR1QU4xQ1ZhWUh6U3RaVWZBalp4STJQaUJJdllYUTZEOTRWMllSbmxhRnRaYjRHZ1d2M0U5NU9EWmVIT0HSAacBQVVfeXFMTS1GUi1McHk5X0E3d0ZCWXM1Z2t2RTFucUxuMVh4aW9tVTVoc2tVcFYtUHZsektIOUZWNV93OGpkeFVyNmZMOVAzVXNiTUNINlYtZi1QUDZsb0JTUEd0a1YxdUNSd1BXUUhhQXpfR0pWRUhEcE5FVzFaQVhXN2twZEIwQU1pejJGYkpyQnRrMEsxUHRoRjQtWmk1Q3p3Nmc3cHB3bkVEOHc?oc=5",
-      "published": "Fri, 13 Nov 2026 08:27:02 GMT"
-    },
-    {
       "title": "Indian shares pause after foreign money-fuelled rally - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVdRMWduZUM0WTZSdEZpQjd5cXp0emUtS29nWUtoOXVsZnNFWmh0alhPY29sREVHcV9KUU04NFdDUEhFZm1vZW52ODQya3U3TW9xZHVNdFp5Z21TdmVEMDJhdkZJTW5OQlNTRTJoS09lbFNFM1JoemlQZWR0WF9JSlFua19vWTFCM1hSZ3BPWXl2dUVkMFllb1R0S0dPR3VxY3ZZR3JIV1NwMjh1SGduX2hPd1c?oc=5",
       "published": "Thu, 12 Nov 2026 02:36:00 GMT"
+    },
+    {
+      "title": "India stocks lower at close of trade; Nifty 50 down 0.61% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3RnWUxUcHl1UVRQYklPelRYV3MwSDlTbDJkSDZYazkteUJaVW51ZUx5QWZiOEVYc3VnM2dvbE1oYlFEV1F4dG1LQ01SZEhfMDZDMWprcnlCemR2QllORjc5ZlFUaDNoYkMxOE0tM3VuQTZYUURGYUNaU0xQVWpkS1RkZ0dGOHRVWTRxaElqSW1iRGxsSk04SHVISWlRQzdSeTluODg1eDZLQmRGVjFWMA?oc=5",
+      "published": "Fri, 13 Nov 2026 10:37:50 GMT"
     }
   ],
-  "last_updated": "2026-11-13 09:20 UTC"
+  "last_updated": "2026-11-13 17:17 UTC"
 }
