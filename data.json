@@ -53,29 +53,29 @@
     "pct": -1.55
   },
   "Crude Oil (Brent)": {
-    "price": 96.08,
-    "change": 0.26,
-    "pct": 0.27
+    "price": 95.84,
+    "change": 0.02,
+    "pct": 0.02
   },
   "Crude Oil (WTI)": {
-    "price": 88.92,
-    "change": 0.18,
-    "pct": 0.2
+    "price": 88.56,
+    "change": -0.18,
+    "pct": -0.2
   },
   "Gold": {
-    "price": 3887.6,
-    "change": 2.3,
-    "pct": 0.06
+    "price": 3886.3,
+    "change": 1.0,
+    "pct": 0.03
   },
   "Silver": {
-    "price": 48.65,
-    "change": -1.32,
-    "pct": -2.65
+    "price": 49.03,
+    "change": -0.94,
+    "pct": -1.88
   },
   "USD/INR": {
-    "price": 94.03,
-    "change": 0.34,
-    "pct": 0.36
+    "price": 94.24,
+    "change": 0.21,
+    "pct": 0.22
   },
   "Dollar Index": {
     "price": 103.41,
@@ -89,14 +89,9 @@
   },
   "news": [
     {
-      "title": "Indian shares rise on foreign flow optimism; financials, autos lead - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
-      "published": "Wed, 11 Nov 2026 10:35:20 GMT"
-    },
-    {
-      "title": "India Reclaims Spot Among World\u2019s Five Biggest Stock Markets as Rally Extends - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVZhUFFPeFh0UDc2cnhCcUN3aEszSXRSQ01lcWtvdnEtUVdVUWl3OHFHRVJjX0FDSHVsVlc0RjhlUWVrZmcycDZSLTZqdFNPTTFJWlF3LW5zdGpuclhuT3FVOWZ0WGloU3FOclJaNDdiX1ZIbkoxTDJzZGVpbVF2bENTNHEzQ0JvZnNjME1oUXBLZVg2SXkwYlk0WEpfZzlrLW5SS0NKT2N4Z2c2ZzdzaEVDT0JYWjFxUi1uZmVOel83ajJkamtsR19raw?oc=5",
-      "published": "Thu, 12 Nov 2026 02:30:00 GMT"
+      "title": "Indian shares pause after foreign money-fuelled rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSVdRMWduZUM0WTZSdEZpQjd5cXp0emUtS29nWUtoOXVsZnNFWmh0alhPY29sREVHcV9KUU04NFdDUEhFZm1vZW52ODQya3U3TW9xZHVNdFp5Z21TdmVEMDJhdkZJTW5OQlNTRTJoS09lbFNFM1JoemlQZWR0WF9JSlFua19vWTFCM1hSZ3BPWXl2dUVkMFllb1R0S0dPR3VxY3ZZR3JIV1NwMjh1SGduX2hPd1c?oc=5",
+      "published": "Thu, 12 Nov 2026 11:33:52 GMT"
     },
     {
       "title": "India overtakes Taiwan to regain fifth-largest stock market position globally - BusinessLine",
@@ -104,19 +99,24 @@
       "published": "Thu, 12 Nov 2026 09:48:32 GMT"
     },
     {
-      "title": "Markets snap 3-day rally; Sensex drops 318 points, Nifty slips below 25,150 - DD News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVVFclRSOV9YQk81TC1BX1dhVXQtRWp1c3Q0bHFqbVpKVUdrSnBoZ1FlRlFDLTJkODhJaTduSkNQRHpVSXZOa3Vidm5TRF8wTUpvazkyWGlER185WWdYVDV3MV9IZUI5TmpOTDhKQU1LMkgyWGphOEQ2dXBNNFBZWmpRb1loaGh3dnlHMWJFVnJJY1RPaHJTY21SX19LS0k?oc=5",
-      "published": "Fri, 13 Nov 2026 11:29:16 GMT"
+      "title": "India Reclaims Spot Among World\u2019s Five Biggest Stock Markets as Rally Extends - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVZhUFFPeFh0UDc2cnhCcUN3aEszSXRSQ01lcWtvdnEtUVdVUWl3OHFHRVJjX0FDSHVsVlc0RjhlUWVrZmcycDZSLTZqdFNPTTFJWlF3LW5zdGpuclhuT3FVOWZ0WGloU3FOclJaNDdiX1ZIbkoxTDJzZGVpbVF2bENTNHEzQ0JvZnNjME1oUXBLZVg2SXkwYlk0WEpfZzlrLW5SS0NKT2N4Z2c2ZzdzaEVDT0JYWjFxUi1uZmVOel83ajJkamtsR19raw?oc=5",
+      "published": "Thu, 12 Nov 2026 02:30:00 GMT"
     },
     {
-      "title": "Sensex Today Ends 318 Points Lower | Nifty Below 25,150 | Manappuram Finance Down 4% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOEdlSnRORmgtLVBCeDZ4QlJOSU1JSURHckM4UmZRMFd3QXVTYWdSVmhLb1E3MURFWVppaGhPV0VGYWdUVjJDS2FUcjBtY2ZLQVZMWUhzdHpaZzlBZmg2aTlZSDNOdUFCc3kwUE5nSlhvQVBsSHo0MUJJZnREUHVNSVlGUkJ0eXBjaXhPUzNEUWU4R3NDMGNtakd1aTgwWnEweUp1RVQ0YzVFN2Y5WTFmYjVRRlloN1FnUE1MS0liSy01SDdlbFJOaUxoWXBnTzBOUVY4eElvak4?oc=5",
-      "published": "Fri, 13 Nov 2026 10:23:55 GMT"
+      "title": "Share Market Today: Investors Earn Rs 6 Lakh Crore In An Hour. Why Is Dalal Street Rallying? - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDFMS1JUS200c182TEwtSnM3VnlGYV8zYU90VUdDemlKTExNaWtNTnJ0aGtpeWNSRjQzVFotV2taT0p3QVdoc2lCbWR5YmZGcFVvYm94YU93WWV3dDZNLUtFUW01RUNOclUxVnlFV1FPY0tEWDdmV2x1Z3lHTVVWay14YXVFM2VzNnNzaHpLVmI2YTVtWEpYekxoc2ZVU1dwN3pmZ0QyZ05ZVndtc2x3dzljODQyTHpVOUVMcEtqSUNGR1RJOXVXb2Q4Y2lDQdIB1gFBVV95cUxQRnI3NERxZlRXc1J4T2Zic2NXVVlIcTNteUx5ZE5ZZ3pGdF9iZkVSYS1TeXlOc01ZYnFGamstQzJBUUphT1lhTDBNVG9DcjhEdUZPSmp6aTVuNzMwTnFfRWNVRk45Nm10WmIwMlI3cmU4QldjRm1pdVBtdUxjMEl6cnBwbDFaVEtxS2N4RVpDWEJiV1JEQTFRd3FjQ3RlWGlaSk5FR285dmNMb2tiMTFkNGlUTUl5REpuV2lfSVBIdDk0MDFlUEZvbTZ2dlRSS1l6bW93UUVn?oc=5",
+      "published": "Wed, 11 Nov 2026 04:32:45 GMT"
     },
     {
-      "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
-      "published": "Fri, 13 Nov 2026 05:20:13 GMT"
+      "title": "Stock markets climb in early trade led by foreign fund inflows, lower crude oil prices - DD News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGVSOVI4VlNMdFVobUwxNHV4alZqdU5YWFlCV3EzZHhWS1RwSEtQN2pkTnA5MndITXN5QzF1RHhyLUFEU3Q2SHBOV0h5UjlaaHlrdHJLcnpLSGc1Z1JjaGN4UE1RN0Q2MlY1Mm5jMmF5VWZBTjZ0dDV2cDVHNEQ3UWNtVWkzOG9NWnVRMkQzT2YwT3lNcnJuVHd5anZ1WEdsRURaZTFfXzI4SzRybWJCcg?oc=5",
+      "published": "Thu, 12 Nov 2026 06:08:37 GMT"
+    },
+    {
+      "title": "Indian shares rise on foreign flow optimism; financials, autos lead - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGIzT1Bsa3NLR1VMamE3ZXpZblhwbFVuV0I1Q1UxZDhGQW9RR3E5NmpQVVBiMW1ibUhkYXRoN1ZESUlRZVIteU9OX2FfcUlyZEJiU1lFcllZQm5jaWx1Wkh2WGhqMjRWYUc5NjJBY252UERLVU5HTEFmb1pwNHlXYXVUN3Z5dE4xVkVRbXJnMkZTTGpDNldBMS1PTlBRVFpPVjhOUEE5eEFsQkE0bHVjU2FJN0NSdw?oc=5",
+      "published": "Wed, 11 Nov 2026 10:35:20 GMT"
     },
     {
       "title": "Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC",
@@ -124,10 +124,10 @@
       "published": "Mon, 05 Oct 2026 07:00:00 GMT"
     },
     {
-      "title": "Indian Renewable Energy Stocks Witness Mixed Trading as Sensex Falls 0.4% on November 13 - SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGpCdU9GbmY2bHZHTDZRWmVIN090cXNKY1ZFMW1OTnVaM2tBOTZpSWhKYjVNekZrUGJZN0N4OXEyTFZnYVdXNGFsMV8yeGtXdHEyTHNPTXpLaDJuRU44RkhwUlJnMGtHWmRUMGg4UF8xNmlzYy1BMEllUjlQR1V4S0lWRWU0cXNRVV8wSkxhWlRrMUQ3M195UjdUQXlFRXUzeW9GVVZFNHo3cGRWNDJwQVlpcWNYR2h4TDlubC1ycGdNdw?oc=5",
-      "published": "Fri, 13 Nov 2026 12:09:32 GMT"
+      "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
+      "published": "Fri, 13 Nov 2026 05:20:13 GMT"
     }
   ],
-  "last_updated": "2026-11-14 02:42 UTC"
+  "last_updated": "2026-11-14 09:26 UTC"
 }
