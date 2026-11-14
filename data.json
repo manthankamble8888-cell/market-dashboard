@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25144.3,
+    "change": -155.05,
+    "pct": -0.61
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 61034.1,
+    "change": -484.4,
+    "pct": -0.79
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 81592.45,
+    "change": -318.55,
+    "pct": -0.39
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 15.5,
+    "change": -1.12,
+    "pct": -6.74
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 31931.15,
+    "change": -232.4,
+    "pct": -0.72
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,10 +43,14 @@
     "pct": -0.4
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 61142.35,
+    "change": 322.99,
+    "pct": 0.53
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23637.6,
+    "change": -370.95,
+    "pct": -1.55
   },
   "Crude Oil (Brent)": {
     "price": 96.08,
@@ -59,9 +73,9 @@
     "pct": -2.65
   },
   "USD/INR": {
-    "price": 94.23,
-    "change": 0.53,
-    "pct": 0.57
+    "price": 94.03,
+    "change": 0.34,
+    "pct": 0.36
   },
   "Dollar Index": {
     "price": 103.41,
@@ -80,7 +94,7 @@
       "published": "Wed, 11 Nov 2026 10:35:20 GMT"
     },
     {
-      "title": "India Reclaims Spot Among World\u2019s Five Biggest Stock Markets as Rally Extends - Bloomberg.com",
+      "title": "India Reclaims Spot Among World\u2019s Five Biggest Stock Markets as Rally Extends - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVZhUFFPeFh0UDc2cnhCcUN3aEszSXRSQ01lcWtvdnEtUVdVUWl3OHFHRVJjX0FDSHVsVlc0RjhlUWVrZmcycDZSLTZqdFNPTTFJWlF3LW5zdGpuclhuT3FVOWZ0WGloU3FOclJaNDdiX1ZIbkoxTDJzZGVpbVF2bENTNHEzQ0JvZnNjME1oUXBLZVg2SXkwYlk0WEpfZzlrLW5SS0NKT2N4Z2c2ZzdzaEVDT0JYWjFxUi1uZmVOel83ajJkamtsR19raw?oc=5",
       "published": "Thu, 12 Nov 2026 02:30:00 GMT"
     },
@@ -115,5 +129,5 @@
       "published": "Fri, 13 Nov 2026 12:09:32 GMT"
     }
   ],
-  "last_updated": "2026-11-13 22:44 UTC"
+  "last_updated": "2026-11-14 02:42 UTC"
 }
