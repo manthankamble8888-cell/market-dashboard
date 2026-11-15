@@ -53,16 +53,24 @@
     "pct": -1.55
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 95.46,
+    "change": -0.38,
+    "pct": -0.4
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 88.44,
+    "change": -0.12,
+    "pct": -0.14
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 3884.4,
+    "change": -1.9,
+    "pct": -0.05
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 48.67,
+    "change": -0.37,
+    "pct": -0.75
   },
   "USD/INR": {
     "price": 94.23,
@@ -70,7 +78,9 @@
     "pct": 0.21
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 103.42,
+    "change": 0.01,
+    "pct": 0.01
   },
   "US 10Y Yield": {
     "price": 5.15,
@@ -79,9 +89,14 @@
   },
   "news": [
     {
+      "title": "Markets fall in early trade after 3-day rally; Sensex tumbles 460 points - DD News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdFJfbmp3X1p4c0Nkb2REMHhWSVNoTE9qTUNiaUloTy10aXVLalZ5TUN4WER5R2w4Y3V0Yzg3TXdsOG9TZFRkdE9INUZsTEZETmRHQmliTWw2d0VPZjNrWTVmNk5lSVBFMFJ5Q0NhVEtZanF1VUpGV2tCUUh2RG5acTNlcWY4Ykc4NWNtQVowRDZqelJRTnJFamprZ3R4dw?oc=5",
+      "published": "Fri, 13 Nov 2026 05:28:00 GMT"
+    },
+    {
       "title": "Short covering and foreign inflows are fuelling Indian stock market rebound - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcmRxYWVtaHZ1MERfR0ZzVUVVbzczLXQtM0Ficl9jN05pNnhKTFdvMlA1WlpySkI1aV9WU3Y1OVpOb1BVZWpxbGlCZVRhX1pLQTMyVVVPTHZEYnlPUndMU3NrejhJWU9TSW1kSk1xY1VqaGs1TGFETnU4YVI2QlpSY0I4VnhZcHZxYml2M3JMOVFBWEtKQktsYTNtNUt4Yl9xMlhsUTR0cjRUSklLaFRXQVdKNndDdDd6NGRhU2h2LVo3aVZiNjdIbEowenpfX25JN2kxWkpLM2dlZmRVanfSAeMBQVVfeXFMTzBENlhIdW1MNEtuN3U4bnVxU1AyNzR0bC1LcHhLUmx2UmcxQndjdjJOOWp3R2RfR3JYMXcyaFdrc2FwaXd5dnBlSVg2SWl2YU5oSE1qaS1UNGwxZlNhZ1kyYWh0YXNDTTFYbEJ3MzdSeXdXVWZYdXB1WGg0akZMMDRnS1lnUHRLa09fWkduMjFxYk5mb2JzSU1IWDdVVjJXM2hGclpSLXZLa2lNNEZNamRObmxRTDBSa3o1NHJSbGF6Tm9xbGxFSzB4UjJSUk5icnNXWjdJWXN0blIwRDVGX0pDMDQ?oc=5",
-      "published": "Sun, 15 Nov 2026 17:13:32 GMT"
+      "published": "Sun, 15 Nov 2026 17:13:31 GMT"
     },
     {
       "title": "AI Retreat Fuels India Stock Comeback in Great Rotation Trade - Bloomberg.com",
@@ -104,14 +119,9 @@
       "published": "Sun, 15 Nov 2026 14:14:00 GMT"
     },
     {
-      "title": "Week Ahead: Fed minutes, Nvidia earnings and India\u2019s inflation outlook in focus - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkJJcUZlR3JjNE5aOFZ4emNBNUZ1NHUxUkowTEVrZ3B4QW03X1cwUHF6Qi1iY0VPeXdMckc1SUtzMWlqWlQ4S3hEeS1rejl4dmtleFVwdmdzR3YyU1NZRnA2QmVlYTlVVWlRTmZzLS1kSkRDVVVnODlzdHdCUy1ydWFodG44Uy04eDBJemNyMWJndGhzTEJqeE4xNUFZVENDeU9OZ2E1ZDJOR3drdGJPV2lVWWl6YVlwT0ZDSHJxa3llb3NTdjRoUUdHYUYzaklVQmc?oc=5",
-      "published": "Sun, 15 Nov 2026 04:00:46 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty fall as inflation concerns weigh on markets - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZk5GMVZZVVZYUU9PenIwbHFmTzE5MzlDWnN0X0J6bTY0Sng1SjNHYjIxRUFFZlA1OWpodXpYcW11Qk01MWRra29mblRORndpRGJBdEhOTkV6MjFGQUVfTGN5Q0Q0RlNKdlZPOWlYY0NnSF83Z0kyVkdiZ3kzSTNQalFYMzJMT2tyeVI1S3FhVU5hMzZrRlBfdmp3dllQSjJzMVlDYTZwZnJSQlFjb2pSTWdqZWd1QkFxaVpYdlprQnczU2I3eC1EcWF6dVpGYmJDdDdkY2QzajE2Snk3MHVfWU9n0gHkAUFVX3lxTE40YnM5akZ1cmlyeGRSdnlONURUdC1yTEptQ3Q2YzJmV2ZOaVd5blg2UnpYYWZPbTEwTTZRSG5ZX0E0VmdxSDgtTTlwMGpUOGE3US1WTW1lbWtHeUtuajJ1VHFzUm14VHNwQy1JbXFWWWplMllpZTlyVGgzOUloLXp2UW1DMTRPbkhEVkdjWHhzdGhWcHA1aHhtY0c4QS1vV1RpcUlwUFdnYjNxSFRjQVRLdkVWTFBIWk9mUVVqOEoyTC1penhYTEVNNnBydHp0QXJwNEtpa1RDYXB6ZWFCUF9LWnF0Qg?oc=5",
-      "published": "Fri, 13 Nov 2026 05:20:13 GMT"
+      "title": "Indian stock market billionaire Rekha Jhunjhunwala\u2019s Wabag loses $245 million Saudi water deal - Billionaires.Africa",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTEF4UEpZanNqSDlfS19JeWlfOGtaaEh2ejRRdXRzUVRVOWNramlVb1psOXh1NWNuYU81S3FfMkN1QXN5STBoWng4M0NscVJFWGdIUU9EQ0JYOEJfZVhLNG5Sbm4tdmJteG5IZnBkSWtQbmlnb2VDQmZjVkctUkw2NXhRREJ6Zk1yX1BVaE5QeF9PcUxpYlk4QVp4cGEzMXRVNG9SOXhGNFZ2YmN0V1BLX0ZoZGRSdzk0bS00Znk1TF8zOWpLWHY1dkx0MGN3Z2hTbGc?oc=5",
+      "published": "Sun, 15 Nov 2026 22:06:53 GMT"
     },
     {
       "title": "Sensex Today Trades Lower | Nifty Below 25,250 | HDFC Bank & Titan Company Top Losers - Equitymaster",
@@ -119,5 +129,5 @@
       "published": "Fri, 13 Nov 2026 04:53:03 GMT"
     }
   ],
-  "last_updated": "2026-11-15 19:45 UTC"
+  "last_updated": "2026-11-15 23:40 UTC"
 }
