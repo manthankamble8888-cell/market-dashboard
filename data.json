@@ -1,42 +1,56 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25291.1,
+    "change": 146.8,
+    "pct": 0.58
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 61575.9,
+    "change": 541.8,
+    "pct": 0.89
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 82104.79,
+    "change": 512.34,
+    "pct": 0.63
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 15.68,
+    "change": 0.18,
+    "pct": 1.16
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 31941.05,
+    "change": 9.9,
+    "pct": 0.03
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 51593.28,
-    "change": -754.27,
-    "pct": -1.44
+    "price": 51608.17,
+    "change": -739.38,
+    "pct": -1.41
   },
   "Nasdaq": {
-    "price": 24498.17,
-    "change": -638.1,
-    "pct": -2.54
+    "price": 24509.76,
+    "change": -626.51,
+    "pct": -2.49
   },
   "S&P 500": {
-    "price": 7413.95,
-    "change": -147.72,
-    "pct": -1.95
+    "price": 7416.59,
+    "change": -145.08,
+    "pct": -1.92
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 58956.67,
+    "change": -705.35,
+    "pct": -1.18
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 23552.42,
+    "change": -201.42,
+    "pct": -0.85
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -51,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 93.91,
-    "change": -0.12,
-    "pct": -0.13
+    "price": 93.71,
+    "change": -0.53,
+    "pct": -0.56
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,6 +79,16 @@
   },
   "news": [
     {
+      "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
+      "published": "Tue, 17 Nov 2026 02:41:19 GMT"
+    },
+    {
+      "title": "India\u2019s equity market: The cost of taxation, policy uncertainty and lost investor confidence - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEROeXpsQzhHWjBaeXJDeW5MLU4tLTB2MDhCa2ItRHJ0OGdxcTF2cWJrUURsN0NEYkNsNFVKWjhLbXk3SnpGRktSWWgycENhZXN3ME00X3RNT185aURZUENSdVB4WTlqbkVncjBjcEFiQ3VXbmxub3dfVGtrS25sb0xuVlNrQzUxOFppUXRVWWI5SDFnNnFEZkRQVkc5MTEyTzJtVVZGaUJERm1QNFpaWDFTZ1BYWDllV1FoX21lc3FVQmd4Mkx2TlQxa285NFZDSGRQS3pRSndBQ2k4YlpTaNIB5wFBVV95cUxPSTFkRmJwWE5PWWY3VnVjekdlQ0Q5anhQLVNFak5jM0xmSk4wZ2FGelRURnloeWpEY2Nuejg5RnNKekhkNVVVa2h6U0gwelg4cnR2Q2xuQ0FPY0RNb0sxVkZFZjV0MkI3WVdSV1FLc09qOGxRcDlwY2E0OXlKVmF0UVZDMDUzVURfMWwwUC1uMWd4NW9NcUFoclFRRUM0dnBDeXptNXRTMUNJUjJxUE1nY3dEMHhUenhWLXpQODFLU0Zndl9wSl9PVkZBbDgzd1pHeEJRTVZzX1lKdkx2T2s2bmhmaDFGZFE?oc=5",
+      "published": "Mon, 16 Nov 2026 20:24:35 GMT"
+    },
+    {
       "title": "Record foreign inflows fuel Indian stocks' November surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjRGMFN3SE5Vdklnd2tiZHp6NUdkNWpNU3pDRHNyZXczNnRKWVMyNnJTVGhBYWwzOWltcC1xMHZrd09Vc0htZlRoNVNLSjFMWmJRUWlkdWZka1NwdTY0Nmlid3dncHF3ZUhEVDlRRHFmWVRUWXBhb0ttVlpZQ0ZXZjJzYUJKeTU2RFRYSER6TGZqOExoZFpfTWhDckRXS3NHNHctNXNWQQ?oc=5",
       "published": "Mon, 16 Nov 2026 07:49:00 GMT"
@@ -75,9 +99,9 @@
       "published": "Mon, 16 Nov 2026 04:41:36 GMT"
     },
     {
-      "title": "India\u2019s equity market: The cost of taxation, policy uncertainty and lost investor confidence - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZEROeXpsQzhHWjBaeXJDeW5MLU4tLTB2MDhCa2ItRHJ0OGdxcTF2cWJrUURsN0NEYkNsNFVKWjhLbXk3SnpGRktSWWgycENhZXN3ME00X3RNT185aURZUENSdVB4WTlqbkVncjBjcEFiQ3VXbmxub3dfVGtrS25sb0xuVlNrQzUxOFppUXRVWWI5SDFnNnFEZkRQVkc5MTEyTzJtVVZGaUJERm1QNFpaWDFTZ1BYWDllV1FoX21lc3FVQmd4Mkx2TlQxa285NFZDSGRQS3pRSndBQ2k4YlpTaNIB5wFBVV95cUxPSTFkRmJwWE5PWWY3VnVjekdlQ0Q5anhQLVNFak5jM0xmSk4wZ2FGelRURnloeWpEY2Nuejg5RnNKekhkNVVVa2h6U0gwelg4cnR2Q2xuQ0FPY0RNb0sxVkZFZjV0MkI3WVdSV1FLc09qOGxRcDlwY2E0OXlKVmF0UVZDMDUzVURfMWwwUC1uMWd4NW9NcUFoclFRRUM0dnBDeXptNXRTMUNJUjJxUE1nY3dEMHhUenhWLXpQODFLU0Zndl9wSl9PVkZBbDgzd1pHeEJRTVZzX1lKdkx2T2s2bmhmaDFGZFE?oc=5",
-      "published": "Mon, 16 Nov 2026 20:24:35 GMT"
+      "title": "Kaynes Technology Q2 FY27 Results | Belrise Industries Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSVptTGhleGtHbW1HOFVXV0I2SGdLUE9MSC1VTkZtc2gyMm9kV3IwU0V1VkRubXFKT0ktaVF1Q0k4dDNwWENIaGVSRGNhNDBFenFiR0hmX2t1T1F2Z0pickh2VEM2dHNVMkRFelFyTlljNWlaUjBxV1NxVHpEc1VtbGo0NE1qeklXWUs4ZTh6ZWhScEdPNElVdTBIcEprQWZlQWZGYVNmem4zUE9nTDZtVzdPcm1hd1pLaFlLb1FpQTB0ZUZtTXFzYmVCRzdOWTZ4MDFvSGllSS1lc2lsZ1lZemY1YkNfRnFDbWpBNw?oc=5",
+      "published": "Tue, 17 Nov 2026 00:30:00 GMT"
     },
     {
       "title": "Chickpeas Market Analysis: India Chana Prices Firm on Tight Stocks - CMB News",
@@ -85,25 +109,15 @@
       "published": "Mon, 16 Nov 2026 05:47:48 GMT"
     },
     {
+      "title": "Indian stocks stage rapid rebound after US midterms - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWHpyYlkwMGRMcVVlTXM4UExOWk0zWWtpRkttX0c3d2ZxczdhMzRlbzV2cFRZT2lGVWhFMmlWemRiQzRZVjRlV3BYUGk4WVN2UWI2c0FDeENBckNfR3dfbU5hZ0xQSnlqZE1FNFM1bFRrQXRjQXgyZnhHeG1QNFFzdFBCU0dCdkt2YWV0bVZTMHNoaHZYNVVB?oc=5",
+      "published": "Tue, 17 Nov 2026 01:21:00 GMT"
+    },
+    {
       "title": "Sensex Gains 510 Points as Banking and Consumer Stocks Lift Indian Markets - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGRLWUtGWVVyMW1pVkwyVU9YaXR1a28yZ1JTcXAwTDNxcVAwb1c1X3NFMExTSVk5enhwdkZIb05hYlZ0eFktLU5hMmRBYk8wS0dDQjVxZlkxM3VqY01VcDZORDIxaThPcWdpaDNaYmdqdXV1dkt4YUNtYzh2SkhkWTE5LUVKejIwaTUtRWxXX1ptZml4X0dKTHJxVGNLQ0VDdDFkRmZR?oc=5",
-      "published": "Mon, 16 Nov 2026 18:02:25 GMT"
-    },
-    {
-      "title": "Sensex Today Ends 318 Points Higher | Nifty Above 25,200 | BSE Insurance Index Up 1.15% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWFRTcjZIY1JrM2lHemFJV19pdU9jNVZ5dk5tSGZSdHJ5UWZ5Q09zUTNERkRwWmhqVGwyOXVkVmlTSGJ4VW54aTRLYjRVWHdfaTNYUU9ST0lEVGRKOEY0RmlOa1N3Y0NPbG13YlhHSlREX1pXeFF4YXBwSHRYQTF1YVNuWFlDMi1yZE5ldlJ5Z1haN1RDTXRHVU9FaGtUZTQ4Q3R0b1ZYMmMtVjRJQlJ2anFjdVFyRG9lRF9FYzUydkg4NzdlZ2RpYmZ0eF94TGE3cldmaU5KTzNIZms?oc=5",
-      "published": "Mon, 16 Nov 2026 10:22:41 GMT"
-    },
-    {
-      "title": "Sensex Rises 418 Points, Nifty Crosses 25,200 - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGFJSm1xY3daald5NUxSLVJpOUpfeFUwNG9mTGM2Q0RjQ0xUTUd5YVUyV2pjcmltMEF3YlJYNnhJMlVsMS1QTTNKUVhwdXRuS3hJWEh2bjhEQnZ2VWtIOGRmY21KWlVXN3E3eWFhQklmRHExY3Y1WFhCRzIyMnROaWU2WldRU0RBaElvdkxmaTN1MWZLaUNsUngtUldXUmlQRUd6bllIcFNaN09reTN5ZHl5MHFtd3dUMjN2dXlUZENCSF9oMWw0eG53S0E?oc=5",
-      "published": "Mon, 16 Nov 2026 04:29:21 GMT"
-    },
-    {
-      "title": "India Weighs Capital Gains, Transaction Tax Change, Mint Reports - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRnR2OUJJMHVCQ3p0dFFTT1gxVXBzNTRHbUxIa1VTQ0djSGRuV2lIM0gxUzRPSG5GNTJ5R1JlVXAxUnRlbS0yR0NuNmcyOW85eDdvZmJWSmdlZk1ZWnFodWUxTHY1TFNybF9YbFd2NzN6WWhhSFEtUmotcTB1ckpQWEJSOVlXOTdhZWpab1BIeko1WXdwc2xCSVVSV1NTNnloWW1CMGVlTGVQcjZYQ2dHYlJXcw?oc=5",
-      "published": "Mon, 16 Nov 2026 15:44:06 GMT"
+      "published": "Mon, 16 Nov 2026 18:26:44 GMT"
     }
   ],
-  "last_updated": "2026-11-16 20:59 UTC"
+  "last_updated": "2026-11-17 03:33 UTC"
 }
