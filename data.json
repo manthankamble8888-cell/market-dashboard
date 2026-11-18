@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 25387.4,
-    "change": 96.3,
-    "pct": 0.38
+    "price": 25227.95,
+    "change": -159.45,
+    "pct": -0.63
   },
   "Bank Nifty": {
-    "price": 62273.25,
-    "change": 697.35,
-    "pct": 1.13
+    "price": 62038.65,
+    "change": -234.6,
+    "pct": -0.38
   },
   "Sensex": {
-    "price": 82532.19,
-    "change": 427.4,
-    "pct": 0.52
+    "price": 82031.81,
+    "change": -500.38,
+    "pct": -0.61
   },
   "India VIX": {
     "price": 15.52,
-    "change": -0.16,
-    "pct": -1.02
+    "change": 0.0,
+    "pct": 0.0
   },
   "Nifty IT": {
-    "price": 31654.1,
-    "change": -286.95,
-    "pct": -0.9
+    "price": 31262.3,
+    "change": -391.8,
+    "pct": -1.24
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,44 +43,44 @@
     "pct": -1.03
   },
   "Nikkei 225": {
-    "price": 58696.54,
-    "change": -163.89,
-    "pct": -0.28
+    "price": 59024.28,
+    "change": 163.85,
+    "pct": 0.28
   },
   "Hang Seng": {
-    "price": 23346.67,
-    "change": -161.5,
-    "pct": -0.69
+    "price": 23294.75,
+    "change": -213.42,
+    "pct": -0.91
   },
   "Crude Oil (Brent)": {
-    "price": 92.77,
-    "change": 0.33,
-    "pct": 0.36
+    "price": 89.46,
+    "change": -3.68,
+    "pct": -3.95
   },
   "Crude Oil (WTI)": {
-    "price": 85.16,
-    "change": -0.56,
-    "pct": -0.65
+    "price": 83.33,
+    "change": -2.68,
+    "pct": -3.12
   },
   "Gold": {
-    "price": 3801.7,
-    "change": -51.3,
-    "pct": -1.33
+    "price": 3771.3,
+    "change": -92.9,
+    "pct": -2.4
   },
   "Silver": {
-    "price": 46.07,
-    "change": -0.72,
-    "pct": -1.53
+    "price": 45.72,
+    "change": -1.57,
+    "pct": -3.32
   },
   "USD/INR": {
-    "price": 93.46,
-    "change": -0.5,
-    "pct": -0.54
+    "price": 93.44,
+    "change": -0.52,
+    "pct": -0.56
   },
   "Dollar Index": {
-    "price": 103.61,
-    "change": 0.06,
-    "pct": 0.05
+    "price": 103.76,
+    "change": 0.27,
+    "pct": 0.26
   },
   "US 10Y Yield": {
     "price": 5.1,
@@ -91,27 +91,27 @@
     {
       "title": "Record foreign inflows fuel Indian stocks' November surge - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjRGMFN3SE5Vdklnd2tiZHp6NUdkNWpNU3pDRHNyZXczNnRKWVMyNnJTVGhBYWwzOWltcC1xMHZrd09Vc0htZlRoNVNLSjFMWmJRUWlkdWZka1NwdTY0Nmlid3dncHF3ZUhEVDlRRHFmWVRUWXBhb0ttVlpZQ0ZXZjJzYUJKeTU2RFRYSER6TGZqOExoZFpfTWhDckRXS3NHNHctNXNWQQ?oc=5",
-      "published": "Mon, 16 Nov 2026 07:49:00 GMT"
+      "published": "Mon, 16 Nov 2026 17:35:12 GMT"
     },
     {
-      "title": "Markets Are Rallying, But Here's Why You Should Prepare For A Fall - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjNWS1RKejVsUllfdlVia2ZCWm1GNjRPMnhWTFRfNGhEVlkwNTZTQV90dzZQcDhnZ21uTnRGS01ZLXdWT1EyTTZYVmRkQUF3VDJwQ1R0WldCZW1CX0FWR053UWlkSkxzOFVPR2x0b1N1UldqQ0ZwQ25TcHdHc1kzT1ppRVNQWVBhbG8zWTQ5Q1FKOHdiTmZ3VENUMlcwSG1FVEVSaFBRZjJLS3hrcnBHRWU0Z0NCZTJPZ3ZzNkNNZGdzeFRLNWhj0gHPAUFVX3lxTFBFXzdoeGltdU1GX0xybTRIckhpTzd4enZQRzR2R0hreGlqRWFYS0h0SlpFdk1oeVV1cWVZUUVzTW5LdFdZRGxEY3RWNklseHpZLXlLakd5Vmg1bWltaVV4bzhaMUtBeWtNLUhUenc1SE5BWHptaS1fMmdPRUdUNTNvRkpEWVFET3pqczVmT1c5Rkc2SlZ4RU5rMktwMUtiSU1nZno5Ulc0VWZNMGVBYjJhbU9WZGNVa01VS3Z1MmpVelJvVUc0N2pvbVFSLUhaMA?oc=5",
-      "published": "Tue, 17 Nov 2026 02:41:19 GMT"
+      "title": "Indian Rupee extends rally as Indian stock market continues to attract foreign money - FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTBOS3FUWFQxUDZ6TmJGN0pRdEk1NHN0OXVvZFdaemg0ZGstQjI2SjZrOHdQT2hmcVVKczRuZDlBWV9TZzAyMTF1dWo2VWhsdGFlMEpWRkJ6SERkSHFRUktEVjl3MnhOcG1qQ0lKMUtJbm92T0NTUkF4Zlh2OGJsYnA3Smp5RmtsRGdMNmxZeUVYVFZsak51dFkxZk9NdUp0Nng5NFZVdWtnRGRQUURlYUY1MEJLcVpJWVVYQXhiZTdxWFVI?oc=5",
+      "published": "Wed, 18 Nov 2026 07:26:36 GMT"
     },
     {
-      "title": "India deserves re-rating; Sensex may hit 95,000 by Dec 2027: Morgan Stanley - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONmxtVS1mLUVpUlNtS3ZEaWRHR0V2QWtRWkJfVHA2MmZPZHdvMFZ4RXlwTHpOdC1JbnhSSHVIV3lQWGstclJYTDFIZE94RFd5VnlMc0F5WURJYXdUck01Z2NpcTVxZmhOWmdsNkkta3RPT0FJb0JaQXJPT3RBUDVYbUF5ajhhSlFBRFk0VFgwTlVWMXpKejNJbEZlYUNuS2UxR21RNVF6d05LMEpUMmtubjh2ak45MTZsdkROcWtXU1F3ajA1bW5VNlZqWkxaWHd4RlBFMEZZa9IB3AFBVV95cUxOVG9sVlJ5Sml6QnFiaVBnTlB5aXhTeWtUU0xDUzVjQjNLT3ExdVhDdUtYUkJvZy03ZVV4YkJXTmtfT3I0cHljbnE3MnJjNHlOMS1fUWtWajRRVzZNdU5YSTNWTWdCVVdMWmtpWFZZZi1Zc0lRQlBpWW5lZFBZTnJaR0ZTdlVTOE1YOUJXbV9QWGp6VHNOVVZmN2Y2TEFoSHNUZDFsNHc0TWplMTlXeVpEa2FrQlpyTW9nS2RpMk5NN0Q4c2NoX1RoMFpOZUZYZXhtdlBKb2dfc2ZhOGVT?oc=5",
-      "published": "Mon, 16 Nov 2026 04:41:36 GMT"
+      "title": "FPIs smash monthly investment record in Indian stocks with Rs 99k-crore buy - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMUZlcklUSlBTQVdwSjNIVXNkU1V6Nm5KRF9EekJzU2tZSl9mZThPNFV4MmNRc0MtZjN3QUdIem11aFp6NDd2Y1NYRnExOEh0Zzd5WVZvMFlhb0VPZmhhclg5YXo4a0xWZHZuRkl3N3hDd1JzbU9DbDJrdUdId3dnYktGU2loMjBJUk5xNW1qRFhCUERsU2trUzA4TjVwTTQtMkU2T3pwLXlIMWZFbnN1VHBGX3VpVU0tZEQtVnpXN0hRSTloUHRxZWY0elJIOXVPTDBOTEs0YjJFUdIB3wFBVV95cUxOUDN1V3d5ZmxIVnBRSENSVVdQa2tpcUFkUE1pVWp2LW03WWpDRnR5R2NTMll6eXJNakpSVHVRMlU5UEJ1M2d5UmF6ZGIwRkMzWFB2Y19pV1pxcnE4SDVEWkt4d3c2YzUwNi05di13Nm9PaDRuUVRlbnZxWFRTbEhvVzVJWlphYzFKZ29ScGc2THUxZkw1R1N0aThEVnBPUXN4M2Y2MmtjRkhDZUktcEctNW50WDNXZTZHcnVfbTN6TmtKeEltdlB1Q0ZVQ0xDSDVobHI4MU9nMzE4T294M1Mw?oc=5",
+      "published": "Wed, 18 Nov 2026 09:42:10 GMT"
     },
     {
-      "title": "Senco Gold Festive Sales | Bajaj Finance and Aegis Logistics QIPs | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNempjVUk2VklBVFdpNXFUc2RvUERycWtuTW5mX1RLSEZpX19vcmU3U0JCd3FCeW96UU9JVzV3WlJZZVJrb1huVnRVR01wekJ1aE5IUzFreE5IX0dYUERUZkszbzhiQk9pTzFkOXZqd2FISmNaWFpIbDBfLUdHU1JhczI5TFBxZTB4MGhSS0JTTGpoaWVyOEhQQllzWGFvS0ZqdUxBNE9WR3BYczZydk82WWlxTE1JalU0Q3lCTnpyT2F4TnFBaVQtc1Rib2Mycm9keTljZG1QZE96bGlRZWRDeFFVSlFKdjdYTndFcWxoelktbW8yQWRSOXU2bnZZTjNzcWJ5TlFsX1FVZ1RqWk8wck90Qnk2NFBCLTdfbnZTNHFWdzBHemRBMWwyTVZ4clAyc0hhazFtVW5EOHpHT2pyY040TVRRQmlSVXc?oc=5",
-      "published": "Wed, 18 Nov 2026 00:30:00 GMT"
+      "title": "Sensex Today Tanks 502 Points | Nifty Below 25,250 | Nifty IT Index Down 1.2% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmlpbnp5WXVMNGZ3NU55eE1NeHpkRHU4eDFpdzZrQXVGVEtSSVV4S3dKSFRZeFJNWXVVVUNhZ1M2eE9ZZHB6eTZtU05tcEtHRmJFTzgzZHNRY1ROM3o3TjFNQWdtVDNmcDhTcmZGUHB4YW9sVGNsX1FXdGFHZ2FqcDkxQlB4NWZNVEQxeFZOWC1sMm9FT01WTTdNajVvblRqa1FzclJMZmg1aFFDbXdLUnNYOU1SQWVfQjRxaTk1Q0VESmNfQXZlSUtDVGJzUQ?oc=5",
+      "published": "Wed, 18 Nov 2026 10:26:38 GMT"
     },
     {
-      "title": "Global Funds Cautiously Increasing Exposure to India IT Stocks - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ2NOQkNqYVZWbkN6TG0xVWxvcXkteG81NU93amR5aHNoSWlxT3V2SmJfSE9XVHNEWWI2RWhibWJGdENFd0s1T044cEZhYnllT2NtQWN3U0ZaT2xlN2c5eGpBSVE2R2xxd3VLUzZkWmRVdFY0a3Y2SVRqbzdXN0lpRzI2UVRuclRTX3FsR0N3WDZoc2tqOXlJZ0E0cEo2bDRRWTNJVk04UnZiajlQeXJtYXhwUTdyTmc?oc=5",
-      "published": "Tue, 17 Nov 2026 14:42:22 GMT"
+      "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkE3UWlyb0VrWmdfZy1IamtIemhZQU9YTjRfMGpnV3pNSVpRblc1SUZJWlAxRGNyNkJDMFpCWld3ekJSaDdpVWsyZ3lCQXY4SUdCSzc4bzJ3V1RjRFoxdkxwREdLTjFIUXlsWGtJQjM0VHlCR1ZuTnpaQk5VZENfelplNEZUejB2RUxKVXNtZFo3V1JiNFJQOVhHYW42UC15SzhDYmJOWG03M2xvLXN4MURiWWcxcExtLVJVaWhvWENyLUFScU9VRTR6Q1p5ZGhzN3Z2ZXM0c0prZUQ1bkRMcNIB4wFBVV95cUxPZjRrX3ZvejZibE9UU3NXMlVzZGNUcV9IMTM4SmRsTG5YM0FWazBwMXUwdG1MZHRhS1MtbFByZDJpY0cySzhPRzkyV3FPczJjTUltTm5fYVhMYlZCWGRQc3plUjIza2tfdWtpVTJYNnZzS0NqcndqdnJaTjJsUS1UbUg4VExnTW1TTEhtRXRET0k5RklfQlpBd3ZiZGNkOWhlckk5YVRZQ0pDVG41RVdZRWx3ZFZoeFNiS1pSTjl4TmFIdVd3Tk56LWJ1V2JnX01yZEwwb190ay1iU2JLaWh6bTU5WQ?oc=5",
+      "published": "Wed, 18 Nov 2026 05:31:42 GMT"
     },
     {
       "title": "India\u2019s equity market: The cost of taxation, policy uncertainty and lost investor confidence - The Hindu",
@@ -119,15 +119,15 @@
       "published": "Mon, 16 Nov 2026 20:24:35 GMT"
     },
     {
-      "title": "India\u2019s hot IPO market gives impact investors a liquidity edge - ImpactAlpha",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORDRnZEdycWMxY1l5cDhRUFRMaXdRNEZUOVJ4OXB2dVBxaGRUR3Q1d0FFamY2WkZPZnlVSGJuSzZIZTRsOFFzQmtoZlJkLXQ0aElVclBPaDgwMnNraHJWWjZzUXhTT1RFRE1PMG92TlYyMmpJZm1hWmJvcVZnV29COGEwVE5xeHFzcFQyQ0hjNnFrdi1Y?oc=5",
-      "published": "Tue, 17 Nov 2026 16:05:54 GMT"
+      "title": "India Weighs Tax Tweaks to Boost Stock Trading, Curb Derivatives - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUNnWFZ5VkRNSnpmX3pGRVh0UmZSLVA1Mm82T3V5b1hlRXRkaG9EY0pId2NOX1R2ODlZSDB5Z1FtSUMzTWxUTnRlNmNva3pxWlRwTUQ2OHBZeF9KQ04wN2VDTDBtN1NHRmNzQzk1eDE2bmFQT3pFR1VhWlZvNGtMTFZIakhUcnhPUnRJalVYbklnRFAxU2ZwclUwZkJYT29ZcEVpdlRkX1RTaVlfQjlFYzNlVXg?oc=5",
+      "published": "Wed, 18 Nov 2026 07:02:00 GMT"
     },
     {
-      "title": "Indian Stock Market Rallies 2nd Day on FII Inflows, Oil - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQjFwZ2d4UDY2Tlh2TkVGUlI4OHNqN3VJREltdExmRzN2blhVa0RLN1RlWlBqR0Q2blNsYlRrcDJ3OUVpNkx5MjZzc2NUVTNyVGJEcmt3UC1lVGQ0RmVvbTZVU0xGaHlBaXVZaEN0WTJZRFhpWnVnam42WWJMZTF1N1BXNzY3bnY4TVBEaGo1U1pBTV95YWZSWXQ0aXZkOTlueFItemx0QkFjZ9IBrwFBVV95cUxNaVRjbkhXMi1WZ3BNTXpYdEZCQmdKZ0ZrNkNzYlhfNTVsc1E4VGg2eE5YbWlEUk1mbUwyVXhCV0szdW9WZWk0OWRNOXNYWVZ3V0VnRmt0cmkzSng2aXdtUlR0ckExczZMc3F1aHNQbWcwTy1YWFAwN2o3WW85bUJwand3WFpscmg2OGhlak1RZm5UOUljZjdEdmNPelVWQ19FSXViWXhub1MwZnlNSVlj?oc=5",
-      "published": "Tue, 17 Nov 2026 10:33:10 GMT"
+      "title": "Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2diUEJzR1JMZ1g4Rnp2MEFmOEZiaUF6bW5kN3BWSTBPVlVDbWktb00tWW8yNFZsWVNJYUN6TVRTaWI5cEhsUURLb1pITjRQV2RsLURXa0hqVThSdlFqNzZscHhmbWh5UTNzR1NBTXRJTHhpbnJtaHpYWjFKZVl3R3JIRFhPRFFINU9uVUQ2VnhiTElac1BMN1R1OUxKeTJ1LWZTaDJYZFFZeHRkTGI5M1BocjhGZw?oc=5",
+      "published": "Wed, 18 Nov 2026 08:51:48 GMT"
     }
   ],
-  "last_updated": "2026-11-18 02:53 UTC"
+  "last_updated": "2026-11-18 10:57 UTC"
 }
