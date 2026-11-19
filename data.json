@@ -18,19 +18,19 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 50246.33,
-    "change": -513.09,
-    "pct": -1.01
+    "price": 50198.17,
+    "change": -561.25,
+    "pct": -1.11
   },
   "Nasdaq": {
-    "price": 24456.36,
-    "change": 127.98,
-    "pct": 0.53
+    "price": 24429.88,
+    "change": 101.5,
+    "pct": 0.42
   },
   "S&P 500": {
-    "price": 7331.61,
-    "change": -8.92,
-    "pct": -0.12
+    "price": 7323.63,
+    "change": -16.9,
+    "pct": -0.23
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -39,39 +39,37 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 88.75,
-    "change": -4.39,
-    "pct": -4.71
+    "price": 88.95,
+    "change": -4.19,
+    "pct": -4.5
   },
   "Crude Oil (WTI)": {
-    "price": 81.98,
-    "change": -4.03,
-    "pct": -4.69
+    "price": 82.15,
+    "change": -3.86,
+    "pct": -4.49
   },
   "Gold": {
-    "price": 3738.2,
-    "change": -126.0,
-    "pct": -3.26
+    "price": 3748.6,
+    "change": -115.6,
+    "pct": -2.99
   },
   "Silver": {
-    "price": 45.13,
-    "change": -2.16,
-    "pct": -4.56
+    "price": 45.5,
+    "change": -1.79,
+    "pct": -3.78
   },
   "USD/INR": {
-    "price": 93.45,
-    "change": -0.51,
-    "pct": -0.55
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 103.81,
-    "change": 0.32,
-    "pct": 0.31
+    "price": 103.8,
+    "change": 0.31,
+    "pct": 0.3
   },
   "US 10Y Yield": {
-    "price": 5.06,
+    "price": 5.07,
     "change": -0.04,
-    "pct": -0.84
+    "pct": -0.73
   },
   "news": [
     {
@@ -85,6 +83,11 @@
       "published": "Wed, 18 Nov 2026 14:04:47 GMT"
     },
     {
+      "title": "GK Energy Subsidiary Expands into Green Hydrogen Business | HCL Tech Joins Hands with Cohere for Sovereign AI | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQZnJ5bU9QeVducFcycW5KNUVfVGZHVTFpS1ZqYThKZjFaSFd4TGpOS1lXQk8zTG1qSVBEellzdU1XTUVFQjlDVkVIaEg3N09Rc2Y0b3BYODY5YWNtUG5IVTNCZ3FicThmS280ZzcySEFEMEI2cElMTWtYbV9aZXJxeFhUTk83VlRGeXJ6dUF0NjVaaG8yTjR4ZmE2dFlWZGVndFBMSGJHaDAzUk1oVGlvRHBCeGJSc2RsUDlnWGNsMUx5dEtxZ0xyNHBGeTFrNXk4TE0za09QM1JaRDhTYThIVFhjUmNudnNseVpISGN2VHVTcDk2QkZRazlSQ2FEbnB4bWV3dUNpcDdJMmlBbFUtV0dNT3dNZWFhemdxWnZSbEs?oc=5",
+      "published": "Thu, 19 Nov 2026 00:30:00 GMT"
+    },
+    {
       "title": "Indian Rupee gives back some upside but still manages slight gains - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTBOS3FUWFQxUDZ6TmJGN0pRdEk1NHN0OXVvZFdaemg0ZGstQjI2SjZrOHdQT2hmcVVKczRuZDlBWV9TZzAyMTF1dWo2VWhsdGFlMEpWRkJ6SERkSHFRUktEVjl3MnhOcG1qQ0lKMUtJbm92T0NTUkF4Zlh2OGJsYnA3Smp5RmtsRGdMNmxZeUVYVFZsak51dFkxZk9NdUp0Nng5NFZVdWtnRGRQUURlYUY1MEJLcVpJWVVYQXhiZTdxWFVI?oc=5",
       "published": "Wed, 18 Nov 2026 11:36:38 GMT"
@@ -95,25 +98,20 @@
       "published": "Wed, 18 Nov 2026 11:18:11 GMT"
     },
     {
-      "title": "Sensex Today Tanks 502 Points | Nifty Below 25,250 | Nifty IT Index Down 1.2% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQmlpbnp5WXVMNGZ3NU55eE1NeHpkRHU4eDFpdzZrQXVGVEtSSVV4S3dKSFRZeFJNWXVVVUNhZ1M2eE9ZZHB6eTZtU05tcEtHRmJFTzgzZHNRY1ROM3o3TjFNQWdtVDNmcDhTcmZGUHB4YW9sVGNsX1FXdGFHZ2FqcDkxQlB4NWZNVEQxeFZOWC1sMm9FT01WTTdNajVvblRqa1FzclJMZmg1aFFDbXdLUnNYOU1SQWVfQjRxaTk1Q0VESmNfQXZlSUtDVGJzUQ?oc=5",
-      "published": "Wed, 18 Nov 2026 10:26:38 GMT"
-    },
-    {
       "title": "Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZmNJd01YVlJRV3loM3ExU2lIa1YxZ3c2Z3FnQmlCOW5XQVY3NEpVd2U5SUI1MWJMakRGcVNfcXhsRC1IS0k5WjlheFZ3a21iRjJwYXpYZUt4cURYZzYzdVRkelpfLThZWVBGVkZqaWlTZWowNmRkX2lkbjFSeHhLVU5ieHFYSWxLSldISlo0WmNfeUFNQy1GbHNLVF9fQmNN?oc=5",
-      "published": "Wed, 18 Nov 2026 16:35:07 GMT"
-    },
-    {
-      "title": "Stock Markets Today: Sensex, Nifty Down on Profit-taking - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkE3UWlyb0VrWmdfZy1IamtIemhZQU9YTjRfMGpnV3pNSVpRblc1SUZJWlAxRGNyNkJDMFpCWld3ekJSaDdpVWsyZ3lCQXY4SUdCSzc4bzJ3V1RjRFoxdkxwREdLTjFIUXlsWGtJQjM0VHlCR1ZuTnpaQk5VZENfelplNEZUejB2RUxKVXNtZFo3V1JiNFJQOVhHYW42UC15SzhDYmJOWG03M2xvLXN4MURiWWcxcExtLVJVaWhvWENyLUFScU9VRTR6Q1p5ZGhzN3Z2ZXM0c0prZUQ1bkRMcNIB4wFBVV95cUxPZjRrX3ZvejZibE9UU3NXMlVzZGNUcV9IMTM4SmRsTG5YM0FWazBwMXUwdG1MZHRhS1MtbFByZDJpY0cySzhPRzkyV3FPczJjTUltTm5fYVhMYlZCWGRQc3plUjIza2tfdWtpVTJYNnZzS0NqcndqdnJaTjJsUS1UbUg4VExnTW1TTEhtRXRET0k5RklfQlpBd3ZiZGNkOWhlckk5YVRZQ0pDVG41RVdZRWx3ZFZoeFNiS1pSTjl4TmFIdVd3Tk56LWJ1V2JnX01yZEwwb190ay1iU2JLaWh6bTU5WQ?oc=5",
-      "published": "Wed, 18 Nov 2026 05:31:42 GMT"
+      "published": "Wed, 18 Nov 2026 16:36:11 GMT"
     },
     {
       "title": "Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% - India Today",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORERDcDdPejVjWEFtT2I0UHJ0T0dOME9OV3RvWnczNjRrazN5ZHRhYlhLOXd3eTFJNEczcU1LWDlFNnZwS1VYR1UtTUVqRmwwQ2R1cGNzRHZlYXViTUNnMF9oeWQ2V0ZyaGJ5TlFJRm5Id3ZwYXo1TTdEeDdjUVlJdkxLWTd3ZUwzWjFtcVZicERDZ1NwX2lOMVQ5N1RTb3lfUXhiMlhBU2ZyeXQzZzNpOEROdmkySlN6WVhjOU9sRXVpd0ktWk9PSGR3QlnSAdIBQVVfeXFMTzNUQlhWZEx0Tkt0cGtaUlotXzdxSlFEcG0wTnBlc2lpN2xhU3JSWUxUV0JQalM0TlpQYW1ESzY5elN5dC1pLUxnbTJIZ3h2ZUpSRnFiRlVkOEZVN0xiZURDLXVuT1UzX0NxR20zbGtzNjlHekhTOTNCalFEY29Tekt0c2tSMHp0a0g4Zm5BSGhydlBraWJjcWZTZUJkcW9YZnQ5Ulh6RHliLThjQXRyTGRxWUZsUnJORXVjS0dlTnBYVHpzN3ZxR1hIRUFTbjYzMXJ3?oc=5",
       "published": "Wed, 18 Nov 2026 10:17:16 GMT"
+    },
+    {
+      "title": "Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2diUEJzR1JMZ1g4Rnp2MEFmOEZiaUF6bW5kN3BWSTBPVlVDbWktb00tWW8yNFZsWVNJYUN6TVRTaWI5cEhsUURLb1pITjRQV2RsLURXa0hqVThSdlFqNzZscHhmbWh5UTNzR1NBTXRJTHhpbnJtaHpYWjFKZVl3R3JIRFhPRFFINU9uVUQ2VnhiTElac1BMN1R1OUxKeTJ1LWZTaDJYZFFZeHRkTGI5M1BocjhGZw?oc=5",
+      "published": "Wed, 18 Nov 2026 08:51:48 GMT"
     }
   ],
-  "last_updated": "2026-11-18 19:15 UTC"
+  "last_updated": "2026-11-19 01:14 UTC"
 }
