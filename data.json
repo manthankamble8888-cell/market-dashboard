@@ -1,46 +1,36 @@
 {
   "Nifty 50": {
-    "price": 25514.3,
-    "change": 286.35,
-    "pct": 1.14
+    "error": "single positional indexer is out-of-bounds"
   },
   "Bank Nifty": {
-    "price": 63063.0,
-    "change": 1024.35,
-    "pct": 1.65
+    "error": "single positional indexer is out-of-bounds"
   },
   "Sensex": {
-    "price": 83021.75,
-    "change": 989.94,
-    "pct": 1.21
+    "error": "single positional indexer is out-of-bounds"
   },
   "India VIX": {
-    "price": 16.11,
-    "change": 0.54,
-    "pct": 3.47
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty IT": {
-    "price": 30919.45,
-    "change": -342.85,
-    "pct": -1.1
+    "error": "single positional indexer is out-of-bounds"
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 49462.36,
-    "change": -735.81,
-    "pct": -1.47
+    "price": 49097.06,
+    "change": -1101.11,
+    "pct": -2.19
   },
   "Nasdaq": {
-    "price": 24225.96,
-    "change": -203.92,
-    "pct": -0.83
+    "price": 23879.2,
+    "change": -550.68,
+    "pct": -2.25
   },
   "S&P 500": {
-    "price": 7251.63,
-    "change": -72.0,
-    "pct": -0.98
+    "price": 7175.83,
+    "change": -147.8,
+    "pct": -2.02
   },
   "Nikkei 225": {
     "error": "single positional indexer is out-of-bounds"
@@ -49,46 +39,39 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
-    "price": 90.1,
-    "change": -1.85,
-    "pct": -2.01
+    "price": 89.79,
+    "change": -2.16,
+    "pct": -2.35
   },
   "Crude Oil (WTI)": {
-    "price": 83.34,
-    "change": 0.08,
-    "pct": 0.1
+    "price": 82.77,
+    "change": -0.49,
+    "pct": -0.59
   },
   "Gold": {
-    "price": 3686.9,
-    "change": -55.0,
-    "pct": -1.47
+    "price": 3605.5,
+    "change": -136.4,
+    "pct": -3.65
   },
   "Silver": {
-    "price": 44.51,
-    "change": -0.49,
-    "pct": -1.09
+    "price": 42.44,
+    "change": -2.55,
+    "pct": -5.68
   },
   "USD/INR": {
-    "price": 93.28,
-    "change": -0.19,
-    "pct": -0.21
+    "error": "single positional indexer is out-of-bounds"
   },
   "Dollar Index": {
-    "price": 103.83,
-    "change": -0.03,
-    "pct": -0.03
+    "price": 103.92,
+    "change": 0.06,
+    "pct": 0.06
   },
   "US 10Y Yield": {
-    "price": 5.07,
-    "change": 0.0,
-    "pct": 0.04
+    "price": 5.05,
+    "change": -0.01,
+    "pct": -0.28
   },
   "news": [
-    {
-      "title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
-      "published": "Wed, 18 Nov 2026 19:12:05 GMT"
-    },
     {
       "title": "Autos, financials power India market rally, defying broader Asia decline - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEVzVmR2T2hYV1NfZzBnVFp4U0JicFZway1OSzI5bWRpYld6SDZOWGhjUjI5MkVELWo3QlV2UDhxLUFLWWpVYjJPNzR1d002c3p2dER3MnBqZGd2U2ktSlgzUGNqdnk2Y25VbU1IUzBvejNJMU9PRVBoekZuVU96dWc5QXBhV1I0YmQ1ZV9SM1FqUmNva3J2Njk1LTE4SXZqcHVUSA?oc=5",
@@ -110,9 +93,14 @@
       "published": "Thu, 19 Nov 2026 11:47:47 GMT"
     },
     {
-      "title": "India stocks higher at close of trade; Nifty 50 up 1.14% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPY3p5bWZ1bnp2RlFXVEZxanJ2ckVtd2dwamx4QWo5UlVGX0U3MDJjOVVGNUNuUVJXRnVxdnVmSkZSS2FXVFNFUlY1REZtQVZZV2RTV2NCZV92UE9lOXp4T1RGR0JKajY0SkdpV1gzYkY3Y3VLWlNDMjZZaEEwZmJ6ZXhYRUdvbW9XMG1KNUZKeDFGSUNFVFlsVlBHZlRXOGFUY3h2RzlrSHoxbmIwand3?oc=5",
-      "published": "Thu, 19 Nov 2026 10:32:15 GMT"
+      "title": "Stock Markets Today: Sensex, Nifty Pare Early Losses - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLUNnUnBEZDZybldJdXRLOGJRcDFhTFhacWlQYTRDSmluRGg0czNSbmFtMmoxVFhpbF9QcDJNS1kxYzdSU1NDZEI1ZGpfV0FSeWVIS3NPWUFDbFRKcHBHSXc4LWs3XzJpWE5WeTk2S1plSkI0YWpjUFFpY0JyVFBVbl9jRlBYNWZmS2lYWXRwZ182MUJqTnRERHFManUwcW5JaDJockktczdIRU8tdzl0Uy03UHRHb2pYTHo4RUpGNTkxMXhIUmU2c9IBywFBVV95cUxPbTJrT3V4M3pNSURwRHZGU0loMXlUV0N6M3J3QmNYSFB0LWd5a0t0SGNSSXR1VDBveE94a2FWcEk4bFFYWVc4UWJ6c1N3WDV5ZklVSzF3Wk8zLVd4aWFRbkxUYjgxa0dYLWV0UEhVY013blhRT1NkYTR2N3pLTHVhYkIwS3hpcE9jSEg2V0haaG5LeVBXVEFDcXBDZ2JadW9KVEEzUTk2a0QxZHNjaGRPRzNkcU9TSmMwbThrVy1XT0ROOFFzXzZJQXNhaw?oc=5",
+      "published": "Thu, 19 Nov 2026 05:39:01 GMT"
+    },
+    {
+      "title": "Green Stocks Nov 19- Green Pack Trails Market As News Flow Slows - Saur Energy",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYXBKcWl6TDctczdacEtBTGp0SmFKRmh4T3J2TkczVjR4ODVZaVBhSEx2OVRudFJUOWRpWlVxR1YxS01aYjkwRnRsbjFXMWpRcmRKbV9jV0N5U2s5QWw2TDlUQ3YxYWFqd2lQMTlRR1RVc1NCZ202MTVNRGxHcGdMTmpHeFJNRGljeUtjZ2pwQkZLLVZOcFZ5X2V2V0lhRXZabWlXMEFod01CZi1UaTdrcTdjT1E5d3poU3YxTThscHlOZw?oc=5",
+      "published": "Thu, 19 Nov 2026 10:14:34 GMT"
     },
     {
       "title": "India VIX Rises 3.47% Despite Strong Market Recovery Today - HDFC Sky",
@@ -120,10 +108,10 @@
       "published": "Thu, 19 Nov 2026 10:48:59 GMT"
     },
     {
-      "title": "FPIs pour record \u20b984K cr in 1st half of Nov; financials, auto rake in most - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbTJza3pZeUpiM1BJckM0ajI1aWVZcTZOczFkRV9kZVB3dXl1cnl6SVZlZ09Lcnp4QW5rVmtNMEtOb2JmTUo4VUtaaUtoeUhZRVlfend4VGVQa2tnZDdEbG51eXFnMzdURW0wQ1hTOEE5a3o3Zi1ZMk1LN3dpem5fRFRoUE5YU2JTdl9zZTh1RUxhVnQzX05qR0s5dVExZUduRkw1Rzd3MHVBRi1UVjlndUd2ZVFCdDVFYWZYcFFJZmVyVzJ6b2U5Z3NrbU1ROW9uWmVmS9IB2gFBVV95cUxPeFJ6RmVFaUt1ZVhpekpJNERyczh1emh6YlR0TjNCQkVJc1gwUTI2VEEwbWplMVVaekxyRTAwNlloRFcxdTZTY3M4OTNmYXlCTDY5bnJUMnY4NWRUM05xZWZOdFBISFlxd1BKc0Y4TEJ4N2FMclhJaUlNc0tFNzdoVFh6SFliTTA4Q0hUbFNlMUo3TXAwZWstRURmVW9pc25hclJHRVdGS1RYNW1YSUFyY0dNNk9FNzlMYkdfR3YzNlByTVVpUUY0aVM2cUo0WkR4SEFmTFp4OXZQUQ?oc=5",
-      "published": "Thu, 19 Nov 2026 14:49:22 GMT"
+      "title": "Sensex surges 990 points as buying interest broadens across key sectors - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGVUTkRmQ1l2S09CNXpMT05DY0FQVHZxejNNNmxZdjRsVDA0Skdwd3ZZRWFsVnJ2bGJhX1l4VkdQVlhxQjFONjN1SEZmQjVWODN6QmpVUXY4WXRTSGZXYkVTZUZkZjZVcXFvMEZJWWxqSTRhN3RSbWRoS2lUQzhzOU5MX0RzRGQxMDVEWmJ4dmowZEM1WTV0RVNhcGpKRDVtb3VZb0VIUEFFWG81XzVrcWhLVVJkZDFLbEtDVU5ZRVk5NWfSAdABQVVfeXFMTXhEYVFMQTVuSFk0UEs4MU01ekZnd2FzY01idnRMVERMU2c2Y0JuWVdVcXpLbVBGY0JCRTBoTHhJYk04LVE1MU9ST2c4b3dET0VLT0lKdGhIMXFqckZaTVJrWkFIS1RiRFN3R1hRUDZyaDV4QjEyeU1DeW40akxXVFlwUERfQmE5Q3pxQTBneEVuUTFpT3NBWTE4YmhKbkhtUUxnZkx3ejRVaDVaRGR4aFZkcWs4WGt2dDJyZkczMEdnQTRTNlFwdnhxUUNGVk1CSA?oc=5",
+      "published": "Thu, 19 Nov 2026 12:16:12 GMT"
     }
   ],
-  "last_updated": "2026-11-19 17:53 UTC"
+  "last_updated": "2026-11-20 00:08 UTC"
 }
