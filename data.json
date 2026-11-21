@@ -1,18 +1,28 @@
 {
   "Nifty 50": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 25800.6,
+    "change": 286.3,
+    "pct": 1.12
   },
   "Bank Nifty": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 64635.2,
+    "change": 1572.2,
+    "pct": 2.49
   },
   "Sensex": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 83919.71,
+    "change": 897.96,
+    "pct": 1.08
   },
   "India VIX": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 17.32,
+    "change": 1.21,
+    "pct": 7.51
   },
   "Nifty IT": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 31322.65,
+    "change": 403.2,
+    "pct": 1.3
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -33,10 +43,14 @@
     "pct": -3.7
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 56436.65,
+    "change": -3007.56,
+    "pct": -5.06
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22410.8,
+    "change": -430.82,
+    "pct": -1.89
   },
   "Crude Oil (Brent)": {
     "price": 89.87,
@@ -59,9 +73,9 @@
     "pct": -7.31
   },
   "USD/INR": {
-    "price": 92.66,
-    "change": -0.81,
-    "pct": -0.86
+    "price": 93.29,
+    "change": -0.17,
+    "pct": -0.18
   },
   "Dollar Index": {
     "price": 103.84,
@@ -75,14 +89,19 @@
   },
   "news": [
     {
+      "title": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "published": "Fri, 20 Nov 2026 16:49:56 GMT"
+    },
+    {
       "title": "Indian shares rise for fourth straight week as AI rout deepens - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
       "published": "Fri, 20 Nov 2026 02:34:00 GMT"
     },
     {
-      "title": "Stock Of The Day Buy HDFC Bank Futures on decline: SL 800 Tgt 828, 835, 842 -New MD Anup Bagchi is meeting with Investors in Singapore is very encouraging #StockOfTheDay #HDFCBank #StockMarketToday #AnilSinghvi - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0lBT3Q0c1hoOGZQb0dCbGJpMTZwVlIwY3F4ZTZVN1plVVk4UkdkVlpiSldDR1dLZUhwVmhXaHN2dVlPXzZteEJ1RGFMUndEQVNNSzdEbTJBUF9lUzcyM3IzMFlocF9uaWJjc3FOOTVhX0RLWUhXMk1GbUx3cHZkT1FMTWpSc3ByY2NPYkZMVGJxTzBnODNjWkc5UWFXWE1pTjJyRHZ5Sm4xNG50T3duVkhzXzVfVzBuOUlhd0ZQc2RURVRGcnBpX1lGZEZCcXVJMEEzeXBLZW5TUU5UOXhvV2tR?oc=5",
-      "published": "Fri, 20 Nov 2026 03:20:49 GMT"
+      "title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+      "published": "Wed, 18 Nov 2026 19:12:05 GMT"
     },
     {
       "title": "Stock Market Weekly Round-Up (16-20 November 2026) - The Indian Awaaz",
@@ -90,9 +109,9 @@
       "published": "Fri, 20 Nov 2026 17:30:25 GMT"
     },
     {
-      "title": "Stock Market Holiday November 24: Will NSE and BSE Remain Closed on Tuesday for Guru Nanak Jayanti? - Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbU9hNmx0T1AyRGxWX2ZZUnRLTG0tZzlkNW1kN3l5aGtLS0NaYUdxN0RLMTB5RFdKazMyX1F1bkFjUllNTzlZVUMwcXpDT1U5M0VFWFV6OUs0cFBWU2pzVlcwb0wwRmRvbjlOMklkZmNqQmZGVGFnZUxrSkNKcC05LUowSkpTczBaZUY4dFVtaktLYUdGVzdOQ1VSbXR1VFcwTWM3Tmx2Tkl1bnZyTjFfMml1YXNjTW1rX1NBUVN0cW1qXzZRSlFidkRvei0xWUVBdGc?oc=5",
-      "published": "Fri, 20 Nov 2026 10:13:00 GMT"
+      "title": "Stock Of The Day Buy HDFC Bank Futures on decline: SL 800 Tgt 828, 835, 842 -New MD Anup Bagchi is meeting with Investors in Singapore is very encouraging #StockOfTheDay #HDFCBank #StockMarketToday #AnilSinghvi - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0lBT3Q0c1hoOGZQb0dCbGJpMTZwVlIwY3F4ZTZVN1plVVk4UkdkVlpiSldDR1dLZUhwVmhXaHN2dVlPXzZteEJ1RGFMUndEQVNNSzdEbTJBUF9lUzcyM3IzMFlocF9uaWJjc3FOOTVhX0RLWUhXMk1GbUx3cHZkT1FMTWpSc3ByY2NPYkZMVGJxTzBnODNjWkc5UWFXWE1pTjJyRHZ5Sm4xNG50T3duVkhzXzVfVzBuOUlhd0ZQc2RURVRGcnBpX1lGZEZCcXVJMEEzeXBLZW5TUU5UOXhvV2tR?oc=5",
+      "published": "Fri, 20 Nov 2026 03:20:49 GMT"
     },
     {
       "title": "Rising Bond Yields May Pose a Challenge to India\u2019s Stock Rally - Bloomberg.com",
@@ -105,15 +124,10 @@
       "published": "Fri, 20 Nov 2026 10:46:58 GMT"
     },
     {
-      "title": "Sensex Jumps 898 Points, Nifty Reclaims 25,800; Banking Stocks Lead Rally - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaG5JZ2lId2FfTWZkMENtNXdid1BLVnhTcE9CRGR1QjFMT2UwSk5WVC04UGpOa0ZPQWFDTHVNZmh5NnJMV016VEdjZHhkemx2aHAwRldGdzdsN0VKV0VVU3dSTHBWTjkyMEVnZUJSS1VyU25OVW1tT0hqNjVJSkpFZzljbGU0TV9SZFpSUkNocHBJcmhnbm1ZV1QtYi1nTTh3MlZ5aEhPWm5ZV3o1b256bEJkcw?oc=5",
-      "published": "Fri, 20 Nov 2026 11:11:00 GMT"
-    },
-    {
       "title": "Sensex surges 898 points, Nifty reclaims 25,800 as bank stocks, foreign inflows lift markets - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEhpb0pqS1hrREZBWVRCRkVDQkJLU2JxdENURGpCN28wWGhWMExuczdEXzk4T3U3T2xSS0tNQjVnMjgybmZyd1ZjVjZrSXQ5NWhaQU4yalEyZWRXTHNiV3UzZHQxdXV0UHFtVWIxdnAyWGVtYmtHMUhLUmotaXdQdVgzS0F0Nk90YVNkQktvWWVRNjV0Z3ljMklJRHgzRnJ6cGJKbjdjQ1dJX0xRcDdaMjJfaGprRXpVN28xR2p3TEJCa2ZjUy1GY1JkUjJSenctSWs5VHdvNzRDeG_SAegBQVVfeXFMTTJhUXBzWkVUQkY0V2x4YmtRYVd1MzZEc0kyZXdZT1g5Z2VMWlp3VUJYb3hiUk1WZTJoQnN6YkJaR0x3SkdYQmZSMEJScTNJaVpyOFA5UjRRQ0lPdHJGdFdfSnZpNGlTRk91VWlMeklYRTFjYlZ0bUlsc0VIRHlMbWE5a0RuMG9PNlRQTzhMQVNCejFCVlFIWW9zcGQ3bWF0SFY0a2JfS05pS01TYV9qRTAyUkhmRTZDTWxockxjeGJJSWJVcWtWdWZaSnRmbXQtRFRlbFFsUi1KY0UwSXA0VDg3UTRSV1BzZQ?oc=5",
       "published": "Fri, 20 Nov 2026 12:24:22 GMT"
     }
   ],
-  "last_updated": "2026-11-20 22:39 UTC"
+  "last_updated": "2026-11-21 03:28 UTC"
 }
