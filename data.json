@@ -65,9 +65,9 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 92.67,
-    "change": -0.62,
-    "pct": -0.67
+    "price": 92.66,
+    "change": -0.63,
+    "pct": -0.68
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
@@ -79,9 +79,24 @@
   },
   "news": [
     {
+      "title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+      "published": "Sat, 21 Nov 2026 14:37:48 GMT"
+    },
+    {
       "title": "Indian shares rise for fourth straight week as AI rout deepens - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
       "published": "Fri, 20 Nov 2026 10:44:07 GMT"
+    },
+    {
+      "title": "Why is the Stock Market Up Today? Sensex Soars Close to 700 Pts, Nifty Surpasses 25,700: Reasons for Market Rally - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "published": "Fri, 20 Nov 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Indian stock markets to remain closed on Tuesday on account of Gurpurab - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbVRyeDAxczZfMlVpNjlrM3lhNkZPcEJVZ2R0VDBLMnFHSlhjaUl5b1N1WGg1dGMtOUdUbW55ZUlkR3NLamNGUmdiQXlncWJUNkJFN3ptcy1LTkdvMVBpMVVsU25hbmo2czhHWmtlUzJMQ1l3SE9rb3NTbkZlbjhVV01KTlg1d1FNQ3liRmdwdWdDU0pHYmhKd19CbGZ1UQ?oc=5",
+      "published": "Sun, 22 Nov 2026 13:49:51 GMT"
     },
     {
       "title": "From underperformer to investor favourite: What is driving India\u2019s stock market comeback? - Upstox",
@@ -89,35 +104,20 @@
       "published": "Sun, 22 Nov 2026 09:58:16 GMT"
     },
     {
-      "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdHRLUWlWUGExQUVQdm41Q3RTXzVkdzhBNVY1ckc2X2VmRHQ5ZGdESlV2Z290X0lWVXdCcHh2MkZkZE9rcWRfUVBzVTFiWHZEZTZXV0R2VjVaZlh5dXFBQUw2WE0wcHF1ZnBlWWR2REFwS3F4dXlCR3FoLXNBZDBHYmxva3NhLWt3eHV4ZGxoSjBQc3RPQ1pNVXl5c2pVaGIzYU54Ni1TUHh1bzI3dG9UYWR4NTR0QUxjalFCV3pvTXV6MzJacy1ORmxHZU1FcDVrLWpSUjNwYjEzSVFOejc5N0hn?oc=5",
-      "published": "Sat, 21 Nov 2026 05:52:38 GMT"
-    },
-    {
       "title": "Stock Of The Day Buy HDFC Bank Futures on decline: SL 800 Tgt 828, 835, 842 -New MD Anup Bagchi is meeting with Investors in Singapore is very encouraging #StockOfTheDay #HDFCBank #StockMarketToday #AnilSinghvi - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0lBT3Q0c1hoOGZQb0dCbGJpMTZwVlIwY3F4ZTZVN1plVVk4UkdkVlpiSldDR1dLZUhwVmhXaHN2dVlPXzZteEJ1RGFMUndEQVNNSzdEbTJBUF9lUzcyM3IzMFlocF9uaWJjc3FOOTVhX0RLWUhXMk1GbUx3cHZkT1FMTWpSc3ByY2NPYkZMVGJxTzBnODNjWkc5UWFXWE1pTjJyRHZ5Sm4xNG50T3duVkhzXzVfVzBuOUlhd0ZQc2RURVRGcnBpX1lGZEZCcXVJMEEzeXBLZW5TUU5UOXhvV2tR?oc=5",
       "published": "Fri, 20 Nov 2026 03:20:49 GMT"
     },
     {
-      "title": "FPI flows, crude oil, global trends to dictate market movement in holiday-shortened week - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ROTlA3bWFwVXllT3NuQWlQZFcxOHdCNmI0OHA0M2FuTkhfckFxNXJfbGR5aW5QRjgxWnJ0eDNmS2g5bVRaWFVMRHdUYjZiSzJhcUJmOS1ncVZ4YUc0WWJkbldnNFVuODhwRXduZG1BSW9RZHVFRVJJS09wVVRlSTV0b3pzeUM3NnZhV2YyaW1yNE0tVUhFOXlkYldtbWRLdVF3WURzU2xVUVJnVnZjQVJMbmZiRWw5UzJmYUUtR3RHVkxuT0ZqWjIyNA?oc=5",
-      "published": "Sun, 22 Nov 2026 09:50:22 GMT"
+      "title": "India can attract global capital if it removes barriers to investment - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOM0x6WS14Tld0SEk3ckRfVXMwUGhOWHVaTjVYNnh4MTNjYWFRSndURWhNWFNISkhYSEY0cXdCWlltTThDcDZuVmhWZWVzQlpHTmZDUGZadTZobzVYcnY5ODJra3MyZG1tQlp4TUI3eEVNakxtWTVhdVh3UUdSd3ljT1ZtTjFSNzJoeWVOM3NjSDVYOUJQWjZHLVpQQTQ1eWFlT3BDM1hXY0pISVhlZE92cE10a1VYR2FMeENrWldfWFVCUmJkY055WVJsM3A3S2JFTE55bmtR0gHbAUFVX3lxTE9JVEtXUG9DaDk3N016aWVUclVmRVRFc3FvX1pWcDlMeGZIWU5HaC1NeGNIaE5DQ3UwNFFaMUxCWU1LenBZeVI5VlhVZEZrRVIzMXJWMmVscVFOOVlMMWR5Y0w2Vjc3RkY3NUhpYjhMM2Z4V1AtaGpRVF9iMl9wc19PYTEwZ2wxQ0FJaTNIVG1uRkt5bkZRVUJIMXhmYTVLOERyZlc4SVZHWWV1aW1oU0l5cUpzVlg0dVBrbVNRWnhMaTlEQkNTRnY3X0FvUnpiUGVnVXQ5MlZQOVpSQQ?oc=5",
+      "published": "Sun, 22 Nov 2026 16:05:30 GMT"
     },
     {
-      "title": "3 Indian Bank Stocks Retail Investors Are Watching For Higher Rate Margins - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTlBUTl1V1huUDF0Mktod3UxSndHUGZYdENGLUpJMnNZc0tQaDRReERVQk04QnJyU3lLN2NLWmg3T1hFN095MjBfLTVFV2tMMjQ2d2M4ckVVVVJVVnZtbVJCNWFzN05sTk4xcUxpemJTYXBWNWhiNkZtN0RqNExEWUUtcWd3d2JZLTlWVjlQY0dDS0Jkd3A4?oc=5",
-      "published": "Sun, 22 Nov 2026 01:10:00 GMT"
-    },
-    {
-      "title": "Stock Market This Week: US Inflation Data, AI Sell-Off, FII Buying And Other Cues In Focus - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2wzc3FIN1BoQldJbXYzdXdYMGx6RnpuSEVielFoczFtS09wMVY5VWxoSC12YWF6c0Z6R2VEbXFHUTlBbjExTFpmMm5Xa3dYVVhrTG5fMm5qNVZZQXhCV3JWVTZLTTJYNmluU09PVEtfVkN4VUNTeXB5ZXpKMjdkVTZRejY1V1g5Y0ZlT3BBTGZoZjVWUXlHaTliQjBSZm9K0gGuAUFVX3lxTE91bHkyNzZlYXlxdFdfMTBUaXlyMmZOOF9qcEV0RjhuZnVKdWZCZXllZlllUkN0dy1xZTNNUGJ0TnFPcFk0QVFYYlZ4OVFLOTAyaG4xQk8wY3lXcHhrWGQ2Rk9Ucng4ZGpQWV9CVG9hQWw4TG0xMVp6aW5yVHBiRlc2RnJLNzRvb180MjhDNGh1ZGRxR3hIMnZmb3lrMngwQzZfZnBJT0NXWEdLSWFTdw?oc=5",
-      "published": "Sun, 22 Nov 2026 06:22:40 GMT"
-    },
-    {
-      "title": "Indian stock market outlook: HSBC favours financials, consumption and select IT stocks - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeG52eGhKYVZKaEZ1dGh5WVM2OWxmdlhNQnNOUk1yREZTaldTMG11NXV0QTN0T2xweHd4Q0JkZFhPNkNfRnZiaDRoTnRqbXV2aTJhUVhYOUhyWWZKTnM1WU1vYWFxMEp4cHJEb08zMzhWa3ZKaWtYUzJsS3RXWUo0WTQwM3h5ZUJZcUtKREFOYkhmMWw0ODZJaUlOZ2JoZ3lRUGVxcjR1QjhDY3Y3ZzU1RWdGdF9WV1JhNzJoUk1rNWZzYVB3MDdGYWJmMFlCYlczMG9abG9tWVEwTUJZcWw4SXUtMXBLMUlNS1FlOF9LRXd3TmRh0gH7AUFVX3lxTFAwYy1DNV9oSGFlZ3NNaFRVTGJJRTF3Y21JcXFpb2pFYTE2YVdZUi1RV05Fc0l2WWZ4X0hJVFRkX0R3TEs4enY1LWFkZGNWeThrREUzYVpZU0JfZTlwd2RJQkppZ01FN0VfQ3EtMnpoUXVxYnR1dThkS1Vvell6OUNEcDZ4SVgyX01Rd2pURnV1ZDRCV0RiT0c4ZWV4d1dpcnlJMk1LaEdUc3hfeVVwb0k0dUs5TS02MGdobzRNVHFrUXRlbWdEVzhmOGZrWVMzdFpXRmhVdGNRUV8xcHBTQVdMb2wzYnktS0lWSlBYc2JteGsxWlI1SVRJTGhj?oc=5",
-      "published": "Sat, 21 Nov 2026 07:38:14 GMT"
+      "title": "As Wall Street struggles, is India emerging as a new investment destination? - The American Bazaar",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOFdVekNJbEswbWdMN1oxblo1eTZ0aTR5aUNYYktabWg0R3dMc0lDWFIzNXNFU211Z3duY3lNTlFDR3R1aC1POW45bE9DZUhzbmlWLXdWNVlfNDl1Q3Bvd3ZIWXlpcnJMRnFyZ21yTEZVa21FVXhXcmRzYUxJSkJpRFNVQ1Q4Uk1NdENRRU1xUXBPZVJ4a3JQZQ?oc=5",
+      "published": "Sun, 22 Nov 2026 16:49:41 GMT"
     }
   ],
-  "last_updated": "2026-11-22 11:45 UTC"
+  "last_updated": "2026-11-22 18:54 UTC"
 }
