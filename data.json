@@ -53,24 +53,16 @@
     "pct": -1.89
   },
   "Crude Oil (Brent)": {
-    "price": 92.57,
-    "change": 0.59,
-    "pct": 0.64
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (WTI)": {
-    "price": 83.98,
-    "change": 0.77,
-    "pct": 0.93
+    "error": "single positional indexer is out-of-bounds"
   },
   "Gold": {
-    "price": 3515.4,
-    "change": -170.1,
-    "pct": -4.62
+    "error": "single positional indexer is out-of-bounds"
   },
   "Silver": {
-    "price": 41.03,
-    "change": -3.28,
-    "pct": -7.41
+    "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
     "price": 92.67,
@@ -78,9 +70,7 @@
     "pct": -0.67
   },
   "Dollar Index": {
-    "price": 103.81,
-    "change": -0.09,
-    "pct": -0.09
+    "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
     "price": 4.91,
@@ -91,7 +81,12 @@
     {
       "title": "Indian shares rise for fourth straight week as AI rout deepens - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaEJHRkZDOVdTT19VcGt0YU9SeHdvSmo4cDZVR1R2RzdDUUFJREc0bkNBcDFrUDN1X052bGljQUdsQ19jMTkxZlhYZTI3LW94RUFKb043WXpDZW5mUThLVk95eVcxU005bVNGV0EyY2JlWUlpWDAwZHJDaGJSMlNIMndQZ0QyWGtGVlo4WjB1YjZzNGlfYzBPVFdfaE1MTVdabVZmLXdLdkxsTDJmczdWSW5wRUNlMTg?oc=5",
-      "published": "Fri, 20 Nov 2026 02:34:00 GMT"
+      "published": "Fri, 20 Nov 2026 10:44:07 GMT"
+    },
+    {
+      "title": "From underperformer to investor favourite: What is driving India\u2019s stock market comeback? - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1IzTlc0NWxDMUFNaVZfa3dYd1hnTXhzSTV0LTZLVGExZnVRLXZ4dGt1SFA0Q0VEa0liQmdTMV9xUllZdUxJSHVmS0hhZ2tJenFIanhZLS1fZmpOZFpSd3pTWklMQk1rZzhvQUJBVVNYZDNxWVhMM1FaY29mNlNjMXZTcktoelZzMUZlYU9ZOGNXczh2dTk1MGsxUjZCeXI1YVBFMmV0cUQ5c29NR2FLVDlnRzRhMW9zOUdfQTN2bmRyRjFnY244MVVxbXJMTFlBNklUd0ZMcXJ0NjVwVEszSQ?oc=5",
+      "published": "Sun, 22 Nov 2026 09:58:16 GMT"
     },
     {
       "title": "Indian Stock Market Extends 4-Week Rally as Sensex and Nifty Hit 9-Month Highs on Record FII Buying - Kotak Neo",
@@ -99,35 +94,30 @@
       "published": "Sat, 21 Nov 2026 05:52:38 GMT"
     },
     {
-      "title": "3 Indian Bank Stocks Retail Investors Are Watching For Higher Rate Margins - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTlBUTl1V1huUDF0Mktod3UxSndHUGZYdENGLUpJMnNZc0tQaDRReERVQk04QnJyU3lLN2NLWmg3T1hFN095MjBfLTVFV2tMMjQ2d2M4ckVVVVJVVnZtbVJCNWFzN05sTk4xcUxpemJTYXBWNWhiNkZtN0RqNExEWUUtcWd3d2JZLTlWVjlQY0dDS0Jkd3A4?oc=5",
-      "published": "Sun, 22 Nov 2026 01:10:00 GMT"
-    },
-    {
       "title": "Stock Of The Day Buy HDFC Bank Futures on decline: SL 800 Tgt 828, 835, 842 -New MD Anup Bagchi is meeting with Investors in Singapore is very encouraging #StockOfTheDay #HDFCBank #StockMarketToday #AnilSinghvi - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQT0lBT3Q0c1hoOGZQb0dCbGJpMTZwVlIwY3F4ZTZVN1plVVk4UkdkVlpiSldDR1dLZUhwVmhXaHN2dVlPXzZteEJ1RGFMUndEQVNNSzdEbTJBUF9lUzcyM3IzMFlocF9uaWJjc3FOOTVhX0RLWUhXMk1GbUx3cHZkT1FMTWpSc3ByY2NPYkZMVGJxTzBnODNjWkc5UWFXWE1pTjJyRHZ5Sm4xNG50T3duVkhzXzVfVzBuOUlhd0ZQc2RURVRGcnBpX1lGZEZCcXVJMEEzeXBLZW5TUU5UOXhvV2tR?oc=5",
       "published": "Fri, 20 Nov 2026 03:20:49 GMT"
     },
     {
+      "title": "FPI flows, crude oil, global trends to dictate market movement in holiday-shortened week - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb1ROTlA3bWFwVXllT3NuQWlQZFcxOHdCNmI0OHA0M2FuTkhfckFxNXJfbGR5aW5QRjgxWnJ0eDNmS2g5bVRaWFVMRHdUYjZiSzJhcUJmOS1ncVZ4YUc0WWJkbldnNFVuODhwRXduZG1BSW9RZHVFRVJJS09wVVRlSTV0b3pzeUM3NnZhV2YyaW1yNE0tVUhFOXlkYldtbWRLdVF3WURzU2xVUVJnVnZjQVJMbmZiRWw5UzJmYUUtR3RHVkxuT0ZqWjIyNA?oc=5",
+      "published": "Sun, 22 Nov 2026 09:50:22 GMT"
+    },
+    {
+      "title": "3 Indian Bank Stocks Retail Investors Are Watching For Higher Rate Margins - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLTlBUTl1V1huUDF0Mktod3UxSndHUGZYdENGLUpJMnNZc0tQaDRReERVQk04QnJyU3lLN2NLWmg3T1hFN095MjBfLTVFV2tMMjQ2d2M4ckVVVVJVVnZtbVJCNWFzN05sTk4xcUxpemJTYXBWNWhiNkZtN0RqNExEWUUtcWd3d2JZLTlWVjlQY0dDS0Jkd3A4?oc=5",
+      "published": "Sun, 22 Nov 2026 01:10:00 GMT"
+    },
+    {
+      "title": "Stock Market This Week: US Inflation Data, AI Sell-Off, FII Buying And Other Cues In Focus - Outlook Money",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU2wzc3FIN1BoQldJbXYzdXdYMGx6RnpuSEVielFoczFtS09wMVY5VWxoSC12YWF6c0Z6R2VEbXFHUTlBbjExTFpmMm5Xa3dYVVhrTG5fMm5qNVZZQXhCV3JWVTZLTTJYNmluU09PVEtfVkN4VUNTeXB5ZXpKMjdkVTZRejY1V1g5Y0ZlT3BBTGZoZjVWUXlHaTliQjBSZm9K0gGuAUFVX3lxTE91bHkyNzZlYXlxdFdfMTBUaXlyMmZOOF9qcEV0RjhuZnVKdWZCZXllZlllUkN0dy1xZTNNUGJ0TnFPcFk0QVFYYlZ4OVFLOTAyaG4xQk8wY3lXcHhrWGQ2Rk9Ucng4ZGpQWV9CVG9hQWw4TG0xMVp6aW5yVHBiRlc2RnJLNzRvb180MjhDNGh1ZGRxR3hIMnZmb3lrMngwQzZfZnBJT0NXWEdLSWFTdw?oc=5",
+      "published": "Sun, 22 Nov 2026 06:22:40 GMT"
+    },
+    {
       "title": "Indian stock market outlook: HSBC favours financials, consumption and select IT stocks - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeG52eGhKYVZKaEZ1dGh5WVM2OWxmdlhNQnNOUk1yREZTaldTMG11NXV0QTN0T2xweHd4Q0JkZFhPNkNfRnZiaDRoTnRqbXV2aTJhUVhYOUhyWWZKTnM1WU1vYWFxMEp4cHJEb08zMzhWa3ZKaWtYUzJsS3RXWUo0WTQwM3h5ZUJZcUtKREFOYkhmMWw0ODZJaUlOZ2JoZ3lRUGVxcjR1QjhDY3Y3ZzU1RWdGdF9WV1JhNzJoUk1rNWZzYVB3MDdGYWJmMFlCYlczMG9abG9tWVEwTUJZcWw4SXUtMXBLMUlNS1FlOF9LRXd3TmRh?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeG52eGhKYVZKaEZ1dGh5WVM2OWxmdlhNQnNOUk1yREZTaldTMG11NXV0QTN0T2xweHd4Q0JkZFhPNkNfRnZiaDRoTnRqbXV2aTJhUVhYOUhyWWZKTnM1WU1vYWFxMEp4cHJEb08zMzhWa3ZKaWtYUzJsS3RXWUo0WTQwM3h5ZUJZcUtKREFOYkhmMWw0ODZJaUlOZ2JoZ3lRUGVxcjR1QjhDY3Y3ZzU1RWdGdF9WV1JhNzJoUk1rNWZzYVB3MDdGYWJmMFlCYlczMG9abG9tWVEwTUJZcWw4SXUtMXBLMUlNS1FlOF9LRXd3TmRh0gH7AUFVX3lxTFAwYy1DNV9oSGFlZ3NNaFRVTGJJRTF3Y21JcXFpb2pFYTE2YVdZUi1RV05Fc0l2WWZ4X0hJVFRkX0R3TEs4enY1LWFkZGNWeThrREUzYVpZU0JfZTlwd2RJQkppZ01FN0VfQ3EtMnpoUXVxYnR1dThkS1Vvell6OUNEcDZ4SVgyX01Rd2pURnV1ZDRCV0RiT0c4ZWV4d1dpcnlJMk1LaEdUc3hfeVVwb0k0dUs5TS02MGdobzRNVHFrUXRlbWdEVzhmOGZrWVMzdFpXRmhVdGNRUV8xcHBTQVdMb2wzYnktS0lWSlBYc2JteGsxWlI1SVRJTGhj?oc=5",
       "published": "Sat, 21 Nov 2026 07:38:14 GMT"
-    },
-    {
-      "title": "NSE becomes world's fifth-largest listed exchange by market cap, overtakes Nasdaq and HKEX - DD India",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3NGM1c3Y1BiSDFtNWVqX1BmQ3RDN2dzVXdRc0hDT19Sam1YS2Z6SmdwOVVZMU9KanNNbG5hN2lIclJkMi1SalBHYS1ESWtPd2cxODNFczh6eFpHTEM2RktuRldZeV80UWk3blYyQlFPTjhZYXpRTjFyWDc3TUpYeGJEcU1ZWnMwZG5kWGo1bzhoMXZvcno4cmpxVlhOcm95d2d4VGdsSjFDcGRUSzItSnJmbjJ6UXVybDJB?oc=5",
-      "published": "Sat, 21 Nov 2026 13:55:58 GMT"
-    },
-    {
-      "title": "Indian Stocks Surge Against Global Market Tide as Nifty 50 Nears Record High on Foreign Inflows of Over 1 Trillion Rupees - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00M19YNjF3SFJRckF0Qkkxek15blJ2cHktYmh3S3NsNWw4VlFWblgtSnp0eS1qRms4eHJUdzl4aTlVQmlFZ3JLT3A1MmptZTBOWlVmbzNBQjNXMU1RSGFnOUh2RTFKcE5pOWR2bmlUTDlWSVpEVGc?oc=5",
-      "published": "Sat, 21 Nov 2026 06:55:00 GMT"
-    },
-    {
-      "title": "India\u2019s Stock Rally Faces Valuation Test as Bond Allure Grows - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzNUcnc5NTNrNEdDYzZQbC1vT054eXF0RTFsMmEwUUlsSXpwNm9mYWlPd0UzUHZla1NXeURvTU11NHFZcHVSWWJ5Y3Zrb3FQTXR2R3NlM01DVWJmSHU0cTFNNnNxdVhWQV8tZnBqWFRMLUI5LU5adjlVZEZNc29BWGltY2x3cGxranNpWC1kTVI5OUVBQlM0b2IyMVVTOEVPNGNHV3FJMFU1cDZnVEk1ejZn?oc=5",
-      "published": "Fri, 20 Nov 2026 00:00:00 GMT"
     }
   ],
-  "last_updated": "2026-11-22 03:19 UTC"
+  "last_updated": "2026-11-22 11:45 UTC"
 }
