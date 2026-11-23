@@ -1,46 +1,46 @@
 {
   "Nifty 50": {
-    "price": 25609.25,
-    "change": -191.35,
-    "pct": -0.74
+    "price": 25349.65,
+    "change": -450.95,
+    "pct": -1.75
   },
   "Bank Nifty": {
-    "price": 63491.0,
-    "change": -1144.2,
-    "pct": -1.77
+    "price": 62585.35,
+    "change": -2049.85,
+    "pct": -3.17
   },
   "Sensex": {
-    "price": 83229.81,
-    "change": -689.9,
-    "pct": -0.82
+    "price": 82435.99,
+    "change": -1483.72,
+    "pct": -1.77
   },
   "India VIX": {
-    "price": 18.31,
-    "change": 0.99,
-    "pct": 5.73
+    "price": 17.7,
+    "change": 0.38,
+    "pct": 2.18
   },
   "Nifty IT": {
-    "price": 32085.1,
-    "change": 762.45,
-    "pct": 2.43
+    "price": 31850.8,
+    "change": 528.15,
+    "pct": 1.69
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 48147.33,
-    "change": -949.73,
-    "pct": -1.93
+    "price": 49622.23,
+    "change": 1474.9,
+    "pct": 3.06
   },
   "Nasdaq": {
-    "price": 22617.73,
-    "change": -1261.47,
-    "pct": -5.28
+    "price": 24136.21,
+    "change": 1518.48,
+    "pct": 6.71
   },
   "S&P 500": {
-    "price": 6910.39,
-    "change": -265.44,
-    "pct": -3.7
+    "price": 7246.35,
+    "change": 335.96,
+    "pct": 4.86
   },
   "Nikkei 225": {
     "price": 56436.65,
@@ -48,9 +48,7 @@
     "pct": -5.06
   },
   "Hang Seng": {
-    "price": 22361.37,
-    "change": -49.43,
-    "pct": -0.22
+    "error": "single positional indexer is out-of-bounds"
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -65,59 +63,18 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "USD/INR": {
-    "price": 92.86,
-    "change": -0.43,
-    "pct": -0.46
+    "price": 92.9,
+    "change": -0.39,
+    "pct": -0.42
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.91,
-    "change": -0.14,
-    "pct": -2.77
+    "price": 4.94,
+    "change": 0.03,
+    "pct": 0.65
   },
-  "news": [
-    {
-      "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
-      "published": "Mon, 23 Nov 2026 02:37:00 GMT"
-    },
-    {
-      "title": "Black Monday crash fears grip markets: Will Sensex, Nifty open lower today? - India Today",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNenprWkQwZ0R1WWFHbEVueVNJeFpNakxZLVVQQ0JndlhYU2pjSGJqUlF1TVpMRzZ6Slo0cUl0dWc5NUZYcE9ZdVUzOUhhd2Y0T3ZuQURXc0ZXSjNxaGl6WGNkX0ZKMy1LdXdwYXJFYkNkNHlFdVBaOHdvc1ZXeEVLZkVCa2M4QWttdnZJa3F3V1VUcTFEWkdIb3o2TU1hbkZUY1lsOFBaMnEwc2tPVFQ0U2dLMTRCamdtQTBmdkdvMWRvLXY5dkpzZGRha21yYUxMMmZwNEF2LUotZGI2VVVuNnF6QThMcm91aTJLWFYwNzZWLXZ4Y19MMEVMV0hpaG5HWFHSAYcCQVVfeXFMT0E0TjlzYUYyU0tvQ2RGbmlvOTJ4VDNhMXFwX2lzbVB4c2FPVnBuOWU4aVJXX0prOTl3bG9wNjNnSjBjUnk1cF9UQnI0eFJDTEJKUmUyT2RROEd0cnNDWUY2ZXZhcy1ZSk53c0QybTBOSGhYRkJyek12XzVNT3B5czVBX0k0ODJaM1FWdUVmb29UNDg0bFc2UW9sSVVYTEFDS0FCUENuUGpPOVppRWMzM29EYWdKaXBCcUZwQXpyWnl2QlBIaFB2TU1HRzRtaEVPMGhybzFZa0NVYWFDODZjUU1UcXhoeHQtb3hYNDQxVU9kdkdBaFlDdjh3NlA4b1NqemlkUF9FR2M?oc=5",
-      "published": "Mon, 23 Nov 2026 03:03:18 GMT"
-    },
-    {
-      "title": "STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR19kN1ZrRW02NVhteUVqOUhQOFFVeEFiRlNCN01EaXR4WmhwNG5ob25IZFplOXlBSUhwdm9sTWNINWhYaFJ4a3pjNWdUVEpoUDJhT2czeF9RSVBsVFhGN2xmcW85bW5hSTVfQlAzSGUwQXhBXzlmbjRSWWNoTVVENXgxS1FUMnk5WGI2UGFzT181bWFvUmtlMEZYek53Uk9OM0VnQTRpWDhvaXlUbW80MHczdkdqQ1ZPdjZnQlc1ZlB3aWtxVmpzNFZwVmZRTFpmR1ZUYWkzYmNSeGVPSnpKanh3?oc=5",
-      "published": "Mon, 23 Nov 2026 03:55:22 GMT"
-    },
-    {
-      "title": "Stock Market Today: Nifty, Sensex Rise in Pre-Open - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVkcwR2R0aS1nR0pCRC1DODVEUWdEYWJzdVgzNlJGX2x6dWZ2czNScHVMeUZ0b3h6amZPbkFQRXpvTFd0VWxJd1hHdmQ3U090WGR0ZjhMVEFnWGFnOUFYYWRxQXNlN2VLRXlkRUZfLWVhYndzaHhoTTNJZVVCWVVUQm84OWNpRWpFVWhJaThDWnBNLVVzanBLME05TG5HTk9kUnlVdUo0alh6T240UkJNbkc2VTFxZlVtSW9RWlN5ZDF1bFB6U25WX1d3SmJMZUppal9yN3pMckFsM3BB?oc=5",
-      "published": "Mon, 23 Nov 2026 03:42:33 GMT"
-    },
-    {
-      "title": "India\u2019s Nifty Stands Apart as Global Stocks, Gold Suffer Rare Joint Selloff - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNjhGX3R5QUMxenFSa2h1MktrckFIT0NtM01wRkdKemU3RG1KV3FrbVVNcnlBRG9nYWx1RU9kVnZLRndwaG1sYnJtcVd4V0d1cko1eWY5N3J1d3BsWjEyZzJ1SThrVFE4RU9uQmRIUExtdmdaVDV0WDJtLUpYZnNkcGZnSm90QXNPWkxIa2YyempwZEEwcEJ6TWRXWllGc0JBMTROMHJqd0ZmMG8yQlN1Y01BRWdfWnQ3R01ZZ0ZWNGlCSnkwazY4?oc=5",
-      "published": "Mon, 23 Nov 2026 02:36:46 GMT"
-    },
-    {
-      "title": "Stocks reverse early gains as Sensex sinks, Nifty falls below 25,700 - PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjlwVmtQSFdNeVVxQ2J3UWIzSkUwRjY5UzNTM3h3RzhFN3puU1hOcmlaaFJoVWppeUN3LV9LeV93MjFsSDdDQTlTa1ZwYlc1RG9KbzdyVDdHNW9GZzdaRjA4a0p3My1TSG9jQ0trY2hBSmM2QlhWRVRUTWdwRmZFd0JnVVBDVk14?oc=5",
-      "published": "Mon, 23 Nov 2026 05:00:07 GMT"
-    },
-    {
-      "title": "Sensex tumbles 1,450 pts from opening high, Nifty sheds 425 pts; metal, bank shares drag - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYmpLZjNYVEk2MzJUV25OcEFmYlFMSlV1a25WSko1azV5Z0dwNXQ5aHdxRDJZN25yTzNxMVJsMXV3Wi1SNjFrTzJ4RVFvbnBRMWpqWFZsMjJKS3EwZjRqUWtwNldzQzY3aEdBeWhUYm5KNFk0bGhHemNwd1J1d2d6b0VRN2d6TFZBSE15WVhITGRPVnZTN2FYWTFzTF8tUS1xb1p1RkVsdHRkejdOUUVTZDU5bXVJU19qbkZwUDZoWERTalllTXRLeW1IYnNyQy1xNi01SFoyT0Y4U0820gHqAUFVX3lxTE95MU9ibnc3UF8xOXB0TGVrOEstaHg0bFhGOWdYd0cwWVNfZ1hPcWVmT2F5SmJzd2JfaWpXajJuZERQbzJrbkdpeEwyZXNSTXJYc2RZVGxVZ0tPaHRUdDF1TzJjX3NiR0YzOFU1TndxaUhFTHJzMXhvMHZydjExYUxlZ2FySmtzSDZPTEFfa1JTVk5Md2hDUXZKSXkyVmk3WnNMOWJtYklYTWUxVnJiZ1dua09xQzdVZ2FrQ2dWSzBjcGZuOXRWX0Q3V19YZm9FSlFweHV2alpZdUtVVk50RTdZN3BsNTJ1LVZaQQ?oc=5",
-      "published": "Mon, 23 Nov 2026 05:01:59 GMT"
-    },
-    {
-      "title": "Sensex Today Trades Higher | Nifty Above 25,800 | Nifty IT Index Up 1.62% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzZpSV9qRFpjVXBMd1d3a2p1SHl2TEU3YUdLSm1uZ3VwX0t3S0hNcldCeVYySEdYVUFVcjZVTVhZTmw1eDV4cXlqb1BsVm9EMjhUZHdPSzViaUs4WTFMeExhNWhyY09DZzNiR0gzS3A1U2hXVE9iVExYbk9NY3lrd3FhQXZ6UEx5cGR3VEtESWVGNGIzZ2tEN0Y5R1hCajlhNzNaRGlicXF1SUFTeklHRGlRTFA1Nm02MGpTV2tnMUFVWHpKT2w2Xw?oc=5",
-      "published": "Mon, 23 Nov 2026 04:32:53 GMT"
-    }
-  ],
-  "last_updated": "2026-11-23 05:54 UTC"
+  "news": [],
+  "last_updated": "2026-11-23 17:02 UTC"
 }
