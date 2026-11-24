@@ -43,26 +43,34 @@
     "pct": 4.73
   },
   "Nikkei 225": {
-    "price": 58675.79,
-    "change": 2239.14,
-    "pct": 3.97
+    "price": 58644.63,
+    "change": 2207.98,
+    "pct": 3.91
   },
   "Hang Seng": {
-    "price": 22370.77,
-    "change": -12.97,
-    "pct": -0.06
+    "price": 22219.65,
+    "change": -164.09,
+    "pct": -0.73
   },
   "Crude Oil (Brent)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 87.45,
+    "change": -1.92,
+    "pct": -2.15
   },
   "Crude Oil (WTI)": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 80.69,
+    "change": 0.52,
+    "pct": 0.65
   },
   "Gold": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 3619.3,
+    "change": -32.1,
+    "pct": -0.88
   },
   "Silver": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 41.93,
+    "change": -1.22,
+    "pct": -2.82
   },
   "USD/INR": {
     "price": 92.9,
@@ -70,13 +78,56 @@
     "pct": 0.24
   },
   "Dollar Index": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 103.89,
+    "change": -0.43,
+    "pct": -0.42
   },
   "US 10Y Yield": {
-    "price": 4.92,
-    "change": 0.01,
-    "pct": 0.12
+    "price": 4.89,
+    "change": -0.03,
+    "pct": -0.61
   },
-  "news": [],
-  "last_updated": "2026-11-24 03:19 UTC"
+  "news": [
+    {
+      "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
+      "published": "Tue, 24 Nov 2026 01:19:14 GMT"
+    },
+    {
+      "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
+      "published": "Mon, 23 Nov 2026 02:37:00 GMT"
+    },
+    {
+      "title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+      "published": "Sat, 21 Nov 2026 14:37:48 GMT"
+    },
+    {
+      "title": "FIIs Invest \u20b95,672.99 Crore as 16-Session Buying Streak Continues Despite Sensex and Nifty Decline - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWEFCN1VkNFBaZjNLOHJuY05jY25kRDJaYWRDa0QwMkVlX3VRZXhJczdnRklOLWhlUlM3SEFTWjl0MkpHRXZzcmFzd0pUZjNUeVYxWGp5aEhRMW54RFVkbzlydXVzRGtrMWV0TWpiRUMwck1NckptUi02NUNYT1g1OE8xMmFZUk5heWMyS01kV1RMVk1uUmpDVmIwQ2YyNEs3VGQ5R0VrMmtaZ1NORGRuc1lCVW8xTmd1RXpFSHVqNXUyV1NCOW03QmNLSUg?oc=5",
+      "published": "Tue, 24 Nov 2026 06:37:20 GMT"
+    },
+    {
+      "title": "Stock market crash today: Investors lose over Rs 6 lakh crore as Sensex ends over 1,400 points down; top - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWHZoNmRPemJnbmYtV1JXbWFJOVEwcG1MX1FZbzBRZnVEUFk4b19fQnZIcG1wTlplWm00QndHZUI2U3JBT01WMHY3ZmFSVWp5ZG43Wm16WENFQVJWRnEzMzcxLWdETEl3WG40MHJESkdabTFyWVo4YVJMZHd4dTBNRlNIa1Y5MWdUY3owcHNaTHVQZV81WFl6NnVfdTdhSm0tcHdnXzU1YkZzVWx6eVc1VWVlcE8wWUZyM29ka2R6eExQRjFXQmo3U3FHbkpCelpjWFVCYUpqbVV4RlptTURxVWY0VTVVVVpyNFNfWVBBcVZvMkpQZTdXTXZ6a2xUa202ZDkyVmFwUGRmVHdvYklvTUZ2b0TSAZoCQVVfeXFMUEpGd0dab3dCMlB0TVhZWk5vTkFQaHRxcVRiWWw3ZUxpOWxLQWt2cE5KODBSdDFPTnBQekdHYVFpSTZ5LWNBM0l3RUFBVE1WbnhYbEtRSUN6RFl2Y2tpaEdQTEk2SjdqRDA5MWlNRUJrMU9TcUd2TlpIVDhoSWVoRjBqQ29yQmtyS2FreV9XVkZ2NkhxV2toQW81MTlSQ2tFYlAyVm8xTzVfWGNKVENDRVhUN09MZk1mcWo1S0QzY3VCVkpOTFFVVHVPcmM1R2hKV0F6aEEza2Nmekl3TVExZERBeTVCUGZtRXd4XzhFb3BHWXFxT3VIM0tKRnUxU2dEQUFBVnhwNVJ2WXQ0TzhSODFvUWlIMTlNWlNn?oc=5",
+      "published": "Mon, 23 Nov 2026 07:03:00 GMT"
+    },
+    {
+      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
+      "published": "Tue, 24 Nov 2026 11:28:18 GMT"
+    },
+    {
+      "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5",
+      "published": "Mon, 23 Nov 2026 04:33:19 GMT"
+    },
+    {
+      "title": "STOCK OF THE DAY Buy Adani Energy Solutions: SL 1455 Tgt 1495, 1510, 1525 Co. entered into an agreement with West Bengal for 1750 MW renewable energy for 25 years #StockOfTheDay #AdaniGroup #AdaniStocks #RenewableEnergy #StockMarket - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR19kN1ZrRW02NVhteUVqOUhQOFFVeEFiRlNCN01EaXR4WmhwNG5ob25IZFplOXlBSUhwdm9sTWNINWhYaFJ4a3pjNWdUVEpoUDJhT2czeF9RSVBsVFhGN2xmcW85bW5hSTVfQlAzSGUwQXhBXzlmbjRSWWNoTVVENXgxS1FUMnk5WGI2UGFzT181bWFvUmtlMEZYek53Uk9OM0VnQTRpWDhvaXlUbW80MHczdkdqQ1ZPdjZnQlc1ZlB3aWtxVmpzNFZwVmZRTFpmR1ZUYWkzYmNSeGVPSnpKanh3?oc=5",
+      "published": "Mon, 23 Nov 2026 03:55:22 GMT"
+    }
+  ],
+  "last_updated": "2026-11-24 14:03 UTC"
 }
