@@ -17,7 +17,7 @@
   "India VIX": {
     "price": 17.7,
     "change": 0.38,
-    "pct": 2.18
+    "pct": 2.19
   },
   "Nifty IT": {
     "price": 31850.8,
@@ -28,27 +28,29 @@
     "error": "single positional indexer is out-of-bounds"
   },
   "Dow Jones": {
-    "price": 49622.23,
-    "change": 1474.9,
-    "pct": 3.06
+    "price": 49595.31,
+    "change": 1447.98,
+    "pct": 3.01
   },
   "Nasdaq": {
-    "price": 24136.21,
-    "change": 1518.48,
-    "pct": 6.71
+    "price": 24089.56,
+    "change": 1471.83,
+    "pct": 6.51
   },
   "S&P 500": {
-    "price": 7246.35,
-    "change": 335.96,
-    "pct": 4.86
+    "price": 7237.17,
+    "change": 326.78,
+    "pct": 4.73
   },
   "Nikkei 225": {
-    "price": 56436.65,
-    "change": -3007.56,
-    "pct": -5.06
+    "price": 58675.79,
+    "change": 2239.14,
+    "pct": 3.97
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22370.77,
+    "change": -12.97,
+    "pct": -0.06
   },
   "Crude Oil (Brent)": {
     "error": "single positional indexer is out-of-bounds"
@@ -64,17 +66,17 @@
   },
   "USD/INR": {
     "price": 92.9,
-    "change": -0.39,
-    "pct": -0.42
+    "change": 0.23,
+    "pct": 0.24
   },
   "Dollar Index": {
     "error": "single positional indexer is out-of-bounds"
   },
   "US 10Y Yield": {
-    "price": 4.94,
-    "change": 0.03,
-    "pct": 0.65
+    "price": 4.92,
+    "change": 0.01,
+    "pct": 0.12
   },
   "news": [],
-  "last_updated": "2026-11-23 17:02 UTC"
+  "last_updated": "2026-11-24 03:19 UTC"
 }
