@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 25349.65,
-    "change": -450.95,
-    "pct": -1.75
+    "price": 25901.6,
+    "change": 551.95,
+    "pct": 2.18
   },
   "Bank Nifty": {
-    "price": 62585.35,
-    "change": -2049.85,
-    "pct": -3.17
+    "price": 63960.6,
+    "change": 1375.25,
+    "pct": 2.2
   },
   "Sensex": {
-    "price": 82435.99,
-    "change": -1483.72,
-    "pct": -1.77
+    "price": 84158.65,
+    "change": 1722.66,
+    "pct": 2.09
   },
   "India VIX": {
-    "price": 17.7,
-    "change": 0.38,
-    "pct": 2.19
+    "price": 17.57,
+    "change": -0.13,
+    "pct": -0.72
   },
   "Nifty IT": {
-    "price": 31850.8,
-    "change": 528.15,
-    "pct": 1.69
+    "price": 32297.5,
+    "change": 446.7,
+    "pct": 1.4
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -34,7 +34,7 @@
   },
   "Nasdaq": {
     "price": 23733.54,
-    "change": -356.03,
+    "change": -356.02,
     "pct": -1.48
   },
   "S&P 500": {
@@ -43,40 +43,44 @@
     "pct": -0.5
   },
   "Nikkei 225": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 57023.74,
+    "change": -1620.89,
+    "pct": -2.76
   },
   "Hang Seng": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 22190.1,
+    "change": -29.55,
+    "pct": -0.13
   },
   "Crude Oil (Brent)": {
-    "price": 88.39,
-    "change": -0.98,
-    "pct": -1.1
+    "price": 87.29,
+    "change": -4.11,
+    "pct": -4.5
   },
   "Crude Oil (WTI)": {
-    "price": 81.63,
-    "change": 1.46,
-    "pct": 1.82
+    "price": 80.55,
+    "change": -1.5,
+    "pct": -1.83
   },
   "Gold": {
-    "price": 3558.4,
-    "change": -93.0,
-    "pct": -2.55
+    "price": 3546.3,
+    "change": -15.6,
+    "pct": -0.44
   },
   "Silver": {
-    "price": 40.84,
-    "change": -2.31,
-    "pct": -5.35
+    "price": 40.51,
+    "change": -0.25,
+    "pct": -0.63
   },
   "USD/INR": {
-    "price": 92.9,
-    "change": 0.23,
-    "pct": 0.24
+    "price": 92.47,
+    "change": -0.45,
+    "pct": -0.48
   },
   "Dollar Index": {
-    "price": 103.85,
-    "change": -0.47,
-    "pct": -0.45
+    "price": 103.99,
+    "change": 0.18,
+    "pct": 0.18
   },
   "US 10Y Yield": {
     "price": 4.9,
@@ -92,38 +96,38 @@
     {
       "title": "Financials drag Indian shares down on profit-taking after four-week rally - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdDVfby1VRHZ6aGZYVDB2dU9SSjlQRGlJcUUxQm5Gdk9vWkU4UG15RFdHeTZxVjZQUzVNLXRmX3FjVndPRFJQQzdoNWNsUlRMeEQzdWVxWE1RVWp3TUM2WnJRc2lqamVnM1Vlek5LdU1rZjVRNEdVOUNkMVpoNTRLQlMxRFlfUXZzd1JOQ2J2QUI2S0wzMTRUWnN5aVhrTG5qSmk0Mzc0NFEwU1owcEpPNlljaw?oc=5",
-      "published": "Mon, 23 Nov 2026 02:37:00 GMT"
+      "published": "Mon, 23 Nov 2026 09:46:09 GMT"
     },
     {
-      "title": "Stock Market Holiday: Share Markets Shut For Guru Nanak Jayanti Today. Are Banks Closed Too? - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQmlMUlRkZDVudkRmMF9SQ016dE1Vb1dVQnBEc3RvUHpxaGgtZUUwTXZwd3NFbUxYMjZwZWVsQkdTd3VpOFN5NFRaMFc1Z3Z6WDZGeFJTNFVrRUpaR1JTeVNKVHpRVmFJT29HUGdRU3NZX29tVUZ0MWZueE1NN056QTVHaE5Obk9WbnA4UHBtLUJuMlZkemNoRnM1NWFwUHRONlh4MHhxa05OenhaSmxnR09sSmM0dnNaSEtqdk9TTlhGSGxLR1dTNnZVc3lyVWw0aEpUWlA3VkFYd9IB4gFBVV95cUxQdkZUcTRIc3oyRTRJd05wNEFTelhHQ05US1RXMzIydERjX1VPNi1HV0FjRXZoSEdkVTZsbnpRRHFOX0xvQ2hfOXJPSXJCM21wNVdranVpcmtWQmFESmx1QjNLMUxLc3ZOYUQ1M1NJQkVldTY5UElYaWpCOE9QTC1NNG8xU3h6bl9NYUNtYUt5WTVoSEdyOEVTSXFWa3Z1c3JzWEdsVzN4MjNQVmNvRUN2MmVBd3otajMxa0cxMURxQ2o1UUw5WEdaSnIxMm0teUNHWVdYVFNHN2NTVnhtbnVwRjBn?oc=5",
-      "published": "Tue, 24 Nov 2026 01:19:14 GMT"
+      "title": "Stock Market Update 25 November 2026: Sensex Zooms Over 1,250 Points; Nifty 50 Above 25,700 at the Opening Bell - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzNLMF9hSlJxZW1LR01nbFFfVEhZb0pSM29YMXpySkthcUpTMHg0S2hNVnNyVnN1Tk5TaF9sd2lrNkM0VGtFTllMRjlZMF9yT3B1MnVQelpIZ2FHdHVsOHVEaV9JbnhLc0NKeVBVbzlvVFV5TFZJNjdleFhmcmhIU29mU3BHWWw4cGlIZVg0X2MwQmlkUEJJ?oc=5",
+      "published": "Wed, 25 Nov 2026 04:03:51 GMT"
     },
     {
-      "title": "Stock market crash today: Investors lose over Rs 6 lakh crore as Sensex ends over 1,400 points down; top - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWHZoNmRPemJnbmYtV1JXbWFJOVEwcG1MX1FZbzBRZnVEUFk4b19fQnZIcG1wTlplWm00QndHZUI2U3JBT01WMHY3ZmFSVWp5ZG43Wm16WENFQVJWRnEzMzcxLWdETEl3WG40MHJESkdabTFyWVo4YVJMZHd4dTBNRlNIa1Y5MWdUY3owcHNaTHVQZV81WFl6NnVfdTdhSm0tcHdnXzU1YkZzVWx6eVc1VWVlcE8wWUZyM29ka2R6eExQRjFXQmo3U3FHbkpCelpjWFVCYUpqbVV4RlptTURxVWY0VTVVVVpyNFNfWVBBcVZvMkpQZTdXTXZ6a2xUa202ZDkyVmFwUGRmVHdvYklvTUZ2b0TSAZoCQVVfeXFMUEpGd0dab3dCMlB0TVhZWk5vTkFQaHRxcVRiWWw3ZUxpOWxLQWt2cE5KODBSdDFPTnBQekdHYVFpSTZ5LWNBM0l3RUFBVE1WbnhYbEtRSUN6RFl2Y2tpaEdQTEk2SjdqRDA5MWlNRUJrMU9TcUd2TlpIVDhoSWVoRjBqQ29yQmtyS2FreV9XVkZ2NkhxV2toQW81MTlSQ2tFYlAyVm8xTzVfWGNKVENDRVhUN09MZk1mcWo1S0QzY3VCVkpOTFFVVHVPcmM1R2hKV0F6aEEza2Nmekl3TVExZERBeTVCUGZtRXd4XzhFb3BHWXFxT3VIM0tKRnUxU2dEQUFBVnhwNVJ2WXQ0TzhSODFvUWlIMTlNWlNn?oc=5",
-      "published": "Mon, 23 Nov 2026 07:03:00 GMT"
+      "title": "Indian stocks rebound as AI selloff deepens across Asia - PRESS Insider",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmp3OHNjLVYxUkRfcHJONTdmX28xXzI4QWlnTG9raVhiS2ROWU12cEZIc3hWZXZ1b19CQ3lKeGI4aF9fQjdNdW5vZlVRQXdfUnhIalZqNk4xX3gtRkVsd3pkZlgxNm9DclVBX0xMUS1jNC1zUmhFQ0x2VWJFVzZNMG1MaEIzak5nM3dCX2R0SQ?oc=5",
+      "published": "Wed, 25 Nov 2026 04:21:30 GMT"
     },
     {
-      "title": "Why Stock Market Is Down Today? Sensex Falls 1,300 Points From High; Nifty Near 25,600 - Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByWE04WVJrYm56SnV5ZjhHRjU5ZnE1SmNmVXpnenQ4V0FPODFLR3ZyNEJOVXdFdVVPVUs0V3pVT3ROdVhkRFNlRUVNeFVvYjEzZVhkbVBnTm1XNGRpRDhUNFhJejRoQWllQmVDWTFtQjA2WlMzLS1xTDA5ZHg5UQ?oc=5",
-      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+      "title": "Bumper rally in markets; Sensex opens over 1,000 points higher, Nifty jumps 1.2% on reverse AI trade - ChiniMandi",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQU3FqbTBMc1dSSU1JbE53WmZ6NERzQW9ieUJQdnlZeWJGTGhjVmdRbHVoN29EU29iRVBiLWJfQURGcHBEYk9KQmNqTHM4eUsxQlF5eGpkWmRsMmh2R08wZldDRWlvMm9ZM2tpYVpGREkxZFhQUUFwSllVY3BBdWp0aDQxUHVxSHNReFhCQ20tRWIyUWdERTVxMk9CNHI5emIydmtmNGt5bG54a3lhTm5HRUhob2tvdThvVVgwV1ZUYUhtZw?oc=5",
+      "published": "Wed, 25 Nov 2026 04:30:48 GMT"
     },
     {
-      "title": "Sensex Today Tanks 1,484 Points | Nifty Below 25,350 | 4 Reasons Why Indian Share Markets Are Falling - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR2NzQkc5LXB3TzFwb1N0X2ZxcWdYSjhZT3hIVDBLMVVqeVVGb1dnNUdpRzR2OHA4T0VNWTdPbE9UOWNBcC1pTjUtNHpnMzhteW1WY1VZcUIwRlhOLWJWTGtsR3dZcEF6VmdXbjhJUzVpbXloOFNiTEt5bkNVQmp3a2JrWkJVMklqSG1HOHI1QjNZdzdLVkhHWWIwTk12WlZCc0FfbDRpMVRTSEJWYzRvTUNiUVNiQldFaEp3dW40TFU0dlFXb3I1MGtodTVGNWZ0Z2Z2dWJ4dXJva0V4MVJsYl95Mk11dlI4eE9DaGdiYw?oc=5",
-      "published": "Tue, 24 Nov 2026 11:28:18 GMT"
+      "title": "Sensex Today Rallies 1,290 Points | Nifty Above 25,700 | BSE Insurance Index 2.5% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObmxMTzkxNnFCREp1Wmc3THRsRzNFQzJybjhHZU1HUmFzLVlpTmlObV9ObklnWXNZb0hfZDZ3RTVxU1hoMWpSOG1mNFV5QjVLRzFlWTNqUE00dHFRcU1VUld5N0pJVV9qWW9ZWmFEUUFzZUE4dFZUZXNrNnpibVNHYks0RDBOcnh3SERxeVdIaXFwNjZBN0J3Snd3SUZRejNVVW8weV94U2Z3c2IxNUlxcWREdm9jTUVlTWhSNkZGVXlnRV9qOUVHU01JVVk3UEtsdGc?oc=5",
+      "published": "Wed, 25 Nov 2026 05:02:35 GMT"
     },
     {
-      "title": "Sensex, Nifty Open Higher Despite Weak Global Market Cues - HDFC Sky",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSy1IQXlUcXRQRUcwT0Z0SmN3Z2hIYjZKYXVDS3E2UWpySjJOQ2lDNmtOdm1wM0REdFJ6d0xPYWUyck5ROTYwR21fNVhwUzFQZzVuOV9XMDNSYUE2S2cxcGF5anVlcEMtYnJTWnBBbS1hQkwwMWlXMW1DdjVaMVBRc2dJZXYwbVItdnYtN3BaVUFERUI5X0FJckVRcXVEODU2M0l4VEl2N09TNEh3RWRIMTdTSDA2Y3AyMl9XZmtqTkU2OXV3cGhTZkJVUVJwaUhacWxDZFFQcHhUdWhjTFp4Ri0yUkpQb00yQ25pVkRESFFVWWo1MjlNcy0wcE0wSFd5UGpjOW1vLVBQMUZDakE?oc=5",
-      "published": "Mon, 23 Nov 2026 04:33:19 GMT"
+      "title": "India\u2019s Anti-AI Stock Trade Confronts Rich Valuations, Global Tariff Risks - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlkxVkJaV1pfaXFOdkZubU5NNGozd2xmdFp6T1NIa0JLWkJNbWRoRVlORVR6Zzl1X3dQUlRNeEZPNmtqYnppckVnSl9MQTQyWUd1R3dfR2ZNalJIazZyQUlQZmpLRTZkQm5oamlxRkhwbHRDMUZQNW5LeE8ycXNVSFF3dmg4WXU2UzJ5NllhLWxHNXBDaVAwYU5BSTVoSlhRbklOQS1OQzhWVGZMb2RjS2Q1UTJ0QXpYN0U1MlFoSHRNZFduX3c?oc=5",
+      "published": "Wed, 25 Nov 2026 02:30:00 GMT"
     },
     {
-      "title": "Indian Stocks Add Nearly Rs 35 Lakh Crore in November as Sensex Gains 11 Percent - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHVzam4tMVZHLTR5ekQ1R0FQdlBwN05Dcmszc3pwTENKV3I5MmFkaFdPWkRKVGhreC1yNTRYbkowRWY4ZWZsMnpvZVUwbGowRkVkR0NrcmR4cW5mbk5xMXphSUdSUXNuQ3J3UFRhR210WVpHWlNYcFdXb2R4eFFJa3pId3BoZmpMT1otOXBnaEdyRDBoZXdKS1pJMnFXS2twRHl2UnF3Wk9yWHlOV2c?oc=5",
-      "published": "Tue, 24 Nov 2026 16:14:07 GMT"
+      "title": "India VIX Falls as Sensex Jumps 1,500 Points at Open - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV0FjWFF6TFVydThSa1pHVVpnOUh6bnlWN2hwa0NPNzRHX2hQOWxaSHBsREtMaGZQb2hHMS1IX19mTkx3c05jb3pueXNET0R5Q2ZueWtQMW1QZ3FfclFMdTFZZzBaQVEwZjJRLVBKSEVQS1cwQzlBOXJ4MDJCamJ3MVdQekdkcXRYdzE5WHNZQXc2WURWLW5tTDFCNkZLZE8teGwyWVNZZG1MX2ROUUJIN2ZmZkh5VlVMT1lNZUluUzZkQkZaWkQ3QXhqX21DRHRMVnFsakVSNmlHSnhPc0x6cUxjekx0UQ?oc=5",
+      "published": "Wed, 25 Nov 2026 04:42:44 GMT"
     }
   ],
-  "last_updated": "2026-11-24 23:28 UTC"
+  "last_updated": "2026-11-25 05:35 UTC"
 }
