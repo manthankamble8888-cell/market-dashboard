@@ -1,28 +1,28 @@
 {
   "Nifty 50": {
-    "price": 25884.5,
-    "change": 65.25,
-    "pct": 0.25
+    "price": 25607.2,
+    "change": -277.3,
+    "pct": -1.07
   },
   "Bank Nifty": {
-    "price": 63535.3,
-    "change": -167.95,
-    "pct": -0.26
+    "price": 63040.9,
+    "change": -494.4,
+    "pct": -0.78
   },
   "Sensex": {
-    "price": 84328.59,
-    "change": 390.31,
-    "pct": 0.46
+    "price": 83339.26,
+    "change": -989.34,
+    "pct": -1.17
   },
   "India VIX": {
-    "price": 16.84,
-    "change": -0.83,
-    "pct": -4.7
+    "price": 16.55,
+    "change": -0.3,
+    "pct": -1.75
   },
   "Nifty IT": {
-    "price": 33386.95,
-    "change": 1179.4,
-    "pct": 3.66
+    "price": 32758.1,
+    "change": -628.85,
+    "pct": -1.88
   },
   "Nifty Midcap": {
     "error": "single positional indexer is out-of-bounds"
@@ -43,42 +43,44 @@
     "pct": -0.25
   },
   "Nikkei 225": {
-    "price": 57878.74,
-    "change": 379.58,
-    "pct": 0.66
+    "price": 58711.11,
+    "change": 1211.95,
+    "pct": 2.11
   },
   "Hang Seng": {
-    "price": 22362.12,
-    "change": 135.24,
-    "pct": 0.61
+    "price": 22694.77,
+    "change": 467.89,
+    "pct": 2.11
   },
   "Crude Oil (Brent)": {
-    "price": 92.18,
-    "change": -2.43,
-    "pct": -2.57
+    "price": 92.49,
+    "change": -2.12,
+    "pct": -2.24
   },
   "Crude Oil (WTI)": {
-    "price": 85.48,
-    "change": 1.8,
-    "pct": 2.15
+    "price": 85.82,
+    "change": 2.14,
+    "pct": 2.56
   },
   "Gold": {
-    "price": 3597.1,
-    "change": 61.3,
-    "pct": 1.73
+    "price": 3698.5,
+    "change": 162.7,
+    "pct": 4.6
   },
   "Silver": {
-    "price": 42.05,
-    "change": 2.0,
-    "pct": 4.99
+    "price": 44.4,
+    "change": 4.35,
+    "pct": 10.86
   },
   "USD/INR": {
-    "error": "single positional indexer is out-of-bounds"
+    "price": 92.98,
+    "change": 0.74,
+    "pct": 0.8
   },
   "Dollar Index": {
-    "price": 103.79,
-    "change": 0.12,
-    "pct": 0.11
+    "price": 103.86,
+    "change": 0.19,
+    "pct": 0.18
   },
   "US 10Y Yield": {
     "price": 4.85,
@@ -87,45 +89,45 @@
   },
   "news": [
     {
-      "title": "J.P. Morgan sees Indian stocks rise further in 2027 after 'great comeback' of 2026 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQWRmQXRtWGtJcjVxUnJtb3JhWHItaTMtanZUcll1emlBaUFzZU1Eay11ZV9neGRlVnRKMXlMNDVnTDkwMDdjeHVMcUJhRldlUnVzZy11Q2ZYT05Mb3ZZWGRYSDFKT0dtM0t4Z2IweGpmZDZKR2pOSjRHSW5KRE1JQXpWX1VBRlpWTDgtdllpNFprV3RjTUYwWkZFSGo4cEJ3dDlaeUNYU0s4dm9DYUNhWV9qdGRfTUFqUkpDaA?oc=5",
-      "published": "Thu, 26 Nov 2026 12:37:44 GMT"
+      "title": "Sensex Soars Close to 400 Pts, Nifty Nears 26,600: 3 Reasons Why the Stock Market Is Up Today - Kotak Neo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhuSkJiQ1p6aHRjNlNGeERnd1dVTlB1S1V3YTE1aDFLdjl0VHBSVkRneGdaVzUtVjZzSzRIVVB0OXhsVlFhbDY5dW54cTdjRTk2SlhJbUhYcDZtcDFobzNXZGl1S3FUMlFzZ2RmRmZKZjNhajRrUkdIV0ViNnI0Nw?oc=5",
+      "published": "Fri, 27 Nov 2026 02:07:50 GMT"
     },
     {
       "title": "NSE - National Stock Exchange of India Ltd: Live Share/Stock Market News & Updates, Quotes- Nseindia.com - NSE",
       "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE15aFBDQy1lOHpHNnVLU3dRM1lsWmNDMVRQNWJPcXBDSklxT1VIUnVxVDMwRHJsRTJtdmNLcEd3?oc=5",
-      "published": "Mon, 23 Nov 2026 08:00:00 GMT"
+      "published": "Wed, 25 Nov 2026 08:00:00 GMT"
     },
     {
-      "title": "Stock Market Update 26 November 2026: Sensex Drops Over 150 Points; Nifty 50 Below 25,750 in Early Trade - Kotak Neo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQazZmZzFJeFNOOWhnM2pZUjlZM096TENxc05IbkVZdC1HNmJ5MUpnVHdjQUMwMlFiWkhiclVLaHJVTVRoTkFSUUFsM1o0NlFNNm81VHY5Yl9QVE1jQ2NHdVZMd3B1MUtqV2EyNFpSVXA4czh5b0RUTllseEZGS2FNbTcxZjBiaWJHckVxNF8tbmktOUNhb3RZ?oc=5",
-      "published": "Thu, 26 Nov 2026 04:13:52 GMT"
+      "title": "Sensex down 700 points: Why is stock market falling today? - India Today",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYTd3U0t4cWdmeFN4b2FWVGROMWU1aldBd0cxN3BORWQ2RzBFcDcta2taR01RcGF6Rkg5aEZMNm1QQl9jZzV6dm05WHpVb2FKQ2VIV2tjamtNdENtanExSS1JYWdqd1FPdmNSajBVY3lBZk5pNzhFYy1BSGU3c3pLeVA5OGtLUmtFY2xPb2pJZnlRaDlZcmN3ZE83dTRFbHY1ZHl6djdLbUhIbHVpSG56bWtnVWpveGfSAbwBQVVfeXFMT1VINFB6QU5SaVJrQi14MU1NamlHREJGbTIxWEd2Z3ZZMTJSSDZ4d0pGT1ZWMXNuWXlXeldaNW00cGlvZjZFY3VLTHNBaHAzVlpNZ0Fab0RyX2xQTDFEdlU0d0pPdE8yN2UyZEJMOUlYS0xFOFE4Umt0OGYwRWkyVDdVLTVtOWt0WHNkdWY5bGI3WUdJMWt1QjlVdkl2dGVrbnQwSk9zdlpXdGM4a0JYWGZVWF95M1hqLWg4bmw?oc=5",
+      "published": "Fri, 27 Nov 2026 06:11:33 GMT"
     },
     {
-      "title": "Atlanta Electricals Strengthens Power Transmission Business | Jyoti Structures Secures Major Sterlite Grid Order | Top Buzzing Stocks Today - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdktkYWZDeFhKbWlQV0UyLXZYcXdUUW5FYnNsNzhhSWdUS1Juc3NjcTczVFpjbHhSZHR0REJCU2hqakF3amFBV2tGRkpyT2ZCaWpjZjM2SkpsRUVZc3N4MmVoUnp4Zks4UFpOdU56dGdxZHVwYkMyTlhoRVlMeHowaUdTYWFoSUJTNDRhTlE5MWZjdXRBN0hrdGhIRnlNbEFKSEZEVmlYU0stSU5BRTNaT1k3Ui1ta0ZoelhZY1ZtNWthMFRMQnMtblQybDM5YnFmY29LOHlyOEg1TnpSZjIzNHpKcFBldFlYVG1kOWt2eUNmSUVzWlg3bnRtTjRBWVBlaFluYl9xcHBqVW15S1ZRUTgtOWVKMjRmd3p3ZHh2d3Blak5I?oc=5",
-      "published": "Fri, 27 Nov 2026 00:30:00 GMT"
+      "title": "Reforms to Expand Foreign Participation in G-Secs - pib.gov.in",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lUDRBaE03QUhlNGJpR2xmUDBPejBuaXc0MUt3emJEeDlENmxVQy1EdUdVa3VRb0RRTEJyRlROVGZ0ZlZYcjEtUnB4RDAxS0p1MzVvUG4xd3lSbks4WXVLRHo3ZkxSSHRTaVYxc0pmMXhNbjNnLXhN?oc=5",
+      "published": "Wed, 25 Nov 2026 18:26:02 GMT"
     },
     {
-      "title": "Indian Stock Market Rises, Sensex Gains 200 Points - jeevanutsahnews.in",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON2RDWTU2RzYteUJVak91b2huVUVKSVlDa2xueUJ1OW1rMlVuRXVSeU5ZSGd2eUxWU1dKRFk5UEVrdF9CbjJqQmVZcW1xLTR5bWNwSUNIYU1EdGpVVDJ6T084eDZRMXRkUmFoNUtKQUhxZlowaDZGM2gyMl9kOHFRMDQ0c2hzTXFfZUFQaHBRQzVQVUhjWHYzd2JqMEdOSndEUFIwVldHMkI?oc=5",
-      "published": "Thu, 26 Nov 2026 07:54:26 GMT"
+      "title": "Indian shares muted as IT pullback offsets broader gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDF2UTZXY0ZrSVVuYktpbG1TWVI0aU5wZENOV1Y4YlZZV1NiTmhyeWYxMDB6MGl1cWR3ZllHTWF3YkxIT1BhbDRjQjd6SUZvaTRybUZPZDBtSjMySTlqMVdZMklDWEtKUzI3OGQ4R0l4WjlDcWRNemtmY3dUV25kYThKRVNXWmZ0am4zenFldkZvNk8yWHZQRnMzR0pfUzg1OUxGRlkxMmtIVWtkNEw4aE5rQU5KOGZjOTd0ZFNGcw?oc=5",
+      "published": "Fri, 27 Nov 2026 02:30:00 GMT"
     },
     {
-      "title": "Banks Seek RBI FX Swaps After Record Inflows Into Indian Stocks - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0VTeEJZMV9JQUJLTXNrVUpkNWUxeTVXUG1jMWRuYUNWcmYyS1FsU0JISHRiOXRCR29KbDhiNVFxbzl6VmFTdFFmdTM2RlczTHZnRVI1eFJWT3J2XzZXNUt2dUVwdm4tTFB4b2ZhQWJfN0dxMktvUC1sWmNjYTdXcXZ4TVZBVnd0VllHQWVNQVpFVllRdXNDazhlRzRQd0YwVjVBYzZwNDZXVGZoNUlqUlNhSF8?oc=5",
-      "published": "Thu, 26 Nov 2026 07:10:00 GMT"
+      "title": "India VIX Falls 1.6% to 16.50 Amid Market Recovery - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMnM1SnlHYmdSODBxQ19IVnRoME9ZUnlMOGJSWlZnVy1aNnRaNXh0MGhpWV9iSVBkR0Z5STFoSXE1NVlSZDBOb1VWRXVNTnFPTkQ0TWRQOFlQWjBaaG0wZTI3RHhqaGt2dFFpeTBOQ0RNZkpmRXZ5M2NpYzZaN2JFN1NwY3pIS0xpVFJ4VC01VmVEa1NlWXUwemwzWnlSX05pSVc2bFlVZ3hTc1VDemJFOFBzUVFSTWYzQWpObklFM3dxbnRwU09XNmU5MFBJR05OYzR0R1RHRHJ2emc3?oc=5",
+      "published": "Fri, 27 Nov 2026 04:52:55 GMT"
     },
     {
-      "title": "NIFTY50 at 29,000 by end-2027? JPMorgan outlines growth drivers that could lift Indian equities - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPd21xMENEeGhLa1R3VHdWQnpZM0JraEFxdGFTNzRmTmtLY1daU2QwOWNKTVJqTWljWUpWdnFlNnlfYzVxZ1NEZFp4a0VkeGxibjZwS1RmYmJMM0pOeFZiY3c2YjFpbU1IN0t6OUZ2T082Y2pILXEyNFVxcmNxbUpXOXpYcDNTWm5nRlhxUXVOeDJTN0RHRFBtRFJZd0VERHNQb3dpRmZmUzFXcjJENDBGU1Q4a09aRkZrbTJOZFRacFh5TjRaN0xEb0h2Y3NmeXJ1QnhOT2w4eWhvdzNUOHBpV2FOUzhZOHNTRmc?oc=5",
-      "published": "Thu, 26 Nov 2026 13:21:45 GMT"
+      "title": "Sensex Today Trades Lower | Nifty Below 25,850 | TCS & Infosys Top Losers - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS29qbHZCcmtEQjRjU3R4RjFsVDlybHdHazNGcEZVRW9mazJfOG4zNWJmSzU1a0EwX2l0aGNjdWRVb0NRSllxcll0QlpSekpHTlFHbXlxSEphdHpwdVhodDVaMWlkUVRMWmxLOTVpVFpCemxYeVV6LWwwd0hyTU9RUm1sNVdXRmoyRHNENkNmMmUwZXZhNjFMYUhGSUJzOU9veEJTRzl6VEYzRnR4Ung3dGN4QVRtV3h4RnhEQ0U4UTJuWkIzZXd0b0pB?oc=5",
+      "published": "Fri, 27 Nov 2026 04:30:58 GMT"
     },
     {
-      "title": "Rupee resumes rally as equity inflows push currency to seven-month high - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNclBMcW9VZGdZQW03OUFPS2J0VWdzbWNrNFYwUnREMVRSTG0xd0poeG1oLUpUNmxVd1lNWnBVbDQySWRQQkRjeDhKR1o3QkMxQWNEbmQ0MGhPT2t4N0lneHQ2UWJUX1lGN2NOSGlsU2k0OUNNZXFBMk1RbDcxSEotaE9TdGRKbDVOejN2XzktSjctOFVTUHlwaU9PMVo5NWQ0NjAzSTFDZmVpYmE0ZlpvSg?oc=5",
-      "published": "Wed, 25 Nov 2026 02:29:00 GMT"
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "published": "Fri, 27 Nov 2026 00:35:04 GMT"
     }
   ],
-  "last_updated": "2026-11-27 01:55 UTC"
+  "last_updated": "2026-11-27 10:26 UTC"
 }
